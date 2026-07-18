@@ -1,0 +1,25 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Media (keep transcripts; exclude audio/video)
+*.mp3
+*.mp4
+*.wav
+*.m4a
+*.mov
+*.mkv
+*.webm
+*.aac
+*.flac
+
+# ASR chunk caches / temp
+.asr_cache*/
+*.chunk*.mp3
+tmp/
+.DS_Store
