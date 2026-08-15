@@ -1,0 +1,39 @@
+{
+  "brand": {
+    "name": "دروس معرفت نفس",
+    "tagline": "",
+    "logo": "",
+    "locale": "fa",
+    "dir": "rtl"
+  },
+  "mode": "single-lecturer",
+  "defaultLecturer": "bayat",
+  "theme": {
+    "bg": "#F7F8FC",
+    "brand": "#BBCAC5",
+    "brandInk": "#B4BFBB",
+    "surface": "#F2F3F5",
+    "subtitleBg": "#24030A",
+    "subtitleFg": "#FFFFFF",
+    "muted": "#EEEEEE",
+    "track": "#C2C2C2",
+    "trackFill": "#595959",
+    "accent": "#FE4A23"
+  },
+  "fonts": {
+    "ui": "iranyekanx",
+    "arabic": "tarabic"
+  },
+  "media": {
+    "baseUrl": "",
+    "localFallback": "/audio"
+  },
+  "features": {
+    "video": false,
+    "english": false,
+    "myList": true,
+    "search": true,
+    "download": true,
+    "wordHighlight": true
+  }
+}

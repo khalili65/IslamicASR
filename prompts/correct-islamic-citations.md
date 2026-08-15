@@ -18,6 +18,13 @@ Write a new file next to the original with this name pattern:
 - Original: `filename.txt`
 - Edited: `filename.corrected.txt`
 
+**Full-length requirement:** The corrected file must contain the **entire lecture
+prose**, not a short outline or study digest. Fix citations and nearby ASR
+garble; do not drop large stretches of speech. Short digests belong in
+`filename.summary.md` only (see `prompts/lecture-transcript-pipeline.md` Step 7).
+After editing, the continuous corrected text should typically stay at least
+~70% of the raw continuous ASR character count (excluding `--- Segments ---`).
+
 If the original is huge and has a continuous text block + a `--- Segments ---` section:
 1. Correct the continuous prose block carefully.
 2. Prefer omitting the word-level `--- Segments ---` section in the corrected file (those are raw ASR tokens). Add a one-line note that Segments were left out unless I explicitly ask to keep them.

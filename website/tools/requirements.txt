@@ -1,0 +1,3 @@
+# Python helpers for the website content pipeline.
+# Uses the repo-root venv; no extra packages required beyond the stdlib
+# (and the existing IslamicASR .venv for optional ffprobe via asr.audio).

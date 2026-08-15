@@ -1,15 +1,19 @@
 #!/usr/bin/env python3
-"""Transcribe any audio/video file with Fish Audio ASR and report the cost.
+"""Transcribe any audio/video file and report the cost.
 
 Usage:
     python transcribe.py path/to/file.mp4
     python transcribe.py path/to/file.mp3 --language fa
+    python transcribe.py path/to/file.mp3 --provider elevenlabs --language fa
     python transcribe.py path/to/file.wav --output my_transcript.txt
 
-Long files are automatically split into chunks (Fish Audio limit: 20 MB / 60 min).
+Two providers are available: `fish` (default) and `elevenlabs`. Long files are
+split into chunks automatically when the provider requires it — Fish caps a
+request at 20 MB / 60 min and its word timestamps stop advancing after ~4 min,
+while ElevenLabs takes the whole lecture in one request.
 
-The API key is read from the FISH_API_KEY environment variable (a local .env
-file is loaded automatically if present).
+The API key is read from FISH_API_KEY or ELEVENLABS_API_KEY (a local .env file
+is loaded automatically if present).
 """
 
 from __future__ import annotations
@@ -17,10 +21,8 @@ from __future__ import annotations
 import argparse
 import math
 import os
-import shutil
 import subprocess
 import sys
-import tempfile
 import time
 from dataclasses import dataclass
 from pathlib import Path
@@ -69,17 +71,30 @@ def load_dotenv(path: Path) -> None:
         os.environ.setdefault(key, value)
 
 
+def resolve_ffmpeg() -> tuple[str, str]:
+    """Locate ffmpeg/ffprobe, including the pip-installed static binaries."""
+    from asr.audio import ffmpeg_paths
+
+    return ffmpeg_paths()
+
+
 def have_ffmpeg() -> bool:
-    return shutil.which("ffmpeg") is not None
+    try:
+        resolve_ffmpeg()
+        return True
+    except Exception:  # noqa: BLE001
+        return False
 
 
 def probe_duration_seconds(path: Path) -> float | None:
-    if shutil.which("ffprobe") is None:
+    try:
+        _, ffprobe = resolve_ffmpeg()
+    except Exception:  # noqa: BLE001
         return None
     try:
         out = subprocess.run(
             [
-                "ffprobe",
+                ffprobe,
                 "-v",
                 "error",
                 "-show_entries",
@@ -99,9 +114,10 @@ def probe_duration_seconds(path: Path) -> float | None:
 
 def extract_audio(src: Path, dst: Path) -> None:
     """Extract/transcode the audio track to mono speech-friendly mp3."""
+    ffmpeg, _ = resolve_ffmpeg()
     subprocess.run(
         [
-            "ffmpeg",
+            ffmpeg,
             "-y",
             "-i",
             str(src),
@@ -121,9 +137,10 @@ def extract_audio(src: Path, dst: Path) -> None:
 
 
 def export_chunk(src: Path, dst: Path, start: float, duration: float) -> None:
+    ffmpeg, _ = resolve_ffmpeg()
     subprocess.run(
         [
-            "ffmpeg",
+            ffmpeg,
             "-y",
             "-ss",
             f"{start:.3f}",
@@ -286,11 +303,21 @@ def merge_chunk_results(chunk_results: list[tuple[float, object]]) -> Transcript
     )
 
 
+PROVIDERS = ("fish", "elevenlabs")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="Transcribe an audio/video file with Fish Audio ASR and show the cost."
+        description="Transcribe an audio/video file and show the cost."
     )
     parser.add_argument("input", help="Path to the audio or video file")
+    parser.add_argument(
+        "-p",
+        "--provider",
+        default="fish",
+        choices=PROVIDERS,
+        help="Which ASR service to use (default: fish).",
+    )
     parser.add_argument(
         "-l",
         "--language",
@@ -304,96 +331,106 @@ def main() -> None:
         help="Where to write the transcript. Defaults to <input>.txt",
     )
     parser.add_argument(
+        "-m",
+        "--model",
+        default=None,
+        help="Override the provider's default model.",
+    )
+    parser.add_argument(
         "--no-timestamps",
         action="store_true",
         help="Do not include per-segment timestamps in the saved transcript.",
+    )
+    parser.add_argument(
+        "--no-cache",
+        action="store_true",
+        help="Do not reuse or write the per-chunk cache.",
+    )
+    parser.add_argument(
+        "--max-minutes",
+        type=float,
+        default=None,
+        help="Only transcribe the first N minutes (cheap smoke test).",
+    )
+    parser.add_argument(
+        "--chunk-minutes",
+        type=float,
+        default=None,
+        help="Force N-minute chunks even when the provider allows a larger "
+             "upload. Each finished chunk is cached and written to "
+             "<output>.partial.txt so you can watch progress.",
     )
     args = parser.parse_args()
 
     load_dotenv(Path(__file__).with_name(".env"))
 
-    api_key = os.environ.get("FISH_API_KEY")
-    if not api_key:
-        sys.exit(
-            "Missing API key. Set FISH_API_KEY in your environment or in a .env file."
-        )
-
     input_path = Path(args.input).expanduser()
     if not input_path.is_file():
         sys.exit(f"Input file not found: {input_path}")
 
+    from asr.providers import ProviderError, get_provider
+    from asr.runner import transcribe_file
+
     try:
-        from fishaudio import FishAudio
-    except ImportError:
-        sys.exit(
-            "The 'fish-audio-sdk' package is not installed.\n"
-            "Install it with: pip install 'fish-audio-sdk>=1.0.0'"
-        )
-
-    client = FishAudio(api_key=api_key)
-
-    with tempfile.TemporaryDirectory() as tmp:
-        tmpdir = Path(tmp)
-        source = prepare_source_audio(input_path, tmpdir)
-        duration = probe_duration_seconds(source) or 0.0
-        size_bytes = source.stat().st_size
-        chunks = plan_chunks(duration, size_bytes)
-
-        print(
-            f"Source audio: {format_hms(duration)} ({duration:.1f}s), "
-            f"{size_bytes / (1024 * 1024):.2f} MB → {len(chunks)} chunk(s)"
-        )
-
-        chunk_results: list[tuple[float, object]] = []
-        include_timestamps = not args.no_timestamps
-
-        for i, (start, chunk_dur) in enumerate(chunks, start=1):
-            chunk_path = tmpdir / f"chunk_{i:03d}.mp3"
-            if len(chunks) == 1 and start == 0.0:
-                audio_bytes = source.read_bytes()
-            else:
-                try:
-                    export_chunk(source, chunk_path, start, chunk_dur)
-                except subprocess.CalledProcessError as exc:
-                    sys.exit(f"ffmpeg failed to cut chunk {i}:\n{exc.stderr}")
-                audio_bytes = chunk_path.read_bytes()
-
-            size_mb = len(audio_bytes) / (1024 * 1024)
-            print(
-                f"  [{i}/{len(chunks)}] Transcribing "
-                f"{format_hms(start)}–{format_hms(start + chunk_dur)} "
-                f"({size_mb:.2f} MB)..."
-            )
-            try:
-                result = transcribe_bytes(
-                    client, audio_bytes, args.language, include_timestamps
-                )
-            except Exception as exc:  # noqa: BLE001
-                sys.exit(f"Transcription failed on chunk {i}: {exc}")
-            chunk_results.append((start, result))
-
-        merged = merge_chunk_results(chunk_results)
-        if not merged.duration:
-            merged.duration = duration
-
-    billed_seconds = math.ceil(merged.duration) if merged.duration else 0
-    cost = billed_seconds * PRICE_PER_SECOND_USD
+        provider = get_provider(args.provider, model=args.model,
+                                language=args.language)
+        provider.require_key()
+    except ProviderError as exc:
+        sys.exit(str(exc))
 
     output_path = (
         Path(args.output).expanduser()
         if args.output
         else input_path.with_suffix(".txt")
     )
+    progress_path = output_path.with_suffix(".partial.txt")
+
+    cache_dir = None
+    if not args.no_cache:
+        cache_dir = input_path.parent / f".asr_cache_{input_path.stem[:40]}"
+
+    max_seconds = args.max_minutes * 60 if args.max_minutes else None
+    chunk_seconds = args.chunk_minutes * 60 if args.chunk_minutes else None
+
+    print(f"Provider: {provider.label} ({provider.model})")
+    if max_seconds:
+        print(f"Smoke test: first {args.max_minutes:g} minute(s) only")
+    if chunk_seconds:
+        print(f"Forced chunks: {args.chunk_minutes:g} minute(s)")
+    print(f"Progress file (updated after each chunk): {progress_path}")
+
+    result = transcribe_file(
+        provider, input_path,
+        cache_dir=cache_dir,
+        max_seconds=max_seconds,
+        chunk_seconds=chunk_seconds,
+        progress_path=progress_path,
+        with_segments=not args.no_timestamps,
+        log=lambda m: print(m, flush=True),
+    )
+    if not result.ok:
+        sys.exit(f"Transcription failed: {result.error}")
+
+    billed_seconds = math.ceil(result.duration) if result.duration else 0
+    cost = result.cost_usd
+
     with output_path.open("w", encoding="utf-8") as f:
-        f.write(merged.text.strip() + "\n")
-        if merged.segments and not args.no_timestamps:
+        f.write(result.text.strip() + "\n")
+        if result.segments and not args.no_timestamps:
             f.write("\n--- Segments ---\n")
-            for seg in merged.segments:
+            for seg in result.segments:
                 f.write(f"[{seg.start:>8.2f}s - {seg.end:>8.2f}s] {seg.text}\n")
 
-    preview = merged.text.strip()
+    # Final file is ready; drop the partial marker.
+    if progress_path.exists():
+        progress_path.unlink()
+
+    preview = result.text.strip()
     if len(preview) > 2000:
         preview = preview[:2000] + "\n… (truncated; see saved file for full transcript)"
+
+    rate = ("n/a" if provider.price_per_hour is None
+            else f"${provider.price_per_hour:.2f} / audio hour")
 
     print("\n" + "=" * 60)
     print("TRANSCRIPTION (preview)")
@@ -403,11 +440,13 @@ def main() -> None:
     print("SUMMARY")
     print("=" * 60)
     print(f"Input file      : {input_path.name}")
-    print(f"Audio duration  : {format_hms(merged.duration)} ({merged.duration:.2f} s)")
-    print(f"Chunks          : {len(chunks)}")
+    print(f"Provider        : {provider.label} ({provider.model})")
+    print(f"Audio duration  : {format_hms(result.duration)} ({result.duration:.2f} s)")
+    print(f"Requests        : {result.chunks}")
     print(f"Billed duration : {billed_seconds} s (rounded up to nearest second)")
-    print(f"Rate            : ${PRICE_PER_HOUR_USD:.2f} / audio hour")
-    print(f"Estimated cost  : ${cost:.6f} USD")
+    print(f"Rate            : {rate}")
+    print(f"Estimated cost  : ${cost:.6f} USD" if cost is not None
+          else "Estimated cost  : n/a")
     print(f"Transcript saved: {output_path}")
     print("=" * 60)
 

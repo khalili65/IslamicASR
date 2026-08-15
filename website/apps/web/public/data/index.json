@@ -1,0 +1,53 @@
+{
+ "version": 1,
+ "mode": "single-lecturer",
+ "defaultLecturer": "bayat",
+ "brand": {
+  "name": "دروس معرفت نفس",
+  "tagline": "",
+  "logo": "",
+  "locale": "fa",
+  "dir": "rtl"
+ },
+ "theme": {
+  "bg": "#F7F8FC",
+  "brand": "#BBCAC5",
+  "brandInk": "#B4BFBB",
+  "surface": "#F2F3F5",
+  "subtitleBg": "#24030A",
+  "subtitleFg": "#FFFFFF",
+  "muted": "#EEEEEE",
+  "track": "#C2C2C2",
+  "trackFill": "#595959",
+  "accent": "#FE4A23"
+ },
+ "features": {
+  "video": false,
+  "english": false,
+  "myList": true,
+  "search": true,
+  "download": true,
+  "wordHighlight": true
+ },
+ "lecturers": [
+  {
+   "slug": "bayat",
+   "name": "حجت‌الاسلام بیات",
+   "title": "استاد درس معرفت نفس",
+   "bio": "دروس معرفت نفس با بستر آثار علامه حسن‌زاده آملی",
+   "avatar": "",
+   "links": [],
+   "courses": [
+    {
+     "slug": "marefat_nafs",
+     "title": "دروس معرفت نفس",
+     "description": "شرح کتاب‌های علامه حسن‌زاده آملی در مسیر معرفت نفس و حکمت",
+     "cover": "",
+     "sessionCount": 75,
+     "transcribedCount": 10,
+     "totalDurationText": "59:30:37"
+    }
+   ]
+  }
+ ]
+}

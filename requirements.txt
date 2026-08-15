@@ -1,1 +1,17 @@
+# Core
+requests>=2.31.0
+
+# ffmpeg/ffprobe binaries without needing Homebrew or admin rights.
+# Skip this if you already have ffmpeg on your PATH.
+static-ffmpeg>=2.5
+
+# Fish Audio backend (the original provider used by transcribe.py)
 fish-audio-sdk>=1.0.0
+
+# Optional: free, offline transcription via the `local-whisper` provider.
+# Large models are slow on CPU; install only if you want to run them locally.
+# faster-whisper>=1.0.3
+
+# Optional: only for scripts/eitaa_download.py, which drives the Eitaa web
+# client to fetch channel audio. Needs a browser too: `playwright install chromium`.
+# playwright>=1.40

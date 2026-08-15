@@ -20,6 +20,28 @@ venv/
 
 # ASR chunk caches / temp
 .asr_cache*/
+*_asr_compare/.cache/
 *.chunk*.mp3
 tmp/
 .DS_Store
+
+# Incomplete downloads / partial media
+*.part
+*.part.*
+
+# Next.js build artefacts (also listed under apps/web/.gitignore)
+website/apps/web/node_modules/
+website/apps/web/.next/
+website/apps/web/out/
+
+# Local audio symlink used only by the dev server
+website/apps/web/public/audio
+
+# Large / noisy download logs under Audios
+Audios/**/download*.log
+Audios/**/inspect.log
+Audios/**/login.log
+Audios/**/cache_remaining.log
+Audios/**/transcribe_*.log
+Audios/**/*.partial.txt
+Audios/**/eitaa_inspect.html
