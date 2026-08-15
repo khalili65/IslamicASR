@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { getCourse, getSiteIndex, toPersianDigits } from "@/lib/data";
 import {
@@ -25,6 +26,20 @@ export default async function CoursePage({ params }: Props) {
 
   return (
     <main className="space-y-6">
+      {data.cover ? (
+        <div className="animate-rise overflow-hidden rounded-card border border-white/60 shadow-card">
+          <Image
+            src={data.cover}
+            alt={data.title}
+            width={1672}
+            height={941}
+            priority
+            className="h-auto w-full object-cover object-center"
+            sizes="(max-width: 768px) 100vw, 768px"
+          />
+        </div>
+      ) : null}
+
       <section className="animate-rise card p-6">
         <Link
           href="/"

@@ -127,6 +127,21 @@ the build will break the dev server until you restart it.
 
 For production, upload media and set `media.baseUrl` in `website/site.config.json`.
 
+## Deploy to the cloud (recommended)
+
+**Cloudflare Pages** (site, auto-deploys on `git push`) + **R2** (audio).
+
+Full walkthrough: **[DEPLOY.md](./DEPLOY.md)**
+
+Short version:
+
+1. `git push` this repo to GitHub  
+2. Create an R2 bucket, upload audio with `./website/scripts/upload_r2.sh`  
+3. Connect Cloudflare Pages to the repo (`website/apps/web`, output `out`)  
+4. Set env `NEXT_PUBLIC_MEDIA_BASE` to your R2 public URL  
+
+After that: push code/transcripts → site updates; run the upload script → new audio goes live.
+
 ## Layout
 
 ```

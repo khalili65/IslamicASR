@@ -93,43 +93,52 @@ export default function HomePage() {
               <Link
                 key={course.slug}
                 href={`/${lecturer.slug}/${course.slug}/`}
-                className="card-link group p-5"
+                className="card-link group overflow-hidden p-0"
               >
-                <div className="flex items-start justify-between gap-4">
-                  <div className="min-w-0">
-                    <h3 className="text-lg font-bold tracking-tight">
-                      {course.title}
-                    </h3>
-                    {course.description ? (
-                      <p className="mt-1 line-clamp-2 text-sm leading-6 text-ink/60">
-                        {course.description}
-                      </p>
-                    ) : null}
-                  </div>
-                  <span className="mt-1 shrink-0 text-ink/25 transition group-hover:text-brand-deep">
-                    <ArrowLeftIcon className="h-5 w-5" />
-                  </span>
-                </div>
-
-                <div className="mt-4 flex flex-wrap items-center gap-2 text-xs">
-                  <span className="chip">
-                    {toPersianDigits(course.sessionCount)} جلسه
-                  </span>
-                  <span className="chip tabular-nums">
-                    {toPersianDigits(course.totalDurationText)}
-                  </span>
-                  <span className="chip">
-                    <TextIcon className="h-3.5 w-3.5" />
-                    {toPersianDigits(course.transcribedCount)} دارای متن
-                  </span>
-                </div>
-
-                {/* How much of the course has a synced transcript yet. */}
-                <div className="mt-3 h-1.5 overflow-hidden rounded-full bg-ink/[0.07]">
-                  <div
-                    className="h-full rounded-full bg-brand-deep/70"
-                    style={{ width: `${percent}%` }}
+                {course.cover ? (
+                  // eslint-disable-next-line @next/next/no-img-element
+                  <img
+                    src={course.cover}
+                    alt=""
+                    className="aspect-[16/9] w-full object-cover object-center"
                   />
+                ) : null}
+                <div className="p-5">
+                  <div className="flex items-start justify-between gap-4">
+                    <div className="min-w-0">
+                      <h3 className="text-lg font-bold tracking-tight">
+                        {course.title}
+                      </h3>
+                      {course.description ? (
+                        <p className="mt-1 line-clamp-2 text-sm leading-6 text-ink/60">
+                          {course.description}
+                        </p>
+                      ) : null}
+                    </div>
+                    <span className="mt-1 shrink-0 text-ink/25 transition group-hover:text-brand-deep">
+                      <ArrowLeftIcon className="h-5 w-5" />
+                    </span>
+                  </div>
+
+                  <div className="mt-4 flex flex-wrap items-center gap-2 text-xs">
+                    <span className="chip">
+                      {toPersianDigits(course.sessionCount)} جلسه
+                    </span>
+                    <span className="chip tabular-nums">
+                      {toPersianDigits(course.totalDurationText)}
+                    </span>
+                    <span className="chip">
+                      <TextIcon className="h-3.5 w-3.5" />
+                      {toPersianDigits(course.transcribedCount)} دارای متن
+                    </span>
+                  </div>
+
+                  <div className="mt-3 h-1.5 overflow-hidden rounded-full bg-ink/[0.07]">
+                    <div
+                      className="h-full rounded-full bg-brand-deep/70"
+                      style={{ width: `${percent}%` }}
+                    />
+                  </div>
                 </div>
               </Link>
             );

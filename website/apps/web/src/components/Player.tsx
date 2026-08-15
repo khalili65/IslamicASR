@@ -4,6 +4,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import type { Cue, SessionPayload } from "@/lib/types";
 import { findCueIndex, formatClock, toPersianDigits } from "@/lib/format";
+import { resolveMediaUrl } from "@/lib/media";
 import {
   usePlayerStore,
   loadProgress,
@@ -219,11 +220,13 @@ export function Player({ session, cues }: Props) {
     alert("پیوند کپی شد");
   };
 
+  const audioSrc = resolveMediaUrl(session.audio?.url);
+
   const download = () => {
-    if (!session.audio?.url) return;
+    if (!audioSrc) return;
     const a = document.createElement("a");
-    a.href = session.audio.url;
-    a.download = session.audio.filename;
+    a.href = audioSrc;
+    a.download = session.audio?.filename || "lecture.m4a";
     a.click();
   };
 
@@ -422,7 +425,7 @@ export function Player({ session, cues }: Props) {
 
         <audio
           ref={audioRef}
-          src={session.audio?.url}
+          src={audioSrc || undefined}
           preload="metadata"
           onTimeUpdate={(e) => setCurrentTime(e.currentTarget.currentTime)}
           onLoadedMetadata={(e) => setDuration(e.currentTarget.duration)}
