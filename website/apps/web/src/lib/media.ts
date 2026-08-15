@@ -1,8 +1,8 @@
 /**
  * Local JSON stores paths like `/audio/bayat/marefat_nafs/001/001_play.m4a`.
- * In production, Cloudflare Pages sets NEXT_PUBLIC_MEDIA_BASE to the R2 public
- * host (e.g. https://pub-….r2.dev) so the same JSON works without rebuilding
- * URLs for every environment.
+ * In production (or local prod-like testing), set NEXT_PUBLIC_MEDIA_BASE to the
+ * public object-storage host (Arvan, R2, etc.) so the same JSON works without
+ * rebuilding URLs for every environment.
  */
 export function resolveMediaUrl(url: string | null | undefined): string {
   if (!url) return "";

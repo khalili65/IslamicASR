@@ -1,5 +1,8 @@
 # Secrets
 .env
+.env.*
+!.env.example
+!.env.arvan.example
 
 # Python
 __pycache__/
@@ -45,3 +48,5 @@ Audios/**/cache_remaining.log
 Audios/**/transcribe_*.log
 Audios/**/*.partial.txt
 Audios/**/eitaa_inspect.html
+
+.wrangler/
