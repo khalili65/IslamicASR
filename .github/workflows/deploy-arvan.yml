@@ -1,0 +1,71 @@
+name: Deploy site to Arvan
+
+# Build the Next.js static export on GitHub runners, then upload to
+# Arvan Object Storage (islamic-asr-web). You only need to git push.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "website/apps/web/**"
+      - "website/scripts/deploy_arvan_web.py"
+      - ".github/workflows/deploy-arvan.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-arvan-web
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    defaults:
+      run:
+        working-directory: website/apps/web
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+          cache-dependency-path: website/apps/web/package-lock.json
+
+      - name: Install
+        run: npm ci --ignore-scripts
+
+      - name: Build static export
+        env:
+          NEXT_PUBLIC_MEDIA_BASE: https://islamic-asr-media.s3.ir-thr-at1.arvanstorage.ir
+        run: npm run build
+
+      - name: Ensure no media leaked into export
+        run: |
+          rm -rf out/audio "out/audio 2" || true
+          if find out \( -name '*.mp3' -o -name '*.m4a' -o -name '*.part' \) | grep -q .; then
+            echo "Media files found in out/; refusing to upload"
+            find out \( -name '*.mp3' -o -name '*.m4a' -o -name '*.part' \)
+            exit 1
+          fi
+          echo "out size: $(du -sh out | awk '{print $1}')"
+          echo "files: $(find out -type f | wc -l)"
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Upload out/ to Arvan islamic-asr-web
+        env:
+          ARVAN_ACCESS_KEY: ${{ secrets.ARVAN_ACCESS_KEY }}
+          ARVAN_SECRET_KEY: ${{ secrets.ARVAN_SECRET_KEY }}
+          ARVAN_ENDPOINT: https://s3.ir-thr-at1.arvanstorage.ir
+          ARVAN_REGION: ir-thr-at1
+          ARVAN_WEB_BUCKET: islamic-asr-web
+        run: |
+          pip install -q boto3
+          python ../../scripts/deploy_arvan_web.py
