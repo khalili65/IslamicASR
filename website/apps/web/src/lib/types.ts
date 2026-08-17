@@ -38,6 +38,8 @@ export type SessionPayload = {
   title: string;
   topic: string | null;
   summary: string | null;
+  hasFullText?: boolean;
+  hasSummary?: boolean;
   hasTranscript: boolean;
   audio: {
     url: string;

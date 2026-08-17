@@ -480,6 +480,14 @@ export function Player({ session, cues }: Props) {
           <TextIcon className="h-4 w-4" />
           متن کامل
         </Link>
+        {(session.hasSummary ?? Boolean(session.summary)) && (
+          <Link
+            href={`/${session.lecturer}/${session.course}/${session.id}/summary/`}
+            className="btn-soft"
+          >
+            خلاصه
+          </Link>
+        )}
       </div>
 
       {/* Chapters */}

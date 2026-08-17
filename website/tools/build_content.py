@@ -298,6 +298,23 @@ def build_session(
             payload["audio"]["duration"] = round(probed, 2)
             payload["audio"]["durationText"] = format_duration(probed)
 
+    # Ship readable markdown with the site (CI has no Audios/ symlink).
+    out_dir.mkdir(parents=True, exist_ok=True)
+    has_full = False
+    if files.corrected and files.corrected.exists():
+        dest = out_dir / ("%s.corrected.md" % files.session_id)
+        dest.write_text(files.corrected.read_text(encoding="utf-8"), encoding="utf-8")
+        has_full = True
+    has_summary_md = False
+    for candidate in files.folder.iterdir():
+        if candidate.name.endswith(".summary.md"):
+            dest = out_dir / ("%s.summary.md" % files.session_id)
+            dest.write_text(candidate.read_text(encoding="utf-8"), encoding="utf-8")
+            has_summary_md = True
+            break
+    payload["hasFullText"] = has_full
+    payload["hasSummary"] = has_summary_md or bool(payload.get("summary"))
+
     return payload
 
 
