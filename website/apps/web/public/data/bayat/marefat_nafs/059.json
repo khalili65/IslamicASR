@@ -3,24 +3,41 @@
  "index": 59,
  "lecturer": "bayat",
  "course": "marefat_nafs",
- "title": "جلسه ۵۹",
- "topic": null,
- "summary": null,
- "hasTranscript": false,
+ "title": "کلاس معرفت نفس — ۲۱ آبان ۱۴۰۴ · شیخ عبدالزهراء",
+ "topic": "ذکر صبح · فوق تجرد · اسم اعظم شخصی · علم و عمل اخروی · شفاعت",
+ "summary": "~۶۲ دقیقه. هدیه از بهجت الدعوات: ذکر صبح «اللهم إنی أصبحت…» پس از نماز صبح تا خواب با تسبیح زیر سر — ذاکر بدون حرکت لب. فوق تجرد نفس: حد یقف و وحدت عددی ندارد؛ قابلیت سیر بی‌نهایت. اسم اعظم شخصی / حصه وجودی / کانال فیض. ذکر بدون فکر = مرکب ارضی؛ فکر = براق سماوی. علم مشخص روح و عمل مشخص بدن در نشئه اخروی. شفاعت فقط با همجنسی (شفع) با آل الله است نه ادعای محبت بدون علم و عمل.",
+ "hasTranscript": true,
  "audio": {
   "url": "/audio/bayat/marefat_nafs/059/059_%D8%AD%D8%AC%D9%87_%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B2%D9%87%D8%B1%D8%A7%D8%A1_%D8%AF%D8%B1%D9%88%D8%B3_%D9%85%D8%B9%D8%B1%D9%81%D8%AA_%D9%86%D9%81%D8%B3_%DB%B2%DB%B1_%D8%A2%D8%A8%D8%A7%D9%86_%DB%B4%DB%B0%DB%B4_6.mp3",
   "filename": "059_حجه_الاسلام_عبدالزهراء_دروس_معرفت_نفس_۲۱_آبان_۴۰۴_6.mp3",
   "size": 44731633,
   "display": "42.7 MB",
-  "duration": 3727.58,
-  "durationText": "1:02:08"
+  "duration": 3726.2,
+  "durationText": "1:02:06"
  },
- "subtitles": null,
- "chapters": [],
+ "subtitles": {
+  "fa": {
+   "vtt": "059.vtt",
+   "cues": "059.cues.json",
+   "words": "059.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "متن کامل جلسه (پاکسازی‌شده)",
+   "start": 0.06,
+   "end": 3726.2
+  }
+ ],
  "recordedAt": 1765899853,
  "sourceName": "حجه_الاسلام_عبدالزهراء_دروس_معرفت_نفس_۲۱_آبان_۴۰۴_6.mp3",
- "hasFullText": false,
- "hasSummary": false,
+ "alignment": {
+  "verbatim": 0.9886,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasSummary": true,
  "previous": "058",
  "next": "060"
 }

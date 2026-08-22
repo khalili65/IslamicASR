@@ -3,24 +3,41 @@
  "index": 54,
  "lecturer": "bayat",
  "course": "marefat_nafs",
- "title": "جلسه ۵۴",
- "topic": null,
- "summary": null,
- "hasTranscript": false,
+ "title": "کلاس معرفت نفس — ۳۰ مهر ۱۴۰۴ · پرسش‌وپاسخ (حجت‌الاسلام بیات)",
+ "topic": "قوس نزول/صعود · لولاک/فاطمه · صادر اول · سر · صمدیت و عین‌الربط",
+ "summary": "~۳۴ دقیقه پرسش‌وپاسخ. اصل ۷۳ را زمانی/مکانی نفهم؛ در قوس صعود تشخص و علم حاصل می‌شود. سلسلهٔ حدیث لولاک / لولا علی / لولا فاطمه = وسائط طولی لاهوت→جبروت→ملکوت برای تنزل نور. صادر اول = نفس رحمانی (کلیِ مقید به اطلاق) در برابر خلقِ محدود. سر = کانال اتصال قطره به دریای وجود / حصهٔ وجودی / رب جزئی. خدا مجردِ از ماده نیست به‌معنای خالی‌بودن از اشیاء؛ صمد است؛ خارج عن الأشیاء لا بالمباینة و داخل لا بالممازجة — ظهور به‌اندازهٔ شیء، نه حلول.",
+ "hasTranscript": true,
  "audio": {
   "url": "/audio/bayat/marefat_nafs/054/054_%D8%AD%D8%AC%D8%AA%20%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85%20%D8%A8%DB%8C%D8%A7%D8%AA_30%D9%85%D9%87%D8%B11404.mp3",
   "filename": "054_حجت الاسلام بیات_30مهر1404.mp3",
   "size": 32570641,
   "display": "31.1 MB",
-  "duration": 2035.63,
+  "duration": 2035.56,
   "durationText": "33:56"
  },
- "subtitles": null,
- "chapters": [],
+ "subtitles": {
+  "fa": {
+   "vtt": "054.vtt",
+   "cues": "054.cues.json",
+   "words": "054.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "متن کامل جلسه (پاکسازی‌شده)",
+   "start": 0.66,
+   "end": 2035.56
+  }
+ ],
  "recordedAt": 1765899772,
  "sourceName": "حجت الاسلام بیات_30مهر1404.mp3",
- "hasFullText": false,
- "hasSummary": false,
+ "alignment": {
+  "verbatim": 0.9772,
+  "driftFraction": 0.0061
+ },
+ "hasFullText": true,
+ "hasSummary": true,
  "previous": "053",
  "next": "055"
 }

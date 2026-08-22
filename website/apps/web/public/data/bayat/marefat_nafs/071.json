@@ -3,24 +3,41 @@
  "index": 71,
  "lecturer": "bayat",
  "course": "marefat_nafs",
- "title": "جلسه ۷۱",
- "topic": null,
- "summary": null,
- "hasTranscript": false,
+ "title": "نکات شب دوم — آداب جلسه و سیر معارف",
+ "topic": "جلو نشستن · سحر و طهارت · تشنگی شنونده · پس‌نزنید · سیر مطالعاتی واحد · مباحثه · سه مرحله درس",
+ "summary": "آداب جلسهٔ شب دوم: خادمان جلو بنشینند؛ سلام آخر جلسه. اهل سحر و طهارت باشید؛ برای فهم معارف بسوزید نه فقط حاجات دنیوی. ادب کلاس (دو زانو = احترام). اذکار مسیر: نوزده بسم‌الله و چهارده یا واسع. تشنگی شنونده شرح صدر گوینده را می‌آورد. مطالب سنگین را پس نزنید؛ گناه‌شناسی فطری است — نیاز اصلی ورزیدگی عقل برای حکمت/عرفان است. سیر مطالعاتی واحد نگه دارید؛ مباحثه با همسر؛ بارها گوش دهید. مطالب مستند است (فعلاً روی شرح نهج‌البلاغه علامه کار می‌شود). سه مرحله: ورزیدگی عقل → کتاب روی دست → تخصصی. ریزش طبیعی است؛ بمانید و زحمت بکشید.",
+ "hasTranscript": true,
  "audio": {
   "url": "/audio/bayat/marefat_nafs/071/071_%D9%86%DA%A9%D8%A7%D8%AA%20%D8%B4%D8%A8%20%D8%AF%D9%88%D9%85%20%281%29.mp3",
   "filename": "071_نکات شب دوم (1).mp3",
   "size": 11474222,
   "display": "10.9 MB",
-  "duration": 685.63,
-  "durationText": "11:26"
+  "duration": 682.22,
+  "durationText": "11:22"
  },
- "subtitles": null,
- "chapters": [],
+ "subtitles": {
+  "fa": {
+   "vtt": "071.vtt",
+   "cues": "071.cues.json",
+   "words": "071.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "متن کامل (پاکسازی‌شده)",
+   "start": 0.5,
+   "end": 682.22
+  }
+ ],
  "recordedAt": 1778669535,
  "sourceName": "نکات شب دوم (1).mp3",
- "hasFullText": false,
- "hasSummary": false,
+ "alignment": {
+  "verbatim": 0.7345,
+  "driftFraction": 0.0214
+ },
+ "hasFullText": true,
+ "hasSummary": true,
  "previous": "070",
  "next": "072"
 }

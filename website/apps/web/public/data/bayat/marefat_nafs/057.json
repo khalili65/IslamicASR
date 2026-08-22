@@ -3,24 +3,41 @@
  "index": 57,
  "lecturer": "bayat",
  "course": "marefat_nafs",
- "title": "جلسه ۵۷",
- "topic": null,
- "summary": null,
- "hasTranscript": false,
+ "title": "کلاس معرفت نفس — ۱۴ آبان ۱۴۰۴ · شیخ عبدالزهراء",
+ "topic": "ذکر و فکر · حشر با اسماء · حب مقام · تفرّع · تشکیک وجود",
+ "summary": "~۸۱ دقیقه. صوت علامه: اردک زیر مرغ — نفس ملکوتی است نه خاکی. ذکر و فکر؛ ارتفاع روح با معارف (فاطر ۱۰). حشر با هر اسم، سلطان آن اسم را می‌آورد؛ نفس بسیط رنگ می‌گیرد. حب مقام و شهرت حجاب آیات است. اصل ۷۴: تفرّع محال — انتقال فقط تدریجی. تشکیک در وجود (نه ماهیت)؛ توحید از وجود مشکّک. نفس فوق تجرد و بدون حدّ یقف؛ جنود رب لا یتناهی.",
+ "hasTranscript": true,
  "audio": {
   "url": "/audio/bayat/marefat_nafs/057/057_%D8%AD%D8%AC%D8%AA_%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B2%D9%87%D8%B1%D8%A7_%D8%AF%D8%B1%D9%88%D8%B3_%D9%85%D8%B9%D8%B1%D9%81%D8%AA_%D9%86%D9%81%D8%B3_%D8%B9%D9%84%D8%A7%D9%85%D9%87_%D8%AD%D8%B3%D9%86_%D8%B2%D8%A7%D8%AF%D9%87_%D8%A2%D9%85%D9%84%DB%8C_14%D8%A2%D8%A8%D8%A7%D9%861404.mp3",
   "filename": "057_حجت_الاسلام_عبدالزهرا_دروس_معرفت_نفس_علامه_حسن_زاده_آملی_14آبان1404.mp3",
   "size": 38762065,
   "display": "37.0 MB",
-  "duration": 4845.19,
+  "duration": 4844.95,
   "durationText": "1:20:45"
  },
- "subtitles": null,
- "chapters": [],
+ "subtitles": {
+  "fa": {
+   "vtt": "057.vtt",
+   "cues": "057.cues.json",
+   "words": "057.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "متن کامل جلسه (پاکسازی‌شده)",
+   "start": 1.08,
+   "end": 4844.95
+  }
+ ],
  "recordedAt": 1765899833,
  "sourceName": "حجت_الاسلام_عبدالزهرا_دروس_معرفت_نفس_علامه_حسن_زاده_آملی_14آبان1404.mp3",
- "hasFullText": false,
- "hasSummary": false,
+ "alignment": {
+  "verbatim": 0.9879,
+  "driftFraction": 0.009
+ },
+ "hasFullText": true,
+ "hasSummary": true,
  "previous": "056",
  "next": "058"
 }

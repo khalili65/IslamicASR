@@ -3,24 +3,41 @@
  "index": 36,
  "lecturer": "bayat",
  "course": "marefat_nafs",
- "title": "جلسه ۳۶",
- "topic": null,
- "summary": null,
- "hasTranscript": false,
+ "title": "سخنرانی شب جمعه — ۶ شهریور ۱۴۰۴",
+ "topic": "زوال نعمت · چهار حمد · انسان کامل · فقر و امداد · حرکت نفس · ملکوت",
+ "summary": "~۵۷ دقیقه سخنرانی شب جمعه. معضل زوال نعمت (دنیوی/اخروی/ولایی)؛ نعیمِ قیامت = ولایت آل‌الله (تکاثر ۸ · روایت رضا). سپر: دعای چهار حمد / تحفه مصطفویه (مهج الدعوات). انسان کامل و اولیای تکوین؛ احزاب ۲۳. زیارت فاطمهٔ ممتحنه. فقر وجودی و «نمدّ هؤلاء» — مدد خدا تابع زبان حال توست. توسل مسیر را عوض می‌کند. اصل حرکت نفس (فاقد → واجد)؛ تجرد و اسماء الهی در انسان. ملکوت نفس و چشیدن روح؛ شکر امام عصر.",
+ "hasTranscript": true,
  "audio": {
   "url": "/audio/bayat/marefat_nafs/036/036_%D8%B3%D8%AE%D9%86%D8%B1%D8%A7%D9%86%DB%8C%20%D8%B4%D8%A8%20%D8%AC%D9%85%D8%B9%D9%87%2006-06-1404%282%29.mp3",
   "filename": "036_سخنرانی شب جمعه 06-06-1404(2).mp3",
   "size": 27546217,
   "display": "26.3 MB",
-  "duration": 3442.47,
+  "duration": 3442.0,
   "durationText": "57:22"
  },
- "subtitles": null,
- "chapters": [],
+ "subtitles": {
+  "fa": {
+   "vtt": "036.vtt",
+   "cues": "036.cues.json",
+   "words": "036.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "متن کامل جلسه (پاکسازی‌شده)",
+   "start": 0.6,
+   "end": 3442.0
+  }
+ ],
  "recordedAt": 1765899610,
  "sourceName": "سخنرانی شب جمعه 06-06-1404(2).mp3",
- "hasFullText": false,
- "hasSummary": false,
+ "alignment": {
+  "verbatim": 0.9829,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasSummary": true,
  "previous": "035",
  "next": "037"
 }

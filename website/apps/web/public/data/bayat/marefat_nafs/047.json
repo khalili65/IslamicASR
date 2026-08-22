@@ -3,24 +3,41 @@
  "index": 47,
  "lecturer": "bayat",
  "course": "marefat_nafs",
- "title": "جلسه ۴۷",
- "topic": null,
- "summary": null,
- "hasTranscript": false,
+ "title": "کلاس معرفت نفس — ۹ مهر ۱۴۰۴ · شیخ عبدالزهراء",
+ "topic": "میلاد عسکری · یاد حسن‌زاده · تجلیات و الهام · یحبهم · حرکت حبی · عشق · عُقر راه",
+ "summary": "~۹۰ دقیقه. میلاد امام عسکری و ایام ارتحال علامه حسن‌زاده؛ بخش عمده با صوت مستقیم استاد دربارهٔ اخذ تجلیات، الهام، و آداب سجدات قرآن. بحث یحبهم/یحبونه و حدیث قرب نوافل. از هزار و یک کلمه (کلمه ۱۷۴): حرکت ایجادی/حبی و خودسازی مبتنی بر معرفت نفس. روایات و اشعار عشق (سلمان و بهشت). عُقر راه، ثِقات/الهامات، استخاره. عُقر جلسه از فرقان ۳۳: أحسن تفسیرا.",
+ "hasTranscript": true,
  "audio": {
   "url": "/audio/bayat/marefat_nafs/047/047_%D8%B4%DB%8C%D8%AE%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B2%D9%87%D8%B1%D8%A7%D8%A1_9%20%D9%85%D9%87%D8%B1%201404_1_1_1.mp3",
   "filename": "047_شیخ عبدالزهراء_9 مهر 1404_1_1_1.mp3",
   "size": 43357585,
   "display": "41.3 MB",
-  "duration": 5419.63,
+  "duration": 5419.5,
   "durationText": "1:30:20"
  },
- "subtitles": null,
- "chapters": [],
+ "subtitles": {
+  "fa": {
+   "vtt": "047.vtt",
+   "cues": "047.cues.json",
+   "words": "047.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "متن کامل جلسه (پاکسازی‌شده)",
+   "start": 0.34,
+   "end": 5419.5
+  }
+ ],
  "recordedAt": 1765899703,
  "sourceName": "شیخ عبدالزهراء_9 مهر 1404_1_1_1.mp3",
- "hasFullText": false,
- "hasSummary": false,
+ "alignment": {
+  "verbatim": 0.995,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasSummary": true,
  "previous": "046",
  "next": "048"
 }

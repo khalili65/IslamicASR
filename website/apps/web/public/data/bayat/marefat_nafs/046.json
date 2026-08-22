@@ -3,24 +3,41 @@
  "index": 46,
  "lecturer": "bayat",
  "course": "marefat_nafs",
- "title": "جلسه ۴۶",
- "topic": null,
- "summary": null,
- "hasTranscript": false,
+ "title": "کلاس معرفت نفس — ۲ مهر ۱۴۰۴ · شیخ عبدالزهراء (پرسش‌وپاسخ)",
+ "topic": "حشر وحوش · زلزال و أثقال · تفسیر انفسی/آفاقی · وضو و نور علی نور · طهارت",
+ "summary": "~۳۳ دقیقه پرسش‌وپاسخ. حشر وحوش (تکویر): در برزخ برای حساب؛ وجه انفسی = نفوس وحشی/سبعیت انسان‌ها (نه فقط حیوان ظاهری). زلزال و خروج أثقال: ظاهر و باطن (از جمله أثقال وجودی). آیات آفاقی و انفسی هر دو؛ اصل حرکت با تفسیر انفسی است. وضو نور است؛ علم روی علم = نور علی نور؛ باطن عالم را جز با طهارت نمی‌توان مس کرد. خواهش: ارتباط خواهران فقط از طریق خانم دکتر قلی‌زاده.",
+ "hasTranscript": true,
  "audio": {
   "url": "/audio/bayat/marefat_nafs/046/046__%D8%B4%DB%8C%D8%AE_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B2%D9%87%D8%B1%D8%A7%D8%A1_%D8%B4%D8%B1%D8%AD_%DA%A9%D8%AA%D8%A7%D8%A8_%D9%85%D8%B9%D8%B1%D9%81%D8%AA_%D9%86%D9%81%D8%B3_%D8%B9%D9%84%D8%A7%D9%85%D9%87_%D8%AD%D8%B3%D9%86_%D8%B2%D8%A7%D8%AF%D9%87_%D8%A2%D9%85%D9%84%DB%8C_2%D9%85%D9%87%D8%B11404.mp3",
   "filename": "046__شیخ_عبدالزهراء_شرح_کتاب_معرفت_نفس_علامه_حسن_زاده_آملی_2مهر1404.mp3",
   "size": 39192817,
   "display": "37.4 MB",
-  "duration": 1959.6,
+  "duration": 1959.53,
   "durationText": "32:40"
  },
- "subtitles": null,
- "chapters": [],
+ "subtitles": {
+  "fa": {
+   "vtt": "046.vtt",
+   "cues": "046.cues.json",
+   "words": "046.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "متن کامل جلسه (پاکسازی‌شده)",
+   "start": 0.3,
+   "end": 1959.53
+  }
+ ],
  "recordedAt": 1765899696,
  "sourceName": "_شیخ_عبدالزهراء_شرح_کتاب_معرفت_نفس_علامه_حسن_زاده_آملی_2مهر1404.mp3",
- "hasFullText": false,
- "hasSummary": false,
+ "alignment": {
+  "verbatim": 0.9791,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasSummary": true,
  "previous": "045",
  "next": "047"
 }

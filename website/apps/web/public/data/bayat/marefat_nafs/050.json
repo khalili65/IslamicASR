@@ -3,24 +3,41 @@
  "index": 50,
  "lecturer": "bayat",
  "course": "marefat_nafs",
- "title": "جلسه ۵۰",
- "topic": null,
- "summary": null,
- "hasTranscript": false,
+ "title": "کلاس معرفت نفس — ۱۶ مهر ۱۴۰۴ · شیخ عبدالزهراء (پرسش‌وپاسخ)",
+ "topic": "اثر نفس در بدن قبر · ملکات برزخی · امثال بهشت و جهنم",
+ "summary": "~۱۹ دقیقه پرسش‌وپاسخ. جمع حدیث توفّی کامل روح با سخن ملاصدرا: کل نفس گرفته می‌شود؛ آنچه می‌ماند اثر/رشحهٔ قوه خیال و توجه نفس به بدن مقبور است (نه همهٔ نفس). داستان غسل جمعهٔ مادر و انتظار بدن سالم. ملکاتِ اصرار بر خیر/شر بستر سیر برزخی‌اند. شنود بالاتر از شهودِ صوری در خواب. امثال بهشت و جهنم در قرآن تمثیل‌اند برای فهم (تلک الأمثال…).",
+ "hasTranscript": true,
  "audio": {
   "url": "/audio/bayat/marefat_nafs/050/050_%D8%B4%DB%8C%D8%AE_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B2%D9%87%D8%B1%D8%A7%D8%A1_%D8%B4%D8%B1%D8%AD_%DA%A9%D8%AA%D8%A7%D8%A8_%D9%85%D8%B9%D8%B1%D9%81%D8%AA_%D9%86%D9%81%D8%B3_%D8%B9%D9%84%D8%A7%D9%85%D9%87_%D8%AD%D8%B3%D9%86_%D8%B2%D8%A7%D8%AF%D9%87_%D8%A2%D9%85%D9%84%DB%8C_16%D9%85%D9%87%D8%B11404%20%281%29.mp3",
   "filename": "050_شیخ_عبدالزهراء_شرح_کتاب_معرفت_نفس_علامه_حسن_زاده_آملی_16مهر1404 (1).mp3",
   "size": 22454257,
   "display": "21.4 MB",
-  "duration": 1122.67,
-  "durationText": "18:43"
+  "duration": 1122.44,
+  "durationText": "18:42"
  },
- "subtitles": null,
- "chapters": [],
+ "subtitles": {
+  "fa": {
+   "vtt": "050.vtt",
+   "cues": "050.cues.json",
+   "words": "050.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "متن کامل جلسه (پاکسازی‌شده)",
+   "start": 2.1,
+   "end": 1122.44
+  }
+ ],
  "recordedAt": 1765899737,
  "sourceName": "شیخ_عبدالزهراء_شرح_کتاب_معرفت_نفس_علامه_حسن_زاده_آملی_16مهر1404 (1).mp3",
- "hasFullText": false,
- "hasSummary": false,
+ "alignment": {
+  "verbatim": 0.9873,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasSummary": true,
  "previous": "049",
  "next": "051"
 }

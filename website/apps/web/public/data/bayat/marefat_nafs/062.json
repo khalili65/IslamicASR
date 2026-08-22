@@ -3,24 +3,41 @@
  "index": 62,
  "lecturer": "bayat",
  "course": "marefat_nafs",
- "title": "جلسه ۶۲",
- "topic": null,
- "summary": null,
- "hasTranscript": false,
+ "title": "سخنرانی حاج آقا بیات — حسینیه علی بن ابی‌طالب (۰۶۲)",
+ "topic": "فراموشی خدا → فراموشی خود · معرفت نفس شاهراه · جدول وجودی انسان · ذکر و فکر و نفی خواطر · ولایت · شهادت حضرت زهرا",
+ "summary": "~۶۰ دقیقه. فراموشی خود ریشه در فراموشی خدا دارد (حشر ۱۹)؛ ربط الوهیت و نفس؛ الله اسم جامع. معرفت نفس شاهراه است (من عرف نفسه فقد عرف ربه). علم آدم الاسماء = باطن اشیاء. انسان بزرگ‌ترین جدول وجودی و بیشترین سهم از فیض. نماز = موت و رجوع قربتاً الی الله. خودسازی مبتنی بر خودشناسی؛ کثرات انفسیّه بیچاره‌مان کرده. ذکر و فکر دو بال‌اند + نفی خواطر (رسالهٔ علامه طباطبایی). کهف ۱۱۰: بدون امام دسترسی به خود هم قطع می‌شود. فاطمه اجماع سقیفه را شکست؛ شهادتش برای ظهور؛ وصیت و یس؛ زینب و قرائت سر حسین.",
+ "hasTranscript": true,
  "audio": {
   "url": "/audio/bayat/marefat_nafs/062/062_%D8%B3%D8%AE%D9%86%D8%B1%D8%A7%D9%86%DB%8C%20%D8%AD%D8%A7%D8%AC%20%D8%A2%D9%82%D8%A7%20%D8%A8%DB%8C%D8%A7%D8%AA%201404.mp3",
   "filename": "062_سخنرانی حاج آقا بیات 1404.mp3",
   "size": 50299194,
   "display": "48.0 MB",
-  "duration": 3592.77,
-  "durationText": "59:53"
+  "duration": 3592.16,
+  "durationText": "59:52"
  },
- "subtitles": null,
- "chapters": [],
+ "subtitles": {
+  "fa": {
+   "vtt": "062.vtt",
+   "cues": "062.cues.json",
+   "words": "062.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "متن کامل جلسه (پاکسازی‌شده)",
+   "start": 0.34,
+   "end": 3592.16
+  }
+ ],
  "recordedAt": 1765899882,
  "sourceName": "سخنرانی حاج آقا بیات 1404.mp3",
- "hasFullText": false,
- "hasSummary": false,
+ "alignment": {
+  "verbatim": 0.9748,
+  "driftFraction": 0.7158
+ },
+ "hasFullText": true,
+ "hasSummary": true,
  "previous": "061",
  "next": "063"
 }

@@ -3,24 +3,41 @@
  "index": 32,
  "lecturer": "bayat",
  "course": "marefat_nafs",
- "title": "جلسه ۳۲",
- "topic": null,
- "summary": null,
- "hasTranscript": false,
+ "title": "کلاس معرفت نفس — ۱۴ مرداد ۱۴۰۴ · شیخ عبدالزهراء",
+ "topic": "ذکر الله · روح و ریح · لیلة القدر · اسامی علی · قرب نافله/فریضه",
+ "summary": "جلسهٔ ~۷۰ دقیقه. هدیهٔ ذکر «الله» بدون یا، ۶۶ بار — رفع اضطراب و اعتدال مزاج؛ تجربهٔ شخصی و اشاره به پژوهش‌های غربی. وفق با استاد شرط توفیق. بحث روح و ریح (اسراء ۸۵). هوا نفس را دنیایی و برزخ را طولانی می‌کند. روح واحد / روح اعظم و پیوند با فاطمه و درک لیلة القدر («تنزّل الملائکه والروح»). اسامی علی در قرآن (ایمان). شمس و ظهور دائم حق. قرب نافله و قرب فریضه؛ خطر «منها» بودن عمل بدون ولایت. ختم با زیارت و دعا.",
+ "hasTranscript": true,
  "audio": {
   "url": "/audio/bayat/marefat_nafs/032/032_%D8%B4%DB%8C%D8%AE_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B2%D9%87%D8%B1%D8%A7%D8%A1_%D8%AF%D8%B1%D9%88%D8%B3_%D9%85%D8%B9%D8%B1%D9%81%D8%AA_%D9%86%D9%81%D8%B3_14%D9%85%D8%B1%D8%AF%D8%A7%D8%AF1404.mp3",
   "filename": "032_شیخ_عبدالزهراء_دروس_معرفت_نفس_14مرداد1404.mp3",
   "size": 33874129,
   "display": "32.3 MB",
-  "duration": 4234.2,
+  "duration": 4234.12,
   "durationText": "1:10:34"
  },
- "subtitles": null,
- "chapters": [],
+ "subtitles": {
+  "fa": {
+   "vtt": "032.vtt",
+   "cues": "032.cues.json",
+   "words": "032.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "متن کامل جلسه (پاکسازی‌شده)",
+   "start": 0.32,
+   "end": 4234.12
+  }
+ ],
  "recordedAt": 1765899492,
  "sourceName": "شیخ_عبدالزهراء_دروس_معرفت_نفس_14مرداد1404.mp3",
- "hasFullText": false,
- "hasSummary": false,
+ "alignment": {
+  "verbatim": 0.9888,
+  "driftFraction": 0.0034
+ },
+ "hasFullText": true,
+ "hasSummary": true,
  "previous": "031",
  "next": "033"
 }

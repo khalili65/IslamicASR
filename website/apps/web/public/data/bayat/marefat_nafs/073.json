@@ -3,24 +3,41 @@
  "index": 73,
  "lecturer": "bayat",
  "course": "marefat_nafs",
- "title": "جلسه ۷۳",
- "topic": null,
- "summary": null,
- "hasTranscript": false,
+ "title": "اهتمام به معرفت نفس",
+ "topic": "آقای بهجت · دعا برای خودسازی مهم‌تر از دعا برای ظهور · فرج فردی · معرفت نفس کلید معرفت الله · صد و پنجاه و سه درس علامه",
+ "summary": "به نقل از آقای بهجت، دعا برای خودسازی و تهذیب نفس مهم‌تر از دعا برای ظهور است؛ ظهور حضرت وعدهٔ الهی است و می‌آید. نگرانی باید برای **فرج / ظهور فردی** باشد — یعنی خودسازی. خودسازی مبتنی بر **معرفت نفس** است؛ این جایگاه سلسله بحث‌های معرفت نفس (مثل مسجد بلال). کسی که اهتمام به این کلید طلایی معرفت الله ندارد از رحمت خدا به دور است؛ راه دیگری نیست. علامه در ۱۵۳ درس قدم‌به‌قدم دست می‌گیرد، بدون ضرورت پیش‌نیاز منطق/فقه/اصول یا بدایة و نهایة — هرچند آن‌ها کمک می‌کنند.",
+ "hasTranscript": true,
  "audio": {
   "url": "/audio/bayat/marefat_nafs/073/073_%D8%A7%D9%87%D8%AA%D9%85%D8%A7%D9%85%20%D8%A8%D9%87%20%D9%85%D8%B9%D8%B1%D9%81%D8%AA%20%D9%86%D9%81%D8%B3.mp3",
   "filename": "073_اهتمام به معرفت نفس.mp3",
   "size": 4191079,
   "display": "4.0 MB",
-  "duration": 231.03,
-  "durationText": "3:51"
+  "duration": 222.54,
+  "durationText": "3:43"
  },
- "subtitles": null,
- "chapters": [],
+ "subtitles": {
+  "fa": {
+   "vtt": "073.vtt",
+   "cues": "073.cues.json",
+   "words": "073.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "متن کامل (پاکسازی‌شده)",
+   "start": 2.44,
+   "end": 222.54
+  }
+ ],
  "recordedAt": 1779878119,
  "sourceName": "اهتمام به معرفت نفس.mp3",
- "hasFullText": false,
- "hasSummary": false,
+ "alignment": {
+  "verbatim": 0.6955,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasSummary": true,
  "previous": "072",
  "next": "074"
 }

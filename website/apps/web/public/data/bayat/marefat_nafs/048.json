@@ -3,24 +3,41 @@
  "index": 48,
  "lecturer": "bayat",
  "course": "marefat_nafs",
- "title": "جلسه ۴۸",
- "topic": null,
- "summary": null,
- "hasTranscript": false,
+ "title": "کلاس معرفت نفس — ۹ مهر ۱۴۰۴ · شیخ عبدالزهراء (پرسش‌وپاسخ)",
+ "topic": "سعی و نیت · برکت · الهام در برابر اعلام شیطانی · محک انبساط نفس",
+ "summary": "~۱۶ دقیقه پرسش‌وپاسخ. سعی و عشق و نیت: «لیس للانسان الا ما سعی»؛ برکت به نیت برمی‌گردد نه ظاهر عمل (مثال نماز سادهٔ امام). امتحان حضرت زهرا قبل از خلق در زیارت. برکت ≠ شلوغی مجلس (بهادینی). الهام از شدت محبت/سیر حبی؛ اعلام و القا می‌تواند شیطانی باشد اگر خلاف شرع. محک: انبساط و نشاط نفس = رحمانی؛ انقباض و کسالت عبادت = شیطانی.",
+ "hasTranscript": true,
  "audio": {
   "url": "/audio/bayat/marefat_nafs/048/048__%D8%B4%DB%8C%D8%AE%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B2%D9%87%D8%B1%D8%A7%D8%A1_9%20%D9%85%D9%87%D8%B1%201404_2_1%282%29.mp3",
   "filename": "048__شیخ عبدالزهراء_9 مهر 1404_2_1(2).mp3",
   "size": 13416817,
   "display": "12.8 MB",
-  "duration": 958.3,
+  "duration": 958.22,
   "durationText": "15:58"
  },
- "subtitles": null,
- "chapters": [],
+ "subtitles": {
+  "fa": {
+   "vtt": "048.vtt",
+   "cues": "048.cues.json",
+   "words": "048.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "متن کامل جلسه (پاکسازی‌شده)",
+   "start": 1.06,
+   "end": 958.22
+  }
+ ],
  "recordedAt": 1765899713,
  "sourceName": "_شیخ عبدالزهراء_9 مهر 1404_2_1(2).mp3",
- "hasFullText": false,
- "hasSummary": false,
+ "alignment": {
+  "verbatim": 0.9776,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasSummary": true,
  "previous": "047",
  "next": "049"
 }
