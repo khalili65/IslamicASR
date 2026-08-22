@@ -111,6 +111,19 @@ export function markdownToHtml(body: string): string {
       i += 1;
       continue;
     }
+    if (trimmed.startsWith("#### ")) {
+      out.push(`<h4>${inlineFormat(trimmed.slice(5))}</h4>`);
+      i += 1;
+      continue;
+    }
+    // Any other ATx heading (##### …) — avoid infinite loop below.
+    if (/^#{1,6}\s/.test(trimmed)) {
+      const level = trimmed.match(/^#+/)![0].length;
+      const text = trimmed.replace(/^#{1,6}\s+/, "");
+      out.push(`<h${level}>${inlineFormat(text)}</h${level}>`);
+      i += 1;
+      continue;
+    }
     if (trimmed.startsWith("---")) {
       out.push("<hr/>");
       i += 1;
@@ -195,6 +208,12 @@ export function markdownToHtml(body: string): string {
       para.push(t);
       i += 1;
     }
+    // Guard: never stall the outer loop (e.g. lone "#").
+    if (!para.length) {
+      out.push(`<p>${inlineFormat(trimmed)}</p>`);
+      i += 1;
+      continue;
+    }
     const joined = para.join(" ");
     if (joined.includes("ayah-ar")) {
       const plain = joined.replace(/<[^>]+>/g, "").trim();
@@ -215,6 +234,7 @@ export const articleClassName =
   "[&_h1]:mb-5 [&_h1]:text-2xl [&_h1]:font-black " +
   "[&_h2]:mb-3 [&_h2]:mt-8 [&_h2]:text-xl [&_h2]:font-bold " +
   "[&_h3]:mb-2 [&_h3]:mt-6 [&_h3]:font-bold " +
+  "[&_h4]:mb-2 [&_h4]:mt-5 [&_h4]:text-base [&_h4]:font-bold " +
   "[&_hr]:my-6 [&_hr]:border-ink/10 [&_p]:mb-4 " +
   "[&_ul]:mb-4 [&_ul]:list-disc [&_ul]:ps-6 [&_li]:mb-1 " +
   "[&_table]:mb-6 [&_table]:w-full [&_table]:border-collapse [&_table]:text-sm " +
