@@ -69,11 +69,16 @@
  "recordedAt": 1765899267,
  "sourceName": "_حجت_الاسلام_شیخ_عبدالزهراء_معرفت_نفس_17بهمن1403_22.mp3",
  "alignment": {
-  "verbatim": 0.757,
+  "exact": 3694,
+  "total": 4880,
+  "ratio": 0.757,
+  "maxGapSeconds": 11.33,
+  "p95GapSeconds": 1.8,
   "driftFraction": 0.0135
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "009",
  "next": "011"
 }

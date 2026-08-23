@@ -33,11 +33,16 @@
  "recordedAt": 1765899871,
  "sourceName": "حجت_الاسلام_عبدالزهرا_شرح_کتاب_دروس_معرفت_نفس_علامه_حسن_زاده_آملی.mp3",
  "alignment": {
-  "verbatim": 0.9867,
+  "exact": 4590,
+  "total": 4652,
+  "ratio": 0.9867,
+  "maxGapSeconds": 622.51,
+  "p95GapSeconds": 1.6,
   "driftFraction": 0.4949
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "060",
  "next": "062"
 }

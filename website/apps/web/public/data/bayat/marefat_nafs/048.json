@@ -33,11 +33,16 @@
  "recordedAt": 1765899713,
  "sourceName": "_شیخ عبدالزهراء_9 مهر 1404_2_1(2).mp3",
  "alignment": {
-  "verbatim": 0.9776,
+  "exact": 2180,
+  "total": 2230,
+  "ratio": 0.9776,
+  "maxGapSeconds": 5.54,
+  "p95GapSeconds": 1.16,
   "driftFraction": 0.0
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "047",
  "next": "049"
 }

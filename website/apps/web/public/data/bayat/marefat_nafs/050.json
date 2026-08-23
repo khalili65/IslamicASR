@@ -33,11 +33,16 @@
  "recordedAt": 1765899737,
  "sourceName": "شیخ_عبدالزهراء_شرح_کتاب_معرفت_نفس_علامه_حسن_زاده_آملی_16مهر1404 (1).mp3",
  "alignment": {
-  "verbatim": 0.9873,
+  "exact": 2257,
+  "total": 2286,
+  "ratio": 0.9873,
+  "maxGapSeconds": 9.76,
+  "p95GapSeconds": 1.4,
   "driftFraction": 0.0
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "049",
  "next": "051"
 }

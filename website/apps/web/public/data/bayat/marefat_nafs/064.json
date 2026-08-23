@@ -33,11 +33,16 @@
  "recordedAt": 1765899913,
  "sourceName": "حجت_الاسلام_عبدالزهرا_جمع_بندی_مقدمات_19آذر1404_2_1_1.mp3",
  "alignment": {
-  "verbatim": 0.9888,
+  "exact": 5922,
+  "total": 5989,
+  "ratio": 0.9888,
+  "maxGapSeconds": 519.3,
+  "p95GapSeconds": 1.48,
   "driftFraction": 0.1726
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "063",
  "next": "065"
 }

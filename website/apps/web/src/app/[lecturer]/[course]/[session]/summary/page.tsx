@@ -45,7 +45,7 @@ export default async function SummaryPage({ params }: Props) {
           <PlayIcon className="h-4 w-4" />
           بازگشت به پخش
         </Link>
-        <div className="flex items-center gap-2">
+        <div className="flex flex-wrap items-center gap-2">
           <Link
             href={`/${lecturer}/${course}/${session}/text/`}
             className="btn-soft"
@@ -53,6 +53,14 @@ export default async function SummaryPage({ params }: Props) {
             <TextIcon className="h-4 w-4" />
             متن کامل
           </Link>
+          {payload.hasBook && (
+            <Link
+              href={`/${lecturer}/${course}/${session}/book/`}
+              className="btn-soft"
+            >
+              نسخه کتابی
+            </Link>
+          )}
           <span className="chip">خلاصه · جلسه {payload.id}</span>
         </div>
       </div>

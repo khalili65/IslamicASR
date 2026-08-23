@@ -33,11 +33,16 @@
  "recordedAt": 1769309460,
  "sourceName": "حجت الاسلام عبدالزهراء_دروس معرفت نفس_3دی1404_2.mp3",
  "alignment": {
-  "verbatim": 0.9934,
+  "exact": 5902,
+  "total": 5941,
+  "ratio": 0.9934,
+  "maxGapSeconds": 902.15,
+  "p95GapSeconds": 1.86,
   "driftFraction": 0.3318
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "064",
  "next": "066"
 }

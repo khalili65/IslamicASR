@@ -33,11 +33,16 @@
  "recordedAt": 1765899610,
  "sourceName": "سخنرانی شب جمعه 06-06-1404(2).mp3",
  "alignment": {
-  "verbatim": 0.9829,
+  "exact": 6685,
+  "total": 6801,
+  "ratio": 0.9829,
+  "maxGapSeconds": 7.86,
+  "p95GapSeconds": 1.5,
   "driftFraction": 0.0
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "035",
  "next": "037"
 }

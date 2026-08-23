@@ -33,11 +33,16 @@
  "recordedAt": 1765899414,
  "sourceName": "معرفت نفس_درس_13..mp3",
  "alignment": {
-  "verbatim": 0.9622,
+  "exact": 7195,
+  "total": 7478,
+  "ratio": 0.9622,
+  "maxGapSeconds": 10.22,
+  "p95GapSeconds": 1.54,
   "driftFraction": 0.0028
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "023",
  "next": "025"
 }

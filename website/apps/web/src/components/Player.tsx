@@ -57,8 +57,10 @@ export function Player({ session, cues }: Props) {
   const [inList, setInList] = useState(false);
   const [showChapters, setShowChapters] = useState(true);
   const [speedOpen, setSpeedOpen] = useState(false);
+  const [downloadOpen, setDownloadOpen] = useState(false);
   const [hideTranslations, setHideTranslations] = useState(false);
   const [autoFollow, setAutoFollow] = useState(true);
+  const downloadRef = useRef<HTMLDivElement>(null);
 
   const total = duration || session.audio?.duration || 0;
 
@@ -179,13 +181,17 @@ export function Player({ session, cues }: Props) {
   }, [cueIndex, autoFollow]);
 
   useEffect(() => {
-    if (!speedOpen) return;
+    if (!speedOpen && !downloadOpen) return;
     const close = (event: MouseEvent) => {
-      if (!speedRef.current?.contains(event.target as Node)) setSpeedOpen(false);
+      const target = event.target as Node;
+      if (speedOpen && !speedRef.current?.contains(target)) setSpeedOpen(false);
+      if (downloadOpen && !downloadRef.current?.contains(target)) {
+        setDownloadOpen(false);
+      }
     };
     document.addEventListener("mousedown", close);
     return () => document.removeEventListener("mousedown", close);
-  }, [speedOpen]);
+  }, [speedOpen, downloadOpen]);
 
   useEffect(() => {
     const onKey = (event: KeyboardEvent) => {
@@ -222,13 +228,55 @@ export function Player({ session, cues }: Props) {
 
   const audioSrc = resolveMediaUrl(session.audio?.url);
 
-  const download = () => {
-    if (!audioSrc) return;
+  const downloadFile = (href: string, filename: string) => {
     const a = document.createElement("a");
-    a.href = audioSrc;
-    a.download = session.audio?.filename || "lecture.m4a";
+    a.href = href;
+    a.download = filename;
+    a.rel = "noopener";
     a.click();
+    setDownloadOpen(false);
   };
+
+  const dataBase = `/data/${session.lecturer}/${session.course}/${session.id}`;
+  const downloadItems = [
+    session.hasFullText
+      ? {
+          key: "full",
+          label: "متن کامل",
+          href: `${dataBase}.corrected.md`,
+          filename: `${session.id}-متن-کامل.md`,
+        }
+      : null,
+    session.hasBook
+      ? {
+          key: "book",
+          label: "نسخه کتابی",
+          href: `${dataBase}.book.md`,
+          filename: `${session.id}-نسخه-کتابی.md`,
+        }
+      : null,
+    session.hasSummary
+      ? {
+          key: "summary",
+          label: "خلاصه",
+          href: `${dataBase}.summary.md`,
+          filename: `${session.id}-خلاصه.md`,
+        }
+      : null,
+    audioSrc
+      ? {
+          key: "audio",
+          label: "صوت",
+          href: audioSrc,
+          filename: session.audio?.filename || `${session.id}.m4a`,
+        }
+      : null,
+  ].filter(Boolean) as Array<{
+    key: string;
+    label: string;
+    href: string;
+    filename: string;
+  }>;
 
   return (
     <div className="space-y-5">
@@ -464,15 +512,32 @@ export function Player({ session, cues }: Props) {
           <ShareIcon className="h-4 w-4" />
           اشتراک
         </button>
-        <button
-          type="button"
-          className="btn-soft"
-          onClick={download}
-          disabled={!session.audio}
-        >
-          <DownloadIcon className="h-4 w-4" />
-          دانلود
-        </button>
+        <div className="relative" ref={downloadRef}>
+          <button
+            type="button"
+            className={`btn-soft ${downloadOpen ? "btn-active" : ""}`}
+            onClick={() => setDownloadOpen((v) => !v)}
+            disabled={!downloadItems.length}
+            aria-expanded={downloadOpen}
+          >
+            <DownloadIcon className="h-4 w-4" />
+            دانلود
+          </button>
+          {downloadOpen ? (
+            <div className="absolute bottom-full z-20 mb-2 w-44 overflow-hidden rounded-2xl border border-ink/10 bg-paper shadow-lg">
+              {downloadItems.map((item) => (
+                <button
+                  key={item.key}
+                  type="button"
+                  className="flex w-full items-center justify-between px-4 py-2.5 text-sm text-ink/80 transition hover:bg-brand/15 hover:text-ink"
+                  onClick={() => downloadFile(item.href, item.filename)}
+                >
+                  {item.label}
+                </button>
+              ))}
+            </div>
+          ) : null}
+        </div>
         <Link
           href={`/${session.lecturer}/${session.course}/${session.id}/text/`}
           className="btn-soft"
@@ -480,6 +545,14 @@ export function Player({ session, cues }: Props) {
           <TextIcon className="h-4 w-4" />
           متن کامل
         </Link>
+        {session.hasBook && (
+          <Link
+            href={`/${session.lecturer}/${session.course}/${session.id}/book/`}
+            className="btn-soft"
+          >
+            نسخه کتابی
+          </Link>
+        )}
         {(session.hasSummary ?? Boolean(session.summary)) && (
           <Link
             href={`/${session.lecturer}/${session.course}/${session.id}/summary/`}

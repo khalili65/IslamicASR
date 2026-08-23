@@ -33,11 +33,16 @@
  "recordedAt": 1765899807,
  "sourceName": "کلاس_معرفت_نفس_علامه_حسن_زاده_آملی_شیخ_عبدالزهرا_7آبان1404_2.mp3",
  "alignment": {
-  "verbatim": 0.9759,
+  "exact": 3651,
+  "total": 3741,
+  "ratio": 0.9759,
+  "maxGapSeconds": 5.8,
+  "p95GapSeconds": 1.38,
   "driftFraction": 0.0
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "055",
  "next": "057"
 }

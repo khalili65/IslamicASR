@@ -69,11 +69,16 @@
  "recordedAt": 1765899280,
  "sourceName": "_شیخ_عبدالزهراء_معرفت_نفس_1اسفند_۴۰۴.mp3",
  "alignment": {
-  "verbatim": 0.6802,
+  "exact": 1576,
+  "total": 2317,
+  "ratio": 0.6802,
+  "maxGapSeconds": 39.52,
+  "p95GapSeconds": 2.6,
   "driftFraction": 0.0707
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "011",
  "next": "013"
 }

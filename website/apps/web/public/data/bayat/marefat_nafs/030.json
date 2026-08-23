@@ -33,11 +33,16 @@
  "recordedAt": 1765899476,
  "sourceName": "حجت الاسلام بیات_25تیر1404_2 (1).mp3",
  "alignment": {
-  "verbatim": 0.7419,
+  "exact": 3082,
+  "total": 4154,
+  "ratio": 0.7419,
+  "maxGapSeconds": 24.02,
+  "p95GapSeconds": 2.02,
   "driftFraction": 0.0367
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "029",
  "next": "031"
 }

@@ -306,14 +306,20 @@ def build_session(
         dest.write_text(files.corrected.read_text(encoding="utf-8"), encoding="utf-8")
         has_full = True
     has_summary_md = False
+    has_book = False
     for candidate in files.folder.iterdir():
-        if candidate.name.endswith(".summary.md"):
+        name = candidate.name
+        if name.endswith(".summary.md"):
             dest = out_dir / ("%s.summary.md" % files.session_id)
             dest.write_text(candidate.read_text(encoding="utf-8"), encoding="utf-8")
             has_summary_md = True
-            break
+        elif name.endswith(".book.md"):
+            dest = out_dir / ("%s.book.md" % files.session_id)
+            dest.write_text(candidate.read_text(encoding="utf-8"), encoding="utf-8")
+            has_book = True
     payload["hasFullText"] = has_full
     payload["hasSummary"] = has_summary_md or bool(payload.get("summary"))
+    payload["hasBook"] = has_book
 
     return payload
 

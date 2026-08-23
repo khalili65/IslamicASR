@@ -1,7 +1,13 @@
 import fs from "fs";
 import path from "path";
 
-export type SessionDocKind = "corrected" | "summary";
+export type SessionDocKind = "corrected" | "summary" | "book";
+
+const KIND_SUFFIX: Record<SessionDocKind, string> = {
+  corrected: ".corrected.md",
+  summary: ".summary.md",
+  book: ".book.md",
+};
 
 /** Prefer shipped public/data copies; fall back to Audios via public/audio locally. */
 export function loadSessionMarkdown(
@@ -22,7 +28,7 @@ export function loadSessionMarkdown(
     return fs.readFileSync(dataFile, "utf8");
   }
 
-  const suffix = kind === "corrected" ? ".corrected.md" : ".summary.md";
+  const suffix = KIND_SUFFIX[kind];
   const audioRoot = path.join(process.cwd(), "public", "audio");
   const candidates = [
     path.join(audioRoot, lecturer, course, session),
@@ -41,6 +47,16 @@ export function loadSessionMarkdown(
     }
   }
   return null;
+}
+
+/** Public URL for a shipped session markdown file (for downloads). */
+export function sessionDocUrl(
+  lecturer: string,
+  course: string,
+  session: string,
+  kind: SessionDocKind,
+): string {
+  return `/data/${lecturer}/${course}/${session}.${kind}.md`;
 }
 
 export function stripEditorialNoise(md: string): string {

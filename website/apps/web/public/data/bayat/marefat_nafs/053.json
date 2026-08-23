@@ -33,11 +33,16 @@
  "recordedAt": 1765899766,
  "sourceName": "دروس معرفت نفس_30مهر1404_5_1.mp3",
  "alignment": {
-  "verbatim": 0.9913,
+  "exact": 9381,
+  "total": 9463,
+  "ratio": 0.9913,
+  "maxGapSeconds": 36.38,
+  "p95GapSeconds": 1.64,
   "driftFraction": 0.0115
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "052",
  "next": "054"
 }

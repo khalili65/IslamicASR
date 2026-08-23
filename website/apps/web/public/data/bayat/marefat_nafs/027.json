@@ -33,11 +33,16 @@
  "recordedAt": 1765899444,
  "sourceName": "_شیخ_عبدالزهراء_شرح_کتاب_دورس_معرفت_نفس_علامه_حسن_زاده_آملی_19خرداد.mp3",
  "alignment": {
-  "verbatim": 0.7448,
+  "exact": 2880,
+  "total": 3867,
+  "ratio": 0.7448,
+  "maxGapSeconds": 32.74,
+  "p95GapSeconds": 1.98,
   "driftFraction": 0.0616
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "026",
  "next": "028"
 }

@@ -33,11 +33,16 @@
  "recordedAt": 1765899752,
  "sourceName": "شرح_دروس_معرفت_نفس_علامه_حسن_زاده_آملی_23مهر1404_1_1_2_1_1_1_1.mp3",
  "alignment": {
-  "verbatim": 0.9857,
+  "exact": 8529,
+  "total": 8653,
+  "ratio": 0.9857,
+  "maxGapSeconds": 71.62,
+  "p95GapSeconds": 1.6,
   "driftFraction": 0.0147
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "050",
  "next": "052"
 }

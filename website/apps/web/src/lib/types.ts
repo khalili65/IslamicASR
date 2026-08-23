@@ -40,6 +40,7 @@ export type SessionPayload = {
   summary: string | null;
   hasFullText?: boolean;
   hasSummary?: boolean;
+  hasBook?: boolean;
   hasTranscript: boolean;
   audio: {
     url: string;

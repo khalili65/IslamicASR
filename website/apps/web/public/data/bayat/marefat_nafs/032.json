@@ -33,11 +33,16 @@
  "recordedAt": 1765899492,
  "sourceName": "شیخ_عبدالزهراء_دروس_معرفت_نفس_14مرداد1404.mp3",
  "alignment": {
-  "verbatim": 0.9888,
+  "exact": 7672,
+  "total": 7759,
+  "ratio": 0.9888,
+  "maxGapSeconds": 14.3,
+  "p95GapSeconds": 1.6,
   "driftFraction": 0.0034
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "031",
  "next": "033"
 }

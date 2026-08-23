@@ -33,11 +33,16 @@
  "recordedAt": 1765899845,
  "sourceName": "حجت_الاسلام_عبدالزهرا_دروس_معرفت_نفس_علامه_حسن_زاده_آملی_14آبان1404 (1).mp3",
  "alignment": {
-  "verbatim": 0.9503,
+  "exact": 4304,
+  "total": 4529,
+  "ratio": 0.9503,
+  "maxGapSeconds": 17.72,
+  "p95GapSeconds": 1.65,
   "driftFraction": 0.0074
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "057",
  "next": "059"
 }

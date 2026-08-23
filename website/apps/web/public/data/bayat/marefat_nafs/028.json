@@ -33,11 +33,16 @@
  "recordedAt": 1765899457,
  "sourceName": "#اهمیت_جهل_شناسی ۱۸-۴-۴۰۴_1.mp3",
  "alignment": {
-  "verbatim": 0.7619,
+  "exact": 2275,
+  "total": 2986,
+  "ratio": 0.7619,
+  "maxGapSeconds": 37.16,
+  "p95GapSeconds": 2.07,
   "driftFraction": 0.0965
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "027",
  "next": "029"
 }

@@ -8,10 +8,10 @@
  "summary": "راوی در اتاق شخصی علامه حسن‌زاده از نظر ایشان دربارهٔ رهبر می‌پرسد. علامه سه بار در حال نشسته مانند رکوع خم می‌شود و می‌گوید «جانم به فدایش». سپس جملهٔ کلیدی: به جانم سوگند، ایشان تنها عالمی است که گرد و غبار دنیا روی عبایش ننشسته (تأکید: عبا نه فقط قبا). راوی همین را بالای منبر یادمان شهید حججی نیز گفته و بر حساب‌شدگی سخن ذوفنون تأکید می‌کند؛ قدر آقا را ندانستیم و نمی‌دانیم.",
  "hasTranscript": true,
  "audio": {
-  "url": "/audio/bayat/marefat_nafs/068/068_%D9%86%D8%B8%D8%B1%20%D8%AE%D8%A7%D8%B5%20%D8%B9%D9%84%D8%A7%D9%85%D9%87%20%D8%AF%D8%B1%20%D9%85%D9%88%D8%B1%D8%AF%20%D8%B1%D9%87%D8%A8%D8%B1.mp3",
-  "filename": "068_نظر خاص علامه در مورد رهبر.mp3",
-  "size": 2348895,
-  "display": "2.2 MB",
+  "url": "/audio/bayat/marefat_nafs/068/068_play.m4a",
+  "filename": "068_play.m4a",
+  "size": 1418332,
+  "display": "1.4 MB",
   "duration": 103.06,
   "durationText": "1:43"
  },
@@ -33,11 +33,16 @@
  "recordedAt": 1775268358,
  "sourceName": "نظر خاص علامه در مورد رهبر.mp3",
  "alignment": {
-  "verbatim": 0.785,
+  "exact": 168,
+  "total": 214,
+  "ratio": 0.785,
+  "maxGapSeconds": 2.88,
+  "p95GapSeconds": 1.58,
   "driftFraction": 0.0
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "067",
  "next": "069"
 }

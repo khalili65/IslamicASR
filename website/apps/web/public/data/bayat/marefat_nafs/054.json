@@ -33,11 +33,16 @@
  "recordedAt": 1765899772,
  "sourceName": "حجت الاسلام بیات_30مهر1404.mp3",
  "alignment": {
-  "verbatim": 0.9772,
+  "exact": 3724,
+  "total": 3811,
+  "ratio": 0.9772,
+  "maxGapSeconds": 12.38,
+  "p95GapSeconds": 1.52,
   "driftFraction": 0.0061
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "053",
  "next": "055"
 }

@@ -33,11 +33,16 @@
  "recordedAt": 1765899517,
  "sourceName": "شیخ_عبدالزهراء_شرح_کتب_علامه_حسن_زاده_آملی_دروس_نفس_28مرداد4042.mp3",
  "alignment": {
-  "verbatim": 0.9661,
+  "exact": 2278,
+  "total": 2358,
+  "ratio": 0.9661,
+  "maxGapSeconds": 8.48,
+  "p95GapSeconds": 1.46,
   "driftFraction": 0.0
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "033",
  "next": "035"
 }

@@ -33,11 +33,16 @@
  "recordedAt": 1765899861,
  "sourceName": "حجه_الاسلام_عبدالزهراء_دروس_معرفت_نفس_بحث_۲۱_آبان_۴۰۴.mp3",
  "alignment": {
-  "verbatim": 0.9684,
+  "exact": 2938,
+  "total": 3034,
+  "ratio": 0.9684,
+  "maxGapSeconds": 9.12,
+  "p95GapSeconds": 1.42,
   "driftFraction": 0.0
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "059",
  "next": "061"
 }

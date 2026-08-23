@@ -69,11 +69,16 @@
  "recordedAt": 1765899323,
  "sourceName": "شیخ_عبدالزهراء_شرح_کتب_علامه_حسن_زاده_آملی_15اسفند1403_1.mp3",
  "alignment": {
-  "verbatim": 0.757,
+  "exact": 3007,
+  "total": 3972,
+  "ratio": 0.757,
+  "maxGapSeconds": 56.98,
+  "p95GapSeconds": 3.1,
   "driftFraction": 0.0933
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "013",
  "next": "015"
 }

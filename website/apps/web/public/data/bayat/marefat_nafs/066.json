@@ -33,11 +33,16 @@
  "recordedAt": 1769309650,
  "sourceName": "معرفت نفس ۲۴ دی ۴۰۴ مسجد بلال_1.mp3",
  "alignment": {
-  "verbatim": 0.9585,
+  "exact": 7319,
+  "total": 7636,
+  "ratio": 0.9585,
+  "maxGapSeconds": 69.14,
+  "p95GapSeconds": 1.46,
   "driftFraction": 0.1012
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "065",
  "next": "067"
 }

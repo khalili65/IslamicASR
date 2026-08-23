@@ -33,11 +33,16 @@
  "recordedAt": 1765899541,
  "sourceName": "شیخ عبدالزهراء_29مرداد1404.mp3",
  "alignment": {
-  "verbatim": 0.9919,
+  "exact": 9114,
+  "total": 9188,
+  "ratio": 0.9919,
+  "maxGapSeconds": 9.02,
+  "p95GapSeconds": 1.56,
   "driftFraction": 0.0
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "034",
  "next": "036"
 }

@@ -33,11 +33,16 @@
  "recordedAt": 1765899483,
  "sourceName": "_شیخ_عبدالزهراء_شرح_کتاب_دروس_معرفت_نفس_8مرداد14042.mp3",
  "alignment": {
-  "verbatim": 0.9887,
+  "exact": 8226,
+  "total": 8320,
+  "ratio": 0.9887,
+  "maxGapSeconds": 23.06,
+  "p95GapSeconds": 1.46,
   "driftFraction": 0.0084
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "030",
  "next": "032"
 }

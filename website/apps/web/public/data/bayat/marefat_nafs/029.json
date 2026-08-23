@@ -33,11 +33,16 @@
  "recordedAt": 1765899470,
  "sourceName": "حجت الاسلام بیات_25تیر1404_توسل_1_1_1 (1).mp3",
  "alignment": {
-  "verbatim": 0.9798,
+  "exact": 7025,
+  "total": 7170,
+  "ratio": 0.9798,
+  "maxGapSeconds": 15.36,
+  "p95GapSeconds": 1.62,
   "driftFraction": 0.004
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "028",
  "next": "030"
 }

@@ -33,11 +33,16 @@
  "recordedAt": 1775562114,
  "sourceName": "حجت الاسلام عبدالزهرا_شرح کتاب دروس معرفت نفس علامه حسن زاده آملی_6اسفند1404_2.mp3",
  "alignment": {
-  "verbatim": 0.9924,
+  "exact": 9406,
+  "total": 9478,
+  "ratio": 0.9924,
+  "maxGapSeconds": 48.6,
+  "p95GapSeconds": 1.46,
   "driftFraction": 0.0142
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "069",
  "next": "071"
 }

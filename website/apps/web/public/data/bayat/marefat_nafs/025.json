@@ -33,11 +33,16 @@
  "recordedAt": 1765899421,
  "sourceName": "حجت_الاسلام_بیات_شرح_کتاب_دروس_معرفت_نفس_علامه_حسن_زاده_آملی_7خرداد1404.mp3",
  "alignment": {
-  "verbatim": 0.7508,
+  "exact": 2223,
+  "total": 2961,
+  "ratio": 0.7508,
+  "maxGapSeconds": 15.38,
+  "p95GapSeconds": 1.81,
   "driftFraction": 0.0109
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "024",
  "next": "026"
 }

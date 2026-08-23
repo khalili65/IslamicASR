@@ -33,11 +33,16 @@
  "recordedAt": 1775562114,
  "sourceName": "کلاس معرفت نفس_استاد عبدالزهرا_29بهمن1404_3_1.mp3",
  "alignment": {
-  "verbatim": 0.9852,
+  "exact": 6649,
+  "total": 6749,
+  "ratio": 0.9852,
+  "maxGapSeconds": 76.56,
+  "p95GapSeconds": 1.64,
   "driftFraction": 0.0937
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "068",
  "next": "070"
 }

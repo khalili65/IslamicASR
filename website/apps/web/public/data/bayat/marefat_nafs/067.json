@@ -33,11 +33,16 @@
  "recordedAt": 1769814236,
  "sourceName": "استاد عبدالزهرا_8بهمن1404.mp3",
  "alignment": {
-  "verbatim": 0.984,
+  "exact": 8239,
+  "total": 8373,
+  "ratio": 0.984,
+  "maxGapSeconds": 122.78,
+  "p95GapSeconds": 1.62,
   "driftFraction": 0.1336
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "066",
  "next": "068"
 }

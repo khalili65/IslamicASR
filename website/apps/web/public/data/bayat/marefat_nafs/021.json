@@ -33,11 +33,16 @@
  "recordedAt": 1765899384,
  "sourceName": "حجت_الاسلام_بیات_شرح_دورس_معرفت_نفس_علامه_حسن_زاده_آملی_3اردیبهشت1404 (1).mp3",
  "alignment": {
-  "verbatim": 0.7429,
+  "exact": 1604,
+  "total": 2159,
+  "ratio": 0.7429,
+  "maxGapSeconds": 14.22,
+  "p95GapSeconds": 2.26,
   "driftFraction": 0.0118
  },
  "hasFullText": true,
  "hasSummary": true,
+ "hasBook": true,
  "previous": "020",
  "next": "022"
 }
