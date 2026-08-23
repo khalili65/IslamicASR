@@ -16,6 +16,7 @@ import {
   ArrowLeftIcon,
   ArrowRightIcon,
   Back15Icon,
+  BookIcon,
   BookmarkIcon,
   CaptionsIcon,
   ChevronIcon,
@@ -25,6 +26,7 @@ import {
   PlayIcon,
   ShareIcon,
   SpeedIcon,
+  SummaryIcon,
   TextIcon,
   WaveIcon,
 } from "@/components/Icons";
@@ -33,6 +35,15 @@ type Props = {
   session: SessionPayload;
   cues: Cue[];
   cuesPath: string;
+};
+
+type DownloadItem = {
+  key: string;
+  label: string;
+  href: string;
+  filename: string;
+  /** Re-wrap the fetched body as text/plain instead of linking straight to it. */
+  asText: boolean;
 };
 
 const RATES = [0.75, 1, 1.25, 1.5, 2];
@@ -228,13 +239,38 @@ export function Player({ session, cues }: Props) {
 
   const audioSrc = resolveMediaUrl(session.audio?.url);
 
-  const downloadFile = (href: string, filename: string) => {
+  const saveBlob = (href: string, filename: string) => {
     const a = document.createElement("a");
     a.href = href;
     a.download = filename;
     a.rel = "noopener";
     a.click();
+  };
+
+  /**
+   * Markdown files are re-wrapped as text/plain before saving: mobile browsers
+   * have no handler for .md and either refuse to open it or bounce it to an
+   * external app. The markdown syntax itself is left untouched.
+   */
+  const downloadFile = async (item: DownloadItem) => {
     setDownloadOpen(false);
+    if (!item.asText) {
+      saveBlob(item.href, item.filename);
+      return;
+    }
+    try {
+      const res = await fetch(item.href);
+      if (!res.ok) throw new Error(String(res.status));
+      const text = await res.text();
+      // BOM so Windows/Android plain-text viewers detect UTF-8 Persian.
+      const url = URL.createObjectURL(
+        new Blob(["\ufeff", text], { type: "text/plain;charset=utf-8" }),
+      );
+      saveBlob(url, item.filename);
+      setTimeout(() => URL.revokeObjectURL(url), 10_000);
+    } catch {
+      window.open(item.href, "_blank", "noopener");
+    }
   };
 
   const dataBase = `/data/${session.lecturer}/${session.course}/${session.id}`;
@@ -244,7 +280,8 @@ export function Player({ session, cues }: Props) {
           key: "full",
           label: "متن کامل",
           href: `${dataBase}.corrected.md`,
-          filename: `${session.id}-متن-کامل.md`,
+          filename: `${session.id}-متن-کامل.txt`,
+          asText: true,
         }
       : null,
     session.hasBook
@@ -252,7 +289,8 @@ export function Player({ session, cues }: Props) {
           key: "book",
           label: "نسخه کتابی",
           href: `${dataBase}.book.md`,
-          filename: `${session.id}-نسخه-کتابی.md`,
+          filename: `${session.id}-نسخه-کتابی.txt`,
+          asText: true,
         }
       : null,
     session.hasSummary
@@ -260,7 +298,8 @@ export function Player({ session, cues }: Props) {
           key: "summary",
           label: "خلاصه",
           href: `${dataBase}.summary.md`,
-          filename: `${session.id}-خلاصه.md`,
+          filename: `${session.id}-خلاصه.txt`,
+          asText: true,
         }
       : null,
     audioSrc
@@ -269,14 +308,10 @@ export function Player({ session, cues }: Props) {
           label: "صوت",
           href: audioSrc,
           filename: session.audio?.filename || `${session.id}.m4a`,
+          asText: false,
         }
       : null,
-  ].filter(Boolean) as Array<{
-    key: string;
-    label: string;
-    href: string;
-    filename: string;
-  }>;
+  ].filter(Boolean) as DownloadItem[];
 
   return (
     <div className="space-y-5">
@@ -483,11 +518,11 @@ export function Player({ session, cues }: Props) {
         />
       </div>
 
-      {/* Actions */}
-      <div className="grid grid-cols-2 gap-2 sm:grid-cols-4">
+      {/* Actions — equal height cells; wrap only on narrow phones */}
+      <div className="grid grid-cols-2 items-stretch gap-2 sm:grid-cols-3 xl:grid-cols-6">
         <button
           type="button"
-          className={`btn-soft ${inList ? "btn-active" : ""}`}
+          className={`btn-soft h-full min-h-11 w-full px-3 text-[13px] leading-snug sm:min-h-[2.75rem] sm:px-4 sm:text-sm sm:whitespace-nowrap ${inList ? "btn-active" : ""}`}
           onClick={() => {
             const next = toggleMyList({
               lecturer: session.lecturer,
@@ -505,33 +540,38 @@ export function Player({ session, cues }: Props) {
             );
           }}
         >
-          <BookmarkIcon className="h-4 w-4" filled={inList} />
+          <BookmarkIcon className="h-4 w-4 shrink-0" filled={inList} />
           {inList ? "در فهرست" : "فهرست من"}
         </button>
-        <button type="button" className="btn-soft" onClick={share}>
-          <ShareIcon className="h-4 w-4" />
+        <button
+          type="button"
+          className="btn-soft h-full min-h-11 w-full px-3 text-[13px] leading-snug sm:min-h-[2.75rem] sm:px-4 sm:text-sm sm:whitespace-nowrap"
+          onClick={share}
+        >
+          <ShareIcon className="h-4 w-4 shrink-0" />
           اشتراک
         </button>
-        <div className="relative" ref={downloadRef}>
+        <div className="relative flex h-full min-h-11 sm:min-h-[2.75rem]" ref={downloadRef}>
           <button
             type="button"
-            className={`btn-soft ${downloadOpen ? "btn-active" : ""}`}
+            className={`btn-soft h-full w-full px-3 text-[13px] leading-snug sm:px-4 sm:text-sm sm:whitespace-nowrap ${downloadOpen ? "btn-active" : ""}`}
             onClick={() => setDownloadOpen((v) => !v)}
             disabled={!downloadItems.length}
             aria-expanded={downloadOpen}
           >
-            <DownloadIcon className="h-4 w-4" />
+            <DownloadIcon className="h-4 w-4 shrink-0" />
             دانلود
           </button>
           {downloadOpen ? (
-            <div className="absolute bottom-full z-20 mb-2 w-44 overflow-hidden rounded-2xl border border-ink/10 bg-paper shadow-lg">
+            <div className="absolute inset-x-0 top-full z-30 mt-2 min-w-[10rem] overflow-hidden rounded-2xl border border-ink/10 bg-surface shadow-lift">
               {downloadItems.map((item) => (
                 <button
                   key={item.key}
                   type="button"
-                  className="flex w-full items-center justify-between px-4 py-2.5 text-sm text-ink/80 transition hover:bg-brand/15 hover:text-ink"
-                  onClick={() => downloadFile(item.href, item.filename)}
+                  className="flex w-full items-center gap-2 px-4 py-2.5 text-start text-sm text-ink/80 transition hover:bg-brand/25 hover:text-ink"
+                  onClick={() => void downloadFile(item)}
                 >
+                  <DownloadIcon className="h-3.5 w-3.5 shrink-0 opacity-60" />
                   {item.label}
                 </button>
               ))}
@@ -540,24 +580,26 @@ export function Player({ session, cues }: Props) {
         </div>
         <Link
           href={`/${session.lecturer}/${session.course}/${session.id}/text/`}
-          className="btn-soft"
+          className="btn-soft h-full min-h-11 w-full px-3 text-[13px] leading-snug sm:min-h-[2.75rem] sm:px-4 sm:text-sm sm:whitespace-nowrap"
         >
-          <TextIcon className="h-4 w-4" />
+          <TextIcon className="h-4 w-4 shrink-0" />
           متن کامل
         </Link>
         {session.hasBook && (
           <Link
             href={`/${session.lecturer}/${session.course}/${session.id}/book/`}
-            className="btn-soft"
+            className="btn-soft h-full min-h-11 w-full px-3 text-[13px] leading-snug sm:min-h-[2.75rem] sm:px-4 sm:text-sm sm:whitespace-nowrap"
           >
+            <BookIcon className="h-4 w-4 shrink-0" />
             نسخه کتابی
           </Link>
         )}
         {(session.hasSummary ?? Boolean(session.summary)) && (
           <Link
             href={`/${session.lecturer}/${session.course}/${session.id}/summary/`}
-            className="btn-soft"
+            className="btn-soft h-full min-h-11 w-full px-3 text-[13px] leading-snug sm:min-h-[2.75rem] sm:px-4 sm:text-sm sm:whitespace-nowrap"
           >
+            <SummaryIcon className="h-4 w-4 shrink-0" />
             خلاصه
           </Link>
         )}

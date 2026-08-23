@@ -118,6 +118,22 @@ export const TextIcon = ({ className }: IconProps) => (
   </Svg>
 );
 
+/** Book-style edition — open book. */
+export const BookIcon = ({ className }: IconProps) => (
+  <Svg className={className}>
+    <path d="M12 7.2C10.3 5.9 8.4 5.3 5.6 5.2a.9.9 0 0 0-.9.9v10.4c0 .5.4.9.9.9 2.7.1 4.6.7 6.4 2 1.8-1.3 3.7-1.9 6.4-2 .5 0 .9-.4.9-.9V6.1a.9.9 0 0 0-.9-.9c-2.8.1-4.7.7-6.4 2Z" />
+    <path d="M12 7.2v12.2" />
+  </Svg>
+);
+
+/** Summary — short stacked lines. */
+export const SummaryIcon = ({ className }: IconProps) => (
+  <Svg className={className}>
+    <rect x="3.6" y="4.8" width="16.8" height="14.4" rx="3" />
+    <path d="M7.4 9.4h9.2M7.4 12.6h6.4M7.4 15.6h4" />
+  </Svg>
+);
+
 export const SearchIcon = ({ className }: IconProps) => (
   <Svg className={className}>
     <circle cx="11" cy="11" r="6.3" />
