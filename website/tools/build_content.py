@@ -37,9 +37,21 @@ from align_subtitles import (                        # noqa: E402
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 AUDIO_ROOT = REPO_ROOT / "Audios"
-CONTENT_ROOT = REPO_ROOT / "website" / "content"
-DEFAULT_OUT = REPO_ROOT / "website" / "apps" / "web" / "public" / "data"
-SITE_CONFIG = REPO_ROOT / "website" / "site.config.json"
+# Defaults target the Bayat site under website/. Pass --site-root for
+# another site tree (e.g. website-portal).
+DEFAULT_SITE_ROOT = REPO_ROOT / "website"
+CONTENT_ROOT = DEFAULT_SITE_ROOT / "content"
+DEFAULT_OUT = DEFAULT_SITE_ROOT / "apps" / "web" / "public" / "data"
+SITE_CONFIG = DEFAULT_SITE_ROOT / "site.config.json"
+
+
+def configure_site_root(site_root: Path) -> None:
+    """Point content / config / default output at a site tree."""
+    global CONTENT_ROOT, DEFAULT_OUT, SITE_CONFIG
+    site_root = site_root.expanduser().resolve()
+    CONTENT_ROOT = site_root / "content"
+    DEFAULT_OUT = site_root / "apps" / "web" / "public" / "data"
+    SITE_CONFIG = site_root / "site.config.json"
 
 _H1_RE = re.compile(r"^#\s+(.*)$", re.MULTILINE)
 _TOPIC_RE = re.compile(r"^\*\*موضوع:\*\*\s*(.*)$", re.MULTILINE)
@@ -434,11 +446,20 @@ def main() -> None:
     parser.add_argument("--course", help="Build only this course folder")
     parser.add_argument("--out", default=None, help="Output root (default: public/data)")
     parser.add_argument(
+        "--site-root",
+        default=None,
+        help="Site tree containing content/, site.config.json, apps/web/ "
+        "(default: website/). Use website-portal for the multi-lecturer site.",
+    )
+    parser.add_argument(
         "--skip-subtitles",
         action="store_true",
         help="Write metadata only, without realigning subtitles",
     )
     args = parser.parse_args()
+
+    if args.site_root:
+        configure_site_root(Path(args.site_root))
 
     config = read_json(SITE_CONFIG, {}) or {}
     out_root = Path(args.out).expanduser() if args.out else DEFAULT_OUT

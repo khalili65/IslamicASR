@@ -23,6 +23,7 @@ venv/
 
 # ASR chunk caches / temp
 .asr_cache*/
+.book_parts_*/
 *_asr_compare/.cache/
 *.chunk*.mp3
 tmp/
@@ -47,6 +48,13 @@ Audios/**/login.log
 Audios/**/cache_remaining.log
 Audios/**/transcribe_*.log
 Audios/**/*.partial.txt
+Audios/**/*.partial.md
 Audios/**/eitaa_inspect.html
 
 .wrangler/
+
+# Portal site (same conventions as website/)
+website-portal/apps/web/node_modules/
+website-portal/apps/web/.next/
+website-portal/apps/web/out/
+website-portal/apps/web/public/audio

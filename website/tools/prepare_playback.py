@@ -71,6 +71,9 @@ def build_play_file(src: Path, dest: Path) -> float:
                 "-y",
                 "-i",
                 str(src),
+                "-vn",  # some "mp3" files still carry a video stream
+                "-map",
+                "0:a:0",
                 "-map_metadata",
                 "-1",
                 "-c:a",

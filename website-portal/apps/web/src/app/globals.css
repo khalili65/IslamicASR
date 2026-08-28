@@ -1,0 +1,163 @@
+@import url("https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Vazirmatn:wght@200;300;400;500;600;700;800;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Colours are stored as bare RGB channels rather than hex so that every
+   Tailwind opacity modifier (bg-brand/40, text-ink/60, …) works on them.
+   layout.tsx converts the hex values in site.config.json to this form. */
+:root {
+  --bg: 246 247 251;
+  --brand: 187 202 197;
+  --brand-ink: 180 191 187;
+  --brand-deep: 47 71 63;
+  --surface: 255 255 255;
+  --surface-2: 242 243 245;
+  --subtitle-bg: 36 3 10;
+  --subtitle-fg: 255 255 255;
+  --muted: 238 238 238;
+  --track: 194 194 194;
+  --track-fill: 89 89 89;
+  --accent: 254 74 35;
+  --ink: 26 26 26;
+  --font-ui: "Vazirmatn", Tahoma, Arial, sans-serif;
+  --font-arabic: "Amiri", "Traditional Arabic", serif;
+}
+
+html {
+  direction: rtl;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  color: rgb(var(--ink));
+  font-family: var(--font-ui);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  /* Two very soft sage washes keep the page from reading as flat grey. */
+  background-color: rgb(var(--bg));
+  background-image:
+    radial-gradient(60rem 32rem at 88% -12%, rgb(var(--brand) / 0.5), transparent 60%),
+    radial-gradient(48rem 28rem at 4% 4%, rgb(var(--brand) / 0.28), transparent 55%);
+  background-attachment: fixed;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font-family: inherit;
+}
+
+:focus-visible {
+  outline: 2px solid rgb(var(--brand-deep));
+  outline-offset: 2px;
+  border-radius: 0.5rem;
+}
+
+.ayah {
+  font-family: var(--font-arabic);
+  font-size: 1.3em;
+  line-height: 2.1;
+}
+
+/* Thin scrollbars so the transcript panel doesn't get a heavy grey gutter. */
+.scroll-slim {
+  scrollbar-width: thin;
+  scrollbar-color: rgb(var(--ink) / 0.2) transparent;
+}
+.scroll-slim::-webkit-scrollbar {
+  width: 6px;
+}
+.scroll-slim::-webkit-scrollbar-thumb {
+  background: rgb(var(--ink) / 0.18);
+  border-radius: 9999px;
+}
+.scroll-slim::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+@keyframes cue-in {
+  from {
+    opacity: 0;
+    transform: translateY(0.4rem);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(0.6rem);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+@layer components {
+  .card {
+    @apply rounded-card border border-white/60 bg-surface/80 shadow-card backdrop-blur-sm;
+  }
+
+  .card-link {
+    @apply card block transition duration-200 hover:-translate-y-0.5 hover:border-brand hover:shadow-lift;
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-2xl px-4 py-2.5 text-sm font-medium transition active:scale-[0.97] disabled:pointer-events-none disabled:opacity-40;
+  }
+
+  .btn-soft {
+    @apply btn border border-ink/5 bg-surface/90 text-ink/80 shadow-sm hover:border-brand hover:bg-brand/35 hover:text-ink;
+  }
+
+  .btn-primary {
+    @apply btn bg-brand-deep text-white shadow-lift hover:brightness-110;
+  }
+
+  .btn-active {
+    @apply border-transparent bg-brand-deep text-white hover:bg-brand-deep hover:text-white;
+  }
+
+  .icon-btn {
+    @apply inline-flex items-center justify-center rounded-full text-ink/70 transition hover:bg-ink/5 hover:text-ink active:scale-95;
+  }
+
+  .chip {
+    @apply inline-flex items-center gap-1 rounded-full bg-ink/[0.05] px-2.5 py-1 text-xs font-medium text-ink/60;
+  }
+
+  .chip-brand {
+    @apply inline-flex items-center gap-1 rounded-full bg-brand/50 px-2.5 py-1 text-xs font-semibold text-brand-deep;
+  }
+
+  .section-title {
+    @apply text-lg font-extrabold tracking-tight;
+  }
+}
