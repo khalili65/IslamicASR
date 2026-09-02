@@ -31,10 +31,10 @@ export default async function CoursePage({ params }: Props) {
           <Image
             src={data.cover}
             alt={data.title}
-            width={1672}
-            height={941}
+            width={1536}
+            height={1024}
             priority
-            className="h-auto w-full object-cover object-center"
+            className="h-auto w-full object-contain object-top"
             sizes="(max-width: 768px) 100vw, 768px"
           />
         </div>
@@ -75,7 +75,7 @@ export default async function CoursePage({ params }: Props) {
             <PlayIcon className="h-4 w-4" />
             شروع دوره
           </Link>
-          <Link href="/search/" className="btn-soft">
+          <Link href={`/search/?course=${course}`} className="btn-soft">
             <SearchIcon className="h-4 w-4" />
             جستجو در متن
           </Link>

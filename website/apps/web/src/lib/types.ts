@@ -39,8 +39,13 @@ export type SessionPayload = {
   topic: string | null;
   summary: string | null;
   hasFullText?: boolean;
+  hasLegacyText?: boolean;
   hasSummary?: boolean;
   hasBook?: boolean;
+  hasRawTranscript?: boolean;
+  subtitleSource?: "raw" | "edited" | null;
+  /** legacy = corrected.md only; book = *.book.md; both = old + new pipeline side by side */
+  textPipeline?: "legacy" | "book" | "both" | null;
   hasTranscript: boolean;
   audio: {
     url: string;
@@ -99,6 +104,7 @@ export type SiteIndex = {
     title: string;
     bio: string;
     avatar: string;
+    format?: "audio" | "text";
     courses: Array<{
       slug: string;
       title: string;
@@ -107,6 +113,7 @@ export type SiteIndex = {
       sessionCount: number;
       transcribedCount: number;
       totalDurationText: string;
+      format?: "audio" | "text";
     }>;
   }>;
 };

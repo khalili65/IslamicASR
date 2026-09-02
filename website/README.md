@@ -106,10 +106,11 @@ Hard-refresh after content or UI changes: `Cmd+Shift+R`.
 ## What works now
 
 - Home → course list → session player (Persian RTL, sage / maroon theme)
-- Synced Persian subtitles (corrected text timed from ASR word clocks)
-- Chapters from `##` headings in corrected markdown
+- Synced Persian subtitles — **edited** (`corrected.md` / `book.md` aligned to ASR) or **raw** (verbatim ASR word clocks; see below)
+- Chapters from `##` headings in corrected markdown, or from section titles in
+  `book.md` when using `"subtitles": "raw"` (titles are aligned to ASR timing)
 - Download / share / my-list / subtitle toggle / full text view
-- Search across transcribed sessions (matched phrase highlighted)
+- Search across all Bayat courses (prebuilt cue index, course filters, Persian token match)
 - Resume playback position (localStorage)
 - Keyboard: Space play/pause, ←/→ ±15 s
 - Audio served locally via `public/audio` → `Audios/` (production uses Arvan media)
@@ -120,8 +121,9 @@ Hard-refresh after content or UI changes: `Cmd+Shift+R`.
 
 | Script | Role |
 | --- | --- |
-| `align_subtitles.py` | Align corrected markdown → ASR word times → `.vtt` / `.cues.json` / `.words.json` |
+| `align_subtitles.py` | Align corrected/book markdown → ASR word times, or build raw cues from segments → `.vtt` / `.cues.json` / `.words.json` |
 | `build_content.py` | Walk `Audios/`, write `apps/web/public/data/` JSON for the site |
+| `../scripts/build_search_indexes.py` | Pack cue text into `public/data/search/` for client-side search |
 | `prepare_playback.py` | Remux mp3 → `NNN_play.m4a` when the container duration is wrong |
 | `transcript.py` / `align.py` / `cues.py` / `persian.py` | Parsers, alignment, cue grouping, normalisation |
 
@@ -139,6 +141,51 @@ Hard-refresh after content or UI changes: `Cmd+Shift+R`.
    writes `NNN_play.m4a` (honest AAC duration); `build_content.py` prefers it when present.
 5. Verified independently: re-ASR of clips at 1′ and 44′ with Fish matches existing
    ElevenLabs word times within ~0.1 s — the ASR timeline itself is not drifting.
+6. **Raw ASR cue splitting** — new-pipeline courses can use verbatim subtitles
+   (`"subtitles": "raw"` in `content/…/course.json`). Raw text has little
+   punctuation, so cues must **not** use the corrected-text character limit (140
+   chars); they break at **audible pauses** (≥ ~0.32 s between words) and at
+   sentence-ending punctuation. Without this, a cue fills on length and flips
+   mid-phrase while the speaker is still talking (e.g. subtitle jumps from
+   «…می‌خوام» to «که بیشتر…» at 15:28 in Term1/001). Implemented in
+   `cues.py` → `build_raw_cues()` / `_split_raw_tokens()`. Corrected/book
+   alignment still uses `_split_tokens()` on editorial paragraphs.
+
+### Subtitle source: edited vs raw
+
+Set per course in `website/content/<lecturer>/<course>/course.json` (or
+`website-portal/content/…` when using `--site-root website-portal`):
+
+| `"subtitles"` | Player + **متن جلسه** | **متن کامل** | When to use |
+| --- | --- | --- | --- |
+| `"edited"` (default) | Aligned `corrected.md` or `book.md` | `*.corrected.md` | Bayat — polished text, ~98% alignment |
+| `"raw"` | Verbatim ASR words grouped into cues | `NNN.raw.txt` (prose above `--- Segments ---`) | New pipeline before corrected pass; subtitles match what was heard |
+
+```bash
+# Example: Term1 with raw subtitles + book/summary for study views
+.venv/bin/python website/tools/prepare_playback.py --course Audios/Tadabor_Sobohi/Manaee/Term1
+.venv/bin/python website/tools/build_content.py \
+  --site-root website-portal \
+  --course Audios/Tadabor_Sobohi/Manaee/Term1
+```
+
+Ships `001.raw.txt`, `001.book.md`, `001.summary.md`, and `001.cues.json` with
+`"source": "raw"`. Session JSON gets `"subtitleSource": "raw"` and
+`"hasFullText": true` from the raw transcript.
+
+**Raw sync pitfalls (not the corrected-markdown bugs in §151–167):**
+
+- **Mid-phrase cue breaks** — fixed by pause-aware splitting (item 6 above).
+- **Long cues** — raw cues target ~5 s average; max ~14 s before splitting at
+  the widest internal silence.
+- **First subtitle late** — ElevenLabs often starts word timestamps after
+  taʿawwudh (~10 s in); audio plays from 0:00 with no line until then.
+- **MP3 seek / clock** — item 4; use `001_play.m4a` when remux helps. VBR mp3
+  with `start: 0.025` can also be normalized via `prepare_playback.py --force`.
+
+**Do not** use raw subtitles from **`book.md` alignment** — edited text forced
+onto ASR clocks drifts badly (~50% verbatim). Use `"subtitles": "raw"` or
+finish a proper `corrected.md` / aligned `book.md` pass for edited mode.
 
 ### UI
 
@@ -148,7 +195,10 @@ Hard-refresh after content or UI changes: `Cmd+Shift+R`.
 - Theme colours as RGB channel tokens so Tailwind opacity modifiers work
   (`src/lib/theme.ts` converts hex from `site.config.json`)
 
-## Transcript conventions that affect sync
+## Transcript conventions that affect sync (edited mode only)
+
+These apply when `"subtitles": "edited"` (default). Raw ASR mode skips alignment;
+see **Subtitle source: edited vs raw** above.
 
 The aligner maps the corrected text onto the raw ASR word timestamps, so
 anything in `*.corrected.md` that the teacher did **not** say must be marked,
@@ -175,7 +225,8 @@ Mark unspoken text as any of:
 
 Writes `NNN_play.m4a` next to each lecture (originals untouched). Applied for every
 session whose mp3 container under-reports duration (e.g. 001, 004–008, 011, 015–020,
-037, 062, 068, 071–075). Honest mp3s keep the original file.
+037, 062, 068, 071–075). Honest mp3s keep the original file unless you pass
+`--force` (useful for VBR mp3 with a non-zero `start` time or when debugging sync).
 
 ## After you finish more sessions
 

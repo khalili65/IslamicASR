@@ -1,0 +1,33 @@
+{
+ "v": 1,
+ "lecturers": [
+  {
+   "slug": "bayat",
+   "name": "حضرت استاد بیات (عبدالزهرا)",
+   "format": "audio",
+   "source": "cues-raw-asr",
+   "courses": [
+    {
+     "slug": "ehras_awzat",
+     "title": "احراز و عوذات",
+     "format": "audio"
+    },
+    {
+     "slug": "leghaallah",
+     "title": "لقاء الله",
+     "format": "audio"
+    },
+    {
+     "slug": "marefat_nafs",
+     "title": "دروس معرفت نفس",
+     "format": "audio"
+    },
+    {
+     "slug": "sermaknoon",
+     "title": "سر مکنون",
+     "format": "audio"
+    }
+   ]
+  }
+ ]
+}

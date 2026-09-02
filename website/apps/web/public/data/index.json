@@ -3,8 +3,8 @@
  "mode": "single-lecturer",
  "defaultLecturer": "bayat",
  "brand": {
-  "name": "دروس معرفت نفس",
-  "tagline": "",
+  "name": "درس‌گفتارها",
+  "tagline": "حضرت استاد بیات (عبدالزهرا)",
   "logo": "",
   "locale": "fa",
   "dir": "rtl"
@@ -27,25 +27,53 @@
   "myList": true,
   "search": true,
   "download": true,
-  "wordHighlight": true
+  "wordHighlight": true,
+  "primaryText": "raw"
  },
  "lecturers": [
   {
    "slug": "bayat",
-   "name": "حجت‌الاسلام بیات",
-   "title": "استاد درس معرفت نفس",
-   "bio": "دروس معرفت نفس با بستر آثار علامه حسن‌زاده آملی",
-   "avatar": "",
+   "name": "حضرت استاد بیات (عبدالزهرا)",
+   "title": "استاد درس‌گفتارها",
+   "bio": "این درس‌گفتارها از حضرت استاد بیات (عبدالزهرا) است؛ شامل دروس معرفت نفس (شرح آثار علامه حسن‌زاده آملی)، سر مکنون، و لقاء الله.",
+   "avatar": "/images/lecturers/bayat_hero.png?v=6",
    "links": [],
    "courses": [
+    {
+     "slug": "ehras_awzat",
+     "title": "احراز و عوذات",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) در باب احراز و عوذات",
+     "cover": "/images/courses/ehras_awzat.png?v=1",
+     "sessionCount": 49,
+     "transcribedCount": 49,
+     "totalDurationText": "10:36:25"
+    },
+    {
+     "slug": "leghaallah",
+     "title": "لقاء الله",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) در باب لقاء الله",
+     "cover": "/images/courses/leghaallah.png?v=1",
+     "sessionCount": 140,
+     "transcribedCount": 140,
+     "totalDurationText": "81:50:24"
+    },
     {
      "slug": "marefat_nafs",
      "title": "دروس معرفت نفس",
      "description": "شرح کتاب‌های علامه حسن‌زاده آملی در مسیر معرفت نفس و حکمت",
-     "cover": "/images/courses/marefat_nafs.png",
+     "cover": "/images/courses/marefat_nafs.png?v=6",
      "sessionCount": 75,
      "transcribedCount": 75,
      "totalDurationText": "59:29:48"
+    },
+    {
+     "slug": "sermaknoon",
+     "title": "سر مکنون",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) در باب سرّ مکنون",
+     "cover": "/images/courses/sermaknoon.png?v=1",
+     "sessionCount": 31,
+     "transcribedCount": 31,
+     "totalDurationText": "9:51:52"
     }
    ]
   }
