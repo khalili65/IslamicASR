@@ -1,0 +1,78 @@
+{
+ "id": "018",
+ "index": 18,
+ "lecturer": "bayat",
+ "course": "asrar_ruzeh_namaz",
+ "title": "راز عبادت و روزه",
+ "topic": null,
+ "summary": "این جلسه دربارۀ راز عبادت و روزه و پیوند آن با نماز و حضور قلب است. در ادامه، آزمون انسان در عاشورا و نسبت آن با طهارت نیت و عمل بررسی می‌شود و بحث به معنای بندگی می‌رسد.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/asrar_ruzeh_namaz/018/018_play.m4a",
+  "filename": "018_play.m4a",
+  "size": 41027656,
+  "display": "39.1 MB",
+  "duration": 3363.48,
+  "durationText": "56:03"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "018.vtt",
+   "cues": "018.cues.json",
+   "words": "018.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## راز عبادت و روزه",
+   "start": 127.18,
+   "end": 1201.64
+  },
+  {
+   "index": 1,
+   "title": "## نماز و حضور قلب",
+   "start": 1201.64,
+   "end": 1586.81
+  },
+  {
+   "index": 2,
+   "title": "«قل انما انا بشر مثلکم یوحى الی انما الهکم اله واحد فمن كان يرجو لقاء ربه»",
+   "start": 1586.81,
+   "end": 1893.5
+  },
+  {
+   "index": 3,
+   "title": "## آزمون انسان در عاشورا",
+   "start": 1893.5,
+   "end": 1952.3
+  },
+  {
+   "index": 4,
+   "title": "## طهارت نیت و عمل",
+   "start": 1952.3,
+   "end": 3077.06
+  },
+  {
+   "index": 5,
+   "title": "## معنای بندگی",
+   "start": 3077.06,
+   "end": 3363.48
+  }
+ ],
+ "recordedAt": null,
+ "sourceName": null,
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "017",
+ "next": "019"
+}

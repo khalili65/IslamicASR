@@ -1,0 +1,66 @@
+{
+ "id": "013",
+ "index": 11,
+ "lecturer": "bayat",
+ "course": "nameha_barnameha",
+ "title": "نور و شهود",
+ "topic": null,
+ "summary": "این جلسه در امتداد بحث‌های معرفتی و سیر عملی، از مفاهیم و مثال‌های مطرح‌شده در گفتار آغاز می‌شود و پیوند میان مراتب وجود، تهذیب، عبادت و معرفت را دنبال می‌کند. شرح آیات، روایت‌ها، حکایت‌ها و اصطلاحات تخصصی در ترتیب طبیعی سخن آمده است.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/nameha_barnameha/013/013_play.m4a",
+  "filename": "013_play.m4a",
+  "size": 29176296,
+  "display": "27.8 MB",
+  "duration": 2341.67,
+  "durationText": "39:02"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "013.vtt",
+   "cues": "013.cues.json",
+   "words": "013.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## نور و شهود",
+   "start": 0.8,
+   "end": 548.32
+  },
+  {
+   "index": 1,
+   "title": "## مراتب وجود و قوس صعود",
+   "start": 548.32,
+   "end": 1017.32
+  },
+  {
+   "index": 2,
+   "title": "## رزق وجود و تجلی",
+   "start": 1017.32,
+   "end": 1477.52
+  },
+  {
+   "index": 3,
+   "title": "## نور ظاهر و باطن",
+   "start": 1477.52,
+   "end": 2341.67
+  }
+ ],
+ "recordedAt": 1763683246,
+ "sourceName": "سخنرانی_نامه ها و برنامه ها_14.10.1400.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "012",
+ "next": "014"
+}

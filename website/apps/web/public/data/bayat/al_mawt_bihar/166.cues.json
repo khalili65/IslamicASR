@@ -1,0 +1,4543 @@
+{
+ "version": 1,
+ "sessionId": "166",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 2029.95,
+ "alignment": {
+  "exact": 3932,
+  "total": 3932,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## روایت هجدهم و دوست امام حسن",
+   "start": 0.74,
+   "end": 194.7
+  },
+  {
+   "index": 1,
+   "title": "## سخن گفتن و آشکار شدن باطن",
+   "start": 194.7,
+   "end": 517.67
+  },
+  {
+   "index": 2,
+   "title": "## گفت‌وگوی امام حسن با دوست خود",
+   "start": 517.67,
+   "end": 685.13
+  },
+  {
+   "index": 3,
+   "title": "## آبادانی دنیا و ویرانی آخرت",
+   "start": 685.13,
+   "end": 796.02
+  },
+  {
+   "index": 4,
+   "title": "## یقظه در میان سختی‌ها",
+   "start": 796.02,
+   "end": 957.52
+  },
+  {
+   "index": 5,
+   "title": "## کشف تام و رویارویی با حقیقت",
+   "start": 957.52,
+   "end": 1114.31
+  },
+  {
+   "index": 6,
+   "title": "## تضرع اولیای خدا",
+   "start": 1114.31,
+   "end": 1134.35
+  },
+  {
+   "index": 7,
+   "title": "## نمونه‌ای از حال امام خمینی",
+   "start": 1134.35,
+   "end": 1433.55
+  },
+  {
+   "index": 8,
+   "title": "## نمونه‌ای از حال امام خمینی",
+   "start": 1433.55,
+   "end": 1579.73
+  },
+  {
+   "index": 9,
+   "title": "## نمونه‌ای از حال امام خمینی",
+   "start": 1579.73,
+   "end": 1697.05
+  },
+  {
+   "index": 10,
+   "title": "## نمونه‌ای از حال امام خمینی",
+   "start": 1697.05,
+   "end": 1822.51
+  },
+  {
+   "index": 11,
+   "title": "## نمونه‌ای از حال امام خمینی",
+   "start": 1822.51,
+   "end": 1993.81
+  },
+  {
+   "index": 12,
+   "title": "## نمونه‌ای از حال امام خمینی",
+   "start": 1993.81,
+   "end": 2029.95
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 0.74,
+   "end": 4.78,
+   "text": "بسم الله الرحمن الرحيم و به نستعين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 4.78,
+   "end": 8.98,
+   "text": "السلام علیک یا داعی الله و ربانی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 8.98,
+   "end": 13.5,
+   "text": "آياته. سلام علیکم و رحمة الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 13.5,
+   "end": 17.66,
+   "text": ". در روایت هجدهم باب چهارم کتاب الموت بودیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 17.66,
+   "end": 21.76,
+   "text": "چنانچه خاطر شریفتون باشه انتهای روایت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 21.76,
+   "end": 26.78,
+   "text": "امام مجتبی صلوات الله علیه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 26.78,
+   "end": 35.4,
+   "text": "به اون شخصی که اومد پرید وسط صحبتشون با اون ماجن دوست و صدیق حضرت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 35.4,
+   "end": 41.9,
+   "text": "فرمودن علت اینکه شما کراهت دارید مرگ رو دوست ندارید مرگ رو اینه که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 41.9,
+   "end": 45.5,
+   "text": "دنیا رو آباد کردید آخرت رو خراب کردید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 45.5,
+   "end": 51.06,
+   "text": "عبارتش این بود دیگه که انکم اخربتم آخرتکم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 51.06,
+   "end": 53.58,
+   "text": "آخرتتون رو خراب کردید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 53.58,
+   "end": 55.84,
+   "text": "و عمرتم دنیاکم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 55.84,
+   "end": 61.1,
+   "text": "دنیاتونو آباد کردید. فأنتم تكرهون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 61.1,
+   "end": 64.92,
+   "text": "نقلة من العمران إلى الخراب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 64.92,
+   "end": 70.3,
+   "text": "به همین جهت شما کراهت دارید که منتقل بشید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 70.3,
+   "end": 73.44,
+   "text": "از جایی که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 73.44,
+   "end": 75.12,
+   "text": "آباده به جایی که خرابه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 75.12,
+   "end": 77.68,
+   "text": "این اینجا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 77.68,
+   "end": 80.78,
+   "text": "نکات زیادی پیش میاد که حالا انشاالله به ترتیب عرض میکنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 80.78,
+   "end": 84.46,
+   "text": "اولین بحث اینجا خود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 84.46,
+   "end": 87.8,
+   "text": "موضوع نقله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 87.8,
+   "end": 92.44,
+   "text": "می فرماید ان نقلة من العمران إلى الخراب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 92.44,
+   "end": 95.44,
+   "text": "همونطور که پیغمبر عز عالم فرمودن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 95.44,
+   "end": 98.84,
+   "text": "انما تنتقلون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 98.84,
+   "end": 102.4,
+   "text": "من دارٍ إلى دار.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 102.4,
+   "end": 105.12,
+   "text": "یعنی منحصرًا قطعًا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 105.12,
+   "end": 109.16,
+   "text": "شما منتقل میشید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 109.16,
+   "end": 111.58,
+   "text": "تنتقلون، تنتقلون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 111.58,
+   "end": 115.72,
+   "text": "منتقل میشید، منتقلتون میکنن از داری به دار دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 115.72,
+   "end": 118.96,
+   "text": "پس یه انتقاله. موت انتقاله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 118.96,
+   "end": 120.54,
+   "text": "اینو اگه آدم بفهمه خیلی خوبه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 120.54,
+   "end": 127.26,
+   "text": "حالا لحظه انتقال چگونه است؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 127.26,
+   "end": 131.84,
+   "text": "اینجا دو تا بحث پیش میاد که این لحظه انتقال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 131.84,
+   "end": 139.7,
+   "text": "وقتیه که بدن کارکرد خودشو از دست میده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 139.7,
+   "end": 141.66,
+   "text": "و در حقیقت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 141.66,
+   "end": 145.98,
+   "text": "بدن دیگه بنیه شو از دست میده،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 145.98,
+   "end": 149.08,
+   "text": "به ضعف میرسه و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 149.08,
+   "end": 154.16,
+   "text": "نفس منتقل میشه، ربط به بدن داره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 154.16,
+   "end": 157.14,
+   "text": "یا به خود نفس ربط داره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 157.14,
+   "end": 161.04,
+   "text": "یعنی نفس به چنان قوت و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 161.04,
+   "end": 164.36,
+   "text": "باروری میرسه که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 164.36,
+   "end": 168.76,
+   "text": "نفس فارغ میشه از بدن و خارج میشه و میره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 168.76,
+   "end": 173.16,
+   "text": "اینجا بحث‌ها پیش میاد دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 173.16,
+   "end": 175.58,
+   "text": "بالاخره اینجا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 175.58,
+   "end": 183.2,
+   "text": "باید این سؤال جواب داده بشه که اینجا که حضرت می فرمایند شما دنیاتونو آباد کردید، اونورو خراب کردید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 183.2,
+   "end": 187.28,
+   "text": "به چی؟ این آبادی به چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 187.28,
+   "end": 191.02,
+   "text": "آبادی به بدنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 191.02,
+   "end": 194.7,
+   "text": "آبا-- یا آبادی به خارجه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 194.7,
+   "end": 196.78,
+   "text": "یعنی به خارج از خود شخصه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 196.78,
+   "end": 200.2,
+   "text": "مثلا به خونه و مسکن و مرکب و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 200.2,
+   "end": 202.44,
+   "text": "کار و دنیاست. به کدومه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 202.44,
+   "end": 209.3,
+   "text": "کدومو آباد کردی؟ چی آباد شده اینجا و چی خراب شده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 209.3,
+   "end": 211.08,
+   "text": "نمیدونم متوجه سؤال میشید یا نه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 211.08,
+   "end": 213.66,
+   "text": "اونور خراب مگه میشه اصلاً؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 213.66,
+   "end": 216.94,
+   "text": "مگه آخرت خراب شدنیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 216.94,
+   "end": 220.92,
+   "text": "اینکه حضرت می فرماید اونورو خراب کردید، اینجا رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 220.92,
+   "end": 226.72,
+   "text": "آباد کردید. حالا اینجا رو آباد کردید خودش باز بحث هست که کجا رو آباد کردیم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 226.72,
+   "end": 231.06,
+   "text": "دنیا، دنیا یعنی پیرامون رو آباد کردیم یا بدنمون رو؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 231.06,
+   "end": 234.24,
+   "text": "یعنی صرفاً به بدنمون رسیدیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 234.24,
+   "end": 240.94,
+   "text": "یا پیرامونو؟ یعنی اگر کسی ماشین و خونه و پول و سکه و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 240.94,
+   "end": 247.22,
+   "text": "کار خوب و اینها رو نداشته باشه فقط بدن داره آقا مفلسه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 247.22,
+   "end": 253.14,
+   "text": "این هم دنیاشو آباد کرده یا نکرده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 253.14,
+   "end": 257.0,
+   "text": "یعنی ور-- به بدنش فقط رسیدگی کرده ولی مفلسه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 257.0,
+   "end": 262.98,
+   "text": "هیچی تو دنیا نداره. اینم دنیاشو آباد کرده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 262.98,
+   "end": 267.24,
+   "text": "و اصلاً به فکر آخرتش هم نبوده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 267.24,
+   "end": 270.36,
+   "text": "فقط به بدنش رسیده. یعنی چیزی اضافه نکرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 270.36,
+   "end": 273.38,
+   "text": "خونه رو خونه، سکه رو سکه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 273.38,
+   "end": 276.82,
+   "text": "این خودش یه نکته‌ست. دو اینکه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 276.82,
+   "end": 280.4,
+   "text": "حالا که میخواد مفارقت کنه بره اصلاً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 280.4,
+   "end": 282.98,
+   "text": "بگیر یا به بدنش رسیده یا به خارج.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 282.98,
+   "end": 286.12,
+   "text": "یعنی امکاناتشو زیاد کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 286.12,
+   "end": 290.4,
+   "text": "م-مطلقاً میگیم به دنیا رسیدگی کرده به دنیاش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 290.4,
+   "end": 294.96,
+   "text": "خب اونورو خراب کردن مگه اونور خراب شدنیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 294.96,
+   "end": 297.02,
+   "text": "درست بود. جان؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 297.02,
+   "end": 299.62,
+   "text": "یه چیزی بوده درست بوده که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 299.62,
+   "end": 303.34,
+   "text": "خرابش کرده. مگه، مگه ما می‌تونیم اونورو خراب کنیم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 303.34,
+   "end": 306.56,
+   "text": "مگه ما تس-- می‌تونیم قدرت تصرف در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 306.56,
+   "end": 310.18,
+   "text": "ملکوت داریم که ملکوت رو خراب کنیم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 310.18,
+   "end": 312.8,
+   "text": "یعنی ملکوت می‌تونه تحت تصرف",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 312.8,
+   "end": 316.22,
+   "text": "مشرکین و منافقین و کفار قرار بگیره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 316.22,
+   "end": 320.88,
+   "text": "یه آدم نادون می‌تونه دست ببره در عمارת",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 320.88,
+   "end": 327.22,
+   "text": "ملکوت؟ اینو-- اینجا باید متوجه بشه منظور از این منطوق چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 327.22,
+   "end": 330.4,
+   "text": "اینا خیلی مهمه نکات. یعنی زیر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 330.4,
+   "end": 333.08,
+   "text": "این لوای این لفظ",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 333.08,
+   "end": 334.94,
+   "text": "منظور از این منطوق چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 334.94,
+   "end": 339.1,
+   "text": "امام چی-- داره چی میفرماید؟ برای اینکه اینو قشنگ متوجه بشیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 339.1,
+   "end": 341.86,
+   "text": "من کمک میگیرم از کتاب شریف",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 341.86,
+   "end": 346.32,
+   "text": "مشاهد العلویه که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 346.32,
+   "end": 349.3,
+   "text": "معروفه به شرح کبیر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 349.3,
+   "end": 353.94,
+   "text": "شرح کبیر بر شواهد ربوبیه مرحوم ملاصدرا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 353.94,
+   "end": 361.2,
+   "text": "روحش شاد. یه بخشیش در خصوص در سبب و ضرورت موت می فرماید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 361.2,
+   "end": 364.82,
+   "text": "عنوانش چیه؟ اگه خواستید کتابو مراجعه کنید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 364.82,
+   "end": 367.87,
+   "text": "در سبب و ضرورت موت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 367.87,
+   "end": 371.57,
+   "text": "سبب موت چیه؟ ضرورتش چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 94,
+   "start": 371.57,
+   "end": 375.55,
+   "text": "جلد یک. می‌تونید اونجا ببینید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 95,
+   "start": 375.55,
+   "end": 378.51,
+   "text": "ولی تقریباً دو صفحه و نیمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 96,
+   "start": 378.51,
+   "end": 382.97,
+   "text": "من تا اونجا که فرصت اقتضا کنه می‌خونم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 97,
+   "start": 382.97,
+   "end": 387.05,
+   "text": "بعد حالا توضیحی در مورد سوال ایجاد شد بعد از جلسه انشاالله در خدمتتون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 98,
+   "start": 387.05,
+   "end": 389.19,
+   "text": "ایشون می‌فرماید موجودات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 99,
+   "start": 389.19,
+   "end": 393.45,
+   "text": "ممکنه بر حسب احتمال عقلی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 100,
+   "start": 393.45,
+   "end": 396.27,
+   "text": "یا مورد ابداع حق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 101,
+   "start": 396.27,
+   "end": 399.45,
+   "text": "و از عالم امراند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 102,
+   "start": 399.45,
+   "end": 404.01,
+   "text": "و یا کائن و مخلوق جسمانی‌اند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 103,
+   "start": 404.01,
+   "end": 410.29,
+   "text": "این موج-موجودات ممکنه دار طبیعت، دار امکان، امکانی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 104,
+   "start": 410.29,
+   "end": 414.75,
+   "text": "یا حق اینا رو ابداع کرده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 105,
+   "start": 414.75,
+   "end": 417.73,
+   "text": "که مربوط به عالم امر میشن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 106,
+   "start": 417.73,
+   "end": 421.39,
+   "text": "مثل خود نفس که وجود ملکوتی داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 107,
+   "start": 421.39,
+   "end": 425.39,
+   "text": "یا کائن و مخلوق جسمانی‌اند مثل بدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 108,
+   "start": 425.39,
+   "end": 428.71,
+   "text": "مثل نشأت خود نشأت طبیعت، ماده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 109,
+   "start": 428.71,
+   "end": 433.95,
+   "text": "از این دو حالت خارج نیست. و به عبارت دیگر یا تمام‌اند یا ناقص‌اند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 110,
+   "start": 433.95,
+   "end": 439.71,
+   "text": "اگر ملکوتی باشن اه-- اگه ابداع مستقیم خود حضرت حق باشن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 111,
+   "start": 439.71,
+   "end": 444.13,
+   "text": "مثل \"و نَفَخْتُ فِيهِ مِن رُّوحِي\" اینها تام‌اند، تمام‌اند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 112,
+   "start": 444.13,
+   "end": 450.75,
+   "text": "اما اگر کائن و مخلوق جسمانی باشن مربوط به نشأت طبیعت باشن اینا ناقص‌اند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 113,
+   "start": 450.75,
+   "end": 455.25,
+   "text": "و موجود ابداعی و امری ناگزیر با بقای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 114,
+   "start": 455.25,
+   "end": 460.25,
+   "text": "فاعل و علت غایی باقی مانده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 115,
+   "start": 460.25,
+   "end": 464.45,
+   "text": "و موجود کائن یا ناقص گرفتار فساد خواهد شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 116,
+   "start": 464.45,
+   "end": 473.13,
+   "text": "و سبب تام آن امری‌ست که حرکت و زمان در آن داخل بوده و هر حرکتی هم ناگزیر از انقضا می‌باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 117,
+   "start": 473.13,
+   "end": 478.33,
+   "text": "می‌فرماید اون موجود تام، اون که امریه، اون که ابداع حقه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 118,
+   "start": 478.33,
+   "end": 482.55,
+   "text": "اون که ملکوتیه، اون که قطعاً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 119,
+   "start": 482.55,
+   "end": 485.49,
+   "text": "اسمش رو خودشه دیگه. که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 120,
+   "start": 485.49,
+   "end": 488.51,
+   "text": "س-- می‌فرماید که تامه اصلاً.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 121,
+   "start": 488.51,
+   "end": 493.51,
+   "text": "یک امری‌ست که حرکت‌بردار نیست، زمان‌بردار نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 122,
+   "start": 493.51,
+   "end": 495.09,
+   "text": "زمان نمی‌خوره به ملکوت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 123,
+   "start": 495.09,
+   "end": 499.57,
+   "text": "زمان، حرکت قبلاً هم عرض کردیم مخصوص",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 124,
+   "start": 499.57,
+   "end": 501.81,
+   "text": "نشأت طبیعته، مربوط ماده‌ست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 125,
+   "start": 501.81,
+   "end": 504.05,
+   "text": "خب اون حیکه هیچی. اما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 126,
+   "start": 504.05,
+   "end": 506.67,
+   "text": "جسم چی؟ جسم مادیه دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 127,
+   "start": 506.67,
+   "end": 510.45,
+   "text": "این جسم چون حرکت توشه، زمان توشه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 128,
+   "start": 510.45,
+   "end": 515.09,
+   "text": "توش داخله می‌فرماید که هر حرکتی هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 129,
+   "start": 515.09,
+   "end": 517.67,
+   "text": "ناگزیر از انقضا می‌باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 130,
+   "start": 517.67,
+   "end": 521.31,
+   "text": "بالاخره از یه جا حرکت شروع میشه یه جا پایان پیدا می‌کنه دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 131,
+   "start": 521.31,
+   "end": 524.21,
+   "text": "پس منقضی میشه. یه جا انقضا داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 132,
+   "start": 524.21,
+   "end": 528.69,
+   "text": "خب این تا اینجا. زیرا سبب آن منقضی می‌شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 133,
+   "start": 528.69,
+   "end": 532.83,
+   "text": "تا اینجا مشخصه دیگه. پس هر کائنی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 134,
+   "start": 532.83,
+   "end": 538.05,
+   "text": "کائن چی بود؟ اونکه جسمانیه، مادیه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 135,
+   "start": 538.05,
+   "end": 540.35,
+   "text": "دنیویه، طبیعیه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 136,
+   "start": 540.35,
+   "end": 544.67,
+   "text": "ملکوتی نیست. هر کائنی جسمیه، جسد داره،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 137,
+   "start": 544.67,
+   "end": 549.01,
+   "text": "عِشر داره. هر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 138,
+   "start": 549.01,
+   "end": 555.37,
+   "text": "کائنی ملا صدرا می‌فرماید به ذات فاسد شدنی‌ست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 139,
+   "start": 555.37,
+   "end": 557.99,
+   "text": "چرا فاسد شدنی‌ست؟ چون منقضی میشه دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 140,
+   "start": 557.99,
+   "end": 561.89,
+   "text": "زمان بر داره. حرکت از یه جا شروع میشه، یه جا تموم میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 141,
+   "start": 561.89,
+   "end": 565.21,
+   "text": "و بدون تردید ابدان حیوانات،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 142,
+   "start": 565.21,
+   "end": 568.67,
+   "text": "حالا اینجا خودمون رو هم حیوان می‌گیریم، حیوان ناطق.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 143,
+   "start": 568.67,
+   "end": 573.63,
+   "text": "بدن‌های حیوانات از امور کائن و متجدد بوده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 144,
+   "start": 573.63,
+   "end": 577.79,
+   "text": "یعنی مربوط به عالم طبیعته، مادیه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 145,
+   "start": 577.79,
+   "end": 582.35,
+   "text": "از کائناته. متجدد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 146,
+   "start": 582.35,
+   "end": 586.39,
+   "text": "چیه؟ یعنی دو مرتبه طورش عوض میشه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 147,
+   "start": 586.39,
+   "end": 590.01,
+   "text": "بله دیگه. الان ش-الان شما-",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 148,
+   "start": 590.01,
+   "end": 592.41,
+   "text": "بچه بودن، جوان شدن- بله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 149,
+   "start": 592.41,
+   "end": 596.53,
+   "text": "پیر شدن. اینا- بله. طورهای مختلف بله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 150,
+   "start": 596.53,
+   "end": 598.57,
+   "text": "فقط خلقکم اطوار.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 151,
+   "start": 598.57,
+   "end": 601.75,
+   "text": "اصلاً شما الان می‌تونی شیر مادر بخوری؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 152,
+   "start": 601.75,
+   "end": 604.69,
+   "text": "ضرر داره برات. بچه چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 153,
+   "start": 604.69,
+   "end": 607.05,
+   "text": "می‌تونه شلوکباب بخوره؟ خفه میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 154,
+   "start": 607.05,
+   "end": 610.27,
+   "text": "چرا؟ چون طورش عوض شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 155,
+   "start": 610.27,
+   "end": 616.03,
+   "text": "به این شکله. حالا بعد اینجا می‌فرماید که بناچار",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 156,
+   "start": 616.03,
+   "end": 619.87,
+   "text": "به علت فساد آن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 157,
+   "start": 619.87,
+   "end": 623.25,
+   "text": "در معرض موت واقع خواهند شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 158,
+   "start": 623.25,
+   "end": 625.89,
+   "text": "داره ضرورت موت رو میگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 159,
+   "start": 625.89,
+   "end": 631.65,
+   "text": "چون فاسد میشه پس موت هست، قاعدتاً هست، قطعاً هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 160,
+   "start": 631.65,
+   "end": 633.63,
+   "text": "ولی موجودات کدوما؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 161,
+   "start": 633.63,
+   "end": 637.99,
+   "text": "اونایی که کائنی‌اند، جسمانی‌اند، حیوانی‌اند، اون ابدان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 162,
+   "start": 637.99,
+   "end": 646.15,
+   "text": "ولی موجودات تامه و کامل باقی مانده و در عین حال نوع آنها منحصر در شخص می‌باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 163,
+   "start": 646.15,
+   "end": 654.21,
+   "text": "منحصرند در این شخص. یعنی شما نفس متع-متعلق به خود حضرت عالیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 164,
+   "start": 654.21,
+   "end": 659.97,
+   "text": "نفس انسانی متعلق به نوع انسانیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 165,
+   "start": 659.97,
+   "end": 662.97,
+   "text": "نفوذ حیوانی متعلق به نفوذ حیوانییه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 166,
+   "start": 662.97,
+   "end": 666.13,
+   "text": "نفوذ نباتی هم متعلق به نفوذ نباتیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 167,
+   "start": 666.13,
+   "end": 669.07,
+   "text": "و اما از موجودات ناقص",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 168,
+   "start": 669.07,
+   "end": 676.35,
+   "text": "موجودی دیگر تکوین یافته و اسبابی آماده برای پدید آمدن موجوداتی دیگرند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 169,
+   "start": 676.35,
+   "end": 685.13,
+   "text": "و اگر دوامی برای آنها فرض شود دیگر مصداق ناقص نبوده و بلکه تمام و کامل‌اند چون دمام و-- دوام برای اونها داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 170,
+   "start": 685.13,
+   "end": 692.21,
+   "text": "یعنی روح، نفس. داره همون بحث جسمانیة الحدوث و روحانیة البقاء رو میگه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 171,
+   "start": 692.21,
+   "end": 697.21,
+   "text": "که از دل این جسم، این کائن، این جسمانی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 172,
+   "start": 697.21,
+   "end": 701.33,
+   "text": "این بدن nefsi متولد میشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 173,
+   "start": 701.33,
+   "end": 704.51,
+   "text": "که اون مولد، اون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 174,
+   "start": 704.51,
+   "end": 710.65,
+   "text": "در حقیقت مولود، اون nefsi که متولد شد دیگه اون باقیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 175,
+   "start": 710.65,
+   "end": 714.81,
+   "text": "اما خود جسمی که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 176,
+   "start": 714.81,
+   "end": 720.39,
+   "text": "در حقیقت نفس از دل اون تکون یافته، اون جسم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 177,
+   "start": 720.39,
+   "end": 722.99,
+   "text": "باقی نیست. چون از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 178,
+   "start": 722.99,
+   "end": 726.11,
+   "text": "جنس طبیعته، کائنه، جسمانیه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 179,
+   "start": 726.11,
+   "end": 733.0,
+   "text": "ناقصه. و این خلاف فرض ما خواهد بود و لذا موت طبیعی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 180,
+   "start": 733.0,
+   "end": 737.34,
+   "text": "به علت اینکه قوای حیوانی و نفوس همواره از مرا--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 181,
+   "start": 737.34,
+   "end": 746.5,
+   "text": "مرتبه‌ای به مرتبه دیگر متوجه و منتقل گردیده و در علم الهیات مبین و ثابت شد که برای حرکات و افعال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 182,
+   "start": 746.5,
+   "end": 751.9,
+   "text": "طبیعی غایت و نهایتی است که راجع به فاعل آن بوده و غایت عرضی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 183,
+   "start": 751.9,
+   "end": 761.38,
+   "text": "نیز از توابع غایت حقیقی می‌باشد مانند تولد فرزند از اطفاء شهوت و حصول موالید برای قوای فلکی و منافعی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 184,
+   "start": 761.38,
+   "end": 764.1,
+   "text": "بر غایت عرضی مرت-مترتب است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 185,
+   "start": 764.1,
+   "end": 770.84,
+   "text": "که دو نمونه از آنها گفته، گفته آمد و در نهایت آنگاه که نفس آدمی از قوه به فعل می‌رسد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 186,
+   "start": 770.84,
+   "end": 778.3,
+   "text": "این فعلیت یا در سعادت عقلی و ملکی است و یا در شقاوت شیطانی و درنده خویی و بهیمیت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 187,
+   "start": 778.3,
+   "end": 784.38,
+   "text": "فرمود که حالا نفس، نفس آدمی وقتی از قوه به فعل میرسه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 188,
+   "start": 784.38,
+   "end": 788.2,
+   "text": "فعلیتش از اون منه و استعداد که خارج میشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 189,
+   "start": 788.2,
+   "end": 790.8,
+   "text": "میره به فعلیت. یا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 190,
+   "start": 790.8,
+   "end": 794.22,
+   "text": "این فعلیت یا در سعادت عقلی و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 191,
+   "start": 794.22,
+   "end": 801.96,
+   "text": "ملکیه یعنی ارتقای وجودی پیدا میکنه یا در شقاوت شیطانی و درنده خویی و بهیمیت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 192,
+   "start": 801.96,
+   "end": 805.0,
+   "text": "یعنی میشه مثلی از حیوانیت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 193,
+   "start": 805.0,
+   "end": 807.5,
+   "text": "بلکه بلهم ازل هم در قرآن داریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 194,
+   "start": 807.5,
+   "end": 811.44,
+   "text": "کل انعام داریم بلهم ازل از اون پست‌تر شده هم داریم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 195,
+   "start": 811.44,
+   "end": 817.48,
+   "text": "که عقل رو زیر پا گذاشته که با موت او از این نشئه به نشئه دیگر منتقل می‌گردد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 196,
+   "start": 817.48,
+   "end": 822.36,
+   "text": "و چون نفس از بدن جدا شد موت بر آن عارض می‌شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 197,
+   "start": 822.36,
+   "end": 824.98,
+   "text": "این یه معنای موت. گوش دادین؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 198,
+   "start": 824.98,
+   "end": 829.02,
+   "text": "چون نفس از بدن جدا شد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 199,
+   "start": 829.02,
+   "end": 831.2,
+   "text": "موت بر آن عارض می‌شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 200,
+   "start": 831.2,
+   "end": 834.18,
+   "text": "و البته این مرگ هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 201,
+   "start": 834.18,
+   "end": 840.36,
+   "text": "غیر از و البته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 202,
+   "start": 840.36,
+   "end": 843.94,
+   "text": "اینجا رو نکته خیلی خوبی رو اشاره کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 203,
+   "start": 843.94,
+   "end": 849.2,
+   "text": "می‌فرماید و البته این مرگ هم غیر از مرگ اتفاقی است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 204,
+   "start": 849.2,
+   "end": 852.2,
+   "text": "مانند اصابت گلوله به تن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 205,
+   "start": 852.2,
+   "end": 856.08,
+   "text": "یا سر و یا غرق شدن در دریا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 206,
+   "start": 856.08,
+   "end": 860.94,
+   "text": "و امثالهم. یعنی میگه آقا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 207,
+   "start": 860.94,
+   "end": 864.66,
+   "text": "اون موتی که ناگهانیه، مرگ مفاجات.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 208,
+   "start": 864.66,
+   "end": 871.58,
+   "text": "هنوز نفس ارتقای وجودی پیدا نکرده به یک حادثه‌ای یه دفعه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 209,
+   "start": 871.58,
+   "end": 873.46,
+   "text": "قطع میشه ارتباطش با بدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 210,
+   "start": 873.46,
+   "end": 879.12,
+   "text": "اون رو نمیگیم. ما داریم میگیم نفس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 211,
+   "start": 879.12,
+   "end": 887.4,
+   "text": "به جایی میرسه که چنان ارتقای وجودی پیدا میکنه که دیگه نیاز به بدن نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 212,
+   "start": 887.4,
+   "end": 889.72,
+   "text": "حالا اینجا سؤال پیش میاد که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 213,
+   "start": 889.72,
+   "end": 896.7,
+   "text": "بدن جزو نفس، نفسه یا نفس جزو بدنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 214,
+   "start": 896.7,
+   "end": 901.32,
+   "text": "یعنی نفس بدن داره یا بدن نفس داره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 215,
+   "start": 901.32,
+   "end": 903.22,
+   "text": "یه سؤاله. شما می‌فرمایید که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 216,
+   "start": 903.22,
+   "end": 906.76,
+   "text": "نفس به درجه‌ای می‌رسه که دیگه نیاز به بدن نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 217,
+   "start": 906.76,
+   "end": 908.68,
+   "text": "خب. بله؟ بله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 218,
+   "start": 908.68,
+   "end": 913.32,
+   "text": "همین فرمودید. خب. خب پس بدن جزو نفس- آفرین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 219,
+   "start": 913.32,
+   "end": 915.66,
+   "text": "احسنت به شما. این دقت نظر شماست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 220,
+   "start": 915.66,
+   "end": 920.6,
+   "text": "هرکسی این دقت رو نداره که. حالا بریم جلوتر خود ملا صدرای میگه اینو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 221,
+   "start": 920.6,
+   "end": 924.86,
+   "text": "می‌فرماید. حالا فعلاً اینجا توجه داشته باشیم که می‌فرمود اون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 222,
+   "start": 924.86,
+   "end": 927.0,
+   "text": "اصابت لحظه‌ای گلوله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 223,
+   "start": 927.0,
+   "end": 930.92,
+   "text": "که به یک باره قطع میشه رابطه نفس و بدن رو ما اونو نمیگیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 224,
+   "start": 930.92,
+   "end": 933.18,
+   "text": "میگه اصلاً سیر طبیعی موت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 225,
+   "start": 933.18,
+   "end": 936.86,
+   "text": "به صورت طبیعی به این شکله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 226,
+   "start": 936.86,
+   "end": 941.0,
+   "text": "که نفس به یه مرحله‌ای میرسه که دیگه نیاز به بدن نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 227,
+   "start": 941.0,
+   "end": 944.8,
+   "text": "به این میگن موت. داره اینطوری تعریف میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 228,
+   "start": 944.8,
+   "end": 949.04,
+   "text": "که بعد میزنه به آیه «کل نفس ذائقه الموت»",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 229,
+   "start": 949.04,
+   "end": 952.14,
+   "text": "و معنی آن مفارقت فطری نفوس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 230,
+   "start": 952.14,
+   "end": 957.52,
+   "text": "و خروج آن از قوه به فعل و آن هم بر اثر دخول در نشئه دوام است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 231,
+   "start": 957.52,
+   "end": 964.64,
+   "text": "و در صورت که سعید باشند همانند فرشتگان مسرورند و اگر شقی در شمار آیند در آتش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 232,
+   "start": 964.64,
+   "end": 968.76,
+   "text": "بعد الهی یعنی دوری از حضرت حق سوخته و نظیر اشرار",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 233,
+   "start": 968.76,
+   "end": 977.12,
+   "text": "و شیاطین به سر می‌برند. و سرانجام جمیع امم و ملت‌ها و اقوام انسانی از هر نژاد و دین و مذهب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 234,
+   "start": 977.12,
+   "end": 979.38,
+   "text": "در میقات یوم معلوم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 235,
+   "start": 979.38,
+   "end": 982.42,
+   "text": "یعنی عالم آخرت جمع آمده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 236,
+   "start": 982.42,
+   "end": 986.94,
+   "text": "و در آنجا خبیث از طیب و صالح از فاسد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 237,
+   "start": 986.94,
+   "end": 989.38,
+   "text": "و مؤمن از کافر و مشرک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 238,
+   "start": 989.38,
+   "end": 994.78,
+   "text": "و عالم و عارف از جاهل و احمق شناخته گردیده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 239,
+   "start": 994.78,
+   "end": 997.22,
+   "text": "و باطن و سیرت و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 240,
+   "start": 997.22,
+   "end": 1000.22,
+   "text": "سرائر همگان آشکارا می‌شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 241,
+   "start": 1000.22,
+   "end": 1002.14,
+   "text": "یوم تبلى السرائر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 242,
+   "start": 1002.14,
+   "end": 1004.54,
+   "text": "میگه اونجا کاملاً مشهوده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 243,
+   "start": 1004.54,
+   "end": 1007.1,
+   "text": "چون چی رو اونجا می‌بینی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 244,
+   "start": 1007.1,
+   "end": 1009.82,
+   "text": "اونجا ظهور نفس رو می‌بینی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 245,
+   "start": 1009.82,
+   "end": 1012.96,
+   "text": "اینجا نفس متولد شده از بدنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 246,
+   "start": 1012.96,
+   "end": 1016.52,
+   "text": "ابتدا. بعد دیگه نفس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 247,
+   "start": 1016.52,
+   "end": 1020.88,
+   "text": "به جهت تعلقش به بدن میشه مادر یا پدر بدنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 248,
+   "start": 1020.88,
+   "end": 1023.42,
+   "text": "بدن رو هم ارتقا میده با خودش میاره بالا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 249,
+   "start": 1023.42,
+   "end": 1025.84,
+   "text": "اینجا مشخص نمیشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 250,
+   "start": 1025.84,
+   "end": 1031.86,
+   "text": "خیلی. یعنی هرکسی نمی‌فهمه این آقا جاهله، این آقا عارفه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 251,
+   "start": 1031.86,
+   "end": 1038.78,
+   "text": "چون اینجا تحت اسم الاول و تحت اسم الظاهر خدا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 252,
+   "start": 1038.78,
+   "end": 1044.22,
+   "text": "داره کار می‌کنه. وقتی رفتی اونور اسم الآخر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 253,
+   "start": 1044.22,
+   "end": 1048.54,
+   "text": "و اسم الباطن ظهور می‌کنن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 254,
+   "start": 1048.54,
+   "end": 1051.76,
+   "text": "اونجا کاملاً دیگه احمق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 255,
+   "start": 1051.76,
+   "end": 1058.18,
+   "text": "و جاهل جسارتاً از عارف و عالم کاملاً تمیز داده میشن، مشخصن آقا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 256,
+   "start": 1058.18,
+   "end": 1064.3,
+   "text": "چون از بدن فارغ شدن. و مفهوم ادنی mundo",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 257,
+   "start": 1064.3,
+   "end": 1067.74,
+   "text": "آخرة مبین شده و حکمت نهفته در موت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 258,
+   "start": 1067.74,
+   "end": 1073.96,
+   "text": "و سبب و ضرورت آن به منصه ظهور می‌رسد و به خوبی معلوم می‌گردد که موت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 259,
+   "start": 1073.96,
+   "end": 1077.38,
+   "text": "رحمتی از خداوند بر بندگان اوست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 260,
+   "start": 1077.38,
+   "end": 1079.16,
+   "text": "و به همین ملاحظه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 261,
+   "start": 1079.16,
+   "end": 1087.46,
+   "text": "اولیاء الله همواره مرگ خود را از حضرت او آرزو و تمنا کرده همون «فتمنوا الموت ان کنتم صادقین».",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 262,
+   "start": 1087.46,
+   "end": 1096.24,
+   "text": "و با توجه بدین که از قوه و نقص به فعل و کمال رسیده و سهم مقدر خود را از دنیا وصول کرده‌اند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 263,
+   "start": 1096.24,
+   "end": 1100.76,
+   "text": "عرصه و میدان آن را برای دیگران و آیندگان خالی نموده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 264,
+   "start": 1100.76,
+   "end": 1103.08,
+   "text": "و در چنین حالتی‌ست که موت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 265,
+   "start": 1103.08,
+   "end": 1112.81,
+   "text": "عین حکمت و رحمت الهی بوده و مصداق کریمه «ثم یمیتکم ثم یحییکم ثم الیه ترجعون» واقع می‌شود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 266,
+   "start": 1112.81,
+   "end": 1116.35,
+   "text": "خیلی عالی گفته، خیلی. یعنی ملاصدرا اینجا می‌فرماید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 267,
+   "start": 1116.35,
+   "end": 1120.29,
+   "text": "به جهت اینکه نفس اون،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 268,
+   "start": 1120.29,
+   "end": 1126.59,
+   "text": "حرکتش رو، اون ارتقای وجودیش رو از مخض به کمال طی کرده،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 269,
+   "start": 1126.59,
+   "end": 1129.75,
+   "text": "به جایی می‌رسه که دیگه اصلاً حکمت،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 270,
+   "start": 1129.75,
+   "end": 1135.97,
+   "text": "حکمت محض موته. موندنش اینا اصلاً دیگه اینجا اقتضا نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 271,
+   "start": 1135.97,
+   "end": 1139.91,
+   "text": "در گی-- یعنی گرفتار بدن و نه--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 272,
+   "start": 1139.91,
+   "end": 1143.65,
+   "text": "این جسم و جسد بودنش حکمتی درش نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 273,
+   "start": 1143.65,
+   "end": 1148.55,
+   "text": "چون به اون حد از رشد و ارتقا رسیده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 274,
+   "start": 1148.55,
+   "end": 1152.03,
+   "text": "لذا میره. الان تا اینجا یه چیزی ما الان ادامه داره می‌خونیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 275,
+   "start": 1152.03,
+   "end": 1155.71,
+   "text": "لحظه اول مرگ همونه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 276,
+   "start": 1155.71,
+   "end": 1160.83,
+   "text": "بله دیگه. بله همینه. حالا اینجا داره چی رو می‌فرمود ملاصدرا؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 277,
+   "start": 1160.83,
+   "end": 1163.27,
+   "text": "می‌فرمود که اون-- ما چرا اینو گفتیم اصلاً؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 278,
+   "start": 1163.27,
+   "end": 1165.93,
+   "text": "گفتیم آقا این خرابی به چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 279,
+   "start": 1165.93,
+   "end": 1169.87,
+   "text": "یا احیا به چیه؟ به نفسه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 280,
+   "start": 1169.87,
+   "end": 1172.03,
+   "text": "اینجا داره ملاصدرا می‌فرماید اگه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 281,
+   "start": 1172.03,
+   "end": 1175.79,
+   "text": "نفسش رو ارتقا داد، یعنی نفس رو احیا کرد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 282,
+   "start": 1175.79,
+   "end": 1180.81,
+   "text": "آباد کرد با کمک بدن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 283,
+   "start": 1180.81,
+   "end": 1188.47,
+   "text": "این نفس به صورت طبیعی چون ارتقای وجودی پیدا کرده دیگه به جایی می‌رسه که نیاز به بدن دیگه نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 284,
+   "start": 1188.47,
+   "end": 1194.49,
+   "text": "میشه موت. یکپارچه حکمت میشه اصلاً موت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 285,
+   "start": 1194.49,
+   "end": 1197.43,
+   "text": "چون از این نشئه می‌خواد بره به اون نشئه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 286,
+   "start": 1197.43,
+   "end": 1202.37,
+   "text": "تو-- تا اینجا این بدن نیاز بود که نفس رو کمک کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 287,
+   "start": 1202.37,
+   "end": 1210.29,
+   "text": "اما ا-از اون لحظه که دیگه ارتقای وجودی پیدا کرد می‌خواد بره به عالم ملکوت دیگه نیاز به بدن نداره که.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 288,
+   "start": 1210.29,
+   "end": 1214.21,
+   "text": "خب اینجا شما بفرمایید ببینم نفوسی که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 289,
+   "start": 1214.21,
+   "end": 1217.15,
+   "text": "ارتقا پیدا کردن بهشون میگیم چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 290,
+   "start": 1217.15,
+   "end": 1219.95,
+   "text": "نفوس آباد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 291,
+   "start": 1219.95,
+   "end": 1223.05,
+   "text": "بخوایم جمعش کنیم با اون روایت، با اون روایت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 292,
+   "start": 1223.05,
+   "end": 1230.31,
+   "text": "هجدهم. و اگر nefsi ارتقا پیدا نکرد در بند شهوات و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 293,
+   "start": 1230.31,
+   "end": 1234.93,
+   "text": "صوئیت و بهیمیت و امثالهم که بحثش شد بود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 294,
+   "start": 1234.93,
+   "end": 1237.63,
+   "text": "در بند همین دنیا بود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 295,
+   "start": 1237.63,
+   "end": 1239.85,
+   "text": "این ارتقای وجود پیدا نکرد میشه چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 296,
+   "start": 1239.85,
+   "end": 1245.43,
+   "text": "خراب کرده. در حقیقت نفسش رو خراب کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 297,
+   "start": 1245.43,
+   "end": 1247.87,
+   "text": "برگردم به اون روایت. می‌فرماید که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 298,
+   "start": 1247.87,
+   "end": 1251.65,
+   "text": "\"إنكم أخرbtم آخرتكم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 299,
+   "start": 1251.65,
+   "end": 1255.23,
+   "text": "وأمرتكم دنياكم\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 300,
+   "start": 1255.23,
+   "end": 1259.49,
+   "text": "منظور اینه شما نفستون رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 301,
+   "start": 1259.49,
+   "end": 1263.73,
+   "text": "خراب کردید، دنیاتونو آباد کردید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 302,
+   "start": 1263.73,
+   "end": 1269.11,
+   "text": "حالا کاری نداریم این دنیا به بدن می‌خوره یا به پیرامون بدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 303,
+   "start": 1269.11,
+   "end": 1272.91,
+   "text": "در هر حال به توجهتون به بدن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 304,
+   "start": 1272.91,
+   "end": 1276.27,
+   "text": "و تعلقاتش بود. به کیف بدن بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 305,
+   "start": 1276.27,
+   "end": 1280.13,
+   "text": "چگونه‌ست که سر سفره که می‌شینی مکیف میشی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 306,
+   "start": 1280.13,
+   "end": 1283.35,
+   "text": "کیف می‌کنی از خوردن غذا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 307,
+   "start": 1283.35,
+   "end": 1289.07,
+   "text": "ولی سر سفره‌ی عبادت و بندگی و نماز و ذکر که می‌شینی مکیف نمی‌شی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 308,
+   "start": 1289.07,
+   "end": 1291.97,
+   "text": "کیف نمی‌کنی، لذت نمی‌بری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 309,
+   "start": 1291.97,
+   "end": 1294.87,
+   "text": "از همین جا، از همین نشونه‌ها میشه تشخیص داد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 310,
+   "start": 1294.87,
+   "end": 1298.27,
+   "text": "که ما چه-- کجای کاریم، چی‌کاره‌ایم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 311,
+   "start": 1298.27,
+   "end": 1303.75,
+   "text": "خب ادامه‌شم بخونم؟ باری نفس حاصل بدن طبیعی‌ست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 312,
+   "start": 1303.75,
+   "end": 1305.95,
+   "text": "و نه به عقیده‌ی عامیان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 313,
+   "start": 1305.95,
+   "end": 1310.45,
+   "text": "اینجا که آقای وحدتی عزیز شما اونجا گفتید اینجا داره نتیجه‌شو می‌گیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 314,
+   "start": 1310.45,
+   "end": 1312.69,
+   "text": "و نه به عقیده‌ی عامیان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 315,
+   "start": 1312.69,
+   "end": 1317.41,
+   "text": "بدن حامل نفس و بالاخره نفس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 316,
+   "start": 1317.41,
+   "end": 1320.95,
+   "text": "موجب تحصل و تکوین جسمی باشد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 317,
+   "start": 1320.95,
+   "end": 1327.87,
+   "text": "و نه قوت غذا و طلوع در آسمان و منزل اعلا و بهشت خوشبختان نیز",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 318,
+   "start": 1327.87,
+   "end": 1332.97,
+   "text": "با این جثه‌ی کثیف و بنیه‌ی تاریک مادی امکان‌پذیر نبوده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 319,
+   "start": 1332.97,
+   "end": 1336.07,
+   "text": "اص-- پس باید بر اساس حکمت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 320,
+   "start": 1336.07,
+   "end": 1338.43,
+   "text": "متعالیه باید موت حاصل بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 321,
+   "start": 1338.43,
+   "end": 1342.89,
+   "text": "باید این نفس از بدن جدا بشه. اینجا الان فرمود که پس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 322,
+   "start": 1342.89,
+   "end": 1344.93,
+   "text": "اصلاً این خیلی شیرین فرموده ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 323,
+   "start": 1344.93,
+   "end": 1353.49,
+   "text": "فرموده که بالاخره نفس موجب تحصل و تکویم-- تکوین جسمی باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 324,
+   "start": 1353.49,
+   "end": 1356.17,
+   "text": "نفسه که بدن رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 325,
+   "start": 1356.17,
+   "end": 1361.21,
+   "text": "غذا میده، نه قوت غذا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 326,
+   "start": 1361.21,
+   "end": 1363.67,
+   "text": "ما فکر می‌کنیم که این غذا داره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 327,
+   "start": 1363.67,
+   "end": 1365.85,
+   "text": "نه-- بدن رو قوت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 328,
+   "start": 1365.85,
+   "end": 1372.83,
+   "text": "میده. غذائه نیست، نفس داره غذا میده اما به وسیله‌ی غذا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 329,
+   "start": 1372.83,
+   "end": 1376.65,
+   "text": "نفس داره بدن رو قوت می‌بخشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 330,
+   "start": 1376.65,
+   "end": 1379.35,
+   "text": "نفس داره بدن رو بالا می‌کشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 331,
+   "start": 1379.35,
+   "end": 1385.59,
+   "text": "درسته؟ اما علت مؤدش میشه غذا، میشه آب و نان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 332,
+   "start": 1385.59,
+   "end": 1388.39,
+   "text": "اما اگر نفس کسی قوی شد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 333,
+   "start": 1388.39,
+   "end": 1392.47,
+   "text": "به جایی می‌رسه که اصلاً دیگه نیاز به آب و نان نداره‌ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 334,
+   "start": 1392.47,
+   "end": 1394.87,
+   "text": "مثل حضرت موسی که چهل روز هیچی نخورد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 335,
+   "start": 1394.87,
+   "end": 1402.17,
+   "text": "نیاز به خواب نداره‌ها. خب چنین کسی برای چی بمونه تو بدن؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 336,
+   "start": 1402.17,
+   "end": 1407.09,
+   "text": "یک وقت هست اقتضای حق اینه که دست دیگران رو بگیره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 337,
+   "start": 1407.09,
+   "end": 1411.25,
+   "text": "مثل امام عصر. ایشون آنفاً آن باید از این بدن فارغ بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 338,
+   "start": 1411.25,
+   "end": 1414.93,
+   "text": "دیگه نیازی به این بدن نداره. درسته؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 339,
+   "start": 1414.93,
+   "end": 1423.37,
+   "text": "اما اقتضای حکمت الهی بر این تحقق گرفته، تعلق گرفته که بماند دست خلق الله رو بگیره جهت هدایت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 340,
+   "start": 1423.37,
+   "end": 1427.35,
+   "text": "اما نه، اگر خودش فقط مسئول خودشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 341,
+   "start": 1427.35,
+   "end": 1432.27,
+   "text": "این شخص دیگه نفسش به ارتقای لازم رسید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 342,
+   "start": 1432.27,
+   "end": 1434.65,
+   "text": "بعد بدن رو هم کی غذا می‌داد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 343,
+   "start": 1434.65,
+   "end": 1436.67,
+   "text": "کی بنیه‌ی بدن رو تامین می‌کرد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 344,
+   "start": 1436.67,
+   "end": 1441.61,
+   "text": "نفس. حالا که دیگه نیاز به بدن نداره برای چی دوباره بهش بنیه بده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 345,
+   "start": 1441.61,
+   "end": 1444.57,
+   "text": "چرا غذا بهش بده؟ ولش می‌کنه میره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 346,
+   "start": 1444.57,
+   "end": 1449.71,
+   "text": "این میشه خارج شدن نفس از بدن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 347,
+   "start": 1449.71,
+   "end": 1453.43,
+   "text": "یا به عبارتی رها کردن جزئی از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 348,
+   "start": 1453.43,
+   "end": 1457.07,
+   "text": "شعون خودش که بدنه برای رسیدن به ملکوت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 349,
+   "start": 1457.07,
+   "end": 1461.83,
+   "text": "[سخنگوی 1] بله دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 350,
+   "start": 1461.83,
+   "end": 1464.83,
+   "text": "به خدا کعبه رستگار شدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 351,
+   "start": 1464.83,
+   "end": 1467.81,
+   "text": "یعنی به اونجا رسیدن که دیگه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 352,
+   "start": 1467.81,
+   "end": 1471.87,
+   "text": "ب-- اونا اصلاً \"فَتَمَنَّ نَبَأَ الْمَوْتِ إِنْ كُنْتُمْ صَادِقِينَ\" دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 353,
+   "start": 1471.87,
+   "end": 1474.17,
+   "text": "صادقین کیان؟ \"کُونُوا مَعَ الصَّادِقِينَ\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 354,
+   "start": 1474.17,
+   "end": 1477.09,
+   "text": "تو قرآن میگه باش همراه صادقین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 355,
+   "start": 1477.09,
+   "end": 1479.73,
+   "text": "در تفاسیر روایی فرمودن این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 356,
+   "start": 1479.73,
+   "end": 1484.89,
+   "text": "مع امیرالمؤمنینه و اولاده و السعدین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 357,
+   "start": 1484.89,
+   "end": 1488.51,
+   "text": "اون، اونجا که مولا داره می‌بینه از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 358,
+   "start": 1488.51,
+   "end": 1492.59,
+   "text": "زندان تن داره آزاد میشه این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 359,
+   "start": 1492.59,
+   "end": 1497.77,
+   "text": "سعادته. اصلاً دیگه نیاز به بدن نداره مولا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 360,
+   "start": 1497.77,
+   "end": 1501.35,
+   "text": "نداشت اصلاً. به خ-- به جهت من و شما موند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 361,
+   "start": 1501.35,
+   "end": 1505.81,
+   "text": "حالا خدا بهش اذن داد که دیگه از این نشئه فارغ بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 362,
+   "start": 1505.81,
+   "end": 1509.75,
+   "text": "اونا از خداشونه مثل ما نیستن که کراهت بدونن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 363,
+   "start": 1509.75,
+   "end": 1519.87,
+   "text": "موت رو بدشون بیاد. خب با این ج-- جثه کثیف و بنیه تاریک مادی که نمیشه بری اونور.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 364,
+   "start": 1519.87,
+   "end": 1526.27,
+   "text": "و تحقق آن با بدنی نوری و از جنس آن دیار یعنی مجردات است، مجردات است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 365,
+   "start": 1526.27,
+   "end": 1528.65,
+   "text": "یعنی اون بدنی رو می‌طلبه که ملکوتی باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 366,
+   "start": 1528.65,
+   "end": 1531.45,
+   "text": "میشه همون بدن برزخی، بدن مثالی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 367,
+   "start": 1531.45,
+   "end": 1537.87,
+   "text": "چنانکه طلوع در جنت مقربان و کاملان ص-صبر عقلی و مثل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 368,
+   "start": 1537.87,
+   "end": 1549.09,
+   "text": "و موصول نوری میسر نخواهد بود مگر به رهایی از قید اجرام و ابعاد مادی و انقطاع از عالم امثال و اشباح برزخی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 369,
+   "start": 1549.09,
+   "end": 1554.21,
+   "text": "چنانچه اگر بخوای از برزخ هم پل بزنی بری به عالم عقول، عالم جبروت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 370,
+   "start": 1554.21,
+   "end": 1556.69,
+   "text": "نمیشه با بدن مثالی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 371,
+   "start": 1556.69,
+   "end": 1559.99,
+   "text": "نه با-- نمیشه با اون صقل و صقالت بدن مثالی رفت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 372,
+   "start": 1559.99,
+   "end": 1563.35,
+   "text": "اون رو هم باید بذاری و بری. داره میزنه به چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 373,
+   "start": 1563.35,
+   "end": 1567.97,
+   "text": "و امت مثلتن. آخر عالم برزخ یا عالم مثال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 374,
+   "start": 1567.97,
+   "end": 1572.27,
+   "text": "هم موتی گذاشتن بدن مثالی تو بذاری و بری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 375,
+   "start": 1572.27,
+   "end": 1574.85,
+   "text": "در عالم عقول نمیشه با اون بدن رفت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 376,
+   "start": 1574.85,
+   "end": 1579.73,
+   "text": "اونجا بدن نوری و مطابق اون صور عقلی می‌خواد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 377,
+   "start": 1579.73,
+   "end": 1584.11,
+   "text": "و به هر وجه مراد از ذکر این امثله این است که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 378,
+   "start": 1584.11,
+   "end": 1586.41,
+   "text": "داره نتیجه می‌گیره ملاصدرا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 379,
+   "start": 1586.41,
+   "end": 1589.15,
+   "text": "نفس حامل بدن است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 380,
+   "start": 1589.15,
+   "end": 1592.17,
+   "text": "به به! نفس حامل بدن است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 381,
+   "start": 1592.17,
+   "end": 1594.69,
+   "text": "نه اینکه بدن حامل نفس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 382,
+   "start": 1594.69,
+   "end": 1600.17,
+   "text": "و به همین مناسبت است که شیخ عطار در معراج روحانی و جسمانی رسول خاتم گوید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 383,
+   "start": 1600.17,
+   "end": 1603.53,
+   "text": "یه دو بیتی میاره من میرک-- می‌گذارم چون وقت گذاشته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 384,
+   "start": 1603.53,
+   "end": 1607.89,
+   "text": "پس مسئله بدنگ-- بدان گونه که این نتیجه‌ش خیلی شیرینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 385,
+   "start": 1607.89,
+   "end": 1614.79,
+   "text": "اینو با دقت گوش بدید. مسئله بدان گونه که اطباء و علماى طبیعی گفته‌اند نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 386,
+   "start": 1614.79,
+   "end": 1618.03,
+   "text": "زیرا آنان عقیده دارند که موت طبیعی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 387,
+   "start": 1618.03,
+   "end": 1627.17,
+   "text": "همان انتهاء، انتهاء قوت بدن و نابود شدن حرارت غریزی و ضعف کامل آلات و اعضای بدن می‌باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 388,
+   "start": 1627.17,
+   "end": 1629.59,
+   "text": "اونا علت موت رو می‌زنن به چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 389,
+   "start": 1629.59,
+   "end": 1633.19,
+   "text": "به ضعف بنیه بدن، به تحلیل رفتن بدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 390,
+   "start": 1633.19,
+   "end": 1635.53,
+   "text": "و حال اینکه قول حق این است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 391,
+   "start": 1635.53,
+   "end": 1637.49,
+   "text": "نفس به سبب استقلال،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 392,
+   "start": 1637.49,
+   "end": 1642.49,
+   "text": "استقلال در وجود و عدم احتیاج به قوای غریزی و نشئه طبیعی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 393,
+   "start": 1642.49,
+   "end": 1649.31,
+   "text": "به تدریج و کم‌کم از این عالم به سوی نشئه تجرد و دیار آخرت پرگشوده و با تحولات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 394,
+   "start": 1649.31,
+   "end": 1652.45,
+   "text": "در ذات و ت-- با تحول در ذات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 395,
+   "start": 1652.45,
+   "end": 1659.07,
+   "text": "از طوری به طور دیگر و اشتداد در جوهر و خروج از قوه به فعل، به فعل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 396,
+   "start": 1659.07,
+   "end": 1663.23,
+   "text": "از بدن منصرف گردیده و با قطع تعلق از بدن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 397,
+   "start": 1663.23,
+   "end": 1665.15,
+   "text": "موجب اجل طبیعی می‌شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 398,
+   "start": 1665.15,
+   "end": 1668.11,
+   "text": "به به، به به! چقدر قشنگ گفته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 399,
+   "start": 1668.11,
+   "end": 1670.69,
+   "text": "میگه آقا این چه حرف بیخودیه که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 400,
+   "start": 1670.69,
+   "end": 1675.71,
+   "text": "علمای علم طبیعی میگن علت موت چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 401,
+   "start": 1675.71,
+   "end": 1677.95,
+   "text": "اینه که بدن تحلیل رفت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 402,
+   "start": 1677.95,
+   "end": 1679.65,
+   "text": "بدن دیگه ضعیف شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 403,
+   "start": 1679.65,
+   "end": 1682.31,
+   "text": "نه، میگه اینطور نیست چون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 404,
+   "start": 1682.31,
+   "end": 1685.33,
+   "text": "نفس ارتقا پیدا کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 405,
+   "start": 1685.33,
+   "end": 1688.33,
+   "text": "علت موت رو میزنه به بدن، ارتقای وجودی بدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 406,
+   "start": 1688.33,
+   "end": 1690.73,
+   "text": "نه به بدن. ببخشید به نفس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 407,
+   "start": 1690.73,
+   "end": 1697.05,
+   "text": "میگه نفس ارتقا پیدا کرد موت حاصل شد نه اینکه بدن تحلیل رفت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 408,
+   "start": 1697.05,
+   "end": 1702.77,
+   "text": "و لذا همین حالات استکمالی نفس از طفولیت به بلوغ و شباب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 409,
+   "start": 1702.77,
+   "end": 1710.87,
+   "text": "و از جوانی به کهولت و سپس به پیری و موت همگی حاکی از hul-- حصول نفس از ضعف و قوه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 410,
+   "start": 1710.87,
+   "end": 1716.15,
+   "text": "به کمال و فعالیت بوده و چون به قوام ذاتی قایی و مطلوب خود رسید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 411,
+   "start": 1716.15,
+   "end": 1719.49,
+   "text": "از بدن ارتحال کرده، دقت کنید اینجا رو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 412,
+   "start": 1719.49,
+   "end": 1722.91,
+   "text": "چون نفس به قوام",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 413,
+   "start": 1722.91,
+   "end": 1727.11,
+   "text": "ذاتی قایی مطلوب خود رسید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 414,
+   "start": 1727.11,
+   "end": 1729.79,
+   "text": "از بدن ارتحال کرده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 415,
+   "start": 1729.79,
+   "end": 1737.23,
+   "text": "و این خروج نفس از بدن موجب هلاکت بدن و خراب شدن خانه تن گردیده و موت طبیعی حادث می‌گردد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 416,
+   "start": 1737.23,
+   "end": 1743.25,
+   "text": "چرا می‌زنیش به بدن؟ چرا میگی حالا بدن دیگه کشش نفس رو نداره می‌میره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 417,
+   "start": 1743.25,
+   "end": 1747.19,
+   "text": "نه. نفس به جایی میرسه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 418,
+   "start": 1747.19,
+   "end": 1750.53,
+   "text": "که دیگه این بدن به دردش نمی‌خوره و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 419,
+   "start": 1750.53,
+   "end": 1752.53,
+   "text": "قطع علاقه از بدن می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 420,
+   "start": 1752.53,
+   "end": 1756.01,
+   "text": "این حقیقت موته. و به سفر،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 421,
+   "start": 1756.01,
+   "end": 1762.19,
+   "text": "به سفر رجوعی خود به سوی خدا و مبدأ وجود و منتهی و غایت آن می‌پردازد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 422,
+   "start": 1762.19,
+   "end": 1764.95,
+   "text": "و چون این حقیقت مسلم شد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 423,
+   "start": 1764.95,
+   "end": 1772.53,
+   "text": "و به منشأ توجه جبلی نفس از ملک به ملکوت و سیر الی الله و قرب به حضرت او پی بردیم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 424,
+   "start": 1772.53,
+   "end": 1778.43,
+   "text": "آنگاه خواهیم دانست که تناسخ قولی بسیار باطل و مردود و صد درصد غلط است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 425,
+   "start": 1778.43,
+   "end": 1783.51,
+   "text": "پس بحث تناسخ رو رد می‌کنه که میگن ارواح میرن توی جسم دیگه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 426,
+   "start": 1783.51,
+   "end": 1786.83,
+   "text": "یه جسم جدید. تا اینجاشو اسلام قبول داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 427,
+   "start": 1786.83,
+   "end": 1789.15,
+   "text": "تناسخ از این جهت درسته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 428,
+   "start": 1789.15,
+   "end": 1793.11,
+   "text": "که این نفس ما، روح ما از این بدن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 429,
+   "start": 1793.11,
+   "end": 1801.07,
+   "text": "فارغ میشه، منصرف میشه میره در بدن مثالی که خودمون با اعمالمون ساختیمش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 430,
+   "start": 1801.07,
+   "end": 1802.65,
+   "text": "اصلاً برعکس قصه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 431,
+   "start": 1802.65,
+   "end": 1805.03,
+   "text": "یعنی نفسه که بدن رو می‌بره بالا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 432,
+   "start": 1805.03,
+   "end": 1808.05,
+   "text": "نه اینکه بدن سبب ارتقای نفس بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 433,
+   "start": 1808.05,
+   "end": 1814.03,
+   "text": "اشتباهه این حرف که بگیم دوباره بره توی بدن که ارتقا پیدا کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 434,
+   "start": 1814.03,
+   "end": 1816.89,
+   "text": "اصلاً خود بدن رو نفس داره ارتقا میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 435,
+   "start": 1816.89,
+   "end": 1819.85,
+   "text": "نفس داره تغذیه‌ش می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 436,
+   "start": 1819.85,
+   "end": 1822.51,
+   "text": "حالا این چهار جمله آخر رو ببینید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 437,
+   "start": 1822.51,
+   "end": 1826.05,
+   "text": "در خاتمه به طور مختصر باید گفت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 438,
+   "start": 1826.05,
+   "end": 1828.75,
+   "text": "به هر اندازه که نفس از قوه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 439,
+   "start": 1828.75,
+   "end": 1831.69,
+   "text": "وجودی و ضعف و نقصان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 440,
+   "start": 1831.69,
+   "end": 1834.97,
+   "text": "به فعالیت و شدت و کمال رسیده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 441,
+   "start": 1834.97,
+   "end": 1840.09,
+   "text": "و به تعبیر دیگر از نزول به صعود ارتقا یابد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 442,
+   "start": 1840.09,
+   "end": 1843.47,
+   "text": "برعکس سستی و وهم و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 443,
+   "start": 1843.47,
+   "end": 1847.75,
+   "text": "عجزی در بدن و قوای ظاهری حادث می‌گردد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 444,
+   "start": 1847.75,
+   "end": 1850.35,
+   "text": "و تا به بدان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 445,
+   "start": 1850.35,
+   "end": 1853.11,
+   "text": "مقدار از بدن و قوای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 446,
+   "start": 1853.11,
+   "end": 1855.85,
+   "text": "جوارح و اعضای آن می‌کاهد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 447,
+   "start": 1855.85,
+   "end": 1861.11,
+   "text": "که با حصول ضعف و سستی و تخریب ارکان بیت بدن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 448,
+   "start": 1861.11,
+   "end": 1864.77,
+   "text": "موجب مرگ آن گردیده و له رهلت می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 449,
+   "start": 1864.77,
+   "end": 1869.27,
+   "text": "یعنی این نفس انقدر از این بدن استفاده می‌کنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 450,
+   "start": 1869.27,
+   "end": 1872.63,
+   "text": "تا خودش ارتقای وجودی پیدا کنه بره بالا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 451,
+   "start": 1872.63,
+   "end": 1874.97,
+   "text": "اما هی داره از این بدن می‌کاهه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 452,
+   "start": 1874.97,
+   "end": 1879.57,
+   "text": "بدن یک عضویست، یک شأنی‌ست که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 453,
+   "start": 1879.57,
+   "end": 1881.59,
+   "text": "داره کمک میده. مؤدّه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 454,
+   "start": 1881.59,
+   "end": 1885.23,
+   "text": "کمک میده به نفس که نفس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 455,
+   "start": 1885.23,
+   "end": 1889.35,
+   "text": "به هدفش برسه. حالا که نفس رسید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 456,
+   "start": 1889.35,
+   "end": 1894.31,
+   "text": "و به قولی جان این بدن رو کشید دیگه این بدن به چه دردش می‌خوره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 457,
+   "start": 1894.31,
+   "end": 1897.81,
+   "text": "رهاش می‌کنه و میره. این میشه فلسفه موت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 458,
+   "start": 1897.81,
+   "end": 1903.65,
+   "text": "حالا اگر کسی از این بدن، روح این بدن رو کشید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 459,
+   "start": 1903.65,
+   "end": 1906.59,
+   "text": "اما در ارتقای نفسش نبود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 460,
+   "start": 1906.59,
+   "end": 1909.29,
+   "text": "این میشه چی؟ خراب کرده چی رو؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 461,
+   "start": 1909.29,
+   "end": 1912.37,
+   "text": "نفسش رو خراب کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 462,
+   "start": 1912.37,
+   "end": 1916.81,
+   "text": "اگر به عکس ارتقای وجودی داشت نفسش رو اب--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 463,
+   "start": 1916.81,
+   "end": 1922.31,
+   "text": "آباد کرده. پس اونجا تو این روایت این شصت و-- چند صفحه رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 464,
+   "start": 1922.31,
+   "end": 1926.55,
+   "text": "از کتاب شریف شرح کبیر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 465,
+   "start": 1926.55,
+   "end": 1928.59,
+   "text": "که شرح بر شواهد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 466,
+   "start": 1928.59,
+   "end": 1934.19,
+   "text": "ربوبیه‌ست یا به عبارتی مشاهد الوهیه اسم اصلیش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 467,
+   "start": 1934.19,
+   "end": 1939.47,
+   "text": "خوندیم بر اینکه بفهمیم اون خرابی آخرت منظور چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 468,
+   "start": 1939.47,
+   "end": 1941.29,
+   "text": "یا آبادانیش و خرابی‌ش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 469,
+   "start": 1941.29,
+   "end": 1944.23,
+   "text": "همش به نفس برمی‌گرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 470,
+   "start": 1944.23,
+   "end": 1948.71,
+   "text": "نقطه سر خط. چقدر معرفت نفس مهمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 471,
+   "start": 1948.71,
+   "end": 1953.31,
+   "text": "شناخت نفس و اسباب و لوازم نفس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 472,
+   "start": 1953.31,
+   "end": 1956.59,
+   "text": "که یکی از شعون نفس بدنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 473,
+   "start": 1956.59,
+   "end": 1959.41,
+   "text": "و رابطه بین نفس و بدن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 474,
+   "start": 1959.41,
+   "end": 1963.57,
+   "text": "و راه‌های ارتقای وجودی دادن به نفس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 475,
+   "start": 1963.57,
+   "end": 1968.19,
+   "text": "و فهم قصه موت. اینا همش در هم تنیده‌ان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 476,
+   "start": 1968.19,
+   "end": 1971.95,
+   "text": "که اگر بعد اینطوری تازه متوجه می‌شیم که پس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 477,
+   "start": 1971.95,
+   "end": 1973.73,
+   "text": "بهشت و جهنم ما چی‌ان؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 478,
+   "start": 1973.73,
+   "end": 1978.37,
+   "text": "الان بگید. آیا بهشت یه باغیه که ما رو وارد به اون می‌کنن؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 479,
+   "start": 1978.37,
+   "end": 1980.57,
+   "text": "یا یک چاهیه که ما رو می‌اندازن اون تو؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 480,
+   "start": 1980.57,
+   "end": 1986.29,
+   "text": "جهنم. الان گفتیم خرابی و آبادانی به چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 481,
+   "start": 1986.29,
+   "end": 1989.93,
+   "text": "به نفسه انسان. پس بهشت و جهنم خود نفس‌ان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 482,
+   "start": 1989.93,
+   "end": 1993.39,
+   "text": "نفس ارتقا یافته بهشته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 483,
+   "start": 1993.39,
+   "end": 1997.55,
+   "text": "nefsi که برعکس خودش رو مضمحل کرده جهنمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 484,
+   "start": 1997.55,
+   "end": 2000.77,
+   "text": "پس می‌رسیم به فرمایش حضرت استاد که فرمود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 485,
+   "start": 2000.77,
+   "end": 2004.73,
+   "text": "خدا بهشتی را به بهشت نمی‌برد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 486,
+   "start": 2004.73,
+   "end": 2006.73,
+   "text": "بهشتی خود بهشت می‌شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 487,
+   "start": 2006.73,
+   "end": 2012.81,
+   "text": "یعنی نفسش میشه بهشت. جهنمی رو به جهنم نمی‌برد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 488,
+   "start": 2012.81,
+   "end": 2015.53,
+   "text": "جهنمی خود جهنم می‌شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 489,
+   "start": 2015.53,
+   "end": 2018.71,
+   "text": "یعنی نفسش میشه جهنمش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 490,
+   "start": 2018.71,
+   "end": 2020.85,
+   "text": "این چندی ما رو تأکید کردیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 491,
+   "start": 2020.85,
+   "end": 2025.51,
+   "text": "الحمدالله. اللهم بارک لمولانا صاحب الزمان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 492,
+   "start": 2025.51,
+   "end": 2027.47,
+   "text": "والحمد لله رب العالمين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 493,
+   "start": 2027.47,
+   "end": 2029.95,
+   "text": "صلوات بفرستید. اللهumma صل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "id": "018",
+ "index": 18,
+ "lecturer": "bayat",
+ "course": "qalb_monafeq",
+ "title": "استفتا در حدِّ ترخّص",
+ "topic": null,
+ "summary": "پس از استفتای حدِّ ترخّص، بحثِ نفاق با آیهٔ ایمانِ زبانیِ بی‌قلب و تحریفِ کلمات ادامه می‌یابد. ندبه احیای کتاب را می‌طلبد؛ نمونه‌ها در انقلاب، هیئت و مدیریت نشان می‌دهد تحریف نشانهٔ انحرافِ قلب است.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/qalb_monafeq/018/018_play.m4a",
+  "filename": "018_play.m4a",
+  "size": 8353862,
+  "display": "8.0 MB",
+  "duration": 689.72,
+  "durationText": "11:30"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "018.vtt",
+   "cues": "018.cues.json",
+   "words": "018.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## استفتا در حدِّ ترخّص",
+   "start": 11.26,
+   "end": 68.46
+  },
+  {
+   "index": 1,
+   "title": "## نشانهٔ نفاق؛ ایمانِ زبانی بدونِ قلب",
+   "start": 68.46,
+   "end": 193.72
+  },
+  {
+   "index": 2,
+   "title": "## نمونه‌ها؛ انقلاب، خطِّ امام، هیئت",
+   "start": 193.72,
+   "end": 263.72
+  },
+  {
+   "index": 3,
+   "title": "## مجالس و ملائکه؛ مدیریت؛ داستانِ مهزیار",
+   "start": 263.72,
+   "end": 689.72
+  }
+ ],
+ "recordedAt": 1785846833,
+ "sourceName": "قلب منافق18_ج188.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "017",
+ "next": "019"
+}

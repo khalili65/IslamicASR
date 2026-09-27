@@ -1,0 +1,15 @@
+[Unit]
+Description=IslamASR editor admin (Next.js)
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/IslamASR/website-portal/admin
+EnvironmentFile=/opt/islam-asr-admin.env
+ExecStart=/usr/bin/npm run start
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

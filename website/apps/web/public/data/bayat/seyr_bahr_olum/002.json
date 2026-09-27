@@ -1,0 +1,72 @@
+{
+ "id": "002",
+ "index": 2,
+ "lecturer": "bayat",
+ "course": "seyr_bahr_olum",
+ "title": "جایگاه رساله و استاد",
+ "topic": null,
+ "summary": "این جلسه در امتداد بحث‌های معرفتی و سیر عملی، از مفاهیم و مثال‌های مطرح‌شده در گفتار آغاز می‌شود و پیوند میان مراتب وجود، تهذیب، عبادت و معرفت را دنبال می‌کند. شرح آیات، روایت‌ها، حکایت‌ها و اصطلاحات تخصصی در ترتیب طبیعی سخن آمده است.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/seyr_bahr_olum/002/002_play.m4a",
+  "filename": "002_play.m4a",
+  "size": 30678529,
+  "display": "29.3 MB",
+  "duration": 2459.98,
+  "durationText": "41:00"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "002.vtt",
+   "cues": "002.cues.json",
+   "words": "002.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## جایگاه رساله و استاد",
+   "start": 1.38,
+   "end": 541.38
+  },
+  {
+   "index": 1,
+   "title": "## تسبیح موجودات",
+   "start": 541.38,
+   "end": 1031.81
+  },
+  {
+   "index": 2,
+   "title": "## حمد و صادر اول",
+   "start": 1031.81,
+   "end": 1496.84
+  },
+  {
+   "index": 3,
+   "title": "## روح و مراتب ادراک",
+   "start": 1496.84,
+   "end": 1523.54
+  },
+  {
+   "index": 4,
+   "title": "## غذای باطن",
+   "start": 1523.54,
+   "end": 2459.98
+  }
+ ],
+ "recordedAt": 1764559833,
+ "sourceName": "شرح رساله سیر و سلوک ۲.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "001",
+ "next": "003"
+}

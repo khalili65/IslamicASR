@@ -1,0 +1,41 @@
+{
+ "id": "009",
+ "index": 9,
+ "lecturer": "shojai",
+ "course": "mabohas_mozui",
+ "title": "جلسه ۹",
+ "topic": null,
+ "summary": null,
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/shojai/mabohas_mozui/009/009_play.m4a",
+  "filename": "009_play.m4a",
+  "size": 15914370,
+  "display": "15.2 MB",
+  "duration": 1242.82,
+  "durationText": "20:43"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "009.vtt",
+   "cues": "009.cues.json",
+   "words": "009.words.json"
+  }
+ },
+ "chapters": [],
+ "recordedAt": null,
+ "sourceName": null,
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": false,
+ "hasBook": false,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": null,
+ "previous": "008",
+ "next": "010"
+}

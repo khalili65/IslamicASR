@@ -1,0 +1,2800 @@
+{
+ "version": 1,
+ "sessionId": "017",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 1246.41,
+ "alignment": {
+  "exact": 2416,
+  "total": 2416,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## نماز جماعت دو نفره و بازگشت به قلب منزل",
+   "start": 13.72,
+   "end": 101.44
+  },
+  {
+   "index": 1,
+   "title": "## قلب برزخ ملک و ملکوت و معنای توجه",
+   "start": 101.44,
+   "end": 129.94
+  },
+  {
+   "index": 2,
+   "title": "## ضعف مزاج و نفوس مستکفیه",
+   "start": 129.94,
+   "end": 590.69
+  },
+  {
+   "index": 3,
+   "title": "## حضور فراگیر و حقیقت حجت",
+   "start": 590.69,
+   "end": 815.16
+  },
+  {
+   "index": 4,
+   "title": "## خیر در قرائت و نماز با توجه",
+   "start": 815.16,
+   "end": 899.82
+  },
+  {
+   "index": 5,
+   "title": "## توجه تام عرفانی در طریق علامه حسن‌زاده",
+   "start": 899.82,
+   "end": 1246.41
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 0.44,
+   "end": 4.68,
+   "text": "بسم الله الرحمن الرحیم و به نستعین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 4.68,
+   "end": 7.36,
+   "text": "السلام علیک یا داعی الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 7.36,
+   "end": 11.28,
+   "text": "و ربانی آیات.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 11.28,
+   "end": 13.72,
+   "text": "سلام علیکم و رحمة الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 13.72,
+   "end": 18.66,
+   "text": "آیا دو نفر می تونن نماز جماعت اقامه کنن؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 18.66,
+   "end": 21.3,
+   "text": "می تونن یا نه؟ بله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 21.3,
+   "end": 26.3,
+   "text": "نه. رهبر عزیزمون فرمودن که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 26.3,
+   "end": 34.78,
+   "text": "اگه مراد تشکیل نماز جماعتی‌ست که مرکب از امام و یک مأموم باشد اشکال ندارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 34.78,
+   "end": 38.2,
+   "text": "پس می‌شود. خب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 38.2,
+   "end": 40.76,
+   "text": "امروز هم به فضل الهی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 40.76,
+   "end": 47.74,
+   "text": "میریم سراغ بحث قلب منزل که بسیار کثیر الفروع است این بحث.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 47.74,
+   "end": 53.62,
+   "text": "و امیدوارم که خدای منّان عاقبت این بحث ما رو با خود ما و شما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 53.62,
+   "end": 57.62,
+   "text": "به خیر کند. عزیزان توجه داشته باشن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 57.62,
+   "end": 60.42,
+   "text": "همونطور که عرض شد قلب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 60.42,
+   "end": 67.14,
+   "text": "ظرف و وعاء معرفت است و معرفت اصلاً عبادت بدون معرفت الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 67.14,
+   "end": 72.28,
+   "text": "عبادت نیست و معرفت الله هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 72.28,
+   "end": 74.82,
+   "text": "همان معرفت امام است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 74.82,
+   "end": 76.38,
+   "text": "و شناخت امام است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 76.38,
+   "end": 81.48,
+   "text": "بعضی از راههای شناخت امام را هم عرض کردیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 81.48,
+   "end": 85.28,
+   "text": "و البته با رعایت ادب مع الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 85.28,
+   "end": 88.28,
+   "text": "و اون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 88.28,
+   "end": 90.84,
+   "text": "سلسله طولیه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 90.84,
+   "end": 94.36,
+   "text": "نزولی فیض حضرت حق.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 94.36,
+   "end": 97.3,
+   "text": "اینها مطالبی عرض کردیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 97.3,
+   "end": 108.46,
+   "text": "خدمت شما و جایگاه قلب رو در ارتباط با الهیت نظام هستی گفتیم که قلب برزخ ظاهر و باطن است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 108.46,
+   "end": 112.8,
+   "text": "توجه داشته باشید که در این که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 112.8,
+   "end": 115.74,
+   "text": "قلب برزخ است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 115.74,
+   "end": 121.22,
+   "text": "و بین ملک و ملکوت قرار گرفته است،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 121.22,
+   "end": 125.22,
+   "text": "نکته ای رو میخوام بسیار مهم عرض کنم که البته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 125.22,
+   "end": 127.64,
+   "text": "قبلاً اجمالاً عرض شده بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 127.64,
+   "end": 133.24,
+   "text": "امروز هم به تفصیل عرض نمی کنیم اما چون مورد سؤال واقع شده بود دو مرتبه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 133.24,
+   "end": 136.7,
+   "text": "نکته ای رو یه مقدار بازتر می کنم موضوع رو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 136.7,
+   "end": 139.8,
+   "text": "اونم موضوع توجه عرفانی است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 139.8,
+   "end": 146.44,
+   "text": "ببینید قلب اصلاً توجه کردن بر می گردد به مقام قلب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 146.44,
+   "end": 150.48,
+   "text": "اینکه میگه نمازت رو با توجه بخون،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 150.48,
+   "end": 152.14,
+   "text": "ذکر رو با توجه بگو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 152.14,
+   "end": 158.06,
+   "text": "مثلاً این اسم الهی رو که ورد است همین که بر زبانت جاری میشه ورد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 158.06,
+   "end": 165.52,
+   "text": "اینو وقتی با توجه و حضور قلب بیان می‌کنی می‌شود ذکر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 165.52,
+   "end": 169.28,
+   "text": "که عرض کردیم دیگه یعنی چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 169.28,
+   "end": 172.88,
+   "text": "یعنی اینکه چون قلب ذو وجهین است،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 172.88,
+   "end": 176.2,
+   "text": "وجهش به سمت الله باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 176.2,
+   "end": 182.24,
+   "text": "یعنی کثرات رو به دنبال خودش میکشونه به سمت الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 182.24,
+   "end": 185.96,
+   "text": "که فأینما تولو فثم وجه الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 185.96,
+   "end": 189.8,
+   "text": "این یک معناش این چنین می‌شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 189.8,
+   "end": 193.36,
+   "text": "که همه کثرات رو مستهلك در ذات حضرت حق می بیند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 193.36,
+   "end": 199.54,
+   "text": "در حالی که این قلب در این مقام توجه به اون الله دارد چون الله ذاتیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 199.54,
+   "end": 202.0,
+   "text": "قل هو الله احد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 202.0,
+   "end": 204.58,
+   "text": "احدیت این مقام",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 204.58,
+   "end": 208.44,
+   "text": "استهلاک همه اسماء و صفات در ذات حضرت حق.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 208.44,
+   "end": 210.44,
+   "text": "خب این توجه یعنی چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 210.44,
+   "end": 215.66,
+   "text": "میشه آقا یه ذره اینو بازترش کنید که در پس فهم این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 215.66,
+   "end": 222.04,
+   "text": "قصه توجه ما یه چیزکی از توجه عرفانی هم سر در بیاریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 222.04,
+   "end": 225.02,
+   "text": "بله بفرمایید توجه بفرمایید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 225.02,
+   "end": 228.04,
+   "text": "اصلاً همین که الان من گفتم توجه بفرمایید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 228.04,
+   "end": 230.72,
+   "text": "خودش پنجاه درصد جواب رو دادم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 230.72,
+   "end": 239.76,
+   "text": "ببینید یه مثال میزنم که قبلاً هم یادمه تو یکی از بحث‌ها این مثال رو زده بودیم برای شما عزیزان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 239.76,
+   "end": 242.22,
+   "text": "شما وقتی که به محض اینکه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 242.22,
+   "end": 246.62,
+   "text": "در باطن وجود خودت، در ضمیر خودت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 246.62,
+   "end": 249.44,
+   "text": "یک چیزی رو یاد می‌کنی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 249.44,
+   "end": 255.88,
+   "text": "به قولی میشه گفت ذکرش می‌کنی، به قولی میشه گفت حاضرش می‌کنی در مقام قلبت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 255.88,
+   "end": 258.74,
+   "text": "یا سان می‌بینی از اون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 258.74,
+   "end": 262.08,
+   "text": "مثل یک فرمانده‌ای که ایستاده نیروها جلوش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 262.08,
+   "end": 264.76,
+   "text": "رژه میرن و ایشون سان میبینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 264.76,
+   "end": 267.16,
+   "text": "اون لحظه اون حقیقت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 267.16,
+   "end": 271.22,
+   "text": "در قوه خیالت و صور و اشکالش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 271.22,
+   "end": 276.26,
+   "text": "چنان رژه میرن که شما راحت میتونید در مقام قلبت اینا رو ببینی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 276.26,
+   "end": 281.46,
+   "text": "مثلاً میگی مادر. چهره مادر سریع تو قوه خیالت تصویرسازی میشه، иначе میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 281.46,
+   "end": 285.82,
+   "text": "نفس ناطقه شما سریع иначе میکنه چهره مادر رو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 285.82,
+   "end": 289.8,
+   "text": "میگی درخت. چهره درخت در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 289.8,
+   "end": 292.08,
+   "text": "قوه خیالت иначе میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 292.08,
+   "end": 300.34,
+   "text": "قلب در مقام قوه خیال صور و اشكال رو иначе میکنه و خود قلب ادراک میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 300.34,
+   "end": 304.86,
+   "text": "خب حالا شما توجهت رو مثلاً میگی کعبه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 304.86,
+   "end": 307.96,
+   "text": "الان کعبه رو شما یک آن تصور کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 307.96,
+   "end": 312.16,
+   "text": "همین که میگیم تصور کنید قوه خیال شما در آنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 312.16,
+   "end": 317.3,
+   "text": "کمتر از آنی چهره و تمثال و صورت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 317.3,
+   "end": 319.8,
+   "text": "کعبه رو برای شما حاضر میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 319.8,
+   "end": 324.08,
+   "text": "نفس شما در حقیقت иначе میکنه از طریق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 324.08,
+   "end": 328.56,
+   "text": "یعنی در مقام قوه خیال خود نفس иначе میکنه این صورت رو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 328.56,
+   "end": 331.34,
+   "text": "شما داری کعبه رو میبینی الان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 331.34,
+   "end": 334.7,
+   "text": "که اصل زیارت میگن حضور",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 334.7,
+   "end": 337.46,
+   "text": "ظاهر عند المزور.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 337.46,
+   "end": 339.84,
+   "text": "این حضور، حضور قلبی است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 339.84,
+   "end": 346.02,
+   "text": "که البته وقتی حضور جسمی و بدنی هم بود، دوتاش با هم بود نور على نور و الا اگر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 346.02,
+   "end": 348.34,
+   "text": "صرفاً حضور قلبی هم بود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 348.34,
+   "end": 357.22,
+   "text": "باز کفایت میکنه. اما اگر صرفاً خدایی نکرده فقط حضور فیزیکی یا جسمی بود، این اصلاً زیارت نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 357.22,
+   "end": 367.47,
+   "text": "خب به محض اینکه شما توجهت رو الان از کعبه برداری، منصرف بشی از کعبه توجهت رو به یک چیز دیگه ای بدی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 367.47,
+   "end": 371.61,
+   "text": "خب اون چیزی جدیدی که شما مثلاً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 371.61,
+   "end": 376.75,
+   "text": "الان شما بعد از اینکه توجهت رو از کعبه برداشتی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 376.75,
+   "end": 379.15,
+   "text": "مثلاً گنبد مسجد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 379.15,
+   "end": 381.39,
+   "text": "محله‌تون رو تصور کن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 381.39,
+   "end": 384.45,
+   "text": "الان اون حاضره در مقام قلب شما.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 384.45,
+   "end": 387.69,
+   "text": "دیگه کعبه الان نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 387.69,
+   "end": 390.53,
+   "text": "درست شد؟ یعنی الان کعبه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 390.53,
+   "end": 394.29,
+   "text": "شما در نزد کعبه حاضر نیست قلبت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 94,
+   "start": 394.29,
+   "end": 396.13,
+   "text": "درست شد؟ الان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 95,
+   "start": 396.13,
+   "end": 399.25,
+   "text": "گنبد مسجد خودت حاضره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 96,
+   "start": 399.25,
+   "end": 402.79,
+   "text": "این انزل مراتب توجهه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 97,
+   "start": 402.79,
+   "end": 405.41,
+   "text": "که نفس این قدرت رو دارد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 98,
+   "start": 405.41,
+   "end": 411.99,
+   "text": "آنی که توجه به چیزی می‌کنه، خو می‌کنه همون رو حاضر کنه در مقام قلب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 99,
+   "start": 411.99,
+   "end": 415.45,
+   "text": "درست شد؟ که هرچی ارتباط قوی‌تر می‌شود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 100,
+   "start": 415.45,
+   "end": 418.11,
+   "text": "این حضور شدت پیدا می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 101,
+   "start": 418.11,
+   "end": 420.63,
+   "text": "که هرچی حضور بیشتر می‌شود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 102,
+   "start": 420.63,
+   "end": 422.45,
+   "text": "انسان بیشتر می‌سوزد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 103,
+   "start": 422.45,
+   "end": 425.21,
+   "text": "لذا اثر حضور",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 104,
+   "start": 425.21,
+   "end": 427.71,
+   "text": "که همون تأثیر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 105,
+   "start": 427.71,
+   "end": 431.19,
+   "text": "شدت وجود است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 106,
+   "start": 431.19,
+   "end": 436.03,
+   "text": "می‌شود سوختن. می‌شود اشک، می‌شود انکسار.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 107,
+   "start": 436.03,
+   "end": 440.81,
+   "text": "که أنا عند منكسرة قلوبهم من نزد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 108,
+   "start": 440.81,
+   "end": 443.17,
+   "text": "شکسته دلهام یا دل‌های شکسته ام.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 109,
+   "start": 443.17,
+   "end": 446.45,
+   "text": "خب اون دیگه ش-- اشد حضور است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 110,
+   "start": 446.45,
+   "end": 449.05,
+   "text": "یا اشد حضور یا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 111,
+   "start": 449.05,
+   "end": 453.31,
+   "text": "سوز است. خب این تا اینجا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 112,
+   "start": 453.31,
+   "end": 457.69,
+   "text": "حالا ما چون نفسمون ضعیفه قبلاً عرض شد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 113,
+   "start": 457.69,
+   "end": 459.73,
+   "text": "ما صاحبان نفوس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 114,
+   "start": 459.73,
+   "end": 462.77,
+   "text": "مستکفیه هستیم، نه مکتفیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 115,
+   "start": 462.77,
+   "end": 468.59,
+   "text": "چون نفسمون ضعیفه به جهت ضعف نفسمون که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 116,
+   "start": 468.59,
+   "end": 473.53,
+   "text": "معمولاً هم این ضعف نفس به جهت ضعف مزاجی ماست که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 117,
+   "start": 473.53,
+   "end": 476.89,
+   "text": "حالا باید انشاالله بعدها صحبت بکنیم که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 118,
+   "start": 476.89,
+   "end": 479.09,
+   "text": "حیات ما دو نوع حیات داریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 119,
+   "start": 479.09,
+   "end": 482.09,
+   "text": "به قول شیخ اکبر علیه الرحمه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 120,
+   "start": 482.09,
+   "end": 486.29,
+   "text": "حیات ذاتی داریم و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 121,
+   "start": 486.29,
+   "end": 489.61,
+   "text": "حیات مزاجی. که وقتی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 122,
+   "start": 489.61,
+   "end": 491.77,
+   "text": "حالا اجازه بدید بعداً روش بحث کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 123,
+   "start": 491.77,
+   "end": 493.85,
+   "text": "یه بحث مبسوط و خوبی و خوشی هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 124,
+   "start": 493.85,
+   "end": 502.07,
+   "text": "خیلی به دردبخور. که وقتی ت-ترکیب عناصر به مزاج و فعل و انفعالات و اینا صورت می‌گیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 125,
+   "start": 502.07,
+   "end": 505.75,
+   "text": "حالا تو کتاب تجر-تجریدم هست، تو کتاب فلسفی هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 126,
+   "start": 505.75,
+   "end": 508.95,
+   "text": "فکر می‌کنم در نمت سوم اشارات هم باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 127,
+   "start": 508.95,
+   "end": 511.29,
+   "text": "این‌ها اونجا میگن که این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 128,
+   "start": 511.29,
+   "end": 517.57,
+   "text": "حیات مزاجی‌ست که بیشتر از اون حیات ذاتی خودش رو نشون میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 129,
+   "start": 517.57,
+   "end": 521.17,
+   "text": "خیلی مزاج مهمه و یک حیات ذاتی داریم که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 130,
+   "start": 521.17,
+   "end": 527.13,
+   "text": "کاری به مزاج نداره. ولو اینکه در مزاج",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 131,
+   "start": 527.13,
+   "end": 530.45,
+   "text": "حیات خودش رو بهتر نشون میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 132,
+   "start": 530.45,
+   "end": 532.69,
+   "text": "حیات خودش رو در مزاج بیشتر نشون میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 133,
+   "start": 532.69,
+   "end": 537.01,
+   "text": "اما در عین حال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 134,
+   "start": 537.01,
+   "end": 540.39,
+   "text": "حیات ذاتی هیچ ارتباطی با مزاج نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 135,
+   "start": 540.39,
+   "end": 546.47,
+   "text": "اینو توجه داشته باشید. خب حالا بحث مزاج رو انشاالله یه وقتی به فضل الهی با هم خواهیم داشت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 136,
+   "start": 546.47,
+   "end": 551.25,
+   "text": "که هرچه مزاج معتدل‌تر است به قو-به قول شیخ الرئیس اسماء و صفات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 137,
+   "start": 551.25,
+   "end": 555.13,
+   "text": "که پیاده می‌شن در وجود انسان بهتر اونش-اونجا خودشون رو نشون میدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 138,
+   "start": 555.13,
+   "end": 560.65,
+   "text": "یکی از دلایل اینکه چطور بعضیا راحت با اسماء الهی ارتباط می‌گیرن و خو می‌کنن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 139,
+   "start": 560.65,
+   "end": 562.83,
+   "text": "مزاج‌هاست. مزاج‌هاشون معتدله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 140,
+   "start": 562.83,
+   "end": 565.83,
+   "text": "حالا باید چه کرد؟ حالا بماند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 141,
+   "start": 565.83,
+   "end": 570.33,
+   "text": "پس ما متوجه شدیم به جهت اینکه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 142,
+   "start": 570.33,
+   "end": 579.15,
+   "text": "ضعف مزاجی داریم یا ضعف نفس داریم، نمی‌تونیم در آن واحد صور و اشکال متعدد و کثیره رو در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 143,
+   "start": 579.15,
+   "end": 581.01,
+   "text": "مقام قلبمون حاضر کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 144,
+   "start": 581.01,
+   "end": 586.13,
+   "text": "وقتی از یک صورتی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 145,
+   "start": 586.13,
+   "end": 588.47,
+   "text": "توجهمون رو برمی‌داریم محو میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 146,
+   "start": 588.47,
+   "end": 594.37,
+   "text": "دیگه حاضر نیست. که حالا اینجا خودش یک راهی‌ست برای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 147,
+   "start": 594.37,
+   "end": 598.03,
+   "text": "معرفت نسبت به یکی از مقامات امام.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 148,
+   "start": 598.03,
+   "end": 601.39,
+   "text": "که می‌فرمود لولا الحجة لساخت الأرض بأهلها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 149,
+   "start": 601.39,
+   "end": 603.21,
+   "text": "الان این معنا رو متوجه میشید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 150,
+   "start": 603.21,
+   "end": 606.97,
+   "text": "گوش بدید. شما تصور کنید یک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 151,
+   "start": 606.97,
+   "end": 609.27,
+   "text": "کسی، یه عزیزی پیدا بشه که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 152,
+   "start": 609.27,
+   "end": 612.09,
+   "text": "وقتی این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 153,
+   "start": 612.09,
+   "end": 618.73,
+   "text": "صورت‌هایی که از هر چیزی در قوه خیالش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 154,
+   "start": 618.73,
+   "end": 622.53,
+   "text": "حاضر می‌کنه و در مقام قلب اون رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 155,
+   "start": 622.53,
+   "end": 627.71,
+   "text": "درک می‌کنه و شاهدش می‌شه و او مشهود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 156,
+   "start": 627.71,
+   "end": 631.33,
+   "text": "مقام قلبش می‌شه و می‌چشه او رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 157,
+   "start": 631.33,
+   "end": 634.59,
+   "text": "و می‌بینتش، درکش می‌کنه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 158,
+   "start": 634.59,
+   "end": 638.01,
+   "text": "به مقام حضور می‌رسه. از یه دونه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 159,
+   "start": 638.01,
+   "end": 641.51,
+   "text": "مثلاً صورت بره به تعدد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 160,
+   "start": 641.51,
+   "end": 645.81,
+   "text": "یعنی هرچی صورت و اشکالی در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 161,
+   "start": 645.81,
+   "end": 648.17,
+   "text": "نظام هستی هست، اعم از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 162,
+   "start": 648.17,
+   "end": 653.29,
+   "text": "آسمان‌ها و زمین و فرشتگان و ملائکه و قوا و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 163,
+   "start": 653.29,
+   "end": 657.69,
+   "text": "عرض شود بهشت و جهنم و انسان‌ها و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 164,
+   "start": 657.69,
+   "end": 665.65,
+   "text": "حیوانات و ج-- نما-نباتات و جمادات و هرچه ماسوی الله هست و همه رو بتونه آناً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 165,
+   "start": 665.65,
+   "end": 671.09,
+   "text": "در نفسش، در مقام قلبش حاضر نگه داره و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 166,
+   "start": 671.09,
+   "end": 675.39,
+   "text": "توجهش رو از هیچ کدوم از اینا برنداره که اگر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 167,
+   "start": 675.39,
+   "end": 679.55,
+   "text": "توجهش رو از یه دونه از هر کدوم از این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 168,
+   "start": 679.55,
+   "end": 682.73,
+   "text": "اشکال و صور بردارد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 169,
+   "start": 682.73,
+   "end": 686.99,
+   "text": "فانی می‌شود. درسته؟ چون همونطور که شما الان توجه تو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 170,
+   "start": 686.99,
+   "end": 693.23,
+   "text": "از مثلاً تلثال کعبه تو مقام قلب نفست برداشتی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 171,
+   "start": 693.23,
+   "end": 697.09,
+   "text": "دیگه کعبه نیست. درست شد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 172,
+   "start": 697.09,
+   "end": 702.29,
+   "text": "کعبه اون لحظه در مقام قلب تو دیگه حاضر نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 173,
+   "start": 702.29,
+   "end": 705.33,
+   "text": "چیز دیگه‌ای که داری تصور می‌کنی حاضره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 174,
+   "start": 705.33,
+   "end": 709.23,
+   "text": "که ما به جهت ضعف نفسمون نمی‌تونیم دو تا شکل رو با هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 175,
+   "start": 709.23,
+   "end": 716.37,
+   "text": "نگه داریم تو مقام قلب. اما اگر کسی قوی شد، نه چند تا بلکه همه ماسوی الله رو،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 176,
+   "start": 716.37,
+   "end": 718.77,
+   "text": "اون صو-صور و اشکال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 177,
+   "start": 718.77,
+   "end": 721.81,
+   "text": "کثیره رو همه رو در مقام",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 178,
+   "start": 721.81,
+   "end": 729.7,
+   "text": "قلبش حاضر کنه که اگر یک آن توجهش رو از هر کدوم از اینا برداره، همه نیست و نابود میشن هر کدوم از اونا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 179,
+   "start": 729.7,
+   "end": 733.64,
+   "text": "درست شد؟ اینجا میشه به یک معنا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 180,
+   "start": 733.64,
+   "end": 738.36,
+   "text": "مثل این که بگی لولا نفس ناطقه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 181,
+   "start": 738.36,
+   "end": 741.48,
+   "text": "لساخت الارض بدن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 182,
+   "start": 741.48,
+   "end": 745.8,
+   "text": "خب به قوای بدن یا به قوای نفس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 183,
+   "start": 745.8,
+   "end": 749.72,
+   "text": "یعنی چی؟ یعنی اگر نفس ناطقه نبود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 184,
+   "start": 749.72,
+   "end": 757.92,
+   "text": "که این‌ها رو ایجاد کنه و در مقام قلب خودش حاضر کنه و شاهد بر این‌ها بشه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 185,
+   "start": 757.92,
+   "end": 759.84,
+   "text": "همه این‌ها از هم می‌پاچیدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 186,
+   "start": 759.84,
+   "end": 762.66,
+   "text": "اصلا فانی می‌شدن. درست شد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 187,
+   "start": 762.66,
+   "end": 766.3,
+   "text": "همونطور اون عزیزی که فرض کردیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 188,
+   "start": 766.3,
+   "end": 773.46,
+   "text": "اگر بتواند چنان نفس کلیه داشته باشد که تمام موجودات و وجودات رو ما سوی الله رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 189,
+   "start": 773.46,
+   "end": 776.72,
+   "text": "حاضر کنه در مقام قلب خودش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 190,
+   "start": 776.72,
+   "end": 780.34,
+   "text": "که به مقام ایجاد نفس ناطقه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 191,
+   "start": 780.34,
+   "end": 788.88,
+   "text": "خودش و حضور در قلب خودش اون‌ها برقرارند، یک آن توجهش رو برداره همه نیست و نابود می‌شوند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 192,
+   "start": 788.88,
+   "end": 794.44,
+   "text": "اگه اون عزیزی که فرض کردیم این توانایی رو داشته باشه او می‌شود حجت خدا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 193,
+   "start": 794.44,
+   "end": 796.84,
+   "text": "که لولا الحجه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 194,
+   "start": 796.84,
+   "end": 799.3,
+   "text": "لساخت الارض با اهلها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 195,
+   "start": 799.3,
+   "end": 802.24,
+   "text": "که اگر حجت رو برداری",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 196,
+   "start": 802.24,
+   "end": 804.12,
+   "text": "زمین اهلش رو می‌بلعه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 197,
+   "start": 804.12,
+   "end": 806.9,
+   "text": "یعنی همه چی کن فیکون نیست و نابود میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 198,
+   "start": 806.9,
+   "end": 812.78,
+   "text": "این یک حالا طرح بحثی بود در معرفت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 199,
+   "start": 812.78,
+   "end": 815.16,
+   "text": "حقیقت حجت خدا که بماند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 200,
+   "start": 815.16,
+   "end": 817.48,
+   "text": "بحث ما چرا به اینجا رسید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 201,
+   "start": 817.48,
+   "end": 820.26,
+   "text": "می‌خواستیم بحث توجه رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 202,
+   "start": 820.26,
+   "end": 823.16,
+   "text": "اجمالا عرض کنیم که برسیم به توجه عرفانی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 203,
+   "start": 823.16,
+   "end": 826.78,
+   "text": "این مقام توجه. این یک موهبت الهی به انسانه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 204,
+   "start": 826.78,
+   "end": 828.94,
+   "text": "این که میگه قرآن رو با توجه بخون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 205,
+   "start": 828.94,
+   "end": 833.44,
+   "text": "امیرالمؤمنین علیه الصلاة والسلام فرمود: \"در قرائت قرآنی که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 206,
+   "start": 833.44,
+   "end": 835.3,
+   "text": "توجه نیست، خیر نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 207,
+   "start": 835.3,
+   "end": 840.4,
+   "text": "در نمازی که حضور قلب نیست، خیر نیست.\" این‌ها همه یک معنا دارن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 208,
+   "start": 840.4,
+   "end": 845.04,
+   "text": "زیارتنامه داری می‌خونی تو-توجه قلبت به جای دیگه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 209,
+   "start": 845.04,
+   "end": 847.6,
+   "text": "این خیری درش نیست. بدتر خستت می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 210,
+   "start": 847.6,
+   "end": 850.54,
+   "text": "تا اونجایی که توجه داری ازت قبول میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 211,
+   "start": 850.54,
+   "end": 853.56,
+   "text": "تا اونجایی که توجه داری عرفان داری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 212,
+   "start": 853.56,
+   "end": 855.82,
+   "text": "تا اونجایی که توجه داری سوز داری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 213,
+   "start": 855.82,
+   "end": 860.36,
+   "text": "تا اونجایی که توجه داری درجه داری و حاضری",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 214,
+   "start": 860.36,
+   "end": 864.08,
+   "text": "و در محضری. خودت رو در محضر قرار میدی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 215,
+   "start": 864.08,
+   "end": 870.14,
+   "text": "و متوجّهی و به علم می‌رسی و به قرب می‌رسی و به ولایت دسترسی پیدا می‌کنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 216,
+   "start": 870.14,
+   "end": 872.06,
+   "text": "که الله ولیّ الذین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 217,
+   "start": 872.06,
+   "end": 877.04,
+   "text": "آمنوا. آمنوا یعنی دل داده قلبش آماده‌ی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 218,
+   "start": 877.04,
+   "end": 880.98,
+   "text": "ریزش فیضه و عمل صالحات.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 219,
+   "start": 880.98,
+   "end": 883.36,
+   "text": "الله ولیّ الذین آمنوا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 220,
+   "start": 883.36,
+   "end": 887.06,
+   "text": "حالا عمل بعدشه. الله ولیّ الذین آمنوا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 221,
+   "start": 887.06,
+   "end": 888.9,
+   "text": "که بعد خدا این‌ها رو چکار می‌کنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 222,
+   "start": 888.9,
+   "end": 891.6,
+   "text": "دائم اخراج می‌کنه از ظلمت‌ها به نور.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 223,
+   "start": 891.6,
+   "end": 894.6,
+   "text": "یخرجهم من الظلمات الی النور.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 224,
+   "start": 894.6,
+   "end": 897.34,
+   "text": "حالا، حالا بحث",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 225,
+   "start": 897.34,
+   "end": 899.82,
+   "text": "این توجه رو داشته باشید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 226,
+   "start": 899.82,
+   "end": 909.78,
+   "text": "توجه عرفانی چیست که ما خیلی در آثار عزیز دلمون حضرت علامه حسن زاده علیه الرحمه با اون مواجه میشیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 227,
+   "start": 909.78,
+   "end": 915.98,
+   "text": "در طریق استاد حسن زاده آملی علیه الرحمه، این استاد کل، این عزیز دل، این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 228,
+   "start": 915.98,
+   "end": 920.94,
+   "text": "نور دو چشم، این چی بگیم؟ این برکت دوران.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 229,
+   "start": 920.94,
+   "end": 925.06,
+   "text": "توجه تام عرفانی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 230,
+   "start": 925.06,
+   "end": 928.46,
+   "text": "متوجه شدن به حقیقت نفس است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 231,
+   "start": 928.46,
+   "end": 932.06,
+   "text": "خوب توجه بفرمایید چی عرض می‌کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 232,
+   "start": 932.06,
+   "end": 933.98,
+   "text": "این توجه تام",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 233,
+   "start": 933.98,
+   "end": 936.64,
+   "text": "عرفانی که مثلا حضرت علامه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 234,
+   "start": 936.64,
+   "end": 939.24,
+   "text": "خیلی در تنظلاتشون مثلا در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 235,
+   "start": 939.24,
+   "end": 943.78,
+   "text": "کتاب شریف انسان در عرف عرفانشون صفحه بیست و پنج",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 236,
+   "start": 943.78,
+   "end": 949.84,
+   "text": "صراحتا می فرمایند که توی سحر یکشنبه‌ای بعد از نماز نافله شب و نافله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 237,
+   "start": 949.84,
+   "end": 955.96,
+   "text": "فریضه صبحشون توی اربعینی که ذکر الله را خیلی شیرین به به.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 238,
+   "start": 955.96,
+   "end": 961.52,
+   "text": "چه جالب که مرتبط با بحث قلب هم هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 239,
+   "start": 961.52,
+   "end": 965.18,
+   "text": "که الهیت نظام وجود ما همون قلب ماست دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 240,
+   "start": 965.18,
+   "end": 968.9,
+   "text": "محل اتصال ما با روح ما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 241,
+   "start": 968.9,
+   "end": 971.46,
+   "text": "که همون احدیت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 242,
+   "start": 971.46,
+   "end": 975.06,
+   "text": "مقام احدیت ذات واجب الوجود است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 243,
+   "start": 975.06,
+   "end": 979.56,
+   "text": "که اولین اسمی که از اون ذات منتشر شد الله بود دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 244,
+   "start": 979.56,
+   "end": 981.74,
+   "text": "حالا در اینجا می فرمایند تو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 245,
+   "start": 981.74,
+   "end": 984.6,
+   "text": "اربعینی که با ذکر الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 246,
+   "start": 984.6,
+   "end": 988.77,
+   "text": "داشتن حضرت علامه هر روز بعد از نماز صبح به عدد خاصی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 247,
+   "start": 988.77,
+   "end": 994.24,
+   "text": "می فرمایند بعد از این ذکر به توجه نشستم، به توجه نشستم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 248,
+   "start": 994.24,
+   "end": 996.92,
+   "text": "که ناگهان جذبه و حالتی دست داد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 249,
+   "start": 996.92,
+   "end": 999.84,
+   "text": "حالا می‌تونید برید ببینید تو اون کتاب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 250,
+   "start": 999.84,
+   "end": 1003.36,
+   "text": "که این جذبه و حالت و اینا چگونه بوده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 251,
+   "start": 1003.36,
+   "end": 1011.06,
+   "text": "این در حقیقت متوجه شدن به حقیقت نفس است این توجه عرفانی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 252,
+   "start": 1011.06,
+   "end": 1017.84,
+   "text": "البته بدون تفکر و تأمل در قوای نفس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 253,
+   "start": 1017.84,
+   "end": 1023.78,
+   "text": "یک بار دیگه عرض می‌کنم توجه عرفانی یا بهتر بگیم توجه تام عرفانی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 254,
+   "start": 1023.78,
+   "end": 1029.5,
+   "text": "در طریق استاد متوجه شدن به حقیقت نفس است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 255,
+   "start": 1029.5,
+   "end": 1033.4,
+   "text": "بدون تفکر و تأمل در قوای نفس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 256,
+   "start": 1033.4,
+   "end": 1039.42,
+   "text": "اونم خصوصا در اصهار، سحرها یا بین الطلوعین خیلی عالی، خیلی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 257,
+   "start": 1039.42,
+   "end": 1045.08,
+   "text": "یکی از بهترین جاهاست. اونم مخصوصا بعد از ذکر تهلیه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 258,
+   "start": 1045.08,
+   "end": 1049.22,
+   "text": "لا اله الا الله گفتن که لب هم تکون نمی‌خوره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 259,
+   "start": 1049.22,
+   "end": 1052.22,
+   "text": "خیلی انسان رو به تمرکز می‌کشونه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 260,
+   "start": 1052.22,
+   "end": 1054.76,
+   "text": "به توحد می‌کشونه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 261,
+   "start": 1054.76,
+   "end": 1057.88,
+   "text": "و کثرات رو کاملا مندمج در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 262,
+   "start": 1057.88,
+   "end": 1061.12,
+   "text": "ذات می‌کنه، مستهلك در ذات می‌کنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 263,
+   "start": 1061.12,
+   "end": 1065.78,
+   "text": "بعد از ذکر تهلیه و البته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 264,
+   "start": 1065.78,
+   "end": 1072.9,
+   "text": "تأکید این چنینه که این دستور بعد تفکرات آفاقی و انفسی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 265,
+   "start": 1072.9,
+   "end": 1077.14,
+   "text": "در قوا و شئونات نفس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 266,
+   "start": 1077.14,
+   "end": 1080.86,
+   "text": "انجام بشه. که وقتی که استاد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 267,
+   "start": 1080.86,
+   "end": 1087.82,
+   "text": "به خواص این سیر رو، این توجه رو می‌دادن و این تذکر رو می‌دادن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 268,
+   "start": 1087.82,
+   "end": 1090.46,
+   "text": "که البته همونطور که اساتید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 269,
+   "start": 1090.46,
+   "end": 1094.66,
+   "text": "این فن و شاگردان خاص",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 270,
+   "start": 1094.66,
+   "end": 1100.65,
+   "text": "حضرت استاد می فرمایند بسیار دستور سنگینی است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 271,
+   "start": 1100.65,
+   "end": 1105.33,
+   "text": "معمولاً بعد از تفکرات آفاقی و انسی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 272,
+   "start": 1105.33,
+   "end": 1113.23,
+   "text": "صورت می‌گیره. اما اون لحظه‌ای که شروع به توجه عرفانی رخ می‌ده، تخلی از همه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 273,
+   "start": 1113.23,
+   "end": 1117.51,
+   "text": "قوا صورت می‌گیره و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 274,
+   "start": 1117.51,
+   "end": 1121.79,
+   "text": "که ان‌نه خودت رو رها می‌کنی در خلاء،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 275,
+   "start": 1121.79,
+   "end": 1128.99,
+   "text": "خودت رو رها می‌کنی در خلاء و تمام قوای وجودیت رو تفویض الی الله می‌کنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 276,
+   "start": 1128.99,
+   "end": 1134.53,
+   "text": "و تمام وجودت الله رو صدا می‌زنه و می‌خواد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 277,
+   "start": 1134.53,
+   "end": 1143.07,
+   "text": "الله. یک بار زیر باران، من توصیه می‌کنم به عزیزانی که هنوز این سیر رو شروع نکرده‌اند از اینجا شروع کنند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 278,
+   "start": 1143.07,
+   "end": 1145.85,
+   "text": "خصوصاً دل سحری که بارون گرفت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 279,
+   "start": 1145.85,
+   "end": 1151.03,
+   "text": "خیلی جالب و شیرینه که می‌دیدم اهل بیت علیهم‌السلام تا حتی پیغمبر قربونش بریم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 280,
+   "start": 1151.03,
+   "end": 1153.27,
+   "text": "وقتی بارون می‌باریده می‌رفتن زیر بارون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 281,
+   "start": 1153.27,
+   "end": 1156.95,
+   "text": "باران قبل از اینکه برخورد به زمین کنه و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 282,
+   "start": 1156.95,
+   "end": 1159.97,
+   "text": "آلوده بشه به جهات مختلف،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 283,
+   "start": 1159.97,
+   "end": 1162.33,
+   "text": "این باران برخورد کنه به وجه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 284,
+   "start": 1162.33,
+   "end": 1166.55,
+   "text": "و صورت ایشون که در این هم رمزی هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 285,
+   "start": 1166.55,
+   "end": 1170.23,
+   "text": "زیر باران که هنوز برخورد نکرده به شیئی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 286,
+   "start": 1170.23,
+   "end": 1173.83,
+   "text": "خصوصاً اگه دل شب باشه که عالی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 287,
+   "start": 1173.83,
+   "end": 1180.59,
+   "text": "قدم بزنه آهسته به آسمون نگاه کنه و الله رو بکشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 288,
+   "start": 1180.59,
+   "end": 1183.73,
+   "text": "اللههه، هر طور که می‌تونه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 289,
+   "start": 1183.73,
+   "end": 1187.21,
+   "text": "بکشه. یه چند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 290,
+   "start": 1187.21,
+   "end": 1191.41,
+   "text": "مقدار که قدم می‌زنه زیر باران این الله رو می‌کشه و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 291,
+   "start": 1191.41,
+   "end": 1196.83,
+   "text": "با تمام وجودش خالیه از هر کثرتی و هر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 292,
+   "start": 1196.83,
+   "end": 1201.39,
+   "text": "کدوم از قوای وجودیش فقط توجه تام به الله داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 293,
+   "start": 1201.39,
+   "end": 1203.77,
+   "text": "یواش، یواش، یواش اون روزنه باز می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 294,
+   "start": 1203.77,
+   "end": 1207.61,
+   "text": "من دیگه خیلی سری عرض کردم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 295,
+   "start": 1207.61,
+   "end": 1209.53,
+   "text": "و این چشیدنی‌ست عزیزان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 296,
+   "start": 1209.53,
+   "end": 1212.43,
+   "text": "من اگر بیشتر از این بگم شاید چوب بخورم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 297,
+   "start": 1212.43,
+   "end": 1215.07,
+   "text": "چشیدنی‌ست. باید بچشیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 298,
+   "start": 1215.07,
+   "end": 1220.27,
+   "text": "باید حرکت کنیم و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 299,
+   "start": 1220.27,
+   "end": 1227.51,
+   "text": "استفاده کنیم از اون لحظات و نفحاتی که به قول پیغمبر در ایام عمرمون وزیدن می‌گیره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 300,
+   "start": 1227.51,
+   "end": 1232.17,
+   "text": "و خدا داره ما رو صدا می‌زنه و متأسفانه ما غافلیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 301,
+   "start": 1232.17,
+   "end": 1234.69,
+   "text": "و رو به وجه خدا نکردیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 302,
+   "start": 1234.69,
+   "end": 1238.61,
+   "text": "خوشا به حال شهدا که به قول حضرت امام",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 303,
+   "start": 1238.61,
+   "end": 1242.11,
+   "text": "شهید نظر می‌کند به وجه الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 304,
+   "start": 1242.11,
+   "end": 1246.41,
+   "text": "ان‌شاءالله که عاقبتمون ختم به خیر باشد به برکت صلوات بر محمد و آل.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

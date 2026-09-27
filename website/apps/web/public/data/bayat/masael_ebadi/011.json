@@ -1,0 +1,54 @@
+{
+ "id": "011",
+ "index": 11,
+ "lecturer": "bayat",
+ "course": "masael_ebadi",
+ "title": "معیار حال کنونی در خط امام",
+ "topic": null,
+ "summary": "معیار قضاوت اشخاص بر اساس حال کنونی در خط امام.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/masael_ebadi/011/011_play.m4a",
+  "filename": "011_play.m4a",
+  "size": 7996229,
+  "display": "7.6 MB",
+  "duration": 644.46,
+  "durationText": "10:44"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "011.vtt",
+   "cues": "011.cues.json",
+   "words": "011.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## معیار حال کنونی در خط امام",
+   "start": 9.18,
+   "end": 31.06
+  },
+  {
+   "index": 1,
+   "title": "## عدالت دوطرفه",
+   "start": 31.06,
+   "end": 644.46
+  }
+ ],
+ "recordedAt": 1764862715,
+ "sourceName": "#عبادی #اجتماعی #سیاسی ۲۸-۱۱-۴۰۲.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "010",
+ "next": "012"
+}

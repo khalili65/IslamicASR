@@ -1,0 +1,838 @@
+{
+ "version": 1,
+ "sessionId": "005",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 321.58,
+ "alignment": {
+  "exact": 702,
+  "total": 702,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## کلمهٔ چهارم؛ خودفراموشی",
+   "start": 8.7,
+   "end": 104.7
+  },
+  {
+   "index": 1,
+   "title": "علت این غفلت چیست؟ بر اساس آیهٔ صد و هفتاد و نه سورهٔ اعراف:",
+   "start": 104.7,
+   "end": 141.72
+  },
+  {
+   "index": 2,
+   "title": "### عقل؛ وجه تمایز و مقدس‌ترین موجود",
+   "start": 141.72,
+   "end": 188.32
+  },
+  {
+   "index": 3,
+   "title": "### قلب عبارتی و تلطیف سر",
+   "start": 188.32,
+   "end": 242.22
+  },
+  {
+   "index": 4,
+   "title": "### چهار پرسش علوی",
+   "start": 242.22,
+   "end": 272.32
+  },
+  {
+   "index": 5,
+   "title": "### خطر هیئت بدون منبر",
+   "start": 272.32,
+   "end": 321.58
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 1.3,
+   "end": 6.02,
+   "text": "السلام علیک ای داعی الله و ربانی ایات.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 6.02,
+   "end": 8.7,
+   "text": "سلام علیکم و رحمة الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 8.7,
+   "end": 14.28,
+   "text": "سخن در صد کلمه معرفت حضرت علامه حسن زاده علیه الرحمه بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 14.28,
+   "end": 15.94,
+   "text": "می‌رسیم به کلمه چهارم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 15.94,
+   "end": 19.54,
+   "text": "ایشون می‌فرمایند آن که خود را فراموش کرده است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 19.54,
+   "end": 23.48,
+   "text": "از زیاد چه چیز خرسند است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 23.48,
+   "end": 26.98,
+   "text": "آن که خود را فراموش کرده است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 26.98,
+   "end": 30.12,
+   "text": "از زیاد چه چیز خرسند است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 30.12,
+   "end": 35.28,
+   "text": "بسیار در درس و بحث‌های حضرت استاد دیده می‌شد و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 35.28,
+   "end": 37.68,
+   "text": "این‌ها که هنوز هم حالا اصواتش هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 37.68,
+   "end": 41.08,
+   "text": "عزیزان که گوش می‌دهند می‌بینند خیلی در جلسات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 41.08,
+   "end": 44.82,
+   "text": "حضرت استاد به آیه نوزده سوره هشت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 44.82,
+   "end": 50.3,
+   "text": "در این رابطه اشاره می‌کردند که \"ولا تكونوا كالذین نسوا الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 50.3,
+   "end": 54.34,
+   "text": "فأنساهم أنفسهم أولئک هم الفاسقون\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 54.34,
+   "end": 56.52,
+   "text": "مثل کسانی نباشید که این‌ها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 56.52,
+   "end": 60.22,
+   "text": "نسوا الله خدا را فراموش کردند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 60.22,
+   "end": 65.86,
+   "text": "فأنساهم أنفسهم ما هم کاری کردند که خودشون رو فراموش کنند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 65.86,
+   "end": 68.7,
+   "text": "این خودفراموشی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 68.7,
+   "end": 73.0,
+   "text": "درد و بلای عظمایی است که متأسفانه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 73.0,
+   "end": 75.56,
+   "text": "میشه گفت غریب به اتفاق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 75.56,
+   "end": 78.04,
+   "text": "انسان‌ها و بشر رو گرفته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 78.04,
+   "end": 81.7,
+   "text": "اینطوری نیست که حتی اون‌هایی که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 81.7,
+   "end": 85.48,
+   "text": "مذهبی هستند و مسلمان هستند رو هم گرفته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 85.48,
+   "end": 88.66,
+   "text": "چه برسه اون‌هایی که دیگه اصلاً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 88.66,
+   "end": 90.74,
+   "text": "به دین حق هم نرسیدند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 90.74,
+   "end": 94.18,
+   "text": "حالا علت این غفلت چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 94.18,
+   "end": 98.12,
+   "text": "بر اساس آیه صد و هفتاد و نه سوره اعراف",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 98.12,
+   "end": 102.22,
+   "text": "که فرموده \"أُولَئِكَ كَالْأَنْعَامِ بَلْ هُمْ أَضَلُّ\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 102.22,
+   "end": 107.08,
+   "text": "بعد می‌فرماید \"أُولَئِكَ هُمُ الْغَافِلُونَ\" اینجا غفلت رو میاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 107.08,
+   "end": 110.94,
+   "text": "این‌ها چی شده که گرفتار غفلته‌ند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 110.94,
+   "end": 117.06,
+   "text": "فرمود \"كالأنعام بل هم أضل\" یعنی این‌ها به مرتبه‌ی حیوانیت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 117.06,
+   "end": 120.04,
+   "text": "اضل اون میشه نباتیات و جمادیات.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 120.04,
+   "end": 123.86,
+   "text": "اینطوری یعنی به مرحله‌ی انسانیت نرسیدند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 123.86,
+   "end": 128.16,
+   "text": "معذرت می‌خوام طبق این آیه قرآن مثل حیوان زندگی کردن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 128.16,
+   "end": 131.68,
+   "text": "چون بعدش می‌فرماید هم الغافلون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 131.68,
+   "end": 135.38,
+   "text": "همون غفلت ناشی از فراموشیه دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 135.38,
+   "end": 137.56,
+   "text": "این‌ها داره خصوصیت‌شون رو بیان می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 137.56,
+   "end": 140.04,
+   "text": "این‌ها اصلاً به اون مراتب انسانی نرسیدند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 140.04,
+   "end": 143.62,
+   "text": "حالا سؤال اون وجه تمایز بین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 143.62,
+   "end": 145.24,
+   "text": "حالا ما نمیگیم نبات و جماد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 145.24,
+   "end": 150.32,
+   "text": "نه اصلاً حیوان. وجه تمایز بین انسان و حیوان چی بود؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 150.32,
+   "end": 156.46,
+   "text": "عقل بود، عقل. که حالا عقل تعالی پیدا می‌کنه به مرحله قلب می‌کشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 156.46,
+   "end": 160.06,
+   "text": "عقل که به یک معنا می‌شه گفت مقدس‌ترین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 160.06,
+   "end": 163.5,
+   "text": "موجود است. این عقل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 163.5,
+   "end": 167.5,
+   "text": "اگر تعطیل شد انسان سقوط می‌کنه به مرحله‌ی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 167.5,
+   "end": 171.44,
+   "text": "حیوانی. حالا ببینیم ما از عقلمون چقدر بهره می‌گیریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 171.44,
+   "end": 176.48,
+   "text": "عقل. متأسفانه مذهبی‌های ما هم حال و حوصله اینا، حالا اینا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 176.48,
+   "end": 180.94,
+   "text": "هم-همه اینطوری نیستن ولی خیلی دیده می‌شه متأسفانه بینشون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 180.94,
+   "end": 187.04,
+   "text": "از مباحث عقلی، فکری، آنچه که نیاز به پیچیدگی و تأمل و تعقل داره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 187.04,
+   "end": 189.2,
+   "text": "غافلن. بارها و بارها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 189.2,
+   "end": 196.6,
+   "text": "حضرت علامه تأکید کردند بر اون قلب عبارتی قرآن اگر یک سوره داریم قلب قرآن یاسین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 196.6,
+   "end": 201.76,
+   "text": "قلب عبارتی قرآن وسط قرآن قرار گرفته \"وليتلقف\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 201.76,
+   "end": 205.4,
+   "text": "علامه فرمود اگر بخواهی به باطن قرآن برسی این سرشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 205.4,
+   "end": 209.02,
+   "text": "همین قلب عبارتی. یعنی تلطیف سر می‌خواد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 209.02,
+   "end": 211.54,
+   "text": "بعد ایشون سرشون رو می‌بردن تو سینه‌شون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 211.54,
+   "end": 214.94,
+   "text": "اینطوری. می‌فرمودند این یعنی تلطیف سر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 214.94,
+   "end": 218.14,
+   "text": "یعنی بری تو خودت. تأمل کنی، تعقل کنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 218.14,
+   "end": 220.66,
+   "text": "خودت خصوصاً از شناخت خودت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 220.66,
+   "end": 223.42,
+   "text": "شروع کنی که من عرف نفسه فقد عرف ربه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 223.42,
+   "end": 226.44,
+   "text": "بری تو وجود خودت. این یعنی تلطیف سر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 226.44,
+   "end": 229.84,
+   "text": "اما کسی که این رو تعطیل کرد یعنی عقل رو تعطیل کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 229.84,
+   "end": 232.98,
+   "text": "عقل رو تعطیل کرد أولئک کالأنعام.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 232.98,
+   "end": 235.26,
+   "text": "میشه معذب مثل حیوان زندگی می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 235.26,
+   "end": 238.2,
+   "text": "می‌خوره، می‌خوابه و کیف و نوش و این‌ها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 238.2,
+   "end": 241.94,
+   "text": "و و غضب و شهوت و بی‌خبر از خودش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 241.94,
+   "end": 247.56,
+   "text": "این که امیرالمؤمنین صلوات الله علیه فرمود خدا رحمت کنه اون کسی رو که بداند از کجا آمده،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 247.56,
+   "end": 249.9,
+   "text": "به کجا آمده و به کجا می‌رود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 249.9,
+   "end": 253.58,
+   "text": "تو یه روایت دیگه می‌فرماید برای چی آمده هم اضافه شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 253.58,
+   "end": 257.32,
+   "text": "پس چی شد؟ کسی که بداند از کجا اومده،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 257.32,
+   "end": 260.82,
+   "text": "به کجا اومده، برای چی اومده و به کجا میره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 260.82,
+   "end": 262.88,
+   "text": "اگر-- یعنی همون شناخت خودت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 262.88,
+   "end": 266.68,
+   "text": "که من کیم، از کجا اومدم، کیم، به کجا اومدم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 266.68,
+   "end": 269.68,
+   "text": "کیم، برای چی اومدم و کیم به کجا میرم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 269.68,
+   "end": 272.08,
+   "text": "اگر اینو تعطیل کنی تمامه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 272.08,
+   "end": 278.06,
+   "text": "حالا متأسفانه ما دیدیم و داریم می‌بینیم هی شدتش هم بیشتر می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 278.06,
+   "end": 280.2,
+   "text": "جلسات و هیات‌هایی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 280.2,
+   "end": 284.34,
+   "text": "که دم از ولایت هم می‌زنن و این‌ها اما منبر توشون تعطیله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 284.34,
+   "end": 288.82,
+   "text": "فقط سینه زنی و روضه و کف زنی و این‌ها و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 288.82,
+   "end": 292.48,
+   "text": "این و اینا خطر بزرگیه که داره جوون‌های ما رو تهدید می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 292.48,
+   "end": 294.64,
+   "text": "یعنی عقل که تعطیل شد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 294.64,
+   "end": 297.26,
+   "text": "تمام. آدم خودفراموشی می‌گیره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 297.26,
+   "end": 302.64,
+   "text": "و گرفتار چی می‌شه؟ حالا حضرت علامه یه بار دیگه جمله رو بخونن ببین چه درون مایه ای داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 302.64,
+   "end": 306.74,
+   "text": "آن که خود را فراموش کرده است از یاد چه چیز خرسند است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 306.74,
+   "end": 309.26,
+   "text": "از چی لذت می‌بره؟ کارش تمومه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 309.26,
+   "end": 311.48,
+   "text": "اصلاً لذتی نداره چنین کسی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 311.48,
+   "end": 316.0,
+   "text": "ان شا الله عاقبت ما ختم به خیر بشه و برکت صلوات بر محمد و آل محمد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 316.0,
+   "end": 321.58,
+   "text": "اللهم صل على محمد و آل محمد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

@@ -87,6 +87,15 @@ def main() -> int:
 
     uploaded = skipped = failed = 0
     t0 = time.time()
+
+    def report(index: int) -> None:
+        elapsed = time.time() - t0
+        print(
+            f"[{index}/{len(files)}] uploaded={uploaded} "
+            f"skipped={skipped} failed={failed} ({elapsed/60:.1f} min)",
+            flush=True,
+        )
+
     for index, path in enumerate(files, 1):
         key = str(path.relative_to(out)).replace("\\", "/")
         size = path.stat().st_size
@@ -94,6 +103,8 @@ def main() -> int:
             head = client.head_object(Bucket=bucket, Key=key)
             if int(head.get("ContentLength", -1)) == size:
                 skipped += 1
+                if index % 25 == 0 or index == len(files):
+                    report(index)
                 continue
         except ClientError:
             pass
@@ -125,15 +136,12 @@ def main() -> int:
 
         if ok:
             uploaded += 1
-            if uploaded % 50 == 0 or index == len(files):
-                elapsed = time.time() - t0
-                print(
-                    f"[{index}/{len(files)}] uploaded={uploaded} "
-                    f"skipped={skipped} failed={failed} ({elapsed/60:.1f} min)"
-                )
         else:
             failed += 1
             print(f"FAIL {key}: {last_error}", file=sys.stderr)
+
+        if index % 25 == 0 or index == len(files) or uploaded % 20 == 0:
+            report(index)
 
     elapsed = time.time() - t0
     print(

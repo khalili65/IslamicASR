@@ -11,7 +11,11 @@ function readJson<T>(filePath: string): T {
 }
 
 export function getSiteIndex(): SiteIndex {
-  return readJson(path.join(DATA_ROOT, "index.json"));
+  const site = readJson<SiteIndex>(path.join(DATA_ROOT, "index.json"));
+  return {
+    ...site,
+    lecturers: (site.lecturers || []).filter((l) => !l.hidden),
+  };
 }
 
 export function getCourse(lecturer: string, course: string): CourseIndex {

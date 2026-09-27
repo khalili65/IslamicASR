@@ -1,0 +1,1507 @@
+{
+ "version": 1,
+ "sessionId": "078",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 613.69,
+ "alignment": {
+  "exact": 1166,
+  "total": 1166,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## توحید خلقت و هدایت در سخن ابراهیم",
+   "start": 18.14,
+   "end": 84.66
+  },
+  {
+   "index": 1,
+   "title": "## یطعمنی و یسقین؛ رزق از گلو پایین",
+   "start": 84.66,
+   "end": 247.08
+  },
+  {
+   "index": 2,
+   "title": "## مرضت و یشفین؛ ادب تقوای عرفانی",
+   "start": 247.08,
+   "end": 379.33
+  },
+  {
+   "index": 3,
+   "title": "## یمیتنی ثم یحیین؛ غفران خطیئه و ترک اولی",
+   "start": 379.33,
+   "end": 478.49
+  },
+  {
+   "index": 4,
+   "title": "## دعای رب هب لی حکما؛ اثر در دعوات راوندی",
+   "start": 478.49,
+   "end": 613.69
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 2.98,
+   "end": 5.48,
+   "text": "آل محمد معجل.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 5.48,
+   "end": 9.18,
+   "text": "بسم الله الرحمن الرحیم و به این استعین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 9.18,
+   "end": 13.34,
+   "text": "السلام الیک یا داعی الله و ربانی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 13.34,
+   "end": 18.14,
+   "text": "آیات. سلام علیکم و رحمة الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 18.14,
+   "end": 24.8,
+   "text": "توحید افعالی در آیات هفتاد و هشت تا هشتاد و سه شعرا خیلی زیباست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 24.8,
+   "end": 29.32,
+   "text": "فرمایش حضرت ابراهیم است صلوات الله عليه و على نبيه و آله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 29.32,
+   "end": 34.7,
+   "text": "الذي خلقني. این توحید در خلقت است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 34.7,
+   "end": 39.44,
+   "text": "الذي خلقني. اون خدایی است که منو خلق کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 39.44,
+   "end": 42.46,
+   "text": "فهو يهدين. سپس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 42.46,
+   "end": 44.88,
+   "text": "منو هدایت کرد و راهنمایی کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 44.88,
+   "end": 48.7,
+   "text": "این توحید در هدایت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 48.7,
+   "end": 51.76,
+   "text": "خلقني توحید در خلقت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 51.76,
+   "end": 54.84,
+   "text": "يهدين توحید در هدایت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 54.84,
+   "end": 60.06,
+   "text": "تا حالا شده آقا ما به جهت هدایتمون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 60.06,
+   "end": 62.44,
+   "text": "شکر الهی رو به جا بیاریم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 62.44,
+   "end": 66.12,
+   "text": "به جهت خلقتمون شکر الهی رو به جا بیاریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 66.12,
+   "end": 69.4,
+   "text": "میشد ما اصلا نباشیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 69.4,
+   "end": 72.8,
+   "text": "و این همه فیض به ما نرسه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 72.8,
+   "end": 76.18,
+   "text": "یا میشد ما اصلا هدایت نشده باشیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 76.18,
+   "end": 78.26,
+   "text": "الان جزء جهال زمانه باشیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 78.26,
+   "end": 83.82,
+   "text": "نمیشد؟ جای شکر داره یا نداره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 83.82,
+   "end": 86.26,
+   "text": "آیه بعد. الذي هو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 86.26,
+   "end": 87.96,
+   "text": "يطعمني ويسقين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 87.96,
+   "end": 90.28,
+   "text": "خیلی زیباست، خیلی شیرینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 90.28,
+   "end": 93.98,
+   "text": "باز می فرماید اون خداییه که يطعمني",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 93.98,
+   "end": 99.9,
+   "text": "به من خوراک می‌دهد. يطعمني من که با دست خودمو میخورم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 99.9,
+   "end": 103.06,
+   "text": "یا پدر و مادر به من دادن غذا رو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 103.06,
+   "end": 105.84,
+   "text": "نخیر. يطعمني الذي هو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 105.84,
+   "end": 109.06,
+   "text": "اونم هو يطعمني. این هو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 109.06,
+   "end": 111.62,
+   "text": "برمیگرده اشاره داره به دیگه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 111.62,
+   "end": 115.64,
+   "text": "منتها له بری بالا به رتبه های عالی صادره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 115.64,
+   "end": 118.2,
+   "text": "نخستین که فیض",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 118.2,
+   "end": 122.44,
+   "text": "حق از وجود منبسط او میرسه به ما.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 122.44,
+   "end": 126.42,
+   "text": "این هو اشاره به اون داره، به یک معنا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 126.42,
+   "end": 131.38,
+   "text": "یعنی هرچی که من میخورم يطعمني خداست که اطعام می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 131.38,
+   "end": 134.72,
+   "text": "یکی اومد پیش امام صادق علیه الصلاة والسلام گفت آقا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 134.72,
+   "end": 138.56,
+   "text": "از این دیسانی‌ها، این دشمنان اهل بیت بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 138.56,
+   "end": 141.8,
+   "text": "یه سیب دستش گرفت به خیال خام خودش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 141.8,
+   "end": 144.42,
+   "text": "گفت به آقا میگم این رزق منه یا نه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 144.42,
+   "end": 147.22,
+   "text": "اگر گفت بله نمیخورم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 147.22,
+   "end": 150.84,
+   "text": "اگه گفت نیست میخورم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 150.84,
+   "end": 157.22,
+   "text": "این آورد هم رفت جلوی حضرت اهل کل عالم کشاف حقایق امام جعفر به حق ناطق.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 157.22,
+   "end": 159.02,
+   "text": "گفت آقا این رزق من هست یا نه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 159.02,
+   "end": 165.54,
+   "text": "حضرت فرمود اگر از گلوت رفت پایین رزقت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 165.54,
+   "end": 168.2,
+   "text": "دیگه حرفو تموم کردی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 168.2,
+   "end": 171.7,
+   "text": "خـ-- هو يطعمني. خداست که اطعام می‌کند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 171.7,
+   "end": 174.68,
+   "text": "ويسقين. خداست که سیرابم میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 174.68,
+   "end": 177.66,
+   "text": "چقدر شیرین حضرت ابراهیم سخن گفته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 177.66,
+   "end": 181.52,
+   "text": "واقعا ما تصورمون اینه وقتی غذا میخوریم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 181.52,
+   "end": 185.48,
+   "text": "تصورمون اینه که خدا داره به ما اطعام میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 185.48,
+   "end": 191.86,
+   "text": "آب میخوریم واقعا تصورمون اینه که خدا داره سیراب میکنه ما رو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 191.86,
+   "end": 195.98,
+   "text": "خدا اصلا اثر سیراب کردن رو به آب داده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 195.98,
+   "end": 200.26,
+   "text": "و سیر کردن رو به غذا یا نه تو خودشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 200.26,
+   "end": 205.98,
+   "text": "یعنی این اثر تو خود آبه یا تو خود غذائه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 205.98,
+   "end": 211.4,
+   "text": "اگر تو خود آبه چطور خیلی آب میخورن بدتر تشنه تر میشن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 211.4,
+   "end": 214.66,
+   "text": "و خیلی‌ها اصلا آب نمیخورن تشنه هم نمیشن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 214.66,
+   "end": 217.64,
+   "text": "اصلا آب نمیخورن. حضرت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 217.64,
+   "end": 224.88,
+   "text": "موسی چهل شب در کوه طور نه غذا خورد، نه آب خورد، نه خوابید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 224.88,
+   "end": 231.86,
+   "text": "اگه حتما لاجرم اون غذا هست که اطعام میکنه، سیر میکنه و اون آب است که سیراب میکنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 231.86,
+   "end": 234.7,
+   "text": "چرا هیچ کدومو استفاده نکرد اما نه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 234.7,
+   "end": 238.6,
+   "text": "گشنه شد، نه تشنه شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 238.6,
+   "end": 242.56,
+   "text": "اصلا مسبب لا مسبب في الوجود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 242.56,
+   "end": 246.42,
+   "text": "الله. تموم شد و رفت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 246.42,
+   "end": 249.54,
+   "text": "آیه بعد. و اذا مرضت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 249.54,
+   "end": 254.1,
+   "text": "خیلی شیرینا. مریض شدن رو به خودش نسبت میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 254.1,
+   "end": 262.58,
+   "text": "اینجا عدد میکنه. و اذا مرضت وقتی من مریض شدم فهو يشفين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 262.58,
+   "end": 266.6,
+   "text": "اونه باز هو. باز اونه که شفا میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 266.6,
+   "end": 270.16,
+   "text": "اینجا این اصل تقوا رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 270.16,
+   "end": 272.7,
+   "text": "وقایه گرفتن رو در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 272.7,
+   "end": 275.48,
+   "text": "عرفان رعایت کرده حضرت ابراهیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 275.48,
+   "end": 278.6,
+   "text": "میدونی تقوا به صورت معمول در اخلاق چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 278.6,
+   "end": 281.44,
+   "text": "رعایت حدود الهی. یعنی گناه نکن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 281.44,
+   "end": 284.62,
+   "text": "به این شکل. اما در عرفان این چ-- این نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 284.62,
+   "end": 286.94,
+   "text": "اوج تقوا تا جایی میره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 286.94,
+   "end": 289.52,
+   "text": "که میگه سپر بگیر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 289.52,
+   "end": 292.16,
+   "text": "بدی‌ها رو سپر بگیر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 292.16,
+   "end": 295.2,
+   "text": "در برابر حق به خودت نسبت بده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 295.2,
+   "end": 298.92,
+   "text": "خوبی‌ها رو سپر جلو خودت بگیر به خدا نسبت بده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 298.92,
+   "end": 302.24,
+   "text": "آیه شم اون بود که کلا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 302.24,
+   "end": 305.6,
+   "text": "آنچه که خیر هست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 305.6,
+   "end": 310.28,
+   "text": "ما اصابك من حسنة فمن الله مطلقا از الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 310.28,
+   "end": 313.1,
+   "text": "ما اصابك من سيئة فمن نفسك.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 313.1,
+   "end": 317.36,
+   "text": "هرچی بدیه از خودته. اینجا این اصل رو رعایت کرده حضرت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 317.36,
+   "end": 321.64,
+   "text": "و اذا مرضت وقتی من مریض میشم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 321.64,
+   "end": 325.66,
+   "text": "به خدا نسبت نداده. فهو يشفين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 325.66,
+   "end": 328.98,
+   "text": "در صورتی که باز به حول و قوه الهی من مریض میشم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 328.98,
+   "end": 331.84,
+   "text": "یعنی اگه خدا اراده نکنه من مریض نمیشم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 331.84,
+   "end": 336.66,
+   "text": "ولی به خودش نسبت میده. خداست که شفا میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 336.66,
+   "end": 342.92,
+   "text": "اتفاقا یه روایت دیدم قشنگ بود از پیغمبر عز عالم در همین توحید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 342.92,
+   "end": 344.6,
+   "text": "شفا، توحید در شفا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 344.6,
+   "end": 351.98,
+   "text": "فرمودن وقتی به طبیب و دارو رجوع می‌کنید دلتان را متوجه خدا بکنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 351.98,
+   "end": 356.0,
+   "text": "چون الشافي هو الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 356.0,
+   "end": 358.52,
+   "text": "الشافي اسم حضرت حق دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 358.52,
+   "end": 361.19,
+   "text": "شفا دهنده است. هو الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 94,
+   "start": 361.19,
+   "end": 363.63,
+   "text": "الله که شما دلتو متوجه خدا کن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 95,
+   "start": 363.63,
+   "end": 366.93,
+   "text": "رفتی به طبیب مراجعه کردی یا خواستی دارو بخوری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 96,
+   "start": 366.93,
+   "end": 369.11,
+   "text": "خدا وکیلی ما داریم دارو می‌خوریم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 97,
+   "start": 369.11,
+   "end": 375.33,
+   "text": "یا میریم پیش دکتر اصلاً توجه به این داریم که الشافی هو الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 98,
+   "start": 375.33,
+   "end": 378.63,
+   "text": "اینجا معلوم می‌شه عیار توحید ما چگونه است دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 99,
+   "start": 378.63,
+   "end": 382.27,
+   "text": "آیه بعدی. والذي يميتني",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 100,
+   "start": 382.27,
+   "end": 387.23,
+   "text": "ثم يحييني. اون همون کسیه که می‌میراند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 101,
+   "start": 387.23,
+   "end": 390.15,
+   "text": "سپس زنده هم می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 102,
+   "start": 390.15,
+   "end": 393.33,
+   "text": "احياء ما دست خداست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 103,
+   "start": 393.33,
+   "end": 395.77,
+   "text": "اماته هم دست خداست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 104,
+   "start": 395.77,
+   "end": 399.41,
+   "text": "حالا اسم حضرت عزرائیل قربونش بریم بد در رفته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 105,
+   "start": 399.41,
+   "end": 401.33,
+   "text": "در صورتی که کار، کار خود خداست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 106,
+   "start": 401.33,
+   "end": 405.75,
+   "text": "الله يتوفى الأنفُس حين موتها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 107,
+   "start": 405.75,
+   "end": 409.83,
+   "text": "هو الذي اون کسی‌ست که يحيي ويميت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 108,
+   "start": 409.83,
+   "end": 411.57,
+   "text": "احياء می‌کنه و اماته می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 109,
+   "start": 411.57,
+   "end": 414.15,
+   "text": "ببین سرتاسر آیات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 110,
+   "start": 414.15,
+   "end": 416.59,
+   "text": "توحید افعالی موج می‌زنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 111,
+   "start": 416.59,
+   "end": 425.85,
+   "text": "چقدر عالیه. آیه بعدی هم می‌فرماید الذي أطعمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 112,
+   "start": 425.85,
+   "end": 429.01,
+   "text": "او کسیه که من امید دارم طمع دارم به چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 113,
+   "start": 429.01,
+   "end": 431.87,
+   "text": "أن يغفر لي خطيئتي يوم الدين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 114,
+   "start": 431.87,
+   "end": 434.09,
+   "text": "که فردای قیامت خطای منو ببخشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 115,
+   "start": 434.09,
+   "end": 438.13,
+   "text": "اینجا سؤال پیش میاد حضرت ابراهیم مگه خطاکار بوده عجل الله؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 116,
+   "start": 438.13,
+   "end": 441.89,
+   "text": "مگه پیغمبر نبود؟ مگه به مقام امامت نرسید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 117,
+   "start": 441.89,
+   "end": 446.67,
+   "text": "چطور اینجا اقرار کرده که أن يغفر لي خطيئتي",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 118,
+   "start": 446.67,
+   "end": 452.67,
+   "text": "يوم الدين. برای اینکه این جواب رو بدیم یه روایت تقدیم می‌کنم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 119,
+   "start": 452.67,
+   "end": 456.25,
+   "text": "از تفسیر قمی. ذیل همین خطیئتی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 120,
+   "start": 456.25,
+   "end": 464.85,
+   "text": "حضرت فرمودن ابراهیم گناهی مرتکب نشد بلکه خود را به کاری مشغول کرد که ترک آن بهتر بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 121,
+   "start": 464.85,
+   "end": 468.13,
+   "text": "اصطلاحا بهش می‌گن ترک اولی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 122,
+   "start": 468.13,
+   "end": 477.65,
+   "text": "و آن را به خطیئه خودش، خود حضرت ابراهیم به خطیئه نامید برای اظهار فروتنی در برابر حضرت حق.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 123,
+   "start": 477.65,
+   "end": 479.59,
+   "text": "و آیه آخر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 124,
+   "start": 479.59,
+   "end": 481.69,
+   "text": "رب تو این بخش البته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 125,
+   "start": 481.69,
+   "end": 484.01,
+   "text": "رب هب لي. یه دعای خیلی عالیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 126,
+   "start": 484.01,
+   "end": 488.13,
+   "text": "این دعا رو یاد بگیرید. خیلی دعای قشنگیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 127,
+   "start": 488.13,
+   "end": 491.27,
+   "text": "قبل از اینکه بخونمش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 128,
+   "start": 491.27,
+   "end": 495.31,
+   "text": "تشویقتون کنم. در کتاب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 129,
+   "start": 495.31,
+   "end": 499.35,
+   "text": "دعوات راوندی. قطب راوندی کجا دفنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 130,
+   "start": 499.35,
+   "end": 505.03,
+   "text": "دیدینشون؟ تو صحن اصلی حضرت معصومه سلام الله علیها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 131,
+   "start": 505.03,
+   "end": 507.23,
+   "text": "یه قبر بلنده تقریباً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 132,
+   "start": 507.23,
+   "end": 510.19,
+   "text": "شاید هفتاد هشتاد سان بلندی‌ش باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 133,
+   "start": 510.19,
+   "end": 512.85,
+   "text": "ایشونه. صاحب این کتاب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 134,
+   "start": 512.85,
+   "end": 515.45,
+   "text": "صفحه پنجاه و چهار. از مولا مون علی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 135,
+   "start": 515.45,
+   "end": 517.43,
+   "text": "می‌فرماید من قال فی دعائه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 136,
+   "start": 517.43,
+   "end": 524.15,
+   "text": "هرکس که داره دعا می‌کنه این آیه رو به عنوان دعا ازش استفاده کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 137,
+   "start": 524.15,
+   "end": 527.83,
+   "text": "جعله الله مع الصالحین عباده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 138,
+   "start": 527.83,
+   "end": 532.81,
+   "text": "خدا اون رو جزء صالحین عبادش قرار می‌ده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 139,
+   "start": 532.81,
+   "end": 536.11,
+   "text": "و آتاه حكمة.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 140,
+   "start": 536.11,
+   "end": 539.49,
+   "text": "قابل توجه بچه‌های معرفت نفس مسعود بلال.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 141,
+   "start": 539.49,
+   "end": 541.51,
+   "text": "خدا بهش حکم عطا می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 142,
+   "start": 541.51,
+   "end": 544.35,
+   "text": "این حکم رو در تفسیر نو-نمونه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 143,
+   "start": 544.35,
+   "end": 548.83,
+   "text": "دو جور معنا کردن. یکی حکومت و سرپرستی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 144,
+   "start": 548.83,
+   "end": 553.35,
+   "text": "که انسان بتونه گره گشایی کنه از ملت، از مردم، از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 145,
+   "start": 553.35,
+   "end": 556.39,
+   "text": "ق-قاطبه مردم. یکیش هم حکمته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 146,
+   "start": 556.39,
+   "end": 559.87,
+   "text": "حکمت هم ترجمه-- دانش، علم، حکمت ترجمه شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 147,
+   "start": 559.87,
+   "end": 562.67,
+   "text": "حالا آیه چیه که اگر کسی--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 148,
+   "start": 562.67,
+   "end": 565.21,
+   "text": "البته تاثیرات دیگه‌ای داره اینجا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 149,
+   "start": 565.21,
+   "end": 568.31,
+   "text": "دیگه عرض نمی‌کنم. وقتمون هم تموم شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 150,
+   "start": 568.31,
+   "end": 572.43,
+   "text": "انشاالله چهارشنبه برای عزیزان مسعود بلال عرض خواهیم کرد تاثیرات دیگه‌ش رو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 151,
+   "start": 572.43,
+   "end": 576.49,
+   "text": "رب هب لي آیه اینه. رب هب لي حكما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 152,
+   "start": 576.49,
+   "end": 578.55,
+   "text": "وألحقني بالصالحين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 153,
+   "start": 578.55,
+   "end": 580.75,
+   "text": "اینو یاد بگیرید. دعای حضرت ابراهیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 154,
+   "start": 580.75,
+   "end": 582.91,
+   "text": "رب ألحقني حكما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 155,
+   "start": 582.91,
+   "end": 588.65,
+   "text": "وألحقني بالصالحين. اگه خواستید رجوع کنید آیه هشتاد و سه سوره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 156,
+   "start": 588.65,
+   "end": 593.81,
+   "text": "شعراء. سرتاسر آیه این آیاتی که خوندیم همش بوی توحید افعالی می‌ده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 157,
+   "start": 593.81,
+   "end": 598.93,
+   "text": "انشاالله که پروردگار سبحان حقیقت این توحید رو تو وجود ما بکارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 158,
+   "start": 598.93,
+   "end": 602.21,
+   "text": "اللهم بارک لمولانا صاحب الزمان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 159,
+   "start": 602.21,
+   "end": 604.31,
+   "text": "والحمد لله رب العالمين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 160,
+   "start": 604.31,
+   "end": 608.37,
+   "text": "صلوات الله. اللهم صل على محمد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 161,
+   "start": 608.37,
+   "end": 613.69,
+   "text": "وآل محمد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

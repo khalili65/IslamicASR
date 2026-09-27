@@ -1,12 +1,13 @@
 import fs from "fs";
 import path from "path";
 
-export type SessionDocKind = "corrected" | "summary" | "book";
+export type SessionDocKind = "corrected" | "summary" | "book" | "raw";
 
 const KIND_SUFFIX: Record<SessionDocKind, string> = {
   corrected: ".corrected.md",
   summary: ".summary.md",
   book: ".book.md",
+  raw: ".raw.txt",
 };
 
 /** Prefer shipped public/data copies; fall back to Audios via public/audio locally. */
@@ -16,19 +17,19 @@ export function loadSessionMarkdown(
   session: string,
   kind: SessionDocKind,
 ): string | null {
+  const suffix = KIND_SUFFIX[kind];
   const dataFile = path.join(
     process.cwd(),
     "public",
     "data",
     lecturer,
     course,
-    `${session}.${kind}.md`,
+    `${session}${suffix}`,
   );
   if (fs.existsSync(dataFile)) {
     return fs.readFileSync(dataFile, "utf8");
   }
 
-  const suffix = KIND_SUFFIX[kind];
   const audioRoot = path.join(process.cwd(), "public", "audio");
   const candidates = [
     path.join(audioRoot, lecturer, course, session),
@@ -49,14 +50,14 @@ export function loadSessionMarkdown(
   return null;
 }
 
-/** Public URL for a shipped session markdown file (for downloads). */
+/** Public URL for a shipped session doc (for downloads). */
 export function sessionDocUrl(
   lecturer: string,
   course: string,
   session: string,
   kind: SessionDocKind,
 ): string {
-  return `/data/${lecturer}/${course}/${session}.${kind}.md`;
+  return `/data/${lecturer}/${course}/${session}${KIND_SUFFIX[kind]}`;
 }
 
 export function stripEditorialNoise(md: string): string {
@@ -95,6 +96,20 @@ function inlineFormat(s: string): string {
     /\*\*(.*?)\*\*/g,
     "<strong>$1</strong>",
   );
+}
+
+/** Turn continuous ASR prose into readable HTML paragraphs. */
+export function plainTextToHtml(body: string): string {
+  const chunks = body
+    .replace(/\s+/g, " ")
+    .trim()
+    .split(/(?<=[.؟!…])\s+/)
+    .map((part) => part.trim())
+    .filter(Boolean);
+  if (!chunks.length) {
+    return `<p>${escapeHtml(body.trim())}</p>`;
+  }
+  return chunks.map((part) => `<p>${escapeHtml(part)}</p>`).join("\n");
 }
 
 /** Minimal markdown → HTML for reading views. */

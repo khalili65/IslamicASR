@@ -1,0 +1,60 @@
+{
+ "id": "025",
+ "index": 25,
+ "lecturer": "bayat",
+ "course": "qalb_monafeq",
+ "title": "فطریهٔ تأخیری",
+ "topic": null,
+ "summary": "احکام فطریهٔ تأخیری و اولویت اقربا؛ غیبت از نشناختن امام است؛ دعای معرفت دین را نگه می‌دارد.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/qalb_monafeq/025/025_play.m4a",
+  "filename": "025_play.m4a",
+  "size": 7964249,
+  "display": "7.6 MB",
+  "duration": 657.66,
+  "durationText": "10:58"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "025.vtt",
+   "cues": "025.cues.json",
+   "words": "025.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## فطریهٔ تأخیری",
+   "start": 24.18,
+   "end": 67.06
+  },
+  {
+   "index": 1,
+   "title": "## نفاق و غیبت امام",
+   "start": 67.06,
+   "end": 615.58
+  },
+  {
+   "index": 2,
+   "title": "## دعای معرفت",
+   "start": 615.58,
+   "end": 657.66
+  }
+ ],
+ "recordedAt": 1785846999,
+ "sourceName": "قلب منافق25_ج195.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "024",
+ "next": "026"
+}

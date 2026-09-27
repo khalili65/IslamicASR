@@ -1,0 +1,4711 @@
+{
+ "version": 1,
+ "sessionId": "006",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 2110.82,
+ "alignment": {
+  "exact": 4301,
+  "total": 4301,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## آیهٔ دعوت به اسماء",
+   "start": 121.96,
+   "end": 277.34
+  },
+  {
+   "index": 1,
+   "title": "## تمثیلِ من: سامعه و باصره",
+   "start": 277.34,
+   "end": 1420.34
+  },
+  {
+   "index": 2,
+   "title": "## گل و انجمنِ اسماء",
+   "start": 1420.34,
+   "end": 1500.85
+  },
+  {
+   "index": 3,
+   "title": "## باصره از بصیر؛ مراتبِ بینندگان",
+   "start": 1500.85,
+   "end": 1934.44
+  },
+  {
+   "index": 4,
+   "title": "## هو الأول والآخر والظاهر والباطن",
+   "start": 1934.44,
+   "end": 2110.82
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 1.36,
+   "end": 4.52,
+   "text": "هوالله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 4.52,
+   "end": 11.31,
+   "text": "هو الله الخالق.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 11.31,
+   "end": 15.82,
+   "text": "هو الله الخالق. الخالق البارئ المصور.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 15.82,
+   "end": 20.36,
+   "text": "له الأسماء",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 20.36,
+   "end": 26.64,
+   "text": "الحسنى. أسماء الحسنى.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 26.64,
+   "end": 39.44,
+   "text": "الكريم الرحيم المجيب الواسع الحكيم الذو المجيد الباعث الشهيد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 39.44,
+   "end": 42.9,
+   "text": "مباحث عرفانی عارف وارسته،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 42.9,
+   "end": 46.1,
+   "text": "آیت الله محمد شجاعی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 46.1,
+   "end": 48.68,
+   "text": "در باب اسماء الهی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 48.68,
+   "end": 53.67,
+   "text": "لله الأسماء الحسنی. هر اسمی که اشاره به کمال بکنه اسم خداست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 53.67,
+   "end": 65.76,
+   "text": "الواجد الماجد الواحد الصمد القادر المقتدر المقدم المؤخر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 65.76,
+   "end": 68.78,
+   "text": "الأول الآخر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 68.78,
+   "end": 70.82,
+   "text": "أسماء الحسنى.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 70.82,
+   "end": 81.38,
+   "text": "المقصب الجامع الغنی المبنی المعطی الطاح النافع",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 81.38,
+   "end": 85.28,
+   "text": "النور الهادی البدیع",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 85.28,
+   "end": 87.58,
+   "text": "الباقی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 87.58,
+   "end": 93.6,
+   "text": "الوارث الرشید الصبور الذي.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 93.6,
+   "end": 96.3,
+   "text": "ليس كمثله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 96.3,
+   "end": 102.46,
+   "text": "شيء وهو السميع البصير.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 102.46,
+   "end": 106.86,
+   "text": "بسم الله الرحمن الرحيم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 106.86,
+   "end": 109.58,
+   "text": "به نام حضرت علیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 109.58,
+   "end": 113.54,
+   "text": "که له الأسماء الحسنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 113.54,
+   "end": 118.24,
+   "text": "دوستان عرفان دوست سلام و درود بر شما.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 118.24,
+   "end": 124.18,
+   "text": "این ششمین برنامه اسماء الحسنی است که میشنوید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 124.18,
+   "end": 129.94,
+   "text": "چنانکه میدانید در این سلسله برنامه‌ها درس‌های عارف وارسته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 129.94,
+   "end": 139.44,
+   "text": "حضرت آیت الله محمد شجاعی در باب اسماء حسنی الهی تقدیم شما میشود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 139.44,
+   "end": 150.44,
+   "text": "در برنامه‌های پیشین استاد گرانقدر پس از بیان مقدماتی در باب نسبت اسماء و صفات با ذات غیب الغیوب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 150.44,
+   "end": 159.36,
+   "text": "به اسماء مذکور در آیات کریمه قرآن و روایات و ادعیه شریفه اشارتی کوتاه کردند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 159.36,
+   "end": 164.4,
+   "text": "سپس به توضیح اولین مرتبه تجلی ذات پرداختند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 164.4,
+   "end": 168.24,
+   "text": "که تعین در نام احد است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 168.24,
+   "end": 173.32,
+   "text": "و در مرتبه بعد تجلی با نام واحد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 173.32,
+   "end": 178.38,
+   "text": "در مرتبe پایین‌تر تجلی تک تک اسماء و صفات است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 178.38,
+   "end": 186.42,
+   "text": "در این مرتبه آن ذات واحد در قالب هر اسمی و صفتی جلوه‌ای خاص می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 186.42,
+   "end": 189.58,
+   "text": "این جلوات تکثر دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 189.58,
+   "end": 195.64,
+   "text": "این مرتبه از تجلیات را عالم اسماء گویند که عالم جلوه ذات است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 195.64,
+   "end": 198.76,
+   "text": "در آینه اسماء.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 198.76,
+   "end": 204.74,
+   "text": "هر جلوه با هر صفت و اسمی آثار و مخلوقاتی دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 204.74,
+   "end": 208.2,
+   "text": "آنچه موجود است چه مدرک ما باشد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 208.2,
+   "end": 212.28,
+   "text": "یا نباشد، همه آثار و جلوات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 212.28,
+   "end": 217.2,
+   "text": "اسماء خداست. برای فهم بهتر این نکته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 217.2,
+   "end": 222.04,
+   "text": "استاد مثال‌های متعددی نیز بیان فرمودند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 222.04,
+   "end": 227.56,
+   "text": "در برنامه امروز که ششمین بحث از سلسله بحث‌های اسماء الهی است،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 227.56,
+   "end": 234.62,
+   "text": "استاد وارسته آیت الله محمد شجاعی به توضیح جلوات متکثر ذات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 234.62,
+   "end": 237.92,
+   "text": "در اسماء مختلف می‌پردازد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 237.92,
+   "end": 243.22,
+   "text": "ذات طوری تجلی می‌کند که بیننده آن را علیم می‌یابد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 243.22,
+   "end": 245.36,
+   "text": "اما خود این علیم هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 245.36,
+   "end": 250.0,
+   "text": "جلوه‌هایی دارد و ظهورات مختلفی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 250.0,
+   "end": 252.34,
+   "text": "سميع، بصیر،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 252.34,
+   "end": 258.56,
+   "text": "حفیظ، حسیب از انشعابات همان اسم علیم است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 258.56,
+   "end": 262.4,
+   "text": "این اسماء همه تجلیات ذات‌اند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 262.4,
+   "end": 270.0,
+   "text": "برای مثال چشم و گوش ما ابزار قوه باصره و سامعه ما هستند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 270.0,
+   "end": 276.1,
+   "text": "این دو قوه دو تجلی و دو تعین از خود ما هستند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 276.1,
+   "end": 279.22,
+   "text": "و البته جدا از ما هم نیستند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 279.22,
+   "end": 282.8,
+   "text": "دیگر قوه‌های ما نیز چنین‌اند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 282.8,
+   "end": 289.18,
+   "text": "توضیح این مثال به فرموده استاد اگرچه دقیقاً حقیقت مطلب را شرح نمی‌دهد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 289.18,
+   "end": 296.44,
+   "text": "اما دقت در مثال‌های عالم انسان‌ها به فهم بهتر آن کمک می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 296.44,
+   "end": 299.82,
+   "text": "در باب این مثال‌های عالم بشری،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 299.82,
+   "end": 304.78,
+   "text": "استاد توضیحات دقیق و ظریفی دارند که تأمل بیشتری می‌طلبد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 304.78,
+   "end": 308.92,
+   "text": "دیدن و شنیدن ما نسبتی با خود ما دارند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 308.92,
+   "end": 311.4,
+   "text": "که از آن تعبیر به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 311.4,
+   "end": 317.94,
+   "text": "من می‌کنیم. هرچه بصیر و باصر و بصر و بصیرت است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 317.94,
+   "end": 325.14,
+   "text": "به هر صورتی در عوالم مختلف همه جلوات اسم بصیر حق است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 325.14,
+   "end": 328.28,
+   "text": "شکل و صورت ما از آثار وجودی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 328.28,
+   "end": 330.64,
+   "text": "اسم مصور حق است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 330.64,
+   "end": 334.16,
+   "text": "که به ماده صورت داده است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 334.16,
+   "end": 340.2,
+   "text": "به این صور که تجلیات اسم مصور است، خداوند با اسم بصیرش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 340.2,
+   "end": 347.66,
+   "text": "علم پیا می‌کند. این علم از آثار اسم بصیر است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 347.66,
+   "end": 355.08,
+   "text": "هر جا در عالم چه عالم تجرد و چه عالم ماده یا ملکوت باصری هست،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 355.08,
+   "end": 359.8,
+   "text": "همه این بیننده‌ها از جلوات اسم بصیر‌اند و البته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 359.8,
+   "end": 363.56,
+   "text": "همه در یک مرتبه نیستند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 363.56,
+   "end": 369.12,
+   "text": "جلوات اسم بصیر به این معناست که از متجلی صادر می‌شوند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 369.12,
+   "end": 372.58,
+   "text": "از آن اصل سرچشمه می‌گیرند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 372.58,
+   "end": 376.66,
+   "text": "غیر او نیستند. عین او هم نیستند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 376.66,
+   "end": 380.0,
+   "text": "از او هستند، با او هستند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 380.0,
+   "end": 383.32,
+   "text": "بی او هم نیستند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 383.32,
+   "end": 389.1,
+   "text": "اینجاست که استاد گریز ظریفی دارند به بحث فناء في الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 389.1,
+   "end": 397.06,
+   "text": "و اینکه سالکان فانی به چه درکی می‌رسند که از آن تعبیر به فناء می‌شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 397.06,
+   "end": 403.8,
+   "text": "اکنون زمان آن است که بحث این جلسه استاد آیت الله محمد شجاعی را بشنویم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 403.8,
+   "end": 407.32,
+   "text": "در باب اسماء الهی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 407.32,
+   "end": 413.84,
+   "text": "جلسه این بحث در تاریخ بیست و هفتم تیرماه یک هزار و سیصد و شصت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 413.84,
+   "end": 419.34,
+   "text": "برگزار شده است. در انشعاب اسماء الهی به قسمت‌هایی اشاره شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 419.34,
+   "end": 422.38,
+   "text": "بحث به این صورت پیش آمد که تجلی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 422.38,
+   "end": 426.94,
+   "text": "ذات با چهره‌های مختلف یا با اوصاف مختلف، تجلی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 426.94,
+   "end": 434.28,
+   "text": "ذات و ذات حق با چهره‌های مختلف یا با اسماء مختلف، با نام و نشان‌های مختلف.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 434.28,
+   "end": 436.6,
+   "text": "حالا اینا عبارات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 436.6,
+   "end": 441.54,
+   "text": "متنوعیه که من بیان می‌کنم شما در مطالعات همیشه در ذهنتون باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 441.54,
+   "end": 444.86,
+   "text": "اینا عبارات واهدی‌ست ولی مقصودش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 444.86,
+   "end": 451.24,
+   "text": "این است. تجلی ذات با اسماء مختلف، با چهره‌های مختلف، با نام‌های مختلف،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 451.24,
+   "end": 458.28,
+   "text": "با نشان‌های مختلف، با تعین‌های مختلف یا ظهور ذات در مظاهر مختلف.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 458.28,
+   "end": 464.06,
+   "text": "این تعبیر دیگه است. جلوه ذات در مجلاهای متنوع و مختلف.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 464.06,
+   "end": 467.54,
+   "text": "این همون مسئله اسماء را پیش میاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 467.54,
+   "end": 470.72,
+   "text": "اسمایی که در رأس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 470.72,
+   "end": 475.42,
+   "text": "نظام خلقی یعنی به اصطلاح مخلوقات قرار می‌گیره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 475.42,
+   "end": 478.9,
+   "text": "و مخلوقات جلوات اون اسماء هستند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 94,
+   "start": 478.9,
+   "end": 483.36,
+   "text": "جلوه ذات با چهره‌های مختلف عالم اسماء را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 95,
+   "start": 483.36,
+   "end": 485.62,
+   "text": "درست می‌کند. میشه عالم اسماء.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 96,
+   "start": 485.62,
+   "end": 487.76,
+   "text": "اون عالم اسماء خود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 97,
+   "start": 487.76,
+   "end": 496.78,
+   "text": "منشایی‌ست برای عوالم بعدی پایین‌تر از اسماء که همون مخلوقات باشد و مخلوقات در واقع جلوات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 98,
+   "start": 496.78,
+   "end": 506.7,
+   "text": "اسماء هستند. جلوه ذات با نام‌های مختلف، جلوه ذات در اسماء مختلف، در مجالی مختلف، در مظاهر مختلف.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 99,
+   "start": 506.7,
+   "end": 509.82,
+   "text": "اینها گفتیم که مراتب دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 100,
+   "start": 509.82,
+   "end": 515.82,
+   "text": "خود این جلوه، جلوه ذات با اسماء در یک مرتبه نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 101,
+   "start": 515.82,
+   "end": 519.76,
+   "text": "جلوه ذات که به صورت اسماء و صفتا میاد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 102,
+   "start": 519.76,
+   "end": 522.04,
+   "text": "در صورت صفات خدا میاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 103,
+   "start": 522.04,
+   "end": 526.28,
+   "text": "این جلوه که اسماء می‌شود در یک مرحله نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 104,
+   "start": 526.28,
+   "end": 529.12,
+   "text": "جلوه‌ای می‌کند باز به اصطلاح",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 105,
+   "start": 529.12,
+   "end": 533.26,
+   "text": "اون ذات. طوری جلوه می‌کند می‌شود علیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 106,
+   "start": 533.26,
+   "end": 539.8,
+   "text": "حالا اینجور باید بگیم. خوب دقت کنید که چون من زیاد دلم می‌خواد در این تعبیرات شما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 107,
+   "start": 539.8,
+   "end": 543.32,
+   "text": "دقت کنید تا تعبیرات مختلفی می‌کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 108,
+   "start": 543.32,
+   "end": 547.62,
+   "text": "شما تا حدودی به واقعیت، به اون واقعیت نزدیک بشید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 109,
+   "start": 547.62,
+   "end": 552.12,
+   "text": "این هم یادتون باشه که در بحث‌های فلسفی و عرفانی مخصوصاً تعبیرات،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 110,
+   "start": 552.12,
+   "end": 557.72,
+   "text": "مخصوصاً در بحث عرفانی، تعبیرات مختلف می‌شود برای اینکه ذهن اون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 111,
+   "start": 557.72,
+   "end": 559.94,
+   "text": "شخص شنونده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 112,
+   "start": 559.94,
+   "end": 569.42,
+   "text": "و اونی که مطالعه می‌کنه، بررسی می‌کنه ذهنش belki به واقعیت با گفتن تعبیرات مختلف به واقعیت نزدیک بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 113,
+   "start": 569.42,
+   "end": 573.98,
+   "text": "جلوه‌ای می‌کند ذات طوری جلوه می‌کند می‌شود علیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 114,
+   "start": 573.98,
+   "end": 578.92,
+   "text": "اینجور بود. جز ذات چیزی نیست و فقط همان ذات، ذات حق است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 115,
+   "start": 578.92,
+   "end": 589.38,
+   "text": "منتها اینجور باید بگیم مثلاً طوری جلوه می‌کند که شما و ما که نگاه بکنیم یعنی غیری وقتی کسی غضاب کننده امکان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 116,
+   "start": 589.38,
+   "end": 592.62,
+   "text": "نگاه بکنه به این جلوه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 117,
+   "start": 592.62,
+   "end": 596.58,
+   "text": "ظهور نیست، جلوه‌ای است. اما جلوه همان ذات.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 118,
+   "start": 596.58,
+   "end": 600.54,
+   "text": "اما نگاه کننده و غضاب کننده می‌بیند علیمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 119,
+   "start": 600.54,
+   "end": 602.81,
+   "text": "یعنی علمه به اصطلاح.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 120,
+   "start": 602.81,
+   "end": 604.94,
+   "text": "می‌بیند اون ذات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 121,
+   "start": 604.94,
+   "end": 608.46,
+   "text": "علمه. ذات را در قیافه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 122,
+   "start": 608.46,
+   "end": 612.04,
+   "text": "علم می‌بیند. ذات را در چهره علم می‌بیند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 123,
+   "start": 612.04,
+   "end": 616.82,
+   "text": "ذات را در آینه علم مشاهده می‌کند یا می‌بیند ذات علمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 124,
+   "start": 616.82,
+   "end": 618.94,
+   "text": "می‌بیند علم، علم می‌بینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 125,
+   "start": 618.94,
+   "end": 623.72,
+   "text": "این میشه علیم. خب این در همین جا که به این صورت شد علیم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 126,
+   "start": 623.72,
+   "end": 626.28,
+   "text": "این دوباره تجلیات دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 127,
+   "start": 626.28,
+   "end": 631.4,
+   "text": "یعنی خود این علیم که دقت کنید اینجا من یه مثال خواهم زد اول خودش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 128,
+   "start": 631.4,
+   "end": 634.9,
+   "text": "اونجا که گفتما مراتب را باز من نمی‌خوام که بگو--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 129,
+   "start": 634.9,
+   "end": 637.16,
+   "text": "ولی می‌خوام مراتب رو خوب یاد بگیرید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 130,
+   "start": 637.16,
+   "end": 642.44,
+   "text": "خود این علیم که ظهور ذات بود خودش باز جلوه‌ها مثل اینکه دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 131,
+   "start": 642.44,
+   "end": 645.02,
+   "text": "یعنی یک خود علیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 132,
+   "start": 645.02,
+   "end": 650.54,
+   "text": "اون که ذات طوری جلوه کرده بود، شده بود علیم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 133,
+   "start": 650.54,
+   "end": 653.42,
+   "text": "جلوه ذات بود، علم بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 134,
+   "start": 653.42,
+   "end": 656.78,
+   "text": "این علیم خودش جلوه‌ها دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 135,
+   "start": 656.78,
+   "end": 658.86,
+   "text": "خودش مثل اینکه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 136,
+   "start": 658.86,
+   "end": 661.06,
+   "text": "مثل اینکه نه دیگه حتماً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 137,
+   "start": 661.06,
+   "end": 663.7,
+   "text": "خود این علیم چهره‌ها به خود می‌گیرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 138,
+   "start": 663.7,
+   "end": 668.52,
+   "text": "ظهوراتی دارد. طورهای مختلفی مثل اینکه دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 139,
+   "start": 668.52,
+   "end": 671.14,
+   "text": "مثل اینکه من به حساب طور میگم. من کلمه طور.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 140,
+   "start": 671.14,
+   "end": 673.0,
+   "text": "مثل اینکه طوری میشه میشه سمین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 141,
+   "start": 673.0,
+   "end": 675.26,
+   "text": "طوری میشه میشه بصیر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 142,
+   "start": 675.26,
+   "end": 677.48,
+   "text": "طوری میشه میشه حفیظ.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 143,
+   "start": 677.48,
+   "end": 682.9,
+   "text": "طوری میشه حسیب. اون دفعه که انشعابات علیم را براشون گفتم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 144,
+   "start": 682.9,
+   "end": 689.64,
+   "text": "خب اینجا برای اینکه این مراتب را خوب بفهمید باز برای خوب فهمیده شدن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 145,
+   "start": 689.64,
+   "end": 694.5,
+   "text": "مراتب، ذهن شما را من می‌برم به سوی اون مثالی که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 146,
+   "start": 694.5,
+   "end": 703.3,
+   "text": "همیشه گفته‌ایم که از علی سلام الله عليه که فرمود شما این مثال را در نظر داشته باشید و روی این مثال همیشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 147,
+   "start": 703.3,
+   "end": 705.34,
+   "text": "در رسیدن به حقیقت‌ها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 148,
+   "start": 705.34,
+   "end": 712.54,
+   "text": "تأمل بیشتر بکنید. فرمود که کسی که خود را خوب بشناسد همه چیز را شناخته است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 149,
+   "start": 712.54,
+   "end": 715.3,
+   "text": "یا خود را خوب و معرفت پیدا کند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 150,
+   "start": 715.3,
+   "end": 723.3,
+   "text": "به همه چیز راه پیدا می‌کند. صحبت بر این است که این علیم که جلوه ذات بود، این مرحله اول ظهوری بود از حق.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 151,
+   "start": 723.3,
+   "end": 728.6,
+   "text": "ظهوری بود از ذات حق. ولی خود این ظهور باز ظهورات پیدا میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 152,
+   "start": 728.6,
+   "end": 731.14,
+   "text": "این خود علیم اسمی بود از اسماء خدا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 153,
+   "start": 731.14,
+   "end": 732.82,
+   "text": "ظهوری بود از ذات.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 154,
+   "start": 732.82,
+   "end": 740.4,
+   "text": "خود علیم وقتی دوباره ظهورات میکنه دوباره به انواع مختلف در میاد و چهره‌ها میگیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 155,
+   "start": 740.4,
+   "end": 745.42,
+   "text": "هر چهره ای باز اسمی میشود از اسماء علیم نام از اسماء کی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 156,
+   "start": 745.42,
+   "end": 748.16,
+   "text": "از اسماء خدا. از اسماء ذات.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 157,
+   "start": 748.16,
+   "end": 754.54,
+   "text": "دیگه نمیگن این مثلا سمی اسم علیمه یا بسی اسم علیمه یا حسی اسم علیمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 158,
+   "start": 754.54,
+   "end": 757.04,
+   "text": "همش میشه باز اسم ذات.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 159,
+   "start": 757.04,
+   "end": 762.31,
+   "text": "اسم ذاته اما نکته‌تری میشه وقتی اسم ذات در یک مرحله نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 160,
+   "start": 762.31,
+   "end": 764.8,
+   "text": "گاهی جلوه ای ذات هست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 161,
+   "start": 764.8,
+   "end": 769.02,
+   "text": "در به اصطلاح مثل اینکه مستقیماً جلوه میکنه، گاهی نه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 162,
+   "start": 769.02,
+   "end": 773.12,
+   "text": "مستقیماً که جلوه کرد دوباره جلوه‌اش جلوه میکنه میشه فلان اسم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 163,
+   "start": 773.12,
+   "end": 775.66,
+   "text": "دوباره جلوه جلوه جلوه میکنه میشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 164,
+   "start": 775.66,
+   "end": 778.44,
+   "text": "فلان اسم. اما همش اسماء",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 165,
+   "start": 778.44,
+   "end": 781.48,
+   "text": "ذات هستند. پس اسماء در یک جلوه نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 166,
+   "start": 781.48,
+   "end": 784.48,
+   "text": "حالا که این بیان علی علیه السلام رو به شما یاد...",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 167,
+   "start": 784.48,
+   "end": 787.22,
+   "text": "در خودمون یه حساب بکنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 168,
+   "start": 787.22,
+   "end": 790.76,
+   "text": "این مسئله رو قبلاً هم من گفتم به شما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 169,
+   "start": 790.76,
+   "end": 796.46,
+   "text": "که من، شما یعنی هر کسی که با اون کلمه من به خودش اشاره میکنه یکی بیشتر نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 170,
+   "start": 796.46,
+   "end": 800.08,
+   "text": "همین من را یعنی هر کسی من خود را یعنی خود را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 171,
+   "start": 800.08,
+   "end": 803.1,
+   "text": "در چهره های مختلف می یابد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 172,
+   "start": 803.1,
+   "end": 806.72,
+   "text": "شما الان دو تا خیلی روشن دو تا چیز حساب بکنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 173,
+   "start": 806.72,
+   "end": 812.82,
+   "text": "همین چشم و همین گوش. البته همین سامع و همین باصره که در چشم و گوش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 174,
+   "start": 812.82,
+   "end": 816.72,
+   "text": "پیاده میشه جز سامع باصره گفتم که چشم و گوش نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 175,
+   "start": 816.72,
+   "end": 818.34,
+   "text": "اینا ابزار چشم و گوش‌اند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 176,
+   "start": 818.34,
+   "end": 823.3,
+   "text": "خب این قوه سامعه، قوه باصره که دو قوه هستند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 177,
+   "start": 823.3,
+   "end": 825.56,
+   "text": "یعنی چه دو قوه هستند؟ یعنی دو حقیقت‌اند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 178,
+   "start": 825.56,
+   "end": 827.52,
+   "text": "دو واقعیت‌اند. یعنی چه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 179,
+   "start": 827.52,
+   "end": 829.7,
+   "text": "یعنی دو چهره‌اند. از کی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 180,
+   "start": 829.7,
+   "end": 832.42,
+   "text": "از من. از من دو چهره هستند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 181,
+   "start": 832.42,
+   "end": 835.82,
+   "text": "همان من شکلی به خود میگیره میشه سامعه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 182,
+   "start": 835.82,
+   "end": 839.54,
+   "text": "بعد کاری میکنه. یه شکل دیگه خودش میگیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 183,
+   "start": 839.54,
+   "end": 844.82,
+   "text": "این شکل درست نیست ها. فقط گفتم این تعبیراتی که میکنیم هیچ کدومش تعبیر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 184,
+   "start": 844.82,
+   "end": 850.0,
+   "text": "درست صد در صد به قول معروف مطابق با واقع نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 185,
+   "start": 850.0,
+   "end": 852.44,
+   "text": "اینها زوایای خناق به اصطلاح.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 186,
+   "start": 852.44,
+   "end": 856.28,
+   "text": "یعنی وقتی به اون واقعیت میخوایم برسیم تعبیرات مختلفی میکنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 187,
+   "start": 856.28,
+   "end": 860.84,
+   "text": "بعضی از تعبیرات خیلی نزدیک کننده میشه بعضاش خیلی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 188,
+   "start": 860.84,
+   "end": 863.32,
+   "text": "بله شکیب میشه بعضی‌هاش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 189,
+   "start": 863.32,
+   "end": 866.86,
+   "text": "مثلا شکل از اونهاست که چندان درست نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 190,
+   "start": 866.86,
+   "end": 868.54,
+   "text": "الان مثلا من گفتم شما.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 191,
+   "start": 868.54,
+   "end": 873.2,
+   "text": "چرا اون ارفا میگن که یه تعیونی به خودش میگیره از این تعیون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 192,
+   "start": 873.2,
+   "end": 876.06,
+   "text": "فرض کنم باید عارف بخواد بفهمه تعیون چیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 193,
+   "start": 876.06,
+   "end": 881.74,
+   "text": "اگه بخوایم تمام فهمش بکنیم به قول معروف شیرنش بکنیم این تعیون زیاد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 194,
+   "start": 881.74,
+   "end": 886.9,
+   "text": "به درد ما... همینطورها بکنیم همین کلمات بیار بگیریم شکلی به خودش بگیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 195,
+   "start": 886.9,
+   "end": 890.2,
+   "text": "طوری میشود. طوری",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 196,
+   "start": 890.2,
+   "end": 891.96,
+   "text": "نمیدونم انصار.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 197,
+   "start": 891.96,
+   "end": 894.44,
+   "text": "فرض کن اون تعیونی که ما گفتیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 198,
+   "start": 894.44,
+   "end": 896.06,
+   "text": "تعبیر مناسب‌تری است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 199,
+   "start": 896.06,
+   "end": 898.14,
+   "text": "جلوه تعبیر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 200,
+   "start": 898.14,
+   "end": 901.18,
+   "text": "مناسب‌تری است. ظهور تعبیر مناسب‌تری است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 201,
+   "start": 901.18,
+   "end": 903.96,
+   "text": "ولی فرض این من",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 202,
+   "start": 903.96,
+   "end": 907.82,
+   "text": "چشم و گوش قوه سامع باصره یعنی دو چهره از من.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 203,
+   "start": 907.82,
+   "end": 910.1,
+   "text": "دو ظهور از من.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 204,
+   "start": 910.1,
+   "end": 913.14,
+   "text": "دو تعیون از اون من.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 205,
+   "start": 913.14,
+   "end": 915.1,
+   "text": "دو شکل از من.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 206,
+   "start": 915.1,
+   "end": 917.5,
+   "text": "دو طور از من.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 207,
+   "start": 917.5,
+   "end": 919.74,
+   "text": "دو طور خود منه ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 208,
+   "start": 919.74,
+   "end": 923.82,
+   "text": "دقت کنید خود من غیر از من نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 209,
+   "start": 923.82,
+   "end": 927.38,
+   "text": "شما که بخواهید این چشم و گوش این باصره و سامعه رو خوب بفهمید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 210,
+   "start": 927.38,
+   "end": 931.7,
+   "text": "مسئله این است که اینی که میگم شکل درست نیست اشتباه نکنید ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 211,
+   "start": 931.7,
+   "end": 934.22,
+   "text": "فکر نکنید من یه رنگی به خود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 212,
+   "start": 934.22,
+   "end": 938.74,
+   "text": "حالا میگیم ها همین، همین الان من خودم میگفتم شکلی به خودش میگیره میشه سامعه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 213,
+   "start": 938.74,
+   "end": 940.86,
+   "text": "شکلی میگیره میشه چی؟ باصره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 214,
+   "start": 940.86,
+   "end": 945.6,
+   "text": "همین که همین کلمه رو من گفتم همین من باز به شما میگم که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 215,
+   "start": 945.6,
+   "end": 949.18,
+   "text": "فکر نکنید که یه رنگی به خودش میگیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 216,
+   "start": 949.18,
+   "end": 950.88,
+   "text": "اون رنگش برسین رنگش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 217,
+   "start": 950.88,
+   "end": 955.68,
+   "text": "نه اینطور هم نیست. اگر خوب دقت کنید یه چیزی بیشتر نخواهید یافت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 218,
+   "start": 955.68,
+   "end": 958.72,
+   "text": "البته دو رنگ از یه حقیقت میبینید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 219,
+   "start": 958.72,
+   "end": 961.38,
+   "text": "و اگر شما برسید اون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 220,
+   "start": 961.38,
+   "end": 963.32,
+   "text": "این قدرت را داشته باشید روی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 221,
+   "start": 963.32,
+   "end": 969.48,
+   "text": "سامعه، قوه سامعه و روی قوه باصره، روی این قوه ها میگم نه چشم و گوش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 222,
+   "start": 969.48,
+   "end": 974.0,
+   "text": "اگر شما این قدرت علمی را داشته باشید روی این دو قوه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 223,
+   "start": 974.0,
+   "end": 978.04,
+   "text": "به واقعیتش برسید، برید مطالعه بکنید و برید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 224,
+   "start": 978.04,
+   "end": 982.03,
+   "text": "دقت کنید اول با دو چیز رو به رو میشوید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 225,
+   "start": 982.03,
+   "end": 984.2,
+   "text": "اگر به تمام البته رو به رو میشوید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 226,
+   "start": 984.2,
+   "end": 993.36,
+   "text": "اول با دو چیز. اما یه خورده خاصیت با این دو چیز رفتار دو را معامله دو را بکنی میبینی که نه با شما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 227,
+   "start": 993.36,
+   "end": 996.26,
+   "text": "جور در نمیاد. یواش یواش خلاصه شما را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 228,
+   "start": 996.26,
+   "end": 998.22,
+   "text": "متأثر میکنه. چی میکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 229,
+   "start": 998.22,
+   "end": 1002.78,
+   "text": "چرخیدام. عرض کردم که ببینید دو تا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 230,
+   "start": 1002.78,
+   "end": 1006.5,
+   "text": "تعیون از من. همان من دو تا تعیون پیدا میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 231,
+   "start": 1006.5,
+   "end": 1010.54,
+   "text": "دو تا ظهور پیدا میکنه. یعنی چه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 232,
+   "start": 1010.54,
+   "end": 1013.16,
+   "text": "ببینید یک بیان دیگه خوب دقت کنید ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 233,
+   "start": 1013.16,
+   "end": 1020.32,
+   "text": "یک بیان دیگه. اون من میخواد برسه به غیر خودش از حقایق وجود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 234,
+   "start": 1020.32,
+   "end": 1023.14,
+   "text": "میخواد برسه از حقایق وجود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 235,
+   "start": 1023.14,
+   "end": 1026.68,
+   "text": "خب حقایق وجود یه مقدارش عبارت است از این شکل ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 236,
+   "start": 1026.68,
+   "end": 1030.64,
+   "text": "همین اشکالی که هست شکل من، شکل شما، شکل این دیواره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 237,
+   "start": 1030.64,
+   "end": 1034.44,
+   "text": "همه چی شکل. شکلی که میگیم مصداق اون صورت شکل.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 238,
+   "start": 1034.44,
+   "end": 1038.86,
+   "text": "یه مقدار واقعیات هم داره چیزا که شکل نامیده میشود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 239,
+   "start": 1038.86,
+   "end": 1042.06,
+   "text": "اشكال نامیده میشود. اینا یک قسم واقعیات‌اند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 240,
+   "start": 1042.06,
+   "end": 1044.92,
+   "text": "یک قسم واقعیات هم داریم در این عالم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 241,
+   "start": 1044.92,
+   "end": 1046.92,
+   "text": "همان این امواج هستند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 242,
+   "start": 1046.92,
+   "end": 1049.52,
+   "text": "صدای من، صدای شما، صدای این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 243,
+   "start": 1049.52,
+   "end": 1051.98,
+   "text": "موجودات، این حیوانات، صدای همه چیز دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 244,
+   "start": 1051.98,
+   "end": 1054.9,
+   "text": "صدا، امواج به اشکال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 245,
+   "start": 1054.9,
+   "end": 1056.78,
+   "text": "مختلف. یه قسم واقعیات هستند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 246,
+   "start": 1056.78,
+   "end": 1060.08,
+   "text": "امواج صوتی به اصطلاح امواج شنیدنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 247,
+   "start": 1060.08,
+   "end": 1062.42,
+   "text": "حالا یک قسم بگو که اشكال بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 248,
+   "start": 1062.42,
+   "end": 1065.36,
+   "text": "یه چی مثلا اینا هم یک تیپ واقعیات هستند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 249,
+   "start": 1065.36,
+   "end": 1071.02,
+   "text": "یه تیپ واقعیات مثلا چیزاست که اونا نه این شنیدنی‌ها هستند نه این دیدنی‌ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 250,
+   "start": 1071.02,
+   "end": 1077.3,
+   "text": "نه اشكالند، نه امواج‌اند. یه قسم دیگه واقعیات داریم مانند مثلا اونا که مثلا چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 251,
+   "start": 1077.3,
+   "end": 1081.94,
+   "text": "رائحه‌ها، بوها مثلاً، طعم‌ها و چیزایی که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 252,
+   "start": 1081.94,
+   "end": 1085.26,
+   "text": "واقعیت‌ها میگن درشت و ریز و امثال این چیزا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 253,
+   "start": 1085.26,
+   "end": 1092.02,
+   "text": "داغ و سرد و خلاصه ما واقعیات مختلف و حقایق مختلف در عالم چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 254,
+   "start": 1092.02,
+   "end": 1096.9,
+   "text": "داریم و من یک من هستم می‌خوام به این واقعیت چه بکنم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 255,
+   "start": 1096.9,
+   "end": 1099.12,
+   "text": "برسم. به هر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 256,
+   "start": 1099.12,
+   "end": 1102.98,
+   "text": "واقعیتی با یک قدم نمیشه رفت رسید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 257,
+   "start": 1102.98,
+   "end": 1106.04,
+   "text": "باید قدم‌های مختلف بردارم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 258,
+   "start": 1106.04,
+   "end": 1108.88,
+   "text": "به همه این واقعیت‌ها من برسم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 259,
+   "start": 1108.88,
+   "end": 1113.78,
+   "text": "واقعیت‌ها در جاودان مفروض مختلف دیدنی‌ها،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 260,
+   "start": 1113.78,
+   "end": 1119.76,
+   "text": "شنیدنی‌ها و لمس کردنی‌ها، بوییدنی‌ها اینا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 261,
+   "start": 1119.76,
+   "end": 1122.36,
+   "text": "متوجه‌اید واقعیت‌ها مختلف‌اند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 262,
+   "start": 1122.36,
+   "end": 1124.98,
+   "text": "شخص غیر از امواج صوتی‌ست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 263,
+   "start": 1124.98,
+   "end": 1131.78,
+   "text": "اما اونی که در این بین می‌خاد به این واقعیت‌ها و حقیقت‌های مختلف برسه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 264,
+   "start": 1131.78,
+   "end": 1134.34,
+   "text": "اون یک موجود به نام من.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 265,
+   "start": 1134.34,
+   "end": 1137.22,
+   "text": "می‌خواد، می‌خواد به امواج برسه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 266,
+   "start": 1137.22,
+   "end": 1141.02,
+   "text": "به اصطلاح به قول معروف از یه پنجره وارد میشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 267,
+   "start": 1141.02,
+   "end": 1146.34,
+   "text": "به امواج می‌رسه. می‌خواد که با اشعه‌ها رو ببینه از کدوم وارد میشه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 268,
+   "start": 1146.34,
+   "end": 1148.4,
+   "text": "از پشت این عینکش وارد میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 269,
+   "start": 1148.4,
+   "end": 1154.4,
+   "text": "یک موجود بیشتر نیست. کسی که عینک‌های مختلف دارد یا مجاری مختلف دارد با",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 270,
+   "start": 1154.4,
+   "end": 1160.66,
+   "text": "سرعت مختلف من شروع کرده‌م یا راه‌های مختلف دارد یا انواع مختلفی در میاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 271,
+   "start": 1160.66,
+   "end": 1163.38,
+   "text": "کارشم چیه؟ این که به واقعیت‌ها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 272,
+   "start": 1163.38,
+   "end": 1168.12,
+   "text": "برسه. دیدن با شنیدن بنابراین خوب دقت کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 273,
+   "start": 1168.12,
+   "end": 1173.21,
+   "text": "دیدن با شنیدن جز این که یک چیز با یه چیز دیگه نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 274,
+   "start": 1173.21,
+   "end": 1177.02,
+   "text": "اون اینه که من می‌رسم به یک به دو سلسله از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 275,
+   "start": 1177.02,
+   "end": 1180.08,
+   "text": "واقعیت‌ها، دیدنی‌ها و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 276,
+   "start": 1180.08,
+   "end": 1183.28,
+   "text": "شنیدنی‌ها. رسیدن من به دو چیزه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 277,
+   "start": 1183.28,
+   "end": 1186.34,
+   "text": "منتها اندویش چون دو چیز است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 278,
+   "start": 1186.34,
+   "end": 1188.4,
+   "text": "منو هم دو می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 279,
+   "start": 1188.4,
+   "end": 1190.9,
+   "text": "من آخه به من هم دو چهره میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 280,
+   "start": 1190.9,
+   "end": 1193.02,
+   "text": "به من هم دو قیافه میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 281,
+   "start": 1193.02,
+   "end": 1196.74,
+   "text": "چون اندویش اینجاست منم باید یک شکل دویی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 282,
+   "start": 1196.74,
+   "end": 1199.66,
+   "text": "یک رنگ دویی برای خودم بگیرم تا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 283,
+   "start": 1199.66,
+   "end": 1203.06,
+   "text": "با این دو، این دوشیز که دو چیزند برسم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 284,
+   "start": 1203.06,
+   "end": 1205.76,
+   "text": "خب پس در اولین اینجا می‌بینم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 285,
+   "start": 1205.76,
+   "end": 1213.76,
+   "text": "اونجا می‌شنوم، اونجا فکر می‌کنم، جای دیگه تعقل می‌کنم، جای دیگه حس می‌کنم، جای دیگه خیال می‌کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 286,
+   "start": 1213.76,
+   "end": 1216.42,
+   "text": "همه این‌ها دانستن من و شماست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 287,
+   "start": 1216.42,
+   "end": 1222.22,
+   "text": "دانستن من و شما نیست. دانستن اون من این دانستن‌ها را دارد یا نه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 288,
+   "start": 1222.22,
+   "end": 1224.7,
+   "text": "همون منه که می‌داند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 289,
+   "start": 1224.7,
+   "end": 1227.56,
+   "text": "این کارش چیه؟ دانستن است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 290,
+   "start": 1227.56,
+   "end": 1230.32,
+   "text": "همین منی که کارش دانستن است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 291,
+   "start": 1230.32,
+   "end": 1237.54,
+   "text": "یعنی من با چهره علم همان من با چهره با تعیین و ظهور و شکل علم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 292,
+   "start": 1237.54,
+   "end": 1239.64,
+   "text": "شکل‌ها به خود می‌گیرد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 293,
+   "start": 1239.64,
+   "end": 1244.56,
+   "text": "سامع می‌شود، باصره می‌شود، عاقله می‌شود، متخیله می‌شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 294,
+   "start": 1244.56,
+   "end": 1247.78,
+   "text": "منی که رنگش فقط رنگ علم است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 295,
+   "start": 1247.78,
+   "end": 1249.86,
+   "text": "اون من ها توجه می‌کنید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 296,
+   "start": 1249.86,
+   "end": 1253.28,
+   "text": "اون من که رنگ علم به خود می‌گیرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 297,
+   "start": 1253.28,
+   "end": 1254.98,
+   "text": "یعنی دانستن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 298,
+   "start": 1254.98,
+   "end": 1257.78,
+   "text": "حالا مثل اینکه صفت علیم می‌شود یا عالم می‌شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 299,
+   "start": 1257.78,
+   "end": 1260.9,
+   "text": "اون من عالم، منی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 300,
+   "start": 1260.9,
+   "end": 1264.04,
+   "text": "که چهره عالم یا علیم را گرفته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 301,
+   "start": 1264.04,
+   "end": 1268.24,
+   "text": "این دوباره چهره‌ها به خود می‌گیرد و چی میشه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 302,
+   "start": 1268.24,
+   "end": 1274.24,
+   "text": "میشه سمعی، میشه بیننده، شنونده، تعقل کننده و الی آخر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 303,
+   "start": 1274.24,
+   "end": 1277.22,
+   "text": "اینجا در این مثال خوب دقت می‌کنید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 304,
+   "start": 1277.22,
+   "end": 1281.64,
+   "text": "من، من داننده، من عالم چهره‌ها به خود می‌گیرم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 305,
+   "start": 1281.64,
+   "end": 1285.12,
+   "text": "می‌شوم تعقل کننده، شنونده و بیننده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 306,
+   "start": 1285.12,
+   "end": 1288.78,
+   "text": "اون من که این چهره‌ها را به خود بگیرد کدوم منه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 307,
+   "start": 1288.78,
+   "end": 1291.7,
+   "text": "منی است که چهره علم را دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 308,
+   "start": 1291.7,
+   "end": 1294.7,
+   "text": "منی است چهره عالم را دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 309,
+   "start": 1294.7,
+   "end": 1299.46,
+   "text": "خودش یعنی من یک دفعه رنگ گرفته، چهره پذیرفته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 310,
+   "start": 1299.46,
+   "end": 1301.95,
+   "text": "چهره چی؟ چهره عالم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 311,
+   "start": 1301.95,
+   "end": 1305.8,
+   "text": "من عالم دوباره چهره‌ها می‌پذیرد می‌شود چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 312,
+   "start": 1305.8,
+   "end": 1313.5,
+   "text": "سمیر و بصیر و هم دارم تعقل کننده و خیال کننده و لمس کننده و اون که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 313,
+   "start": 1313.5,
+   "end": 1316.35,
+   "text": "استشمام می‌کند. اینا همش انشابات چیه دیگه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 314,
+   "start": 1316.35,
+   "end": 1318.56,
+   "text": "انشابات من عالمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 315,
+   "start": 1318.56,
+   "end": 1321.94,
+   "text": "حتی اونی که لمس می‌کنیم اینا هم باز علم به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 316,
+   "start": 1321.94,
+   "end": 1325.13,
+   "text": "رسیدن به یک سری از واقعیات دیگه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 317,
+   "start": 1325.13,
+   "end": 1330.02,
+   "text": "اونی که می‌بویم اونم باز چهره‌ایست از اون من عالم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 318,
+   "start": 1330.02,
+   "end": 1334.36,
+   "text": "خب این مراحل را فکر می‌کنم که شما تا حدودی فهمیدید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 319,
+   "start": 1334.36,
+   "end": 1337.9,
+   "text": "حالا من که شروع کرده بودم از انشابات اسماء می‌گفتم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 320,
+   "start": 1337.9,
+   "end": 1342.6,
+   "text": "یواش یواش به یکی دو اسم از اسماء الهی دوباره من اشاره می‌کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 321,
+   "start": 1342.6,
+   "end": 1345.58,
+   "text": "خب اسم بصیر جلمه است از ذات.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 322,
+   "start": 1345.58,
+   "end": 1350.96,
+   "text": "اسم بصیر جلمه است از ذات خود اسم بصیر هم باید جلوهات و رکلات داشته باشد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 323,
+   "start": 1350.96,
+   "end": 1355.54,
+   "text": "جلواتی داشته باشد، آثار داشته باشد الی آخر و احکامی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 324,
+   "start": 1355.54,
+   "end": 1358.5,
+   "text": "جلوه‌های بصیر همین دیدن شماست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 325,
+   "start": 1358.5,
+   "end": 1362.38,
+   "text": "دیدن منه. دیدن اون، اونی که از من بالاتر می‌بینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 326,
+   "start": 1362.38,
+   "end": 1364.96,
+   "text": "دیدن اونی که از من پایین‌تر می‌بینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 327,
+   "start": 1364.96,
+   "end": 1371.04,
+   "text": "هرچی دیدن در این عالم هست یعنی بصیر‌ها هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 328,
+   "start": 1371.04,
+   "end": 1375.82,
+   "text": "هرچه باصر‌ها هست، هرچه بصیرت‌ها هست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 329,
+   "start": 1375.82,
+   "end": 1378.94,
+   "text": "به هر شکلی به هر صورتی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 330,
+   "start": 1378.94,
+   "end": 1383.68,
+   "text": "در عالم تجرد، در عالم مثال، در عالم ماده و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 331,
+   "start": 1383.68,
+   "end": 1386.56,
+   "text": "در عوالم صحنه های مختلف وجود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 332,
+   "start": 1386.56,
+   "end": 1391.22,
+   "text": "هرچه بصیرت است، هرچه بصر است، هرچه باصر است، هرچه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 333,
+   "start": 1391.22,
+   "end": 1393.66,
+   "text": "بیننده است به معنی وسیع.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 334,
+   "start": 1393.66,
+   "end": 1398.2,
+   "text": "این‌ها جلوات چیه؟ این‌ها جلوات اسم بصیر حقه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 335,
+   "start": 1398.2,
+   "end": 1400.86,
+   "text": "البته این اسم، این‌ها جلوات اسم بصیرن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 336,
+   "start": 1400.86,
+   "end": 1403.44,
+   "text": "دیدین اسم چون میگیم که بصیر چه جلوه‌ها دارد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 337,
+   "start": 1403.44,
+   "end": 1407.14,
+   "text": "این‌ها جلوات هستند. باصرها و بصیرها جلوات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 338,
+   "start": 1407.14,
+   "end": 1409.08,
+   "text": "بصیر هستند. توجه می‌کنید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 339,
+   "start": 1409.08,
+   "end": 1414.54,
+   "text": "دیدن‌ها از اون تجلی حالا هر کدوم از اسماء باشد، هر اسمی مربوط باشد یا به چند اسم مربوط باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 340,
+   "start": 1414.54,
+   "end": 1418.0,
+   "text": "مثلاً فرض بفرمایید که از راه مثال می‌گیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 341,
+   "start": 1418.0,
+   "end": 1421.72,
+   "text": "مثلاً می‌گیم که فرضا یک گلی را شما ببینید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 342,
+   "start": 1421.72,
+   "end": 1425.72,
+   "text": "گل خب دیدنی است. خدا هم می‌بینه، من و شما می‌بینیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 343,
+   "start": 1425.72,
+   "end": 1430.48,
+   "text": "این گل بالاخره مسلماً یکی از جلوات اسم جمال حقه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 344,
+   "start": 1430.48,
+   "end": 1434.02,
+   "text": "یکی از جلو یعنی یکی از جلوات اسم جمال.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 345,
+   "start": 1434.02,
+   "end": 1437.34,
+   "text": "اونم نه اینکه تنها اسم جمیل حق.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 346,
+   "start": 1437.34,
+   "end": 1441.22,
+   "text": "اسماء دیگرش هم هست. یا مثلاً فرض بفرمایید که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 347,
+   "start": 1441.22,
+   "end": 1443.63,
+   "text": "صورتی که س-",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 348,
+   "start": 1443.63,
+   "end": 1447.31,
+   "text": "اِز، اِز صورتی که شما الان می‌بینید، الان شکل منو می‌بینید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 349,
+   "start": 1447.31,
+   "end": 1449.49,
+   "text": "شکل من، صورت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 350,
+   "start": 1449.49,
+   "end": 1452.31,
+   "text": "خب این شکل از آثار",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 351,
+   "start": 1452.31,
+   "end": 1454.19,
+   "text": "وجودی اسم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 352,
+   "start": 1454.19,
+   "end": 1456.95,
+   "text": "مصور حق است. حقیقت به اسم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 353,
+   "start": 1456.95,
+   "end": 1459.45,
+   "text": "مصور که در قرآن می‌خوانید که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 354,
+   "start": 1459.45,
+   "end": 1462.43,
+   "text": "یکی از اسماء خدا چیه؟ مصور.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 355,
+   "start": 1462.43,
+   "end": 1465.31,
+   "text": "این صورت را به این ماده داده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 356,
+   "start": 1465.31,
+   "end": 1467.75,
+   "text": "کی داده؟ خدا داده. حالا با صفت چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 357,
+   "start": 1467.75,
+   "end": 1470.25,
+   "text": "با صفت مصورش داده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 358,
+   "start": 1470.25,
+   "end": 1473.51,
+   "text": "پس این صورتی که شما الان با چشم‌تون می‌بینید،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 359,
+   "start": 1473.51,
+   "end": 1475.97,
+   "text": "خدای بصیر هم می‌بیند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 360,
+   "start": 1475.97,
+   "end": 1480.61,
+   "text": "الان صورت ظاهری من. این صورت ظاهری که اثر اسم مصوره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 361,
+   "start": 1480.61,
+   "end": 1486.19,
+   "text": "در عین حال با اسم بصیر خدا این صورت را چی می‌کنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 362,
+   "start": 1486.19,
+   "end": 1489.35,
+   "text": "علم پیدا می‌کنه، می‌یابد به اصطلاح.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 363,
+   "start": 1489.35,
+   "end": 1492.45,
+   "text": "پس بنابراین این تجلیات بصیر،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 364,
+   "start": 1492.45,
+   "end": 1500.85,
+   "text": "بصیر جلوه‌هاش عبارت است، خود بصیرات جلوه‌هاش عبارت است از همه دیدن‌ها که در خلقت است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 365,
+   "start": 1500.85,
+   "end": 1504.25,
+   "text": "هرچه دیدن در خلقت است تجلیات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 366,
+   "start": 1504.25,
+   "end": 1506.87,
+   "text": "بصیره. یعنی چی تجلیات بصیره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 367,
+   "start": 1506.87,
+   "end": 1510.51,
+   "text": "خوب دقت کنید. یعنی از آثار چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 368,
+   "start": 1510.51,
+   "end": 1513.59,
+   "text": "بصیره. یعنی چه از آثار بصیره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 369,
+   "start": 1513.59,
+   "end": 1517.35,
+   "text": "یعنی به اصطلاح مخلوق چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 370,
+   "start": 1517.35,
+   "end": 1520.95,
+   "text": "مخلوقاته. می‌گفتی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 371,
+   "start": 1520.95,
+   "end": 1532.17,
+   "text": "اگر همه دیدن‌ها، بیننده‌ها، بصیرها، باصرها، بینش، ولی اون بیننده‌ها دیگه ما بگیم در هر کجای وجود باشند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 372,
+   "start": 1532.17,
+   "end": 1536.28,
+   "text": "در عالم تجرد باشد، در عالم مثال باشد، در عالم ماده باشد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 373,
+   "start": 1536.28,
+   "end": 1540.41,
+   "text": "در هر کجای وجود باشد، در هر با هر شدتی باشد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 374,
+   "start": 1540.41,
+   "end": 1543.17,
+   "text": "با هر کمالی باشد، با هر ضعفی باشد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 375,
+   "start": 1543.17,
+   "end": 1545.33,
+   "text": "بیننده که دارای یک نوع",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 376,
+   "start": 1545.33,
+   "end": 1552.67,
+   "text": "دیده، همه دید‌ها یا بیننده‌های بصیر، های باصر، های بینش‌ها از اون،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 377,
+   "start": 1552.67,
+   "end": 1557.23,
+   "text": "از اون دید‌ها هرچی در وجود داره اینا جلوات چی هستند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 378,
+   "start": 1557.23,
+   "end": 1559.25,
+   "text": "جلوات اون بصیر هستند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 379,
+   "start": 1559.25,
+   "end": 1564.63,
+   "text": "که جلوه ذات هستند. اما به طوریکه گفتم اون دفعه اشاره کردم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 380,
+   "start": 1564.63,
+   "end": 1567.13,
+   "text": "همه هم در یک مرحله جلوه نیستند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 381,
+   "start": 1567.13,
+   "end": 1571.43,
+   "text": "ممکنه یکی، یکی جلوه غیظ آرومه که باشد بصیر باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 382,
+   "start": 1571.43,
+   "end": 1577.85,
+   "text": "ممکنه یه بصیر یعنی یک باصر و بیننده یک بصیر دیگر ید one بصیرات.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 383,
+   "start": 1577.85,
+   "end": 1584.55,
+   "text": "یک بصیر باصر و بیننده‌ای جلوه اول باشه، جلوه دوم باشه برای اون بصیر، جلوه سوم باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 384,
+   "start": 1584.55,
+   "end": 1586.49,
+   "text": "یکی صدایی باشد، یکی ظاهری باشد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 385,
+   "start": 1586.49,
+   "end": 1593.81,
+   "text": "یکی ممکنه خیلی پایین آمده باشد که در واقع از دیدن فقط چیز جزئی مونده باشه، همش ندیدن باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 386,
+   "start": 1593.81,
+   "end": 1599.23,
+   "text": "بعد مانند بعضی از این دیدن‌ها خیلی ضعیف در بعضی از موجودات هست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 387,
+   "start": 1599.23,
+   "end": 1601.41,
+   "text": "که می‌بینه ولی خیلی ضعیفه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 388,
+   "start": 1601.41,
+   "end": 1609.33,
+   "text": "و همچنین شما برید بالاتر یعنی ماها هم بالاخره این باصر ما هم از تجلیات اسم بصیر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 389,
+   "start": 1609.33,
+   "end": 1613.13,
+   "text": "است. پس لذا خوب دقت بکنید اینها همه جلوات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 390,
+   "start": 1613.13,
+   "end": 1616.83,
+   "text": "اون بصیر هستند. مراتب در جا محفوظ رو فراموش نکنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 391,
+   "start": 1616.83,
+   "end": 1619.99,
+   "text": "مراتب در جا خودش محفوظ. اما جلوات یعنی چه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 392,
+   "start": 1619.99,
+   "end": 1623.53,
+   "text": "دقت کنید جلوات یعنی از او صادر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 393,
+   "start": 1623.53,
+   "end": 1625.85,
+   "text": "می‌شوند. از او سرچشمه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 394,
+   "start": 1625.85,
+   "end": 1628.87,
+   "text": "می‌گیرند. معنی جلوه بود دیگه که از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 395,
+   "start": 1628.87,
+   "end": 1635.07,
+   "text": "صاحب جلوه، از متجلی، از اونی که اصل است،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 396,
+   "start": 1635.07,
+   "end": 1643.05,
+   "text": "از اصل این‌ها سرچشمه می‌گیرند، نشأت می‌گیرند و غیر او نیستند و عین او",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 397,
+   "start": 1643.05,
+   "end": 1647.93,
+   "text": "هم نیستند. از او هستند، با او هستند، بی او هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 398,
+   "start": 1647.93,
+   "end": 1653.09,
+   "text": "نیستند. این خاصیت جلوه است که قبلاً گفتم جلوه و خلق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 399,
+   "start": 1653.09,
+   "end": 1654.93,
+   "text": "دو تا نیست. اشتباه نکنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 400,
+   "start": 1654.93,
+   "end": 1658.95,
+   "text": "اون بصیر منشاء همه بصیره‌هاست در خلقت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 401,
+   "start": 1658.95,
+   "end": 1665.41,
+   "text": "اما با مراتب. بعد حالا برای کل خلقت شما حساب کنید که اون بصیر، بصیر مطلق است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 402,
+   "start": 1665.41,
+   "end": 1670.45,
+   "text": "و منشاء همه بصیرت‌ها و بصیرها و باصرها و بصرها و بینش‌هاست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 403,
+   "start": 1670.45,
+   "end": 1673.51,
+   "text": "اونوقت ولی این‌ها از او سرچشمه می‌گیرند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 404,
+   "start": 1673.51,
+   "end": 1676.05,
+   "text": "او منشاء این‌هاست. او خالق این‌هاست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 405,
+   "start": 1676.05,
+   "end": 1677.69,
+   "text": "اون بصیر خالق این‌هاست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 406,
+   "start": 1677.69,
+   "end": 1682.37,
+   "text": "جلوه که می‌گیم فکر نکنید جلوه یعنی دیگه مسئله خلق نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 407,
+   "start": 1682.37,
+   "end": 1685.73,
+   "text": "اما خلق را فکر بکنید که چیست؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 408,
+   "start": 1685.73,
+   "end": 1690.03,
+   "text": "توجه بکنید. خلق را شما فکر کنید که چیست؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 409,
+   "start": 1690.03,
+   "end": 1695.39,
+   "text": "این که ما عوامانه می‌گیم خلق می‌کنیم، ایجاد می‌کنیم باید روی این بیشتر دقت کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 410,
+   "start": 1695.39,
+   "end": 1700.53,
+   "text": "من مکرر گفتم روی این دقت کنید که خدا می‌گه خلق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 411,
+   "start": 1700.53,
+   "end": 1705.05,
+   "text": "یا قرآن می‌گه خلق. در جایم تجلی کم، کم به کار می‌بره قرآن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 412,
+   "start": 1705.05,
+   "end": 1707.09,
+   "text": "ولی خب عرفا میگن تجلی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 413,
+   "start": 1707.09,
+   "end": 1710.17,
+   "text": "به قول آقا که می‌گفتن ای که سخنانش می‌گفت که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 414,
+   "start": 1710.17,
+   "end": 1715.97,
+   "text": "مانند مثال مسگنی مسئله اون عنبر و این عنبر عنصری‌هاست، واقعیت یک چیز.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 415,
+   "start": 1715.97,
+   "end": 1718.39,
+   "text": "خلق بگید قرآن خلق می‌گه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 416,
+   "start": 1718.39,
+   "end": 1722.93,
+   "text": "ایجاد بگید بعضی از مثلاً متکلمین ایجاد میگن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 417,
+   "start": 1722.93,
+   "end": 1727.95,
+   "text": "یا فلسفه ایجاد می‌گه یا الهیت بگید فلسفه می‌گه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 418,
+   "start": 1727.95,
+   "end": 1731.29,
+   "text": "عرفان می‌گه تجلی. اینا اصطلاحات مختلفه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 419,
+   "start": 1731.29,
+   "end": 1734.13,
+   "text": "مس- مسئله از نفس هست، یکی بیشتر نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 420,
+   "start": 1734.13,
+   "end": 1736.97,
+   "text": "خدا علته است. خدا خالق است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 421,
+   "start": 1736.97,
+   "end": 1739.87,
+   "text": "خدا متجلی است و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 422,
+   "start": 1739.87,
+   "end": 1748.49,
+   "text": "الی آخر. پس بنابراین وقتی می‌گیم که این بصرها جلوه اون بصیرند یعنی مخلوق اون بصیر هم هستند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 423,
+   "start": 1748.49,
+   "end": 1753.05,
+   "text": "اما مخلوق که می‌گیم باید بفهمیم که یعنی این‌ها از اوست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 424,
+   "start": 1753.05,
+   "end": 1756.59,
+   "text": "الان ببینید شما الان می‌بینید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 425,
+   "start": 1756.59,
+   "end": 1762.63,
+   "text": "شما که الان که می‌بینید همین شما که می‌گید که منه در شکلی، در شکلی که می‌بینم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 426,
+   "start": 1762.63,
+   "end": 1766.31,
+   "text": "اون من با قیافه چی می‌بینم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 427,
+   "start": 1766.31,
+   "end": 1768.97,
+   "text": "حالا اون من اونجاشو بذاریم کنار.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 428,
+   "start": 1768.97,
+   "end": 1774.29,
+   "text": "این چشم، این باصره که شما دارید، این باصره شما از کجاست؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 429,
+   "start": 1774.29,
+   "end": 1777.01,
+   "text": "از همون بصیره که جلوه ذاته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 430,
+   "start": 1777.01,
+   "end": 1779.41,
+   "text": "دقت کنید ها. دقت کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 431,
+   "start": 1779.41,
+   "end": 1781.73,
+   "text": "یه جلوه ذاته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 432,
+   "start": 1781.73,
+   "end": 1785.91,
+   "text": "این بصیر، این بصر شما، این باصر شما، این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 433,
+   "start": 1785.91,
+   "end": 1794.71,
+   "text": "چشم گوشتی حساب نکنید. اونی که در این چشم گوشتی پیدا می‌شه به نام شما، اون شمای با چهره خاص که باصر است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 434,
+   "start": 1794.71,
+   "end": 1797.17,
+   "text": "این باصره، نیروی باصره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 435,
+   "start": 1797.17,
+   "end": 1799.49,
+   "text": "جلوه‌ایست از بصیر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 436,
+   "start": 1799.49,
+   "end": 1801.77,
+   "text": "حالا کار نداریم جلوه چندمی است؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 437,
+   "start": 1801.77,
+   "end": 1805.74,
+   "text": "نزدیک حجاب زیاد، کم حجاب است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 438,
+   "start": 1805.74,
+   "end": 1810.18,
+   "text": "اینجا یادتون باشه این جاها همون باصره‌ها هستند در اینجا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 439,
+   "start": 1810.18,
+   "end": 1815.78,
+   "text": "باصره من، یعنی غربه باصره من جلمه است از اون بصیر مطلق که بصیر خود جلمه چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 440,
+   "start": 1815.78,
+   "end": 1820.66,
+   "text": "جلمه ذات حق از اون بصیر که ان الله هو السميع البصير.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 441,
+   "start": 1820.66,
+   "end": 1824.5,
+   "text": "خب باصره من جلمه است از بصیر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 442,
+   "start": 1824.5,
+   "end": 1827.9,
+   "text": "این جلمه اوست. فرقی نداره روش هر طور واسطه می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 443,
+   "start": 1827.9,
+   "end": 1830.72,
+   "text": "جلمه اوست، بی اوست یا با اوست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 444,
+   "start": 1830.72,
+   "end": 1835.32,
+   "text": "خب خاله بگید، علت بگید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 445,
+   "start": 1835.32,
+   "end": 1838.56,
+   "text": "میشه چیزی؟ یعنی این خاله misschien است که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 446,
+   "start": 1838.56,
+   "end": 1841.82,
+   "text": "این باصره من از اون بصیر سرچشمه می‌گیرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 447,
+   "start": 1841.82,
+   "end": 1848.08,
+   "text": "میشه او، او الانم هست از او الان سرچشمه می‌گیرد یا سرچشمه گرفته تمام شده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 448,
+   "start": 1848.08,
+   "end": 1852.54,
+   "text": "مادامی که این هست از او سرچشمه می‌گیرد یعنی با او هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 449,
+   "start": 1852.54,
+   "end": 1854.33,
+   "text": "خدا خودشو همونطور می‌دونه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 450,
+   "start": 1854.33,
+   "end": 1857.68,
+   "text": "به خدا مرده گفت این با شماست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 451,
+   "start": 1857.68,
+   "end": 1860.62,
+   "text": "خدا رو طور حساب نکنید که خاله خداش یعنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 452,
+   "start": 1860.62,
+   "end": 1862.44,
+   "text": "بیرونه، دور از ما.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 453,
+   "start": 1862.44,
+   "end": 1865.36,
+   "text": "نمیشه اصلاً کشیدنش کنار چیزی نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 454,
+   "start": 1865.36,
+   "end": 1868.62,
+   "text": "یعنی اگه بخواد خدا را بکشید کنار",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 455,
+   "start": 1868.62,
+   "end": 1870.91,
+   "text": "و اسماشو کشید، این چیزی نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 456,
+   "start": 1870.91,
+   "end": 1874.06,
+   "text": "ببینید بکشید کنار بعد این، اینا مخلوقات او،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 457,
+   "start": 1874.06,
+   "end": 1876.58,
+   "text": "اون هم او به قول",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 458,
+   "start": 1876.58,
+   "end": 1884.52,
+   "text": "ما. این که نمیشه که. اصلاً مفهومه و این معنی خاصی‌ست و یه وقتی‌های امام باز در صحبت‌هاش گفت که مسئله خلقه و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 459,
+   "start": 1884.52,
+   "end": 1890.6,
+   "text": "رابطه خدا با مخلوق، قرآن صد در صد از این معیارهای معمول ما بالاتره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 460,
+   "start": 1890.6,
+   "end": 1894.2,
+   "text": "بفهمان یه معیار دیگه است، یه حساب‌های دیگه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 461,
+   "start": 1894.2,
+   "end": 1898.6,
+   "text": "خوب توجه کنید. الان باصره من جلمه اون بصیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 462,
+   "start": 1898.6,
+   "end": 1900.68,
+   "text": "جلمه است عین او؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 463,
+   "start": 1900.68,
+   "end": 1902.86,
+   "text": "نیست. غیر او هم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 464,
+   "start": 1902.86,
+   "end": 1905.04,
+   "text": "نیست. بی او هم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 465,
+   "start": 1905.04,
+   "end": 1909.66,
+   "text": "نیست. با اوست بلکه با او مسلمه از اوست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 466,
+   "start": 1909.66,
+   "end": 1914.42,
+   "text": "اما از اویی که تقریباً مثل اینه که عین اوست اما عین او هم نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 467,
+   "start": 1914.42,
+   "end": 1917.36,
+   "text": "اینجوری روابط مختلف میاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 468,
+   "start": 1917.36,
+   "end": 1919.94,
+   "text": "آن وقت لذا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 469,
+   "start": 1919.94,
+   "end": 1921.9,
+   "text": "این اینجا برید ببینید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 470,
+   "start": 1921.9,
+   "end": 1929.23,
+   "text": "دید بعضی از ارباب ذوق که میگن که قرآن میگه ان الله هو السميع العليم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 471,
+   "start": 1929.23,
+   "end": 1934.44,
+   "text": "اینه که کجای انسان اوست که می‌بینه و می‌شنوه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 472,
+   "start": 1934.44,
+   "end": 1936.9,
+   "text": "ارباب ذوق میگن، میگن تو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 473,
+   "start": 1936.9,
+   "end": 1942.26,
+   "text": "معنی این آیه که به گفتار ارباب ذوق میگن که این از دیدگاه توحیدی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 474,
+   "start": 1942.26,
+   "end": 1944.1,
+   "text": "معنی این آیات از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 475,
+   "start": 1944.1,
+   "end": 1947.3,
+   "text": "هند قبل آیات مثلاً میگه که ان الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 476,
+   "start": 1947.3,
+   "end": 1951.86,
+   "text": "هو السميع العليم. حقیقت این است این یعنی حقیقت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 477,
+   "start": 1951.86,
+   "end": 1954.14,
+   "text": "حقیقت این است که الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 478,
+   "start": 1954.14,
+   "end": 1960.14,
+   "text": "اوست. همه‌جا شنونده و همه‌جا بیننده است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 479,
+   "start": 1960.14,
+   "end": 1962.61,
+   "text": "الان شما نیستید که می‌بینید. چی می‌بینه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 480,
+   "start": 1962.61,
+   "end": 1966.04,
+   "text": "او می‌بینه. من نیستم که می‌شنوم یا شما نیستید که صدای هم می‌شنوید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 481,
+   "start": 1966.04,
+   "end": 1968.54,
+   "text": "کی می‌بینه؟ کی می‌شنوه؟ او می‌شنوه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 482,
+   "start": 1968.54,
+   "end": 1970.54,
+   "text": "شما هم می‌شنوید. شما هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 483,
+   "start": 1970.54,
+   "end": 1973.18,
+   "text": "زیادتر از او نیستید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 484,
+   "start": 1973.18,
+   "end": 1975.68,
+   "text": "جان شما چیه؟ اوست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 485,
+   "start": 1975.68,
+   "end": 1978.54,
+   "text": "هو الاول والآخر والظاهر والباطن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 486,
+   "start": 1978.54,
+   "end": 1981.64,
+   "text": "اما نه جان شما به معنی اون جان که ما می‌گیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 487,
+   "start": 1981.64,
+   "end": 1986.08,
+   "text": "یعنی باطنی که حقیقتی که شما از اونش اثر می‌گیرید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 488,
+   "start": 1986.08,
+   "end": 1989.12,
+   "text": "اوست. او را بکشان کنار هیچی نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 489,
+   "start": 1989.12,
+   "end": 1991.24,
+   "text": "بعد ما را بکشان کنار هیچی نمیشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 490,
+   "start": 1991.24,
+   "end": 1996.42,
+   "text": "او می‌مونه فقط. غبار از روی آینه برداشتیم که بیان روشن بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 491,
+   "start": 1996.42,
+   "end": 1998.58,
+   "text": "یعنی طرفش رو خیلی ننگ آوره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 492,
+   "start": 1998.58,
+   "end": 2002.18,
+   "text": "او رو بکشان کنار هیچی نیست. ما رو بکشان کنار چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 493,
+   "start": 2002.18,
+   "end": 2005.1,
+   "text": "چهره او روشن میشه. بس خدا مسئله‌ای نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 494,
+   "start": 2005.1,
+   "end": 2011.46,
+   "text": "همین قیامت هم همینه. معنی قیامت اینه که یه خورده ماها رو بکشان کنار، یه خورده البته زیاد هم نه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 495,
+   "start": 2011.46,
+   "end": 2013.84,
+   "text": "یه خورده بکشان کنار و بعد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 496,
+   "start": 2013.84,
+   "end": 2017.34,
+   "text": "چهره حق باید قابش شود از جلال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 497,
+   "start": 2017.34,
+   "end": 2023.56,
+   "text": "و اکرام. ما هم هستیم اما اینطور که دیگه چهره به پوش باشیم نیستیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 498,
+   "start": 2023.56,
+   "end": 2025.98,
+   "text": "چهره خدا را نشان دهنده هستیم اونجا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 499,
+   "start": 2025.98,
+   "end": 2031.87,
+   "text": "یعنی اونجوریه نه که ما نیستیم، ما هم هستیم اما مایی هستیم که خدا را خوب نشان می‌دهیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 500,
+   "start": 2031.87,
+   "end": 2035.42,
+   "text": "مایی نیستیم که خدا را به اصطلاح الان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 501,
+   "start": 2035.42,
+   "end": 2038.2,
+   "text": "غبار روی آینه باشه و انسان نباشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 502,
+   "start": 2038.2,
+   "end": 2040.5,
+   "text": "خب این متوجه شدید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 503,
+   "start": 2040.5,
+   "end": 2044.28,
+   "text": "هست. این دیدنی‌ها جلوهات بصیر نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 504,
+   "start": 2044.28,
+   "end": 2046.28,
+   "text": "این بیننده‌ها جلوهات چی هستن؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 505,
+   "start": 2046.28,
+   "end": 2048.34,
+   "text": "بصیر هستن. السلام علیکم و رحمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 506,
+   "start": 2048.34,
+   "end": 2059.7,
+   "text": "دوستان ارجمند آنچه شنیدید ششمین جلسه بحث اسماء و صفات الهی بود به بیان استاد آیت الله محمد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 507,
+   "start": 2059.7,
+   "end": 2062.96,
+   "text": "شجاعی. تا دیگر برنامه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 508,
+   "start": 2062.96,
+   "end": 2065.98,
+   "text": "رب العالمین یار و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 509,
+   "start": 2065.98,
+   "end": 2073.04,
+   "text": "نگهدارتان. سبحانک سبحانک سبحان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 510,
+   "start": 2073.04,
+   "end": 2080.54,
+   "text": "الله. سبحانک سبحانک سبحان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 511,
+   "start": 2080.54,
+   "end": 2082.8,
+   "text": "الله. سبحانک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 512,
+   "start": 2082.8,
+   "end": 2088.0,
+   "text": "سبحانک سبحان الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 513,
+   "start": 2088.0,
+   "end": 2094.4,
+   "text": "سبحانک سبحانک سبحان الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 514,
+   "start": 2094.4,
+   "end": 2096.68,
+   "text": "الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 515,
+   "start": 2096.68,
+   "end": 2099.0,
+   "text": "الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 516,
+   "start": 2099.0,
+   "end": 2103.68,
+   "text": "الله اکبر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 517,
+   "start": 2103.68,
+   "end": 2110.82,
+   "text": "الله. الله. الله اکبر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

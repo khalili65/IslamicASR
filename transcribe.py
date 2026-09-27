@@ -7,7 +7,7 @@ Usage:
     python transcribe.py path/to/file.mp3 --provider elevenlabs --language fa
     python transcribe.py path/to/file.wav --output my_transcript.txt
 
-Two providers are available: `fish` (default) and `elevenlabs`. Long files are
+Two providers are available: `elevenlabs` (default) and `fish`. Long files are
 split into chunks automatically when the provider requires it — Fish caps a
 request at 20 MB / 60 min and its word timestamps stop advancing after ~4 min,
 while ElevenLabs takes the whole lecture in one request.
@@ -314,9 +314,9 @@ def main() -> None:
     parser.add_argument(
         "-p",
         "--provider",
-        default="fish",
+        default="elevenlabs",
         choices=PROVIDERS,
-        help="Which ASR service to use (default: fish).",
+        help="Which ASR service to use (default: elevenlabs).",
     )
     parser.add_argument(
         "-l",

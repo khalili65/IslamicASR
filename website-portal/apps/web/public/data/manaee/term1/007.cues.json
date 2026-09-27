@@ -1,0 +1,5506 @@
+{
+ "version": 1,
+ "sessionId": "007",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 2700.17,
+ "alignment": {
+  "exact": 4737,
+  "total": 4737,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## جمع‌بندی عنصر نخست: قسم و جواب قسم",
+   "start": 16.58,
+   "end": 69.86
+  },
+  {
+   "index": 1,
+   "title": "خب اما مطلب بعد.",
+   "start": 69.86,
+   "end": 251.26
+  },
+  {
+   "index": 2,
+   "title": "## سجده‌نکردن در برابر قرآن",
+   "start": 251.26,
+   "end": 316.22
+  },
+  {
+   "index": 3,
+   "title": "## تکذیب کافران",
+   "start": 316.22,
+   "end": 379.5
+  },
+  {
+   "index": 4,
+   "title": "خدا می‌فرماید:",
+   "start": 379.5,
+   "end": 451.26
+  },
+  {
+   "index": 5,
+   "title": "خب حالا که این‌طور است:",
+   "start": 451.26,
+   "end": 730.31
+  },
+  {
+   "index": 6,
+   "title": "فقط یک گروه از این عذاب در امان‌اند.",
+   "start": 730.31,
+   "end": 1507.72
+  },
+  {
+   "index": 7,
+   "title": "## معنای غیر ممنون",
+   "start": 1507.72,
+   "end": 1549.06
+  },
+  {
+   "index": 8,
+   "title": "## دانش و گرایش",
+   "start": 1549.06,
+   "end": 1711.49
+  },
+  {
+   "index": 9,
+   "title": "## جمع‌بندی سیاق دوم",
+   "start": 1711.49,
+   "end": 1839.93
+  },
+  {
+   "index": 10,
+   "title": "## ارتباط دو سیاق",
+   "start": 1839.93,
+   "end": 1883.35
+  },
+  {
+   "index": 11,
+   "title": "آیهٔ ششم دلالت بر حرکت انسان به سوی پروردگار دارد. در سیاق دوم:",
+   "start": 1883.35,
+   "end": 2017.17
+  },
+  {
+   "index": 12,
+   "title": "و به انسان بفهماند که چگونه حرکت کردنی حرکت از نوع دوم به حساب می‌آید:",
+   "start": 2017.17,
+   "end": 2037.35
+  },
+  {
+   "index": 13,
+   "title": "## پیچیده‌تر شدن پاسخ در طول تاریخ",
+   "start": 2037.35,
+   "end": 2155.42
+  },
+  {
+   "index": 14,
+   "title": "## خواص سوره‌ها و نیت قرائت",
+   "start": 2155.42,
+   "end": 2311.45
+  },
+  {
+   "index": 15,
+   "title": "## قرائت پایانی سورهٔ انشقاق",
+   "start": 2311.45,
+   "end": 2700.17
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 10.7,
+   "end": 13.08,
+   "text": "اعوذ بالله من الشيطان الرجيم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 13.08,
+   "end": 16.58,
+   "text": "بسم الله الرحمن الرحيم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 16.58,
+   "end": 22.18,
+   "text": "گفتيم در مقام جمع‌بندی عناصر معنا را به تفکیک بخواهیم بررسی کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 22.18,
+   "end": 28.96,
+   "text": "عنصر اول در این سیاق یه قسم بود با جواب قسم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 28.96,
+   "end": 31.34,
+   "text": "که اگر بخواهیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 31.34,
+   "end": 40.48,
+   "text": "از قسم و جواب قسم یک جمله را به عنوان لب معنا بگیم، کدومو باید بگیم قسمو یا جواب را؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 40.48,
+   "end": 47.84,
+   "text": "جواب جواب رو باید بگیم. جواب چیزیست که تأکید شده و قسم به خاطر اون آمده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 47.84,
+   "end": 56.72,
+   "text": "در حقیقت آیه شونزده تا نوزده اگر بخواهیم تو یک کلمه خلاصه‌اش کنیم، میگیم تأکید بر حرکت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 56.72,
+   "end": 59.66,
+   "text": "مرحله به مرحله انسان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 59.66,
+   "end": 63.38,
+   "text": "حالا دیگه نگفته به سوی چی. ما قبلاً میدونیم ولی به سوی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 63.38,
+   "end": 67.71,
+   "text": "ملاقات به سوی پروردگار. خب اما مطلب بعد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 67.71,
+   "end": 72.52,
+   "text": "\"فَمَالَهُمْ لَا يُؤْمِنُونَ\" این فا را میبینید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 72.52,
+   "end": 78.64,
+   "text": "به این فا در زبان عربی گفته میشه فای فصیحه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 78.64,
+   "end": 80.8,
+   "text": "فای فصیحه یعنی چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 80.8,
+   "end": 86.38,
+   "text": "یعنی فایی که میخواد یه جورایی از قبل نتیجه بگیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 86.38,
+   "end": 90.24,
+   "text": "اگر بخواهیم فای فصیحه را خوب معنی کنیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 90.24,
+   "end": 94.8,
+   "text": "باید از جملات قبلی یه جمله شرطیه در بیاریم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 94.8,
+   "end": 99.2,
+   "text": "و بعد اونچه را که بعد از فای فصیحه می‌خونیم جواب اون شرط قرار بدیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 99.2,
+   "end": 102.4,
+   "text": "یعنی چی؟ یعنی اینطوری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 102.4,
+   "end": 109.46,
+   "text": "حالا که دارید پله پله به سوی خدا می‌روید،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 109.46,
+   "end": 114.5,
+   "text": "حالا که \"لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍ\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 114.5,
+   "end": 117.1,
+   "text": "\"فَمَالَهُمْ لَا\" بگید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 117.1,
+   "end": 119.14,
+   "text": "پس چرا ایمان نمی‌آورند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 119.14,
+   "end": 123.28,
+   "text": "یعنی اینایی که دارن پله پله میرن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 123.28,
+   "end": 128.44,
+   "text": "چرا ایمان نمیارن؟ سؤال اینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 128.44,
+   "end": 131.56,
+   "text": "یه وقت هست کسی ایمان نمی‌آورد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 131.56,
+   "end": 134.04,
+   "text": "که حرکتی هم بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 134.04,
+   "end": 136.94,
+   "text": "نمیکند. وایستاده. خب ایمانم نمیاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 136.94,
+   "end": 142.44,
+   "text": "خب نیاره. کسی که خودش میبینه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 142.44,
+   "end": 148.5,
+   "text": "خودش لمس میکنه که داره مرحله به مرحله پیش میره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 148.5,
+   "end": 153.24,
+   "text": "خودش میبینه که الان وضع ده سال پیش رو بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 153.24,
+   "end": 159.92,
+   "text": "نداره. و قطعاً اگر خدا به او عمر بده ده سال دیگه وضع امروز رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 159.92,
+   "end": 163.56,
+   "text": "نداره. خب دارم من میرم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 163.56,
+   "end": 166.26,
+   "text": "تو که در حال حرکت هستی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 166.26,
+   "end": 173.04,
+   "text": "چرا ایمان نمی‌آوری؟ این سؤاله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 173.04,
+   "end": 180.68,
+   "text": "یعنی اظهار تعجب می‌کند خدا از ایمان نیاوردن کسانی که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 180.68,
+   "end": 182.92,
+   "text": "حرکت می‌کنند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 182.92,
+   "end": 187.02,
+   "text": "و حرکت را قطعاً میبینند داره اتفاق میفته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 187.02,
+   "end": 190.72,
+   "text": "ولی حاضر نیستند ایمان بیاورند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 190.72,
+   "end": 192.68,
+   "text": "چرا باید کسی که حرکت میکنه ایمان بیاره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 192.68,
+   "end": 204.46,
+   "text": "اصلاً به چی باید ایمان بیاره؟ کسی که حرکت میکنه باید ایمان بیاورد به اون چیزی که بتواند او را در این حرکت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 204.46,
+   "end": 207.8,
+   "text": "چه کند؟ راهنمایی کند، توجیه کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 207.8,
+   "end": 211.28,
+   "text": "خب ما تو دسته قبلی خونده بودیم حرکت چند جوره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 211.28,
+   "end": 215.28,
+   "text": "دو نوعه. خب این دو نوع حرکتو من از کی یاد بگیرم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 215.28,
+   "end": 220.34,
+   "text": "چطور میتونم اون نوع درست حرکت رو داشته باشم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 220.34,
+   "end": 231.5,
+   "text": "چطور میتونم طوری حرکت کنم که وقتی به ملاقات با خدا میرسم سرفکنده نباشم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 231.5,
+   "end": 234.46,
+   "text": "ایمان نیاوردن من به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 234.46,
+   "end": 239.94,
+   "text": "اون کتاب و به اون مکتبی که می‌تواند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 239.94,
+   "end": 242.87,
+   "text": "در حرکت کردن کمکم کند چیز عجیبیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 242.87,
+   "end": 244.56,
+   "text": "\"فَمَالَهُمْ لَا يُؤْمِنُونَ\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 244.56,
+   "end": 251.26,
+   "text": "\"وَإِذَا قُرِئَ عَلَيْهِمُ الْقُرْآنُ لَا يَسْجُدُونَ\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 251.26,
+   "end": 257.24,
+   "text": "از این آیه معلوم میشه که \"لَا يُؤْمِنُونَ\" منظور \"لَا يُؤْمِنُونَ بِالْ\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 257.24,
+   "end": 260.0,
+   "text": "قرآنه. از آیه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 260.0,
+   "end": 265.24,
+   "text": "بیست و یک معلوم میشه که \"لَا يُؤْمِنُونَ\" \"لَا يُؤْمِنُونَ بِالْ\" قرآنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 265.24,
+   "end": 268.98,
+   "text": "وقتی قرآن براشون خونده می‌شود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 268.98,
+   "end": 271.84,
+   "text": "\"لَا يَسْجُدُونَ\" سجده نمی‌کنند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 271.84,
+   "end": 276.72,
+   "text": "سجده کردن به هنگام قرائت قرآن یعنی چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 276.72,
+   "end": 279.58,
+   "text": "یعنی خاضع شدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 279.58,
+   "end": 281.74,
+   "text": "یعنی خاشع شدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 281.74,
+   "end": 286.58,
+   "text": "یعنی دست از ادعا برداشتن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 286.58,
+   "end": 291.52,
+   "text": "سجده نهایت خضوع و خشوعه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 291.52,
+   "end": 296.72,
+   "text": "خب چرا اینا قرآن خونده میشه سجده نمی‌کنن، خاضع نمیشن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 296.72,
+   "end": 300.34,
+   "text": "بازم ادعا دارن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 300.34,
+   "end": 303.22,
+   "text": "بازم ان رجل میگن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 303.22,
+   "end": 313.26,
+   "text": "بازم خودشون رو یه جوری به حساب میارن که انگار میدونن بعد از این حرکت چه اتفاقی قراره بیفته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 313.26,
+   "end": 321.02,
+   "text": "\"بَلِ الَّذِينَ كَفَرُوا يُكَذِّبُونَ\" بلکه کافران تکذیب می‌کنند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 321.02,
+   "end": 328.5,
+   "text": "یعنی نه فقط ایمان نمی‌آورند و سجده نمی‌کنند بلکه بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 328.5,
+   "end": 331.48,
+   "text": "یعنی میگن، میگن دروغه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 331.48,
+   "end": 336.6,
+   "text": "چی دروغه دقیقاً؟ پیامبر پیامبر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 336.6,
+   "end": 340.52,
+   "text": "پیامبر در چه حرفی داره دروغ میگه به نظر اونا؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 340.52,
+   "end": 348.68,
+   "text": "در قرآن منظور اونا دقیقاً از اون قرآنی که پیغمبر خونده الان و دروغه دقیقاً کدوم سوره است؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 348.68,
+   "end": 351.94,
+   "text": "دقیقاً همین سوره است. سیاق اول همین سوره است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 351.94,
+   "end": 357.18,
+   "text": "یعنی \"إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا\" دروغه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 357.18,
+   "end": 362.28,
+   "text": "یعنی \"لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍ\" دروغه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 362.28,
+   "end": 367.38,
+   "text": "گذر زمان دروغه؟ بزرگ‌تر شدن روز به روز تو دروغه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 367.38,
+   "end": 371.55,
+   "text": "چی دروغه؟ میگن دروغه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 371.55,
+   "end": 375.08,
+   "text": "\"بل الذين كفروا يكذبون\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 375.08,
+   "end": 382.58,
+   "text": "خدا می‌فرماید \"والله اعلم بما يعون\" و خدا عالم‌تر است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 382.58,
+   "end": 389.22,
+   "text": "به \"ما يعون\" به آنچه اینها در ظرف جان خود بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 389.22,
+   "end": 393.86,
+   "text": "جمع می‌کنند. \"يعون\" از \"وعاء\" \"وعاء\" یعنی ظرف.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 393.86,
+   "end": 398.78,
+   "text": "یعنی خدا میدونه که در ظرف جانشون چی جمع کردن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 398.78,
+   "end": 403.86,
+   "text": "یعنی خدا میدونه که در اندرونی دل اون‌ها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 403.86,
+   "end": 411.02,
+   "text": "چه مطالبی و چه حرف‌هایی و چه نیاتی وجود داره که به خاطر اون دارن تکذیب می‌کنند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 411.02,
+   "end": 415.5,
+   "text": "این حرف می‌دونید یعنی چی؟ این حرف یعنی ای مردم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 415.5,
+   "end": 422.08,
+   "text": "اینا که تکذیب می‌کنند خیال نکنید که بر تکذیب کردن‌شون حجت دارنا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 422.08,
+   "end": 426.46,
+   "text": "خیال نکنید دلیل دارند بر تکذیب‌شون هیچ دلیلی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 426.46,
+   "end": 432.9,
+   "text": "ندارند. آنچه آنها را به تکذیب وامی‌دارد در واقع",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 432.9,
+   "end": 438.14,
+   "text": "ما بگید \"ما يعون\" یعنی حرف‌های اندرونی وجودشونه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 438.14,
+   "end": 440.37,
+   "text": "اینه که اون‌ها را به تکذیب وامی‌داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 440.37,
+   "end": 445.84,
+   "text": "\"والله اعلم بما يعون\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 445.84,
+   "end": 450.6,
+   "text": "خب حالا که اینطوریه \"فبشرهم بعذاب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 450.6,
+   "end": 453.4,
+   "text": "الیم\" پس بشارت بده آنها را.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 453.4,
+   "end": 455.12,
+   "text": "یعنی کیا را؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 455.12,
+   "end": 463.38,
+   "text": "همینایی که بگید \"الذین كفروا\" که تکذیب می‌کنند را بشارت بده به عذابی الیم دردناک.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 94,
+   "start": 463.38,
+   "end": 466.24,
+   "text": "سؤال: آیا عذاب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 95,
+   "start": 466.24,
+   "end": 471.26,
+   "text": "خبر خوبه یا بده؟ بشارت خوبه یا بده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 96,
+   "start": 471.26,
+   "end": 477.07,
+   "text": "خب چطور \"بشرهم بعذاب الیم\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 97,
+   "start": 477.07,
+   "end": 482.12,
+   "text": "، میگن تمسخره. یعنی خداوند مسخره‌شون می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 98,
+   "start": 482.12,
+   "end": 484.4,
+   "text": "در قرآن کریم داریم ما یه آیه‌ای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 99,
+   "start": 484.4,
+   "end": 489.16,
+   "text": "خدا می‌فرماید که بریزد رو سرش این آب داغو تو جهنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 100,
+   "start": 489.16,
+   "end": 492.94,
+   "text": "حمیم. بریزید فرق کله‌ش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 101,
+   "start": 492.94,
+   "end": 500.38,
+   "text": "آبو که ریختن این آب داغ و فرق کله‌ش خدا میگه \"ذق\" بچش \"انك انت العزيز الكريم\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 102,
+   "start": 500.38,
+   "end": 505.28,
+   "text": "همانا تو عزیزی، کریمی، گرامی هستی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 103,
+   "start": 505.28,
+   "end": 509.5,
+   "text": "بچش. خب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 104,
+   "start": 509.5,
+   "end": 512.52,
+   "text": "اما یه جواب دقیق‌تر بدیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 105,
+   "start": 512.52,
+   "end": 517.1,
+   "text": "دقیق‌تر از این که بخواهیم بگیم خدا آنها را مسخره می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 106,
+   "start": 517.1,
+   "end": 520.7,
+   "text": "در واقع شاید خروجی‌ش مسخره باشه ولی خداوند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 107,
+   "start": 520.7,
+   "end": 525.06,
+   "text": "هیچوقت مسخره کردنش شبیه مسخره کردن‌های ما.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 108,
+   "start": 525.06,
+   "end": 532.59,
+   "text": "ما یه چیزی رو بی‌پایه و اساس مسخره می‌کنیم اما خدا مسخره کردن اینطوری نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 109,
+   "start": 532.59,
+   "end": 534.46,
+   "text": "، پس یعنی چی مسخره می‌کند اون‌ها را؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 110,
+   "start": 534.46,
+   "end": 536.84,
+   "text": "یعنی چی استهزاء می‌کند اون‌ها را؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 111,
+   "start": 536.84,
+   "end": 540.34,
+   "text": "یعنی این. خدا میگه ببین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 112,
+   "start": 540.34,
+   "end": 547.62,
+   "text": "توقع اینه که یه آدمی وقتی داره زندگی می‌کنه در این دنیا با رنج و سختی، تحمل مشقات،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 113,
+   "start": 547.62,
+   "end": 549.96,
+   "text": "دویدن‌ها، تلاش کردن‌ها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 114,
+   "start": 549.96,
+   "end": 552.62,
+   "text": "داره زندگی می‌کنه و جلو میاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 115,
+   "start": 552.62,
+   "end": 556.28,
+   "text": "اون وقتی که به ملاقات با خدا می‌رسه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 116,
+   "start": 556.28,
+   "end": 559.38,
+   "text": "حق اینه که به او چی کار کنیم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 117,
+   "start": 559.38,
+   "end": 562.68,
+   "text": "بگید خوش آمد بگیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 118,
+   "start": 562.68,
+   "end": 566.28,
+   "text": "بگیم خوش اومدی. خسته نباشی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 119,
+   "start": 566.28,
+   "end": 576.0,
+   "text": "بنده ما هشتاد سال، پنجاه سال، شصت سال، چهل سال، بیست سال، سی سال تو دنیا زندگی کردی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 120,
+   "start": 576.0,
+   "end": 578.96,
+   "text": "سختی‌هایی کشیدی، امتحاناتی دادی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 121,
+   "start": 578.96,
+   "end": 582.28,
+   "text": "خوش آمدی. ولی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 122,
+   "start": 582.28,
+   "end": 586.2,
+   "text": "صد حیف که امروز به جای خوش آمدی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 123,
+   "start": 586.2,
+   "end": 588.52,
+   "text": "باید او را مواجه کنیم با چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 124,
+   "start": 588.52,
+   "end": 591.02,
+   "text": "با عذاب. این تناقضه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 125,
+   "start": 591.02,
+   "end": 596.58,
+   "text": "یعنی درست همون جایی که دیدید یه آدم خسته خونه میاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 126,
+   "start": 596.58,
+   "end": 601.24,
+   "text": "مادری، پدری رفته بیرون کلی زحمت کشیده، آفتاب خورده، کار کرده،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 127,
+   "start": 601.24,
+   "end": 605.19,
+   "text": "خسته میاد خونه انتظار چی داره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 128,
+   "start": 605.19,
+   "end": 614.34,
+   "text": "انتظار یه روی خوش و یه روی گشاده و یه توجه و یه چایی و یه استراحتی و بالاخره اهل خونه پذیرای وجود او باشن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 129,
+   "start": 614.34,
+   "end": 616.32,
+   "text": "خستگی‌ش در بره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 130,
+   "start": 616.32,
+   "end": 623.86,
+   "text": "اگر تو این نقطه مواجه بشه با یک چهره عبوس، عصبانی، غرغر و معترض",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 131,
+   "start": 623.86,
+   "end": 627.02,
+   "text": "و در دعوا و این حرفا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 132,
+   "start": 627.02,
+   "end": 629.22,
+   "text": "یه دفعه بدجوری حالش بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 133,
+   "start": 629.22,
+   "end": 632.52,
+   "text": "گرفته میشه. اه بعد از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 134,
+   "start": 632.52,
+   "end": 636.06,
+   "text": "حالا چیه دو سه ساعت مثلا بیرون بوده آفتاب خورده،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 135,
+   "start": 636.06,
+   "end": 639.92,
+   "text": "کار کرده، دویده، دنبال مشکلاتش بوده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 136,
+   "start": 639.92,
+   "end": 642.86,
+   "text": "یه عمر تو این دنیا دویدیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 137,
+   "start": 642.86,
+   "end": 646.46,
+   "text": "لحظه‌ای که چشم‌مون رو می‌بندیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 138,
+   "start": 646.46,
+   "end": 648.46,
+   "text": "چقدر خوبه که تو اون لحظه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 139,
+   "start": 648.46,
+   "end": 654.14,
+   "text": "ملائکت الله میان از طرف خدا اهل بیت علیهم السلام بیان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 140,
+   "start": 654.14,
+   "end": 657.22,
+   "text": "بگن خوش آمدی. خسته نباشی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 141,
+   "start": 657.22,
+   "end": 662.12,
+   "text": "خوب اومدی سخت بود ولی الحمدلله ختم به خیر شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 142,
+   "start": 662.12,
+   "end": 665.82,
+   "text": "آب براش بیارید. جام به دستش بدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 143,
+   "start": 665.82,
+   "end": 667.82,
+   "text": "خانه قبرش را فراخ بکنند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 144,
+   "start": 667.82,
+   "end": 670.54,
+   "text": "چراغ براش روشن بکنند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 145,
+   "start": 670.54,
+   "end": 675.16,
+   "text": "سفره براش پهن بکنند. میزبانش بشن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 146,
+   "start": 675.16,
+   "end": 684.84,
+   "text": "یا اینکه نه درست تو همین لحظه‌ای که این همه سال خستگی و بیماری و مشکلات رو به تحمل کرده و آمده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 147,
+   "start": 684.84,
+   "end": 688.42,
+   "text": "تو این لحظه مواجه بشه با",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 148,
+   "start": 688.42,
+   "end": 691.04,
+   "text": "خدایی نکرده ملاکه عذاب،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 149,
+   "start": 691.04,
+   "end": 695.5,
+   "text": "چهره غضب، عذاب دردناک، سیلی بخوره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 150,
+   "start": 695.5,
+   "end": 701.58,
+   "text": "چقدر انسان حالش گرفته میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 151,
+   "start": 701.58,
+   "end": 703.96,
+   "text": "اینه \"فبشرهم\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 152,
+   "start": 703.96,
+   "end": 706.22,
+   "text": "یعنی اینجا جای بشارت بوده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 153,
+   "start": 706.22,
+   "end": 711.07,
+   "text": "ولی اینا خرابش کردن. صد حیف که اینا خرابش کردن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 154,
+   "start": 711.07,
+   "end": 713.24,
+   "text": "\"بعذاب الیم\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 155,
+   "start": 713.24,
+   "end": 719.1,
+   "text": "پس بشارت بده آنها را به عذابی دردناک.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 156,
+   "start": 719.1,
+   "end": 724.32,
+   "text": "فقط یک گروه از این عذاب در امانند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 157,
+   "start": 724.32,
+   "end": 730.31,
+   "text": "فقط الا الذين آمنوا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 158,
+   "start": 730.31,
+   "end": 733.15,
+   "text": "غیر از اونایی که ایمان آوردن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 159,
+   "start": 733.15,
+   "end": 736.15,
+   "text": "و عمل الصالحات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 160,
+   "start": 736.15,
+   "end": 739.17,
+   "text": "و به صالحات عمل کردند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 161,
+   "start": 739.17,
+   "end": 742.23,
+   "text": "عمل به صالحات یعنی چه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 162,
+   "start": 742.23,
+   "end": 747.27,
+   "text": "عمل به صالحات. ببینید می‌خوام فنی بحث کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 163,
+   "start": 747.27,
+   "end": 750.29,
+   "text": "صالحات صفت است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 164,
+   "start": 750.29,
+   "end": 753.35,
+   "text": "که موصوفش ذکر بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 165,
+   "start": 753.35,
+   "end": 756.57,
+   "text": "نشده. موصوف رو خودت باید بفهمی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 166,
+   "start": 756.57,
+   "end": 761.23,
+   "text": "یه بار اینو بگی عملوا الأعمال الصالحات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 167,
+   "start": 761.23,
+   "end": 764.19,
+   "text": "عمل کردند به عمل‌های",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 168,
+   "start": 764.19,
+   "end": 766.93,
+   "text": "بگید صالح.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 169,
+   "start": 766.93,
+   "end": 775.59,
+   "text": "یه بار اینو که بگه عملوا الشرایع الصالحات عمل کردند به برنامه‌های",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 170,
+   "start": 775.59,
+   "end": 777.51,
+   "text": "بگید صالح.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 171,
+   "start": 777.51,
+   "end": 784.79,
+   "text": "این دومی مناسب‌تره. آدم به عمل که عمل نمی‌کنه، به برنامه عمل می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 172,
+   "start": 784.79,
+   "end": 792.25,
+   "text": "عمل الصالحات یعنی عمل کردند به برنامه‌های شایسته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 173,
+   "start": 792.25,
+   "end": 794.45,
+   "text": "پیرو چی؟ پیرو ایمان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 174,
+   "start": 794.45,
+   "end": 797.41,
+   "text": "شما بگید ایمان به چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 175,
+   "start": 797.41,
+   "end": 800.89,
+   "text": "ایمان به؟ ایمان به؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 176,
+   "start": 800.89,
+   "end": 805.19,
+   "text": "متوجه سیاق بگید. قرآن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 177,
+   "start": 805.19,
+   "end": 811.51,
+   "text": "گفتیم فما لهم لا يؤمنون این لا يؤمنون، لا يؤمنون به چی لا يؤمنون؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 178,
+   "start": 811.51,
+   "end": 820.11,
+   "text": "از کجا فهمیدیم به قرآن؟ از آیه بعدی که و اذا قرئ عليهم القرآن لا يسجدون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 179,
+   "start": 820.11,
+   "end": 829.99,
+   "text": "پس عمل کرد الا الذين آمنوا یعنی مگر کسانی که ایمان آوردند به قرآن و عمل کردند به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 180,
+   "start": 829.99,
+   "end": 835.47,
+   "text": "برنامه‌های صالحی که خدا در قرآن بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 181,
+   "start": 835.47,
+   "end": 839.71,
+   "text": "معین فرموده بود عمل کردن به این برنامه‌های صالح.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 182,
+   "start": 839.71,
+   "end": 842.43,
+   "text": "فقط اینا نجات پیدا می‌کنند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 183,
+   "start": 842.43,
+   "end": 846.43,
+   "text": "الا الذين آمنوا وعملوا الصالحات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 184,
+   "start": 846.43,
+   "end": 851.17,
+   "text": "لهم أجر غير ممنون برای آنها اجریست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 185,
+   "start": 851.17,
+   "end": 854.81,
+   "text": "بی‌انتها، غیر منقطع،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 186,
+   "start": 854.81,
+   "end": 857.75,
+   "text": "اجری که پایان ندارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 187,
+   "start": 857.75,
+   "end": 859.42,
+   "text": "عمر پایان دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 188,
+   "start": 859.42,
+   "end": 869.13,
+   "text": "ولی اگر ایمان و عمل صالح آمد در کنار ما قرار گرفت یعنی ما با ایمان و عمل صالح اگر زندگی کردیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 189,
+   "start": 869.13,
+   "end": 874.2,
+   "text": "عمر پایان پیدا کرد اما اجرش پایان پیدا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 190,
+   "start": 874.2,
+   "end": 881.41,
+   "text": "-- خدا نخواهد گفت شما هشتاد سال ایمان داشتی و عمل صالح منم هشتاد سال میبرمت بهشت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 191,
+   "start": 881.41,
+   "end": 884.65,
+   "text": "بعدش دیگه نیست میشی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 192,
+   "start": 884.65,
+   "end": 887.47,
+   "text": "یا هشتاد سال ایمان و عمل صالح داشتی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 193,
+   "start": 887.47,
+   "end": 893.27,
+   "text": "من چون خدای خوبی‌ام ده برابر جایزه میدم هشتصد سال تو رو میبرم بهشت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 194,
+   "start": 893.27,
+   "end": 894.93,
+   "text": "هشتصد سال برو حال کن تو بهشت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 195,
+   "start": 894.93,
+   "end": 900.04,
+   "text": "بعدش دیگه چی؟ نیست میشی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 196,
+   "start": 900.04,
+   "end": 901.73,
+   "text": "یا هشتصد سال، هشت هزار سال.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 197,
+   "start": 901.73,
+   "end": 905.13,
+   "text": "نه. غیر ممنون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 198,
+   "start": 905.13,
+   "end": 911.71,
+   "text": "تموم دیگه نمیشه. شما دو سال هم اگر ایمان و عمل صالح داشتی و از دنیا رفتی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 199,
+   "start": 911.71,
+   "end": 917.89,
+   "text": "یه روز، یه ساعت ایمان و عمل صالح داشتی از دنیا رفتی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 200,
+   "start": 917.89,
+   "end": 921.09,
+   "text": "اجرش بی‌انتهاست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 201,
+   "start": 921.09,
+   "end": 926.87,
+   "text": "تموم نمیشه. یه وقتایی آدم اینجا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 202,
+   "start": 926.87,
+   "end": 929.89,
+   "text": "غبطه می‌خوره به حال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 203,
+   "start": 929.89,
+   "end": 937.29,
+   "text": "حضرت حر. در یک بزنگاه درست،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 204,
+   "start": 937.29,
+   "end": 940.55,
+   "text": "تصمیم درست، ایمان درست،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 205,
+   "start": 940.55,
+   "end": 945.91,
+   "text": "عمل درست و هنوز که هنوزه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 206,
+   "start": 945.91,
+   "end": 949.32,
+   "text": "و برای ابد له أجر غیر ممنون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 207,
+   "start": 949.32,
+   "end": 954.63,
+   "text": "تموم نمیشه. دیگه از همسایگی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 208,
+   "start": 954.63,
+   "end": 957.07,
+   "text": "حسین بن علی علیه السلام",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 209,
+   "start": 957.07,
+   "end": 960.13,
+   "text": "جدا نمیشه. دیگه با اوست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 210,
+   "start": 960.13,
+   "end": 963.17,
+   "text": "چقدر خوبه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 211,
+   "start": 963.17,
+   "end": 967.97,
+   "text": ". و ای بدبخت! اون عمر صد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 212,
+   "start": 967.97,
+   "end": 972.27,
+   "text": "که یک تصمیم نادرست،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 213,
+   "start": 972.27,
+   "end": 976.09,
+   "text": "یک انتخاب غلط، یک عمل غلط",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 214,
+   "start": 976.09,
+   "end": 980.29,
+   "text": "و فلاک و بدبختی‌ش تموم نمیشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 215,
+   "start": 980.29,
+   "end": 988.07,
+   "text": "واقعاً یکی از خواهرها اشاره‌ای کردن گفتن که کاش این مطالب مثلاً جنبه کاربردی--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 216,
+   "start": 988.07,
+   "end": 990.65,
+   "text": "من می‌خوام بگم این همش کاربرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 217,
+   "start": 990.65,
+   "end": 997.73,
+   "text": "کاربرد همیناست. همینا ما رو لنگ کرده باور کنید .",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 218,
+   "start": 997.73,
+   "end": 1000.97,
+   "text": "عجله ما، خسته شدن ما.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 219,
+   "start": 1000.97,
+   "end": 1004.35,
+   "text": "نباید عجله کنیم. این عمر ما در این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 220,
+   "start": 1004.35,
+   "end": 1012.89,
+   "text": "دنیا اگر قرار باشه خدا به ما صد سال، صد و بیست سال هم در این دنیا عمر بده هیچی نیست باور کنید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 221,
+   "start": 1012.89,
+   "end": 1015.27,
+   "text": ". هیچی نیست. زیادش کمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 222,
+   "start": 1015.27,
+   "end": 1018.83,
+   "text": "چه رسد به اینکه الان دیگه عمرها خودش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 223,
+   "start": 1018.83,
+   "end": 1022.15,
+   "text": "کمه. حالا زیادش کمه بماند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 224,
+   "start": 1022.15,
+   "end": 1023.9,
+   "text": "صد و بیست ساله‌ها کجان الان؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 225,
+   "start": 1023.9,
+   "end": 1027.53,
+   "text": ". زیادش کمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 226,
+   "start": 1027.53,
+   "end": 1029.51,
+   "text": "چه رسد به اینکه الان خودش کمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 227,
+   "start": 1029.51,
+   "end": 1037.85,
+   "text": "بعد اونوقت انسان سرنوشت ابدی خود را می‌بینید به پنجاه، شصت سال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 228,
+   "start": 1037.85,
+   "end": 1042.31,
+   "text": "تازه در خوشبینانه‌ترین حالتش معامله کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 229,
+   "start": 1042.31,
+   "end": 1048.57,
+   "text": "می‌مونم یعنی یه وقتایی می‌مونم توی فکر این قضیه که طرف میاد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 230,
+   "start": 1048.57,
+   "end": 1051.15,
+   "text": "چند هزار میلیارد اختلاس می‌کنه میره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 231,
+   "start": 1051.15,
+   "end": 1053.97,
+   "text": "خب میری کجا؟ رفتی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 232,
+   "start": 1053.97,
+   "end": 1060.47,
+   "text": "خب کجا؟ می‌خوام برم یه چند سالی یه جایی یه ویلای خیییلی گشاد داشته باشم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 233,
+   "start": 1060.47,
+   "end": 1063.29,
+   "text": "خب خیلی گشاد. حالا توش زندگی کن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 234,
+   "start": 1063.29,
+   "end": 1066.13,
+   "text": "بعد کیف کنم. خب کیف کن. حالا بازم کیف کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 235,
+   "start": 1066.13,
+   "end": 1070.03,
+   "text": "بازم کیف کن. تا کی می‌خوای کیف کنی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 236,
+   "start": 1070.03,
+   "end": 1072.59,
+   "text": "فکر اینجاشم می‌کنی که یه جایی تموم میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 237,
+   "start": 1072.59,
+   "end": 1075.49,
+   "text": "دیگه نمی‌تونی کیف کنی. دیگه یه جایی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 238,
+   "start": 1075.49,
+   "end": 1078.18,
+   "text": "باید بری. رد شی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 239,
+   "start": 1078.18,
+   "end": 1081.89,
+   "text": "اونم نمی‌تونه. حالا ما فرض می‌کنیم بتونه اصلاً.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 240,
+   "start": 1081.89,
+   "end": 1085.11,
+   "text": "فرض می‌کنیم بتونه. آقا رد باید بشی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 241,
+   "start": 1085.11,
+   "end": 1089.57,
+   "text": "وقتی می‌خوای رد شی می‌بری همه رو با خودت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 242,
+   "start": 1089.57,
+   "end": 1095.57,
+   "text": "انسان. بیچاره انسان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 243,
+   "start": 1095.57,
+   "end": 1100.83,
+   "text": "چه بد معامله‌ای می‌کنه اون انسانی که به رفتن توجه نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 244,
+   "start": 1100.83,
+   "end": 1104.79,
+   "text": "اون انسانی که به برگشتن توجه نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 245,
+   "start": 1104.79,
+   "end": 1109.51,
+   "text": "ما یه وقتایی خیال می‌کنیم بسیاری از مشکلات تو جامعه‌مون،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 246,
+   "start": 1109.51,
+   "end": 1115.13,
+   "text": "باور کنیم این رو، بسیاری از مشکلات اجتماعی ما،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 247,
+   "start": 1115.13,
+   "end": 1117.37,
+   "text": "مشکلات سیاسی ما،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 248,
+   "start": 1117.37,
+   "end": 1119.83,
+   "text": "مشکلات فرهنگی ما،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 249,
+   "start": 1119.83,
+   "end": 1124.21,
+   "text": "محصول ضعف بنیان‌های اعتقادی ماست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 250,
+   "start": 1124.21,
+   "end": 1126.39,
+   "text": "باور نداریم داریم میریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 251,
+   "start": 1126.39,
+   "end": 1130.37,
+   "text": "برای همین هرچی می‌تونیم سر هم کلاه می‌ذاریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 252,
+   "start": 1130.37,
+   "end": 1135.53,
+   "text": "هرچی می‌تونیم به هم ظلم می‌کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 253,
+   "start": 1135.53,
+   "end": 1141.61,
+   "text": "من دوست دارم تو پرانتز این مطلب رو بگم برای این ایام به خصوص که توش واقع شدیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 254,
+   "start": 1141.61,
+   "end": 1145.9,
+   "text": "این مطلب خوبه که بهش توجه بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 255,
+   "start": 1145.9,
+   "end": 1148.15,
+   "text": ". بابا یه خونه داری توش نشستی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 256,
+   "start": 1148.15,
+   "end": 1149.93,
+   "text": "یه حقوق هم داری داری می‌خوری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 257,
+   "start": 1149.93,
+   "end": 1154.16,
+   "text": "خب کمتر اجاره بگیری چی میشه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 258,
+   "start": 1154.16,
+   "end": 1157.79,
+   "text": ". رحم‌تو بیشتر نکنی چی میشه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 259,
+   "start": 1157.79,
+   "end": 1168.85,
+   "text": "واقعا لنگ می‌مونی؟ چرا باید تو ام القری جامعه اسلامی پونصد هزار دستگاه خونه خالی وجود داشته باشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 260,
+   "start": 1168.85,
+   "end": 1174.67,
+   "text": "و بعد مردم لنگ یک آلونک دو سه متری که برن توش بخوابن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 261,
+   "start": 1174.67,
+   "end": 1180.39,
+   "text": "؟ سی متر بیست متر جا داشته باشن توش استراحت کنن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 262,
+   "start": 1180.39,
+   "end": 1183.35,
+   "text": "ادعای مسلمونی‌مون هم میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 263,
+   "start": 1183.35,
+   "end": 1186.47,
+   "text": "می‌گیم باور داریم داریم به سوی خدا حرکت می‌کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 264,
+   "start": 1186.47,
+   "end": 1189.37,
+   "text": "این باوره؟ صد و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 265,
+   "start": 1189.37,
+   "end": 1199.83,
+   "text": "هشتاد متر خونه گذاشته تو دیوار که آقا بیا این خونه رو اجاره بکن اینقدر هم پولشه فقط بچه‌دار نمیدم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 266,
+   "start": 1199.83,
+   "end": 1210.37,
+   "text": "به بچه‌دار نمیدم. اونی که دو تا بچه داره، سه تا بچه داره، چهار تا بچه داره سرشو بندازه پایین مثل مجرمان،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 267,
+   "start": 1210.37,
+   "end": 1213.73,
+   "text": "توی بنگاه‌ها مثل مجرمان باید وایسته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 268,
+   "start": 1213.73,
+   "end": 1216.51,
+   "text": "جرم: داشتن سه فرزند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 269,
+   "start": 1216.51,
+   "end": 1220.15,
+   "text": "چهار فرزند، کم داشتن پول.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 270,
+   "start": 1220.15,
+   "end": 1224.03,
+   "text": "مجازات: برو بمیر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 271,
+   "start": 1224.03,
+   "end": 1229.25,
+   "text": "بعد ما ایمان داریم .",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 272,
+   "start": 1229.25,
+   "end": 1234.77,
+   "text": "وای بر ما! وای بر ما!",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 273,
+   "start": 1234.77,
+   "end": 1238.13,
+   "text": "بر اون مسئولی که وظیفه‌شو نمی‌دونه وای.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 274,
+   "start": 1238.13,
+   "end": 1243.04,
+   "text": "بر اون انسانی که دستش به دهنش می‌رسه و رحمش نمیاد وای.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 275,
+   "start": 1243.04,
+   "end": 1248.03,
+   "text": "بر اون طمع پایان ناپذیر ما وای.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 276,
+   "start": 1248.03,
+   "end": 1258.51,
+   "text": "همین کاربرده دیگه. خب اگه باور داریم داریم حرکت می‌کنیم کاربردش کجاست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 277,
+   "start": 1258.51,
+   "end": 1267.75,
+   "text": ". در جامعه ما مسلمونا، تو ام القری ما مسلمونا سن ازدواج اومد بالا، اومد بالا، اومد بالا، اومد بالا،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 278,
+   "start": 1267.75,
+   "end": 1271.49,
+   "text": "رد کرد دیگه. نمی‌دونم چی رو رد کرد ولی رد کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 279,
+   "start": 1271.49,
+   "end": 1275.57,
+   "text": "دیگه هرز شد آخراش. یعنی این طرف اصلاً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 280,
+   "start": 1275.57,
+   "end": 1281.89,
+   "text": "دیگه هی میاد مثلا اولش میگه انشاالله ازدواج می‌کنم بعد میاد دیگه نزدیکای چهل که میشه دیگه هرزه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 281,
+   "start": 1281.89,
+   "end": 1287.75,
+   "text": "یعنی دیگه اصلاً نمی‌دونه قراره ازدواج بکنه، قرار نیست ازدواج بکنه، چرا ازدواج بکنه، چجوری ازدواج بکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 282,
+   "start": 1287.75,
+   "end": 1290.75,
+   "text": "خلاص میشه. خلاص میشه. آفرین. رد می‌کنه این دنده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 283,
+   "start": 1290.75,
+   "end": 1295.29,
+   "text": "خلاص میشه دیگه. خب بعد میگه آقا چرا؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 284,
+   "start": 1295.29,
+   "end": 1299.95,
+   "text": "میگه هرجا میرم اول سؤالشون اینه خونه داری",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 285,
+   "start": 1299.95,
+   "end": 1303.45,
+   "text": "؟ ماشین داری ؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 286,
+   "start": 1303.45,
+   "end": 1307.57,
+   "text": "دختر من یکی دونه‌ست مهریه‌ش هزار و سیصد و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 287,
+   "start": 1307.57,
+   "end": 1310.15,
+   "text": "هفتاد و فلانه مثلا به اندازه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 288,
+   "start": 1310.15,
+   "end": 1312.19,
+   "text": "سال‌های تولدشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 289,
+   "start": 1312.19,
+   "end": 1319.91,
+   "text": "وای بر ما! وای بر ما و جهل پایان ناپذیر ما.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 290,
+   "start": 1319.91,
+   "end": 1326.93,
+   "text": "وای بر ما و طمع تمام نشدنی ما.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 291,
+   "start": 1326.93,
+   "end": 1331.79,
+   "text": "وای بر ما و بی‌اعتمادی ما به سخن خدای ما،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 292,
+   "start": 1331.79,
+   "end": 1336.35,
+   "text": "به کلام خدای ما. راه چاره همینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 293,
+   "start": 1336.35,
+   "end": 1342.17,
+   "text": "باوره. منی که در جای خودم، تو خونه خودم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 294,
+   "start": 1342.17,
+   "end": 1345.57,
+   "text": "این باور را پیاده نکنم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 295,
+   "start": 1345.57,
+   "end": 1350.51,
+   "text": "اگرم بخوام بگم چرا پیاده نمی‌کنند، حرف گزاف است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 296,
+   "start": 1350.51,
+   "end": 1353.45,
+   "text": "من عمل کردم، تو عمل کردی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 297,
+   "start": 1353.45,
+   "end": 1358.17,
+   "text": "این عمل را تبلیغ کردیم، این باور را ترویج دادیم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 298,
+   "start": 1358.17,
+   "end": 1363.55,
+   "text": "خودمون اعتماد کردیم یا خودمون هم یه جاهایی رسیدیم گفتیم بابا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 299,
+   "start": 1363.55,
+   "end": 1365.71,
+   "text": "همه چیز که قرآن نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 300,
+   "start": 1365.71,
+   "end": 1368.05,
+   "text": "همه کس که خدا نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 301,
+   "start": 1368.05,
+   "end": 1370.89,
+   "text": "خدا هم به جای خود، پول هم به جای خود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 302,
+   "start": 1370.89,
+   "end": 1375.17,
+   "text": "خدا هم به جای خود، زور هم به جای خود، زر هم به جای خود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 303,
+   "start": 1375.17,
+   "end": 1377.67,
+   "text": "همه چیز در جای خود قرار دادیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 304,
+   "start": 1377.67,
+   "end": 1381.39,
+   "text": "خیال می‌کنیم این در جای خود قرار دادنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 305,
+   "start": 1381.39,
+   "end": 1383.03,
+   "text": "این در جای خود قرار دادن نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 306,
+   "start": 1383.03,
+   "end": 1392.69,
+   "text": "بله اسلام دینی نیست که شما را به اسراف و تبذیر دعوت بکنه یا دینی در حتی در انفاق حتی در انفاق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 307,
+   "start": 1392.69,
+   "end": 1397.27,
+   "text": "انسان را به اسراف و تبذیر دعوت نکرده، میانه‌روی دعوت کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 308,
+   "start": 1397.27,
+   "end": 1404.13,
+   "text": "اما اینی که امروز ما داریم می‌بینیم در جامعه‌مون محصول میانه‌روی مسلمین بگید،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 309,
+   "start": 1404.13,
+   "end": 1407.73,
+   "text": "نیست. این محصول بی‌ایمانیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 310,
+   "start": 1407.73,
+   "end": 1410.35,
+   "text": "این محصول ناباوریه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 311,
+   "start": 1410.35,
+   "end": 1413.45,
+   "text": "باور ندارد، ایمان ندارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 312,
+   "start": 1413.45,
+   "end": 1417.25,
+   "text": "برای همین نمی‌تونه اعتماد کنه و نمی‌تونه عمل کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 313,
+   "start": 1417.25,
+   "end": 1420.47,
+   "text": "کاربرد همین‌جاست. کاربرد همینه که آقا،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 314,
+   "start": 1420.47,
+   "end": 1427.95,
+   "text": "اون کسی که قرآن را می‌شنود و به قرآن ایمان دارد امروز که تو این گردابه‌ی اقتصادی گیر افتادیم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 315,
+   "start": 1427.95,
+   "end": 1431.63,
+   "text": "یه مقدار تا جایی که می‌تونه رحم کنه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 316,
+   "start": 1431.63,
+   "end": 1434.05,
+   "text": "تا جایی که می‌تونه سهل بگیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 317,
+   "start": 1434.05,
+   "end": 1437.79,
+   "text": "اگر دو تا خونه داره، اگر سه تا خونه داره خالی نگه نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 318,
+   "start": 1437.79,
+   "end": 1441.05,
+   "text": "اجاره بده و به قیمت مناسب و ارزون اجاره بده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 319,
+   "start": 1441.05,
+   "end": 1449.07,
+   "text": "بذاره مردم بگیرن. اگر دختر داره میان در خونه‌ش می‌بینه جوان ایمان داره، غیرت داره، دخترو بده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 320,
+   "start": 1449.07,
+   "end": 1450.69,
+   "text": "ایمان، غیرت، نجابت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 321,
+   "start": 1450.69,
+   "end": 1455.8,
+   "text": "بده بره نگران نباش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 322,
+   "start": 1455.8,
+   "end": 1460.42,
+   "text": "ایناست. مسئله کارم همینه امروز.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 323,
+   "start": 1460.42,
+   "end": 1463.16,
+   "text": "یه مقدار اشکال در باورهای خودمونه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 324,
+   "start": 1463.16,
+   "end": 1466.0,
+   "text": "یه مقدارم اشکال در فضای اجتماعیمونه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 325,
+   "start": 1466.0,
+   "end": 1471.98,
+   "text": "حالا من اینا رو به عنوان یک نکته‌ای فقط در حد اینکه گفتم به نکات کاربردی اشاره کن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 326,
+   "start": 1471.98,
+   "end": 1476.54,
+   "text": "من میخوام بگم کاربردها را دیگه ماها باید استنتاج کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 327,
+   "start": 1476.54,
+   "end": 1480.9,
+   "text": "یعنی وقتی من خوندم فهمیدم باید خودم برم بشینم بگم خب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 328,
+   "start": 1480.9,
+   "end": 1485.1,
+   "text": "حالا من دارم به سوی خدا حرکت می‌کنم و قراره با خدا ملاقات کنم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 329,
+   "start": 1485.1,
+   "end": 1488.78,
+   "text": "و خدا از من توقع داره به این مسئله ایمان داشته باشم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 330,
+   "start": 1488.78,
+   "end": 1492.7,
+   "text": "ایمان من به این مسئله چه اقتضائاتی داره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 331,
+   "start": 1492.7,
+   "end": 1495.18,
+   "text": "چجوری بودم که دیگه نباید باشم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 332,
+   "start": 1495.18,
+   "end": 1500.28,
+   "text": "چجوری باشم از این به بعد بهتره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 333,
+   "start": 1500.28,
+   "end": 1501.82,
+   "text": "این مسئله‌ست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 334,
+   "start": 1501.82,
+   "end": 1504.9,
+   "text": "این تأمل هر یک از ما در جای خودش لازمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 335,
+   "start": 1504.9,
+   "end": 1513.04,
+   "text": "سوالتون چی بود خواهر؟ غیر ممنون و غیر مقطوع توش در- من یعنی قطع.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 336,
+   "start": 1513.04,
+   "end": 1515.12,
+   "text": "من یعنی قطع.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 337,
+   "start": 1515.12,
+   "end": 1517.92,
+   "text": "غیر ممنون یعنی غیر مقطوع.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 338,
+   "start": 1517.92,
+   "end": 1522.58,
+   "text": "یعنی اجری که قطع نمی‌شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 339,
+   "start": 1522.58,
+   "end": 1525.48,
+   "text": "ممنون از نظر منت گذاشتن قطع می‌شه یا نه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 340,
+   "start": 1525.48,
+   "end": 1528.02,
+   "text": "خود منت نوعی قطعه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 341,
+   "start": 1528.02,
+   "end": 1530.24,
+   "text": "خود منت نوعی قطعه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 342,
+   "start": 1530.24,
+   "end": 1535.57,
+   "text": "لا تبطلوا صدقاتکم بالمن یعنی قطعش نکنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 343,
+   "start": 1535.57,
+   "end": 1542.72,
+   "text": "البته این قطع کردن گاهی اینه که شما دیگه صدقه رو ادامه نمیدی، گاهی اینه که بدتر از اونه یعنی آره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 344,
+   "start": 1542.72,
+   "end": 1549.06,
+   "text": "منت اصطلاحی خودمون. ولی کلمه‌ی من یعنی قطع و ممنون یعنی مقطوع.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 345,
+   "start": 1549.06,
+   "end": 1555.94,
+   "text": "علاوه بر دانستن‌ها که باید اصلاح بشه، یکی هم گرایش‌هاست که باید تنظیم بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 346,
+   "start": 1555.94,
+   "end": 1559.3,
+   "text": "علاقه‌ها. انسان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 347,
+   "start": 1559.3,
+   "end": 1566.16,
+   "text": "یه وقتایی گرایش‌هایی داره که گرایش‌های او بر دانش‌های او غلبه داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 348,
+   "start": 1566.16,
+   "end": 1574.18,
+   "text": "خب؟ اگر این گرایش‌ها تنظیم نشود، دانش‌ها به درد او نمی‌خورد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 349,
+   "start": 1574.18,
+   "end": 1578.1,
+   "text": "گرایش‌ها را چطور باید تنظیم کرد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 350,
+   "start": 1578.1,
+   "end": 1585.54,
+   "text": "گرایش‌ها تنظیمش با تغییر عادت‌ها و غلبه بر عادت‌هاست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 351,
+   "start": 1585.54,
+   "end": 1589.94,
+   "text": "یعنی میگه دیگه این داروی تلخ فقط خوردنش هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 352,
+   "start": 1589.94,
+   "end": 1592.16,
+   "text": "باید بخوری این داروی تلخ رو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 353,
+   "start": 1592.16,
+   "end": 1596.1,
+   "text": "هیچ قرصی که گرایش‌های آدم را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 354,
+   "start": 1596.1,
+   "end": 1598.82,
+   "text": "تغییر بده یه دفعه وجود نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 355,
+   "start": 1598.82,
+   "end": 1603.5,
+   "text": "اگر حرف زدن بخواد گرایش رو عوض بکنه که حرف همون دانش رو منتقل می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 356,
+   "start": 1603.5,
+   "end": 1605.72,
+   "text": "حرف که گرایش عوض نمی‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 357,
+   "start": 1605.72,
+   "end": 1608.72,
+   "text": "با حرف زدن میشه دانش‌ها رو منتقل کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 358,
+   "start": 1608.72,
+   "end": 1611.74,
+   "text": "قرصم که نداره بدیم به کسی بگیم بخور گرایشات عوض بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 359,
+   "start": 1611.74,
+   "end": 1615.28,
+   "text": "این قرص رو روزی سه دفعه بخوری دیگه دنیاگراییت درست میشه مثلا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 360,
+   "start": 1615.28,
+   "end": 1618.42,
+   "text": "اینجوری که نیست. پس باید یه کار بکنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 361,
+   "start": 1618.42,
+   "end": 1628.36,
+   "text": "باید ذره به ذره بر عادت‌های غلطمون غلبه بکنیم و اسلام راهکار تربیتی تمرینی داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 362,
+   "start": 1628.36,
+   "end": 1634.62,
+   "text": "در اسلام یه سری انفاق‌ها واجب شمرده شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 363,
+   "start": 1634.62,
+   "end": 1638.98,
+   "text": "یعنی شما خوشت هم نیاد باید انجامش بدی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 364,
+   "start": 1638.98,
+   "end": 1646.7,
+   "text": "بدی دیگه. اگر کسی اون انفاق واجب رو هم انجام نداد یعنی از تمرین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 365,
+   "start": 1646.7,
+   "end": 1651.84,
+   "text": "دین اسلام برای بریده شدن دلش از هوی دنیا چه کرده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 366,
+   "start": 1651.84,
+   "end": 1653.82,
+   "text": "بگید. سر باز زده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 367,
+   "start": 1653.82,
+   "end": 1657.58,
+   "text": "خب تمرین نکنی نتیجه نمی‌گیری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 368,
+   "start": 1657.58,
+   "end": 1659.7,
+   "text": "می‌مونی تو همون ذلالت و بیچاری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 369,
+   "start": 1659.7,
+   "end": 1663.32,
+   "text": "خب باید تمرین رو انجام بدی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 370,
+   "start": 1663.32,
+   "end": 1671.78,
+   "text": "کمش اینه به اونچه که ضروری تعریف شده ولو بر خلاف میل باید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 371,
+   "start": 1671.78,
+   "end": 1673.9,
+   "text": "تن داد و عمل کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 372,
+   "start": 1673.9,
+   "end": 1680.0,
+   "text": "اون وقت به تدریج عمل به همون واجبات به تدریج ظرفیت رو توسعه میده،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 373,
+   "start": 1680.0,
+   "end": 1682.08,
+   "text": "گرایش‌ها رو اصلاح می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 374,
+   "start": 1682.08,
+   "end": 1687.72,
+   "text": "شاید سال اولی که می‌خواست خمس اموالشو حساب بکنه و ببره بره به جای خودش برسونه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 375,
+   "start": 1687.72,
+   "end": 1696.6,
+   "text": "اون سال اول با کلی فشار و رنج و اذیت این کارو کرده ولی سال بعدی کمتر و سال سوم با رغبت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 376,
+   "start": 1696.6,
+   "end": 1700.26,
+   "text": "و سال چهارم اکتفا به اینم نکرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 377,
+   "start": 1700.26,
+   "end": 1705.72,
+   "text": "بیش از اونچه که واجب بوده بر او انفاق کرده و خدا هم به زندگی او برکت داده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 378,
+   "start": 1705.72,
+   "end": 1709.52,
+   "text": "ولی بالاخره یک جا این قدمه رو برداشته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 379,
+   "start": 1709.52,
+   "end": 1711.49,
+   "text": "پس دیگه این مسئله هم روشن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 380,
+   "start": 1711.49,
+   "end": 1715.9,
+   "text": "خب رسیدیم ما به اینجا. ما الان جمع‌بندی کنیم سیاق دوم رو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 381,
+   "start": 1715.9,
+   "end": 1721.96,
+   "text": "سیاق دوم ابتدا یه سوگند بوده با جواب سوگند بر اینکه همه‌تون دارید مرحله به مرحله جلو میرید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 382,
+   "start": 1721.96,
+   "end": 1724.24,
+   "text": "بعد از این سوگند نتیجه گرفته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 383,
+   "start": 1724.24,
+   "end": 1726.28,
+   "text": "از این جواب نتیجه گرفته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 384,
+   "start": 1726.28,
+   "end": 1731.57,
+   "text": "حالا که دارید مرحله به مرحله جلو می‌روید پس چرا ایمان نمی‌آورند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 385,
+   "start": 1731.57,
+   "end": 1734.98,
+   "text": "اینایی که دارن مرحله به مرحله جلو میرن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 386,
+   "start": 1734.98,
+   "end": 1738.74,
+   "text": "چرا سجده نمی‌کنن؟ چرا تکذیب می‌کنند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 387,
+   "start": 1738.74,
+   "end": 1744.12,
+   "text": "بعد اومده این کسانی را که تکذیب می‌کنند تهدیدشون کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 388,
+   "start": 1744.12,
+   "end": 1747.2,
+   "text": "در حقیقت اگه بخوایم جمع‌بندی کنیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 389,
+   "start": 1747.2,
+   "end": 1750.48,
+   "text": "مطلب اصلی توی این سه تا مطلب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 390,
+   "start": 1750.48,
+   "end": 1754.24,
+   "text": "نه مطلب اوله، نه مطلب سوم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 391,
+   "start": 1754.24,
+   "end": 1758.92,
+   "text": "مطلب اول مقدمه است که میگه همه دارید پیش میرید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 392,
+   "start": 1758.92,
+   "end": 1760.76,
+   "text": "مطلب دوم نتیجه گرفته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 393,
+   "start": 1760.76,
+   "end": 1763.92,
+   "text": "حالا که پیش میرید پس بگید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 394,
+   "start": 1763.92,
+   "end": 1766.04,
+   "text": "پس ایمان بیارید. چرا ایمان نمیارید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 395,
+   "start": 1766.04,
+   "end": 1773.56,
+   "text": "ایمان بیارید به قرآن. مطلب آخر هم خواسته بگه اگر ایمان نیارید اونی که ضرر می‌کنه کیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 396,
+   "start": 1773.56,
+   "end": 1776.76,
+   "text": "خودتونید. پس حرف اصلی همون ایمان آوردنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 397,
+   "start": 1776.76,
+   "end": 1785.72,
+   "text": "یعنی ما می‌تونیم بگیم در سیاق دوم سخن اصلی ضرورت ایمان آوردن به قرآنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 398,
+   "start": 1785.72,
+   "end": 1792.74,
+   "text": "در سیاق دوم سخن اصلی ضرورت ایمان آوردن به قرآن کریمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 399,
+   "start": 1792.74,
+   "end": 1794.44,
+   "text": "استدلالش چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 400,
+   "start": 1794.44,
+   "end": 1798.2,
+   "text": "حرکت مرحله به مرحله‌ست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 401,
+   "start": 1798.2,
+   "end": 1800.8,
+   "text": "اگر ایمان نیاوریم چی میشه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 402,
+   "start": 1800.8,
+   "end": 1804.34,
+   "text": "کتک می‌خوریم، عذاب می‌شیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 403,
+   "start": 1804.34,
+   "end": 1808.6,
+   "text": "حرف اصلی ضرورت ایمان آوردن به قرآن کریمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 404,
+   "start": 1808.6,
+   "end": 1815.44,
+   "text": "ما تا اینجا مرحله سوم تدبر surah انشقاق رو هم انجام دادیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 405,
+   "start": 1815.44,
+   "end": 1820.56,
+   "text": "الان میخوایم مرحله، ببین مرحله اول فهم آیات بوده، انجام شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 406,
+   "start": 1820.56,
+   "end": 1825.51,
+   "text": "مرحله دوم تشخیص سیاق‌ها بوده انجام شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 407,
+   "start": 1825.51,
+   "end": 1831.27,
+   "text": "مرحله سوم جمع‌بندی هر سیاق بوده انجام شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 408,
+   "start": 1831.27,
+   "end": 1834.83,
+   "text": "حالا مرحله چهارم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 409,
+   "start": 1834.83,
+   "end": 1838.09,
+   "text": "سه دقیقه مباحثه. بسم الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 410,
+   "start": 1838.09,
+   "end": 1839.93,
+   "text": "بسم الله الرحمن الرحیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 411,
+   "start": 1839.93,
+   "end": 1843.45,
+   "text": "سوره مبارکه انشقاق دارای دو سیاقه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 412,
+   "start": 1843.45,
+   "end": 1846.67,
+   "text": "دنبال ارتباط دو سیاق هستیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 413,
+   "start": 1846.67,
+   "end": 1851.33,
+   "text": "برای کشف ارتباط دو سیاق،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 414,
+   "start": 1851.33,
+   "end": 1855.65,
+   "text": "یکی از کارهای مهمی که باید انجام بدیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 415,
+   "start": 1855.65,
+   "end": 1858.51,
+   "text": "کشف نقاط مشترکه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 416,
+   "start": 1858.51,
+   "end": 1865.51,
+   "text": "به نظر شما آیه یا نقطه مشترک بین این دو سیاق چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 417,
+   "start": 1865.51,
+   "end": 1867.35,
+   "text": "حرکت. احسنت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 418,
+   "start": 1867.35,
+   "end": 1873.35,
+   "text": "ببینید در سیاق اول \"إنك كادحٌ إلى ربك كدحاً فملاقيه\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 419,
+   "start": 1873.35,
+   "end": 1878.87,
+   "text": "آیه ششم دلالت بر حرکت انسان به سوی پروردگار داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 420,
+   "start": 1878.87,
+   "end": 1882.49,
+   "text": "در سیاق دوم \"لتركبن طبقا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 421,
+   "start": 1882.49,
+   "end": 1890.51,
+   "text": "عن طبق\". پس اونچه این دو سیاق را به هم گره میزنه اصل حرکت به سوی خداست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 422,
+   "start": 1890.51,
+   "end": 1897.73,
+   "text": "خب در سیاق اول اصل حرکت مورد تأکید قرار گرفت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 423,
+   "start": 1897.73,
+   "end": 1901.75,
+   "text": "و نوع یعنی دو نوع حرکت هم مشخص شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 424,
+   "start": 1901.75,
+   "end": 1905.37,
+   "text": "دو نوع حرکت دارید و دو نوع ملاقات.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 425,
+   "start": 1905.37,
+   "end": 1913.17,
+   "text": "اصل حرکت هم چیه؟ قطعی و جبری و گریزناپذیر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 426,
+   "start": 1913.17,
+   "end": 1916.57,
+   "text": ". در سیاق دوم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 427,
+   "start": 1916.57,
+   "end": 1921.75,
+   "text": "اما به حرکت اشاره شد ولی نه به عنوان حرفه بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 428,
+   "start": 1921.75,
+   "end": 1932.09,
+   "text": "اصلی. گویا خدا بعد از اینکه یک سیاق را به حرکت اختصاص داد و انواع حرکت،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 429,
+   "start": 1932.09,
+   "end": 1945.31,
+   "text": "تو سیاق دوم یک بار دیگر در مقدمه بر حرکت تأکید کرد تا این بار نتیجه‌ای دیگر از آن بگیرد و آن ضرورت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 430,
+   "start": 1945.31,
+   "end": 1948.71,
+   "text": "ایمان آوردن. به چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 431,
+   "start": 1948.71,
+   "end": 1953.37,
+   "text": "به قرآن. پس اصلاً سوره انشقاق میخواد بگه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 432,
+   "start": 1953.37,
+   "end": 1961.57,
+   "text": "حالا که حرکت به سوی خدا یک امر قطعی گریزناپذیر است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 433,
+   "start": 1961.57,
+   "end": 1968.53,
+   "text": "و فقط انسان در نوع حرکت انتخاب دارد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 434,
+   "start": 1968.53,
+   "end": 1972.13,
+   "text": "پس محتاج یک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 435,
+   "start": 1972.13,
+   "end": 1978.47,
+   "text": "راهنمایی، یک کتاب، یک برنامه ای است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 436,
+   "start": 1978.47,
+   "end": 1984.19,
+   "text": "تا به او بفهماند چگونه حرکت کردنی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 437,
+   "start": 1984.19,
+   "end": 1989.31,
+   "text": "حرکت نوع اول به حساب میاد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 438,
+   "start": 1989.31,
+   "end": 2000.11,
+   "text": "که \"وأما من أوتي كتابه بيمينه فسوف يحاسب حساباً يسيراً وينقلب إلى أهله مسرورا\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 439,
+   "start": 2000.11,
+   "end": 2006.89,
+   "text": "و به انسان بفهماند که چگونه حرکت کردنی حرکت از نوع",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 440,
+   "start": 2006.89,
+   "end": 2017.17,
+   "text": "دوم به حساب میاد که \"وأما من أوتي كتابه وراء ظهره فسوف يدعو ثبورا ويسلى سعيرا\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 441,
+   "start": 2017.17,
+   "end": 2023.43,
+   "text": "انسان با قرآن می‌تواند نوع حرکت را تشخیص بده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 442,
+   "start": 2023.43,
+   "end": 2031.47,
+   "text": "و با قرآن میتونه اون نوع مطلوب را انتخاب بکنه و از اون نوع نامطلوب دوری کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 443,
+   "start": 2031.47,
+   "end": 2037.35,
+   "text": "ممکنه بگید چرا قرآن؟ مطلب خیلی ساده و بسیطه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 444,
+   "start": 2037.35,
+   "end": 2041.39,
+   "text": "مطلب تو گفتن ساده و بسیطه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 445,
+   "start": 2041.39,
+   "end": 2047.61,
+   "text": "اینکه آقا حرکت ما آیا حرکتی باشد که رو به خدا هستیم و نامه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 446,
+   "start": 2047.61,
+   "end": 2053.31,
+   "text": "عمل به دست راستمون میدن و با سعادت میشیم یا حرکت ما پشت به خدا باشد که نامه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 447,
+   "start": 2053.31,
+   "end": 2055.93,
+   "text": "عمل از پشت سرمون میدن بدبخت میشیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 448,
+   "start": 2055.93,
+   "end": 2058.25,
+   "text": "تو گفتن فرقش ساده‌ست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 449,
+   "start": 2058.25,
+   "end": 2060.93,
+   "text": "تو گفتن فرقش چیه؟ فرقش اینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 450,
+   "start": 2060.93,
+   "end": 2065.35,
+   "text": "حواست هست به سوی خدا میروی یا حواست بگید نیست؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 451,
+   "start": 2065.35,
+   "end": 2068.57,
+   "text": "باور داری که داری به سوی خدا میروی یا باور",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 452,
+   "start": 2068.57,
+   "end": 2071.09,
+   "text": "نداری؟ به همین سادگی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 453,
+   "start": 2071.09,
+   "end": 2074.15,
+   "text": "اما وقتی میایم تو عمل،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 454,
+   "start": 2074.15,
+   "end": 2079.57,
+   "text": "ریز به ریز عرصه‌های زندگی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 455,
+   "start": 2079.57,
+   "end": 2083.75,
+   "text": "، در اجتماع، در خانواده،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 456,
+   "start": 2083.75,
+   "end": 2085.89,
+   "text": "در مسائل فردی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 457,
+   "start": 2085.89,
+   "end": 2088.95,
+   "text": "تو مسائل شغلی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 458,
+   "start": 2088.95,
+   "end": 2091.47,
+   "text": "، چی حرکت رو به خداست؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 459,
+   "start": 2091.47,
+   "end": 2095.13,
+   "text": "چی حرکت پشت به خداست؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 460,
+   "start": 2095.13,
+   "end": 2097.93,
+   "text": "چه سبک زندگی، سبک زندگی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 461,
+   "start": 2097.93,
+   "end": 2101.21,
+   "text": "همراه با ایمان به برگشتن به سوی خداست؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 462,
+   "start": 2101.21,
+   "end": 2104.71,
+   "text": "کدام سبک زندگی این نیست؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 463,
+   "start": 2104.71,
+   "end": 2106.37,
+   "text": "چه نوع هنری این طوریه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 464,
+   "start": 2106.37,
+   "end": 2109.09,
+   "text": "چه نوع هنری این نیست؟ چه ورزشی اینه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 465,
+   "start": 2109.09,
+   "end": 2113.61,
+   "text": "چه ورزشی این نیست؟ چه سیاستی اینه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 466,
+   "start": 2113.61,
+   "end": 2122.99,
+   "text": "چه سیاستی این نیست؟ همه عرصه‌های زندگی ریز به ریز احتیاج به روشنگری داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 467,
+   "start": 2122.99,
+   "end": 2129.57,
+   "text": "خب این روشنگری که می‌خواهد ما را نسبت به نوع حرکت در تمام عرصه‌های",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 468,
+   "start": 2129.57,
+   "end": 2134.67,
+   "text": "زندگی و ریز به ریز اون‌ها توجیه بکنه، این روشنگر چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 469,
+   "start": 2134.67,
+   "end": 2142.47,
+   "text": "این روشنگر خداست و کلام خداست و قرآنه که اگر کسی به این قرآنه ایمان آورد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 470,
+   "start": 2142.47,
+   "end": 2145.19,
+   "text": "میتونه درست حرکت کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 471,
+   "start": 2145.19,
+   "end": 2148.99,
+   "text": "اگر به برنامه‌هایی که تو قرآن گفته شده بود عمل کرد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 472,
+   "start": 2148.99,
+   "end": 2152.73,
+   "text": "میتونه درست حرکت کنه و الا نه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 473,
+   "start": 2152.73,
+   "end": 2157.93,
+   "text": ". یه نکته ای رو بهتون بگم خواهران و برادران.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 474,
+   "start": 2157.93,
+   "end": 2162.03,
+   "text": "هرچه زمان بیشتر بر بشر گذشته،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 475,
+   "start": 2162.03,
+   "end": 2164.65,
+   "text": "پاسخ این سؤال پیچیده‌تر شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 476,
+   "start": 2164.65,
+   "end": 2172.61,
+   "text": "سؤال چیه؟ سؤال اینه: چگونه حرکت به سوی خدا می‌شود حرکت رو به خدا، به سوی خدا؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 477,
+   "start": 2172.61,
+   "end": 2176.95,
+   "text": "به همین آسونی. حرکت رو به خدا یعنی چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 478,
+   "start": 2176.95,
+   "end": 2183.59,
+   "text": "یه وقت‌هایی که بشر تازه پا به زمین گذاشته بود و یک جامعه خیلی بسيط و ساده‌ای داشت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 479,
+   "start": 2183.59,
+   "end": 2186.29,
+   "text": "جواب این سؤال خیلی ساده بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 480,
+   "start": 2186.29,
+   "end": 2188.25,
+   "text": "دو تا سه تا رفتار رو باید انجام می‌دادی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 481,
+   "start": 2188.25,
+   "end": 2191.79,
+   "text": "دو سه تا رفتار هم باید انجام نمی‌دادی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 482,
+   "start": 2191.79,
+   "end": 2196.65,
+   "text": "هرچه بیشتر بشر و جامعه بشری تکامل پیدا کرد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 483,
+   "start": 2196.65,
+   "end": 2198.27,
+   "text": "پاسخ این سؤال چی شد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 484,
+   "start": 2198.27,
+   "end": 2201.29,
+   "text": "بگید. پیچیده‌تر شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 485,
+   "start": 2201.29,
+   "end": 2203.97,
+   "text": "زمان حضرت ابراهیم علیه‌السلام",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 486,
+   "start": 2203.97,
+   "end": 2207.09,
+   "text": "پاسخ این سؤال ده تا فرمان شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 487,
+   "start": 2207.09,
+   "end": 2211.03,
+   "text": "ده تا دستور که خداوند به حضرت ابراهیم علیه‌السلام",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 488,
+   "start": 2211.03,
+   "end": 2218.83,
+   "text": "ابلاغ کرد و خوب به سوی خدا حرکت کردن عمل به همون ده تا دستور بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 489,
+   "start": 2218.83,
+   "end": 2224.87,
+   "text": "که اون ده تا دستور در سوره مبارکه انعام، اونجا بیان شده که شرک به خدا نبر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 490,
+   "start": 2224.87,
+   "end": 2227.37,
+   "text": "آدم نکش، زنا نکن، به مال یتیم نخور.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 491,
+   "start": 2227.37,
+   "end": 2229.03,
+   "text": "چه نکن، چه نکن، چه نکن، چه بکن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 492,
+   "start": 2229.03,
+   "end": 2231.97,
+   "text": "اینا ده تاست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 493,
+   "start": 2231.97,
+   "end": 2239.39,
+   "text": "در زمان حضرت موسی علیه‌السلام انقدر دیگه مسائل پیچیده‌تر شد مسائل اجتماع و انسان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 494,
+   "start": 2239.39,
+   "end": 2243.85,
+   "text": "که تورات آمد، تورات اون ده تا دستور را بازش کرد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 495,
+   "start": 2243.85,
+   "end": 2248.43,
+   "text": "خردش کرد، تفصیلش داد، جزئی‌ش کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 496,
+   "start": 2248.43,
+   "end": 2252.09,
+   "text": "باز بشر با اون آمد جلو تا زمان اسلام.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 497,
+   "start": 2252.09,
+   "end": 2256.59,
+   "text": "در زمان اسلام که بشر به اوج تکامل خودش رسیده،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 498,
+   "start": 2256.59,
+   "end": 2260.77,
+   "text": "مفاهیم جامعه بشری تکامل پیدا کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 499,
+   "start": 2260.77,
+   "end": 2268.23,
+   "text": "از اونجا به بعد دیگه پاسخ به این سؤال ساده شد قرآن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 500,
+   "start": 2268.23,
+   "end": 2272.27,
+   "text": "جواب به اینکه چگونه باید حرکت کنیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 501,
+   "start": 2272.27,
+   "end": 2277.47,
+   "text": "جز با تدبر در قرآن به دست نمیاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 502,
+   "start": 2277.47,
+   "end": 2280.39,
+   "text": "باید بخونیم و بفهمیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 503,
+   "start": 2280.39,
+   "end": 2283.35,
+   "text": "و بعد بتونیم بهش عمل بکنیم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 504,
+   "start": 2283.35,
+   "end": 2285.15,
+   "text": "به برنامه‌هاش عمل بکنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 505,
+   "start": 2285.15,
+   "end": 2288.61,
+   "text": "در حقیقت سوره انشقاق به نحوی توجیه کننده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 506,
+   "start": 2288.61,
+   "end": 2291.95,
+   "text": "ضرورت ایمان به قرآن هم هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 507,
+   "start": 2291.95,
+   "end": 2301.79,
+   "text": "درسته داره بر حرکت به سوی خدا تأکید می‌کنه اما همین حرکت به سوی خدا را مقدمه‌ای قرار میده تا به ما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 508,
+   "start": 2301.79,
+   "end": 2305.73,
+   "text": "ضرورت ایمان به قرآن رو برای ما ثابت کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 509,
+   "start": 2305.73,
+   "end": 2311.45,
+   "text": "مگه میشه به قرآن ایمان نیاورد و حرکت درستی به سوی خدا داشت؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 510,
+   "start": 2311.45,
+   "end": 2314.69,
+   "text": "خیلی خب پس ارتباط دو سیاق رو هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 511,
+   "start": 2314.69,
+   "end": 2317.53,
+   "text": "ما با توجه به اون آیه‌ای که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 512,
+   "start": 2317.53,
+   "end": 2322.83,
+   "text": "حد وسط بود، اون آیه‌ای که در هر دو سیاق تکرار شده بود مفهومش،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 513,
+   "start": 2322.83,
+   "end": 2326.29,
+   "text": "ما تونستیم اون ارتباط رو هم بفهمیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 514,
+   "start": 2326.29,
+   "end": 2330.21,
+   "text": "و در واقع مرحله چهارم تدبر در سوره انشقاق رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 515,
+   "start": 2330.21,
+   "end": 2339.95,
+   "text": "کامل بکنیم. حالا اگر سوالی هست در خدمتم بفرمایید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 516,
+   "start": 2339.95,
+   "end": 2349.17,
+   "text": ". خواص سوره‌های قرآن آیا با معارف تدبری این سوره‌ها در ارتباط است؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 517,
+   "start": 2349.17,
+   "end": 2353.73,
+   "text": "جواب: به شکل کلی که حتماً در ارتباطه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 518,
+   "start": 2353.73,
+   "end": 2361.21,
+   "text": "مگر میشه که معارف یک سوره با خاصیت‌های اون سوره ارتباطی بگید نداشته باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 519,
+   "start": 2361.21,
+   "end": 2365.53,
+   "text": "اما اینکه آیا ما‌ها خواص سوره‌ها را می‌دانیم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 520,
+   "start": 2365.53,
+   "end": 2369.49,
+   "text": "جواب: خیلی کمشو می‌دانیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 521,
+   "start": 2369.49,
+   "end": 2376.37,
+   "text": "بسیاری از روایاتی که خواص سوره‌ها را برای ما بیان کرده‌اند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 522,
+   "start": 2376.37,
+   "end": 2379.25,
+   "text": "سند محکمی بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 523,
+   "start": 2379.25,
+   "end": 2389.37,
+   "text": "ندارند. اون بخشی از روایات که سند محکم دارند و خواص رو بیان کرده‌اند خیلی خیلی بگید اندکند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 524,
+   "start": 2389.37,
+   "end": 2393.37,
+   "text": "پس ما خواص سوره‌ها را خیلی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 525,
+   "start": 2393.37,
+   "end": 2401.95,
+   "text": "نمی‌دونیم. امام صادق علیه‌السلام حدیثی از ایشون نقل شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 526,
+   "start": 2401.95,
+   "end": 2407.57,
+   "text": "امام صادق علیه‌السلام برای آیه الکرسی کلی خاصیت می‌شمرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 527,
+   "start": 2407.57,
+   "end": 2409.63,
+   "text": "میگن آیه الکرسی خاصیت‌هایی دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 528,
+   "start": 2409.63,
+   "end": 2411.67,
+   "text": "یک، دو، سه، چهار، پنج.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 529,
+   "start": 2411.67,
+   "end": 2413.97,
+   "text": "حافظه را چه می‌کند؟ مال آدم را چه می‌کند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 530,
+   "start": 2413.97,
+   "end": 2415.73,
+   "text": "برکت به عمر آدم می‌دهد. حفاظت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 531,
+   "start": 2415.73,
+   "end": 2420.71,
+   "text": "خیلی بحث‌های مفصلی دارن. خواص می‌شمردن بعد میگن اما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 532,
+   "start": 2420.71,
+   "end": 2423.91,
+   "text": "من که امام شما هستم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 533,
+   "start": 2423.91,
+   "end": 2430.61,
+   "text": "آیه الکرسی را برای ارتقاء مقام انسانیم می‌خوانم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 534,
+   "start": 2430.61,
+   "end": 2433.15,
+   "text": "خاصیت خودش حاصل میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 535,
+   "start": 2433.15,
+   "end": 2438.01,
+   "text": "شما دنبالش باشی یا بگید نباشی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 536,
+   "start": 2438.01,
+   "end": 2440.45,
+   "text": "اون خاصیته خودش حاصل میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 537,
+   "start": 2440.45,
+   "end": 2447.39,
+   "text": "یه مثال براتون میزنم. روزه که شما می‌گیری روزه خاصیت داره یا نداره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 538,
+   "start": 2447.39,
+   "end": 2450.99,
+   "text": "خواص روزه چیاست؟ بگید به من.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 539,
+   "start": 2450.99,
+   "end": 2453.79,
+   "text": "یکیش، یکیش سلامتیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 540,
+   "start": 2453.79,
+   "end": 2456.37,
+   "text": "یکی از خواص روزه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 541,
+   "start": 2456.37,
+   "end": 2458.87,
+   "text": "این بدست آمدن سلامتیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 542,
+   "start": 2458.87,
+   "end": 2461.73,
+   "text": "کم شدن بعضی از سموم از بدنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 543,
+   "start": 2461.73,
+   "end": 2469.19,
+   "text": "دفع بعضی از سموم‌ات و رفرش شدن سیستم گوارشی، سیستم عصبی، گردش خون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 544,
+   "start": 2469.19,
+   "end": 2475.73,
+   "text": "خواص بسیار زیادی داره. آیا شما روزه را برای خاصیتش می‌گیری؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 545,
+   "start": 2475.73,
+   "end": 2479.57,
+   "text": "جواب: اگر برای خاصیتش بگیری،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 546,
+   "start": 2479.57,
+   "end": 2485.39,
+   "text": "اگر نیتت این باشه من روزه می‌گیرم که سالم بشوم، نه روزه می‌گیرم که به خدا بگید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 547,
+   "start": 2485.39,
+   "end": 2488.01,
+   "text": "اون روزه اصلاً باطل میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 548,
+   "start": 2488.01,
+   "end": 2493.51,
+   "text": "روزه را برای قربة الی الله می‌گیری خاصیت خودش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 549,
+   "start": 2493.51,
+   "end": 2496.75,
+   "text": "هست. شما لازم نیست دنبال خاصیت باشی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 550,
+   "start": 2496.75,
+   "end": 2506.49,
+   "text": "خاصیت خودش هست. شما قرآن را برای رشدت و برای ارتقاء مقام انسانیت می‌خوانی و می‌فهمی خاصیت خودش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 551,
+   "start": 2506.49,
+   "end": 2508.65,
+   "text": "هست. خیلی خب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 552,
+   "start": 2508.65,
+   "end": 2511.83,
+   "text": "یه بار سوره انشقاق رو با هم می‌خونیم و این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 553,
+   "start": 2511.83,
+   "end": 2516.27,
+   "text": "در واقع بحث این جلسه‌مون، سوره انشقاقمون تمام میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 554,
+   "start": 2516.27,
+   "end": 2519.35,
+   "text": "لطفاً همه با هم سعی می‌کنیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 555,
+   "start": 2519.35,
+   "end": 2526.07,
+   "text": "زمزمه کنیم سوره رو. اللهم صل علی محمد و آل محمد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 556,
+   "start": 2526.07,
+   "end": 2530.15,
+   "text": "اعوذ بالله من الشيطان الرجيم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 557,
+   "start": 2530.15,
+   "end": 2533.81,
+   "text": "بسم الله الرحمن الرحيم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 558,
+   "start": 2533.81,
+   "end": 2537.47,
+   "text": "إذا السماء انشقت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 559,
+   "start": 2537.47,
+   "end": 2541.39,
+   "text": "وأذنت لربها وحقت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 560,
+   "start": 2541.39,
+   "end": 2543.85,
+   "text": "وإذا الأرض مدت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 561,
+   "start": 2543.85,
+   "end": 2547.65,
+   "text": "وألقت ما فيها وتخلت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 562,
+   "start": 2547.65,
+   "end": 2550.41,
+   "text": "وأذنت لربها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 563,
+   "start": 2550.41,
+   "end": 2554.11,
+   "text": "وحقت يا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 564,
+   "start": 2554.11,
+   "end": 2556.95,
+   "text": "أيها الإنسان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 565,
+   "start": 2556.95,
+   "end": 2560.09,
+   "text": "إنك كادح إلى ربك",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 566,
+   "start": 2560.09,
+   "end": 2563.69,
+   "text": "كدحا فملاقيه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 567,
+   "start": 2563.69,
+   "end": 2566.31,
+   "text": "فأما من أوتي",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 568,
+   "start": 2566.31,
+   "end": 2569.35,
+   "text": "كتابه بيمينه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 569,
+   "start": 2569.35,
+   "end": 2573.91,
+   "text": "فسوف يحاسب حسابا يسيرا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 570,
+   "start": 2573.91,
+   "end": 2578.25,
+   "text": "وينقلب إلى أهله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 571,
+   "start": 2578.25,
+   "end": 2583.49,
+   "text": "مسرورا. یه بار دیگه می‌خونم این فرازو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 572,
+   "start": 2583.49,
+   "end": 2591.23,
+   "text": "فأما من أوتي كتابه بيمينه فسوف يحاسب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 573,
+   "start": 2591.23,
+   "end": 2594.35,
+   "text": "حسابا يسيرا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 574,
+   "start": 2594.35,
+   "end": 2596.75,
+   "text": "وينقلب إلى",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 575,
+   "start": 2596.75,
+   "end": 2599.79,
+   "text": "أهله مسرورا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 576,
+   "start": 2599.79,
+   "end": 2602.75,
+   "text": "وأما من أوتي",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 577,
+   "start": 2602.75,
+   "end": 2606.65,
+   "text": "كتابه وراء ظهره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 578,
+   "start": 2606.65,
+   "end": 2609.81,
+   "text": "فسوف يدعو ثبورا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 579,
+   "start": 2609.81,
+   "end": 2612.39,
+   "text": "ويصلى سعيرا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 580,
+   "start": 2612.39,
+   "end": 2618.77,
+   "text": "إنه كان في أهله مسرورا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 581,
+   "start": 2618.77,
+   "end": 2626.43,
+   "text": "چرا وارد دوزخ میشه؟ إنه كان في أهله مسرورا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 582,
+   "start": 2626.43,
+   "end": 2630.95,
+   "text": "إنه ظن أن لن يحور.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 583,
+   "start": 2630.95,
+   "end": 2633.33,
+   "text": "چرا مسروره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 584,
+   "start": 2633.33,
+   "end": 2635.25,
+   "text": "إنه ظن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 585,
+   "start": 2635.25,
+   "end": 2637.73,
+   "text": "أن لن يحور.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 586,
+   "start": 2637.73,
+   "end": 2643.97,
+   "text": "بلى إن ربه كان به بصيرا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 587,
+   "start": 2643.97,
+   "end": 2646.29,
+   "text": "فلا أقسم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 588,
+   "start": 2646.29,
+   "end": 2654.01,
+   "text": "بالشفق والليل وما وسق والقمر إذا اتسق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 589,
+   "start": 2654.01,
+   "end": 2658.89,
+   "text": "لتركبن طبقا عن طبق.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 590,
+   "start": 2658.89,
+   "end": 2663.23,
+   "text": "فما لهم لا يؤمنون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 591,
+   "start": 2663.23,
+   "end": 2669.39,
+   "text": "وإذا قرئ عليهم القرآن لا يسجدون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 592,
+   "start": 2669.39,
+   "end": 2674.47,
+   "text": "بل الذين كفروا يكذبون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 593,
+   "start": 2674.47,
+   "end": 2679.75,
+   "text": "والله أعلم بما يوعدون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 594,
+   "start": 2679.75,
+   "end": 2684.09,
+   "text": "فبشرهم بعذاب أليم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 595,
+   "start": 2684.09,
+   "end": 2689.33,
+   "text": "إلا الذين آمنوا وعملوا الصالحات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 596,
+   "start": 2689.33,
+   "end": 2693.07,
+   "text": "لهم أجر غير ممنون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 597,
+   "start": 2693.07,
+   "end": 2697.13,
+   "text": "صدق الله العلي العظيم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 598,
+   "start": 2697.13,
+   "end": 2700.17,
+   "text": "اللهم صل على محمد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "id": "001",
+ "index": 1,
+ "lecturer": "bayat",
+ "course": "qalb_monghamer",
+ "title": "قرائت صحیح؛ شرط امامت و اقتدا",
+ "topic": null,
+ "summary": "پس از شرط قرائت صحیح برای امامت، استاد قلب منغمر را از آیهٔ مؤمنون می‌گشاید: غمرة گرداب بی‌خبری است. اقسام خبر را با داستان هدهد و بلقیس و آصف روشن می‌کند و عبور از ظاهر به باطن را راه باخبری و برد الیقین می‌داند.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/qalb_monghamer/001/001_play.m4a",
+  "filename": "001_play.m4a",
+  "size": 13333220,
+  "display": "12.7 MB",
+  "duration": 1074.67,
+  "durationText": "17:55"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "001.vtt",
+   "cues": "001.cues.json",
+   "words": "001.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## قرائت صحیح؛ شرط امامت و اقتدا",
+   "start": 0.62,
+   "end": 109.7
+  },
+  {
+   "index": 1,
+   "title": "## ورود به قلب منغمر؛ آیهٔ شصت‌وسهٔ مؤمنون",
+   "start": 109.7,
+   "end": 342.12
+  },
+  {
+   "index": 2,
+   "title": "## اقسام خبر در قرآن؛ خام و تحلیلی",
+   "start": 342.12,
+   "end": 511.59
+  },
+  {
+   "index": 3,
+   "title": "## هدهد؛ خبر حسّی و خطای حدسی",
+   "start": 511.59,
+   "end": 731.63
+  },
+  {
+   "index": 4,
+   "title": "## آصف بن برخیا و شؤونات آوردن تخت",
+   "start": 731.63,
+   "end": 757.15
+  },
+  {
+   "index": 5,
+   "title": "## بلقیس؛ تخت و آبگینه و عبور به ملکوت",
+   "start": 757.15,
+   "end": 1074.67
+  }
+ ],
+ "recordedAt": 1788083163,
+ "sourceName": "قلب منغمر1_ج413.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": null,
+ "next": "002"
+}

@@ -1,0 +1,60 @@
+{
+ "id": "003",
+ "index": 3,
+ "lecturer": "bayat",
+ "course": "sad_kalameh",
+ "title": "کلمهٔ دوم؛ صحیفهٔ خود و بهره‌مندی از کتاب‌ها",
+ "topic": null,
+ "summary": "کلمهٔ دوم: بدون خواندن صحیفهٔ وجود، بهره‌مندی از کتاب‌های دیگر بی‌ثمر است. کتاب وجود اصل و متن است؛ معرفت نفس راه معرفت رب و رسول و حجت است. حدیث صورت انسانیه نفس را حجت اکبر و مختصر لوح محفوظ می‌داند.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/sad_kalameh/003/003_play.m4a",
+  "filename": "003_play.m4a",
+  "size": 4372187,
+  "display": "4.2 MB",
+  "duration": 350.82,
+  "durationText": "5:51"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "003.vtt",
+   "cues": "003.cues.json",
+   "words": "003.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## کلمهٔ دوم؛ صحیفهٔ خود و بهره‌مندی از کتاب‌ها",
+   "start": 7.0,
+   "end": 109.94
+  },
+  {
+   "index": 1,
+   "title": "### دعای معرفت و سلسلهٔ شناخت",
+   "start": 109.94,
+   "end": 183.56
+  },
+  {
+   "index": 2,
+   "title": "### حدیث صورت انسانیه در تفسیر صافی",
+   "start": 183.56,
+   "end": 350.82
+  }
+ ],
+ "recordedAt": 1763822026,
+ "sourceName": "صد کلمه در معرفت نفس ۲.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "002",
+ "next": "004"
+}

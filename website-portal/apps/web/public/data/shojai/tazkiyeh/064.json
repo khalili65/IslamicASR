@@ -1,0 +1,72 @@
+{
+ "id": "064",
+ "index": 64,
+ "lecturer": "shojai",
+ "course": "tazkiyeh",
+ "title": "غرور در میانِ اربابِ سلوک",
+ "topic": null,
+ "summary": "سالکان نیز مغرور می‌شوند: امانی، سکون، شگفتی از حال، حجاب نور.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/shojai/tazkiyeh/064/064_play.m4a",
+  "filename": "064_play.m4a",
+  "size": 28771568,
+  "display": "27.4 MB",
+  "duration": 2364.46,
+  "durationText": "39:24"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "064.vtt",
+   "cues": "064.cues.json",
+   "words": "064.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## غرور در میانِ اربابِ سلوک",
+   "start": 0.52,
+   "end": 364.66
+  },
+  {
+   "index": 1,
+   "title": "## طایفهٔ اول: امانی در آغاز",
+   "start": 364.66,
+   "end": 802.72
+  },
+  {
+   "index": 2,
+   "title": "## طایفهٔ دوم: سکون در منزلت",
+   "start": 802.72,
+   "end": 1311.7
+  },
+  {
+   "index": 3,
+   "title": "## طایفهٔ سوم: شگفتی از احوال",
+   "start": 1311.7,
+   "end": 1769.55
+  },
+  {
+   "index": 4,
+   "title": "## طایفهٔ چهارم: حجابِ نوری",
+   "start": 1769.55,
+   "end": 2364.46
+  }
+ ],
+ "recordedAt": null,
+ "sourceName": null,
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "063",
+ "next": "065"
+}

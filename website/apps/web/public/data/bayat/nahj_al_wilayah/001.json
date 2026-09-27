@@ -1,0 +1,66 @@
+{
+ "id": "001",
+ "index": 1,
+ "lecturer": "bayat",
+ "course": "nahj_al_wilayah",
+ "title": "قرآن کریم و ذکر موجودات",
+ "topic": null,
+ "summary": "این جلسه در امتداد بحث‌های معرفتی و سیر عملی، از مفاهیم و مثال‌های مطرح‌شده در گفتار آغاز می‌شود و پیوند میان مراتب وجود، تهذیب، عبادت و معرفت را دنبال می‌کند. شرح آیات، روایت‌ها، حکایت‌ها و اصطلاحات تخصصی در ترتیب طبیعی سخن آمده است.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/nahj_al_wilayah/001/001_play.m4a",
+  "filename": "001_play.m4a",
+  "size": 33987300,
+  "display": "32.4 MB",
+  "duration": 2752.96,
+  "durationText": "45:53"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "001.vtt",
+   "cues": "001.cues.json",
+   "words": "001.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## قرآن کریم و ذکر موجودات",
+   "start": 0.16,
+   "end": 564.34
+  },
+  {
+   "index": 1,
+   "title": "## امامت در منظومه دین",
+   "start": 564.34,
+   "end": 1028.17
+  },
+  {
+   "index": 2,
+   "title": "## ولایت کلیه الهیه",
+   "start": 1028.17,
+   "end": 1546.84
+  },
+  {
+   "index": 3,
+   "title": "## زیارت جامعه و نفس کلیه",
+   "start": 1546.84,
+   "end": 2752.96
+  }
+ ],
+ "recordedAt": 1763685866,
+ "sourceName": "1_98275476.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": null,
+ "next": "002"
+}

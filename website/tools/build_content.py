@@ -10,9 +10,13 @@ images) lives in `website/content/` and is created with defaults on first run,
 then never overwritten.
 
 Usage:
-    python3 build_content.py                       # everything under Audios/
+    python3 build_content.py                       # site sources.audioDirs (or content/)
     python3 build_content.py --course Audios/Bayat/marefat_nafs
+    python3 build_content.py --site-root website-portal --skip-subtitles
     python3 build_content.py --skip-subtitles      # metadata only, much faster
+
+Each site.config.json should set sources.audioDirs so Bayat publish does not
+pull Qasemian (and vice versa), e.g. ["Bayat"] or ["Qasemian", "Tadabor_Sobohi/Manaee"].
 """
 
 from __future__ import annotations
@@ -20,6 +24,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import shutil
 import subprocess
 import sys
 from pathlib import Path
@@ -29,11 +34,14 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from align_subtitles import (                        # noqa: E402
     SessionFiles,
+    align_raw_session,
     align_session,
+    is_raw_alignable,
     write_cues_json,
     write_vtt,
     write_words_json,
 )
+from transcript import parse_raw_text                 # noqa: E402
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 AUDIO_ROOT = REPO_ROOT / "Audios"
@@ -109,26 +117,54 @@ def probe_duration(path: Path) -> Optional[float]:
         return None
 
 
-def extract_titles(files: SessionFiles) -> Dict[str, Optional[str]]:
-    """Pull a human title and topic line out of the corrected Markdown."""
-    title = topic = summary = None
-    if files.corrected and files.corrected.exists():
-        text = files.corrected.read_text(encoding="utf-8")
-        heading = _H1_RE.search(text)
-        if heading:
-            title = heading.group(1).strip()
-        subject = _TOPIC_RE.search(text)
-        if subject:
-            topic = subject.group(1).strip()
+_H2_RE = re.compile(r"^##\s+(.*)$", re.MULTILINE)
 
-    summary_path = None
+
+def _read_study_markdown(path: Path) -> Dict[str, Optional[str]]:
+    """Title/topic from legacy corrected.md or new-pipeline book.md."""
+    text = path.read_text(encoding="utf-8")
+    title = topic = None
+    heading = _H1_RE.search(text)
+    if heading:
+        title = heading.group(1).strip()
+    else:
+        section = _H2_RE.search(text)
+        if section:
+            title = section.group(1).strip()
+    subject = _TOPIC_RE.search(text)
+    if subject:
+        topic = subject.group(1).strip()
+    return {"title": title, "topic": topic}
+
+
+def find_session_markdown(files: SessionFiles, suffix: str) -> Optional[Path]:
     for candidate in files.folder.iterdir():
-        if candidate.name.endswith(".summary.md"):
-            summary_path = candidate
-            break
+        if candidate.is_file() and candidate.name.endswith(suffix):
+            return candidate
+    return None
+
+
+def extract_titles(files: SessionFiles) -> Dict[str, Optional[str]]:
+    """Pull a human title and topic line from study Markdown (legacy or pipeline)."""
+    title = topic = summary = None
+    study = None
+    if files.corrected and files.corrected.exists():
+        study = files.corrected
+    else:
+        study = find_session_markdown(files, ".book.md")
+    if study:
+        meta = _read_study_markdown(study)
+        title = meta["title"]
+        topic = meta["topic"]
+
+    summary_path = find_session_markdown(files, ".summary.md")
     if summary_path:
         body = summary_path.read_text(encoding="utf-8")
-        match = re.search(r"##\s*[۰-۹\d)\s]*خلاصهٔ? کوتاه\s*\n+(.+?)(?:\n\n|\n---)", body, re.DOTALL)
+        match = re.search(
+            r"(?:^##\s*[۰-۹\d)\s]*)?خلاصهٔ? کوتاه\s*\n+(.+?)(?:\n\n|\n---|\nفهرست)",
+            body,
+            re.DOTALL | re.MULTILINE,
+        )
         if match:
             summary = " ".join(match.group(1).split())
     return {"title": title, "topic": topic, "summary": summary}
@@ -211,6 +247,7 @@ def build_session(
     config: dict,
     out_dir: Path,
     skip_subtitles: bool,
+    subtitle_source: str = "edited",
 ) -> Optional[dict]:
     try:
         index = int(files.session_id)
@@ -246,9 +283,18 @@ def build_session(
             "duration": None,
             "durationText": None,
         }
+    else:
+        # Keep previously published audio metadata when media is only on the CDN.
+        prev = read_json(out_dir / ("%s.json" % files.session_id), {}) or {}
+        if isinstance(prev.get("audio"), dict):
+            payload["audio"] = prev["audio"]
 
-    if not skip_subtitles and files.is_alignable():
-        result = align_session(files)
+    if not skip_subtitles:
+        result = None
+        if subtitle_source == "raw" and is_raw_alignable(files):
+            result = align_raw_session(files)
+        elif files.is_alignable():
+            result = align_session(files)
         if result is not None:
             out_dir.mkdir(parents=True, exist_ok=True)
             write_vtt(out_dir / ("%s.vtt" % files.session_id), result["cues"])
@@ -312,11 +358,11 @@ def build_session(
 
     # Ship readable markdown with the site (CI has no Audios/ symlink).
     out_dir.mkdir(parents=True, exist_ok=True)
-    has_full = False
+    has_legacy = False
     if files.corrected and files.corrected.exists():
         dest = out_dir / ("%s.corrected.md" % files.session_id)
         dest.write_text(files.corrected.read_text(encoding="utf-8"), encoding="utf-8")
-        has_full = True
+        has_legacy = True
     has_summary_md = False
     has_book = False
     for candidate in files.folder.iterdir():
@@ -329,9 +375,27 @@ def build_session(
             dest = out_dir / ("%s.book.md" % files.session_id)
             dest.write_text(candidate.read_text(encoding="utf-8"), encoding="utf-8")
             has_book = True
-    payload["hasFullText"] = has_full
+    has_raw = bool(files.raw and files.raw.exists())
+    if has_raw:
+        prose = parse_raw_text(files.raw)
+        dest = out_dir / ("%s.raw.txt" % files.session_id)
+        dest.write_text(prose + "\n", encoding="utf-8")
+    if has_legacy and has_book:
+        text_pipeline = "both"
+    elif has_book:
+        text_pipeline = "book"
+    elif has_legacy:
+        text_pipeline = "legacy"
+    else:
+        text_pipeline = None
+    # متن کامل prefers raw ASR when the course is on the new pipeline.
+    payload["hasFullText"] = has_raw or has_legacy
+    payload["hasLegacyText"] = has_legacy
     payload["hasSummary"] = has_summary_md or bool(payload.get("summary"))
     payload["hasBook"] = has_book
+    payload["hasRawTranscript"] = has_raw
+    payload["subtitleSource"] = subtitle_source if payload.get("hasTranscript") else None
+    payload["textPipeline"] = text_pipeline
 
     return payload
 
@@ -347,10 +411,11 @@ def build_course(
 
     hidden = set(str(h) for h in course_meta.get("hidden", []))
     overrides = course_meta.get("titles", {}) or {}
+    subtitle_source = course_meta.get("subtitles", "edited")
 
     sessions: List[dict] = []
     for child in sorted(course_dir.iterdir()):
-        if not child.is_dir() or child.name.startswith("."):
+        if not child.is_dir() or child.name.startswith(".") or child.name == "_legacy":
             continue
         if child.name in hidden:
             continue
@@ -364,7 +429,14 @@ def build_course(
             catalog_item = None
 
         payload = build_session(
-            files, lecturer, course, catalog_item, config, out_dir, skip_subtitles
+            files,
+            lecturer,
+            course,
+            catalog_item,
+            config,
+            out_dir,
+            skip_subtitles,
+            subtitle_source=subtitle_source,
         )
         if payload is None:
             continue
@@ -375,8 +447,9 @@ def build_course(
     if not sessions:
         return None
 
-    # Neighbour links so the player can offer previous/next.
+    # Visible-session order: sequential display numbers + prev/next links.
     for position, session in enumerate(sessions):
+        session["index"] = position + 1
         session["previous"] = sessions[position - 1]["id"] if position else None
         session["next"] = (
             sessions[position + 1]["id"] if position + 1 < len(sessions) else None
@@ -428,7 +501,10 @@ def build_course(
 
 
 def discover_courses(root: Path) -> List[Path]:
+    """Find course dirs under a lecturer root (…/Lecturer/Course/NNN)."""
     courses = []
+    if not root.is_dir():
+        return courses
     for lecturer_dir in sorted(root.iterdir()):
         if not lecturer_dir.is_dir() or lecturer_dir.name.startswith("."):
             continue
@@ -439,6 +515,89 @@ def discover_courses(root: Path) -> List[Path]:
             if any(c.is_dir() and c.name.isdigit() for c in course_dir.iterdir()):
                 courses.append(course_dir)
     return courses
+
+
+def audio_roots_for_site(config: dict) -> List[Path]:
+    """Which Audios/ subtrees belong to this site.
+
+    Prefer site.config.json → sources.audioDirs (paths relative to Audios/).
+    Fallback: lecturer folders already present under content/.
+    """
+    sources = config.get("sources") or {}
+    dirs = sources.get("audioDirs")
+    if isinstance(dirs, list) and dirs:
+        roots: List[Path] = []
+        for rel in dirs:
+            # Keep logical names (Shojai symlink → slug shojai); do not resolve.
+            root = (AUDIO_ROOT / str(rel)).absolute()
+            if not root.is_dir():
+                print("  warn: audioDirs entry missing: %s" % root)
+                continue
+            roots.append(root)
+        return roots
+
+    # content/<slug>/ → Audios/<matching folder>
+    if CONTENT_ROOT.is_dir():
+        wanted = {
+            p.name.lower()
+            for p in CONTENT_ROOT.iterdir()
+            if p.is_dir() and not p.name.startswith(".")
+        }
+        if wanted:
+            roots = []
+            for child in sorted(AUDIO_ROOT.iterdir()):
+                if child.is_dir() and child.name.lower() in wanted:
+                    roots.append(child.resolve())
+            if roots:
+                return roots
+
+    # Legacy: entire Audios/ tree (cross-site pollution — avoid when possible)
+    print(
+        "  warn: no sources.audioDirs / content lecturers — scanning all of Audios/"
+    )
+    return [AUDIO_ROOT]
+
+
+def discover_site_courses(config: dict) -> List[Path]:
+    """Courses for this site only (not every lecturer under Audios/)."""
+    courses: List[Path] = []
+    for root in audio_roots_for_site(config):
+        # root may be Audios/Bayat (lecturer) or Audios/ (legacy full tree)
+        if root == AUDIO_ROOT.resolve():
+            courses.extend(discover_courses(root))
+            continue
+        # Treat path as a lecturer folder: children are courses.
+        if any(
+            c.is_dir() and c.name.isdigit()
+            for c in root.iterdir()
+            if not c.name.startswith(".")
+        ):
+            # Unusual: audioDirs pointed at a course folder itself
+            courses.append(root)
+            continue
+        for course_dir in sorted(root.iterdir()):
+            if not course_dir.is_dir() or course_dir.name.startswith("."):
+                continue
+            if any(
+                c.is_dir() and c.name.isdigit() for c in course_dir.iterdir()
+            ):
+                courses.append(course_dir)
+    return courses
+
+
+def prune_stale_lecturers(out_root: Path, keep: set) -> None:
+    """Remove public/data/<lecturer> dirs not in this site's build."""
+    reserved = {"search"}
+    if not out_root.is_dir():
+        return
+    for child in sorted(out_root.iterdir()):
+        if not child.is_dir() or child.name.startswith("."):
+            continue
+        name = child.name.lower()
+        if name in keep or name in reserved:
+            continue
+        print("  prune stale data/%s" % child.name)
+        shutil.rmtree(child)
 
 
 def main() -> None:
@@ -465,15 +624,48 @@ def main() -> None:
     out_root = Path(args.out).expanduser() if args.out else DEFAULT_OUT
 
     if args.course:
-        course_dirs = [Path(args.course).expanduser().resolve()]
+        # absolute() keeps lecturer symlinks (Shojai → AyatollahShojaee) so the
+        # portal slug matches content/<lecturer>/ rather than the physical folder.
+        course_path = Path(args.course).expanduser()
+        if not course_path.is_absolute():
+            course_path = (Path.cwd() / course_path).absolute()
+        else:
+            course_path = course_path.absolute()
+        course_dirs = [course_path]
     else:
-        course_dirs = discover_courses(AUDIO_ROOT)
+        course_dirs = discover_site_courses(config)
 
     if not course_dirs:
-        sys.exit("No course folders found under %s" % AUDIO_ROOT)
+        sys.exit(
+            "No course folders found for this site. "
+            "Set sources.audioDirs in site.config.json "
+            "(e.g. [\"Bayat\"]) or pass --course."
+        )
 
-    print("Output: %s\n" % out_root)
+    print("Output: %s" % out_root)
+    if args.course:
+        print("Courses: 1 (--course)\n")
+    else:
+        root_labels = []
+        for p in audio_roots_for_site(config):
+            try:
+                root_labels.append(str(p.relative_to(AUDIO_ROOT)))
+            except ValueError:
+                root_labels.append(str(p))
+        print("Courses: %d from %s\n" % (len(course_dirs), ", ".join(root_labels)))
     lecturers: Dict[str, dict] = {}
+
+    # Partial --course builds must keep sibling courses + other lecturers.
+    existing_index = read_json(out_root / "index.json", {}) or {}
+    if args.course:
+        for prior in existing_index.get("lecturers") or []:
+            slug = (prior.get("slug") or "").lower()
+            if not slug:
+                continue
+            lecturers[slug] = {
+                **prior,
+                "courses": list(prior.get("courses") or []),
+            }
 
     for course_dir in course_dirs:
         result = build_course(course_dir, out_root, config, args.skip_subtitles)
@@ -481,21 +673,41 @@ def main() -> None:
             print("  skipped %s (no sessions)" % course_dir.name)
             continue
         lecturer_meta = result["lecturer"]
-        entry = lecturers.setdefault(
-            lecturer_meta["slug"], {**lecturer_meta, "courses": []}
-        )
-        entry["courses"].append(result["course"])
+        slug = lecturer_meta["slug"]
+        entry = lecturers.setdefault(slug, {**lecturer_meta, "courses": []})
+        # Refresh lecturer fields from content/, keep course list.
+        for key, value in lecturer_meta.items():
+            if key != "courses":
+                entry[key] = value
         course = result["course"]
+        courses = entry.setdefault("courses", [])
+        replaced = False
+        for i, existing in enumerate(courses):
+            if existing.get("slug") == course["slug"]:
+                courses[i] = course
+                replaced = True
+                break
+        if not replaced:
+            courses.append(course)
         print(
             "  %-10s / %-16s %3d sessions, %3d transcribed, %s"
             % (
-                lecturer_meta["slug"],
+                slug,
                 course["slug"],
                 course["sessionCount"],
                 course["transcribedCount"],
                 course["totalDurationText"],
             )
         )
+
+    if not args.course:
+        # Full rebuild: keep text-library lecturers (e.g. Shojai کلیات).
+        for prior in existing_index.get("lecturers") or []:
+            slug = (prior.get("slug") or "").lower()
+            if not slug or slug in lecturers:
+                continue
+            if prior.get("format") == "text":
+                lecturers[slug] = prior
 
     index = {
         "version": 1,
@@ -508,6 +720,24 @@ def main() -> None:
     }
     write_json(out_root / "index.json", index)
     print("\nWrote %s" % (out_root / "index.json"))
+
+    if not args.course:
+        prune_stale_lecturers(out_root, {slug.lower() for slug in lecturers})
+
+    # Rebuild compact client search indexes when available (prefer this site's script).
+    search_script = CONTENT_ROOT.parent / "scripts" / "build_search_indexes.py"
+    if not search_script.exists():
+        search_script = (
+            Path(__file__).resolve().parents[1] / "scripts" / "build_search_indexes.py"
+        )
+    if search_script.exists():
+        print("\nBuilding search indexes…")
+        result = subprocess.run(
+            [sys.executable, str(search_script)],
+            cwd=str(REPO_ROOT),
+        )
+        if result.returncode != 0:
+            print("  warn: build_search_indexes exited with %s" % result.returncode)
 
 
 if __name__ == "__main__":

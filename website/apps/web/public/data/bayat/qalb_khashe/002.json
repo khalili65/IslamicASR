@@ -1,0 +1,72 @@
+{
+ "id": "002",
+ "index": 2,
+ "lecturer": "bayat",
+ "course": "qalb_khashe",
+ "title": "عدول نیت در قضای نمازهای پیاپی",
+ "topic": null,
+ "summary": "عدول نیت در قضای مغرب و عشا، سپس قلب خاشع وقت ذکر و نماز به‌عنوان محک خشوع. داستان منارهٔ کوفه و مارِ آقای شاهرودی نشان می‌دهد حضور قلب از تصفیهٔ اعمال می‌آید؛ محک نماز سجده است.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/qalb_khashe/002/002_play.m4a",
+  "filename": "002_play.m4a",
+  "size": 5841803,
+  "display": "5.6 MB",
+  "duration": 476.4,
+  "durationText": "7:56"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "002.vtt",
+   "cues": "002.cues.json",
+   "words": "002.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## عدول نیت در قضای نمازهای پیاپی",
+   "start": 14.26,
+   "end": 69.48
+  },
+  {
+   "index": 1,
+   "title": "## قلب خاشع وقت ذکر؛ نماز ذکر اکبر و محک",
+   "start": 69.48,
+   "end": 156.86
+  },
+  {
+   "index": 2,
+   "title": "## انوار نعمانیه؛ نیت حضور و منارهٔ کوفه",
+   "start": 156.86,
+   "end": 176.88
+  },
+  {
+   "index": 3,
+   "title": "## آقای شاهرودی؛ مار بر سجاده و استمرار حضور",
+   "start": 176.88,
+   "end": 197.06
+  },
+  {
+   "index": 4,
+   "title": "## محک نماز در سجده؛ رکوع آمادگی فدا",
+   "start": 197.06,
+   "end": 476.4
+  }
+ ],
+ "recordedAt": 1766711331,
+ "sourceName": "قلب خاشع2_ ج14.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "001",
+ "next": "003"
+}

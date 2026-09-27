@@ -1,0 +1,72 @@
+{
+ "id": "012",
+ "index": 12,
+ "lecturer": "bayat",
+ "course": "qalb_maluf",
+ "title": "استفتا دربارهٔ نجاست در خانهٔ میزبان",
+ "topic": null,
+ "summary": "پس از استفتای نجاست در منزل میزبان، آیهٔ توبه/۶۰ و المؤلفة قلوبهم محور قلب مألوف می‌شود: تألیف با صدقه و اخلاق برای ناآشنایان و مخالفان، نه ایمان پولی. داستان جوان و مادر، تجربهٔ بسیج، و صدقه برای اموات تکمیل می‌کند.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/qalb_maluf/012/012_play.m4a",
+  "filename": "012_play.m4a",
+  "size": 9866617,
+  "display": "9.4 MB",
+  "duration": 793.69,
+  "durationText": "13:14"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "012.vtt",
+   "cues": "012.cues.json",
+   "words": "012.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## استفتا دربارهٔ نجاست در خانهٔ میزبان",
+   "start": 0.3,
+   "end": 97.82
+  },
+  {
+   "index": 1,
+   "title": "## آیات قلب مألوف؛ صدقات در توبه",
+   "start": 97.82,
+   "end": 276.62
+  },
+  {
+   "index": 2,
+   "title": "## المؤلفة قلوبهم در نظام حاکمیت",
+   "start": 276.62,
+   "end": 313.66
+  },
+  {
+   "index": 3,
+   "title": "## داستان جوان و مادر کافر",
+   "start": 313.66,
+   "end": 334.86
+  },
+  {
+   "index": 4,
+   "title": "## اخلاق به مثابه صدقه",
+   "start": 334.86,
+   "end": 793.69
+  }
+ ],
+ "recordedAt": 1785951842,
+ "sourceName": "قلب مالوف12_ج334.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "011",
+ "next": "013"
+}

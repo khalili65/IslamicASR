@@ -68,10 +68,31 @@ def pick_audio(session_dir: Path) -> Optional[Path]:
 
 
 def object_key(file_path: Path) -> str:
-    """Audios/Bayat/... -> bayat/..."""
-    rel = file_path.resolve().relative_to((REPO_ROOT / "Audios").resolve())
+    """Audios/Bayat/... -> bayat/... (lecturer + course lowercased to match site URLs).
+
+    Prefer the logical path under Audios/ so lecturer symlinks (e.g. Shojai →
+    AyatollahShojaee) keep the portal slug in the object key.
+    """
+    audio_root = (REPO_ROOT / "Audios").absolute()
+    path = file_path if file_path.is_absolute() else (Path.cwd() / file_path)
+    path = path.absolute()
+    try:
+        rel = path.relative_to(audio_root)
+    except ValueError:
+        rel = path.resolve().relative_to(audio_root.resolve())
     parts = list(rel.parts)
-    parts[0] = parts[0].lower()
+    # Match build_content.py: lecturer/course slugs are folder names lowercased.
+    if len(parts) >= 1:
+        parts[0] = parts[0].lower()
+    if len(parts) >= 2:
+        parts[1] = parts[1].lower()
+    # Physical folder remaps when a path was resolved through a symlink.
+    remap = {"ayatollahshojaee": "shojai"}
+    if parts and parts[0] in remap:
+        parts[0] = remap[parts[0]]
+    # Nested Tadabor_Sobohi/Manaee/... → manaee/...
+    if len(parts) >= 2 and parts[0] == "tadabor_sobohi" and parts[1] == "manaee":
+        parts = parts[1:]
     return "/".join(parts)
 
 
@@ -318,8 +339,13 @@ def main() -> int:
     args = parser.parse_args()
 
     os.chdir(REPO_ROOT)
-    env = load_env(REPO_ROOT / ".env.arvan")
-    bucket = env["ARVAN_BUCKET"]
+    env_file = Path(
+        os.environ.get("ARVAN_ENV_FILE", str(REPO_ROOT / ".env.arvan"))
+    )
+    env = load_env(env_file)
+    bucket = os.environ.get("ARVAN_BUCKET", env["ARVAN_BUCKET"]).strip() or env[
+        "ARVAN_BUCKET"
+    ]
     client = s3_client(env)
 
     src = Path(args.src)

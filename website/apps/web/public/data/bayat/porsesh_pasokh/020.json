@@ -1,0 +1,60 @@
+{
+ "id": "020",
+ "index": 20,
+ "lecturer": "bayat",
+ "course": "porsesh_pasokh",
+ "title": "قضا و قدر؛ متن و شرح",
+ "topic": null,
+ "summary": "قضا متنِ حتمی است و قدر شرحِ غیرِ حتمی. مرگ قضا است؛ زود و دیر شدنِ آن قدر. شبِ قدر با لوحِ محو و اثبات سروکار دارد. توجّه به قضا صبر و ترکِ عجب می‌آورد و راه به نفسِ مطمئنّه و راضیة مرضیّه می‌گشاید.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/porsesh_pasokh/020/020_play.m4a",
+  "filename": "020_play.m4a",
+  "size": 5630060,
+  "display": "5.4 MB",
+  "duration": 445.7,
+  "durationText": "7:26"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "020.vtt",
+   "cues": "020.cues.json",
+   "words": "020.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## قضا و قدر؛ متن و شرح",
+   "start": 0.94,
+   "end": 262.94
+  },
+  {
+   "index": 1,
+   "title": "## علمِ امیر و آیهٔ محو",
+   "start": 262.94,
+   "end": 298.52
+  },
+  {
+   "index": 2,
+   "title": "## اثرِ توجّه به قضا؛ رضایت",
+   "start": 298.52,
+   "end": 445.7
+  }
+ ],
+ "recordedAt": 1763991205,
+ "sourceName": "پرسش و پاسخ ۲۰.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "019",
+ "next": "021"
+}

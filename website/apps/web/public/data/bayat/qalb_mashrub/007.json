@@ -1,0 +1,66 @@
+{
+ "id": "007",
+ "index": 7,
+ "lecturer": "bayat",
+ "course": "qalb_mashrub",
+ "title": "آیهٔ بقره؛ میثاق و امر به شنیدن",
+ "topic": null,
+ "summary": "آیهٔ بقره میثاق را به امر شنیدن پیوند می‌دهد؛ نشنیدن دل را با گوساله می‌آشاماند. اهمیت شنوایی، روایات شراکت سامع، و چهار منظرهٔ نگاه مولا به مردم بیان می‌شود.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/qalb_mashrub/007/007_play.m4a",
+  "filename": "007_play.m4a",
+  "size": 8323176,
+  "display": "7.9 MB",
+  "duration": 670.33,
+  "durationText": "11:10"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "007.vtt",
+   "cues": "007.cues.json",
+   "words": "007.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## آیهٔ بقره؛ میثاق و امر به شنیدن",
+   "start": 9.18,
+   "end": 129.04
+  },
+  {
+   "index": 1,
+   "title": "## تقدم شنوایی بر بینایی",
+   "start": 129.04,
+   "end": 149.26
+  },
+  {
+   "index": 2,
+   "title": "## روایات گوش‌دادن",
+   "start": 149.26,
+   "end": 533.73
+  },
+  {
+   "index": 3,
+   "title": "## نظر به مردم؛ چهار منظره",
+   "start": 533.73,
+   "end": 670.33
+  }
+ ],
+ "recordedAt": 1788091212,
+ "sourceName": "قلب مشروب7_ج462.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "006",
+ "next": "008"
+}

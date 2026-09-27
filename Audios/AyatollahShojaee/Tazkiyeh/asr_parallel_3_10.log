@@ -1,0 +1,88 @@
+=== PARALLEL ASR 3-10 jobs=4 Tue Sep 15 00:05:21 PDT 2026 ===
+=== PARALLEL ASR 3-10 jobs=4 Tue Sep 15 00:05:21 PDT 2026 ===
+[start] 003 Tue Sep 15 00:05:21 PDT 2026
+[start] 003 Tue Sep 15 00:05:21 PDT 2026
+[start] 004 Tue Sep 15 00:05:21 PDT 2026
+[start] 004 Tue Sep 15 00:05:21 PDT 2026
+[start] 005 Tue Sep 15 00:05:21 PDT 2026
+[start] 005 Tue Sep 15 00:05:21 PDT 2026
+[start] 006 Tue Sep 15 00:05:21 PDT 2026
+[start] 006 Tue Sep 15 00:05:21 PDT 2026
+[ok] 006 Tue Sep 15 00:06:47 PDT 2026
+[ok] 006 Tue Sep 15 00:06:47 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/006/006_یقظه و توبه _ بحث تزکیه.srt cues=208
+Billed duration : 760 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.046407 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/006/006_یقظه و توبه _ بحث تزکیه.txt
+============================================================
+[start] 007 Tue Sep 15 00:06:48 PDT 2026
+[start] 007 Tue Sep 15 00:06:48 PDT 2026
+[ok] 003 Tue Sep 15 00:07:05 PDT 2026
+[ok] 003 Tue Sep 15 00:07:05 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/003/003_مراتب مختلف حیات انسان _ بحث تزکیه.srt cues=341
+Billed duration : 1265 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.077264 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/003/003_مراتب مختلف حیات انسان _ بحث تزکیه.txt
+============================================================
+[start] 008 Tue Sep 15 00:07:05 PDT 2026
+[start] 008 Tue Sep 15 00:07:05 PDT 2026
+Terminated: 15             python transcribe.py "$mp3" --provider elevenlabs --language fa > "$slog" 2>&1
+Terminated: 15             python transcribe.py "$mp3" --provider elevenlabs --language fa > "$slog" 2>&1
+Terminated: 15             python transcribe.py "$mp3" --provider elevenlabs --language fa > "$slog" 2>&1
+Terminated: 15             python transcribe.py "$mp3" --provider elevenlabs --language fa > "$slog" 2>&1
+[FAIL] 008 Tue Sep 15 00:07:24 PDT 2026
+[FAIL] 008 Tue Sep 15 00:07:24 PDT 2026
+[FAIL] 007 Tue Sep 15 00:07:24 PDT 2026
+[FAIL] 007 Tue Sep 15 00:07:24 PDT 2026
+[FAIL] 004 Tue Sep 15 00:07:24 PDT 2026
+[FAIL] 005 Tue Sep 15 00:07:24 PDT 2026
+[FAIL] 004 Tue Sep 15 00:07:24 PDT 2026
+[FAIL] 005 Tue Sep 15 00:07:24 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/008/008_مراتب توبه _ بحث تزکیه.partial.txt
+  preparing audio (008_مراتب توبه _ بحث تزکیه.mp3)...
+  26:33 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/008/008_مراتب توبه _ بحث تزکیه.partial.txt
+  [1/1] 0:00–26:33 (9332 KB)...
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/004/004_مراتب مختلف حیات انسان _ بحث تزکیه.partial.txt
+  preparing audio (004_مراتب مختلف حیات انسان _ بحث تزکیه.mp3)...
+  26:32 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/004/004_مراتب مختلف حیات انسان _ بحث تزکیه.partial.txt
+  [1/1] 0:00–26:32 (9329 KB)...
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/007/007_توبه _ بحث تزکیه.partial.txt
+  preparing audio (007_توبه _ بحث تزکیه.mp3)...
+  21:01 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/007/007_توبه _ بحث تزکیه.partial.txt
+  [1/1] 0:00–21:01 (7389 KB)...
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/005/005_یقظه _ بحث تزکیه.partial.txt
+  preparing audio (005_یقظه _ بحث تزکیه.mp3)...
+  37:54 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/005/005_یقظه _ بحث تزکیه.partial.txt
+  [1/1] 0:00–37:54 (13327 KB)...
+[start] 009 Tue Sep 15 00:07:24 PDT 2026
+[start] 009 Tue Sep 15 00:07:24 PDT 2026
+[start] 010 Tue Sep 15 00:07:24 PDT 2026
+[start] 010 Tue Sep 15 00:07:24 PDT 2026
+environment: line 1: 23911 Killed: 9                  python transcribe.py "$mp3" --provider elevenlabs --language fa > "$slog" 2>&1
+environment: line 1: 23910 Killed: 9                  python transcribe.py "$mp3" --provider elevenlabs --language fa > "$slog" 2>&1
+[FAIL] 010 Tue Sep 15 00:07:30 PDT 2026
+[FAIL] 010 Tue Sep 15 00:07:30 PDT 2026
+[FAIL] 009 Tue Sep 15 00:07:30 PDT 2026
+[FAIL] 009 Tue Sep 15 00:07:30 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/010/010_انابه و مراتب مختلف آن _ بحث تزکیه.partial.txt
+  preparing audio (010_انابه و مراتب مختلف آن _ بحث تزکیه.mp3)...
+  18:37 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/010/010_انابه و مراتب مختلف آن _ بحث تزکیه.partial.txt
+  [1/1] 0:00–18:37 (6545 KB)...
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/009/009_مراتب توبه _ بحث تزکیه.partial.txt
+  preparing audio (009_مراتب توبه _ بحث تزکیه.mp3)...
+  31:19 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/009/009_مراتب توبه _ بحث تزکیه.partial.txt
+  [1/1] 0:00–31:19 (11012 KB)...

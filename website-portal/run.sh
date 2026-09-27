@@ -20,6 +20,6 @@ fi
 mkdir -p public
 ln -sfn ../../../../Audios public/audio
 
-echo "Open http://localhost:3000"
-echo "Player: http://localhost:3000/bayat/marefat_nafs/001/"
+echo "Open http://localhost:3001"
+echo "Home (lecturers): http://localhost:3001/"
 exec npm run dev

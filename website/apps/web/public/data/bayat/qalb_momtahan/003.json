@@ -1,0 +1,66 @@
+{
+ "id": "003",
+ "index": 3,
+ "lecturer": "bayat",
+ "course": "qalb_momtahan",
+ "title": "سفر شغلی و سفر تحصیلی",
+ "topic": null,
+ "summary": "سفر تحصیلی محض مسافر است مگر مأموریت اداری. دههٔ اول ذی‌حجه ایام الله و امتحان قلب است. حدیث ازکا عندالله این ظرف زمان را پاک‌ترین و پرپاداش‌ترین می‌داند؛ عمل در آن حتی از جهاد برتر است مگر شهادت کامل فدا.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/qalb_momtahan/003/003_play.m4a",
+  "filename": "003_play.m4a",
+  "size": 7544688,
+  "display": "7.2 MB",
+  "duration": 622.43,
+  "durationText": "10:22"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "003.vtt",
+   "cues": "003.cues.json",
+   "words": "003.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## سفر شغلی و سفر تحصیلی",
+   "start": 0.46,
+   "end": 46.0
+  },
+  {
+   "index": 1,
+   "title": "## ایام الله و امتحان قلب",
+   "start": 46.0,
+   "end": 217.16
+  },
+  {
+   "index": 2,
+   "title": "## حدیث نبوی ازکا عندالله",
+   "start": 217.16,
+   "end": 237.66
+  },
+  {
+   "index": 3,
+   "title": "## قلب ممتحن و عمل در دهه",
+   "start": 237.66,
+   "end": 622.43
+  }
+ ],
+ "recordedAt": 1785847491,
+ "sourceName": "قلب مُمتحَن3_ج212.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "002",
+ "next": "004"
+}

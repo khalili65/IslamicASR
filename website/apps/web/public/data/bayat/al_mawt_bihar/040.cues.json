@@ -1,0 +1,1927 @@
+{
+ "version": 1,
+ "sessionId": "040",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 757.83,
+ "alignment": {
+  "exact": 1560,
+  "total": 1560,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## ارذل العمر در باب دوم کتاب الموت",
+   "start": 0.08,
+   "end": 46.9
+  },
+  {
+   "index": 1,
+   "title": "## اختلاف سن؛ شصت تا صد",
+   "start": 46.9,
+   "end": 158.3
+  },
+  {
+   "index": 2,
+   "title": "## نفس مجرد و بدن؛ واسطهٔ روح بخاری",
+   "start": 158.3,
+   "end": 215.12
+  },
+  {
+   "index": 3,
+   "title": "## نطفه، عناصر، اخلاط، مزاج",
+   "start": 215.12,
+   "end": 486.09
+  },
+  {
+   "index": 4,
+   "title": "## روح بخاری و روح نفسانی",
+   "start": 486.09,
+   "end": 582.57
+  },
+  {
+   "index": 5,
+   "title": "## اعدل امزجهٔ معصوم",
+   "start": 582.57,
+   "end": 757.83
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 0.08,
+   "end": 3.32,
+   "text": "اللهم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 3.32,
+   "end": 7.06,
+   "text": "صل على محمد وآل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 7.06,
+   "end": 10.62,
+   "text": "محمد. بسم الله الرحمن الرحيم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 10.62,
+   "end": 15.24,
+   "text": "الرحمن الرحيم. السلام عليك يا داعي الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 15.24,
+   "end": 17.2,
+   "text": "ورباني آياته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 17.2,
+   "end": 19.94,
+   "text": "سلام عليكم ورحمة الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 19.94,
+   "end": 25.28,
+   "text": "برگردیم به كتاب الموت مرحوم مجلسی و ادامه بحث موت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 25.28,
+   "end": 28.34,
+   "text": "در باب دوم کتاب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 28.34,
+   "end": 31.58,
+   "text": "روایت اولش رو بررسی کردیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 31.58,
+   "end": 35.36,
+   "text": "و رسیدیم به موضوع ارذل العمر که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 35.36,
+   "end": 38.64,
+   "text": "پست‌ترین حالت عمر انسانی است که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 38.64,
+   "end": 41.68,
+   "text": "موهبتی است آن هم برای انسان که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 41.68,
+   "end": 44.66,
+   "text": "افتاده حال بشه از اون تکبر به خشوع بیفته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 44.66,
+   "end": 49.2,
+   "text": "اینها بحث‌هاش گذشت. روایت دوم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 49.2,
+   "end": 51.74,
+   "text": "تا روایت ششم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 51.74,
+   "end": 55.34,
+   "text": "این چند تا روایت، این پنج تا روایت برای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 55.34,
+   "end": 58.64,
+   "text": "سال ارذل العمر یعنی اون سالی که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 58.64,
+   "end": 61.46,
+   "text": "این اتفاق برای انسان رخ میده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 61.46,
+   "end": 64.04,
+   "text": "اصطلاحاً فراموشکار می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 64.04,
+   "end": 66.82,
+   "text": "دیگه نهایتش امروز بهش میگن آلزایمر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 66.82,
+   "end": 69.2,
+   "text": "فراموشی می‌گیره، افتاده حال می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 69.2,
+   "end": 74.64,
+   "text": "این حالت حتی از جهت عقلی رکود می‌کنه به شکل یه بچه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 74.64,
+   "end": 78.4,
+   "text": "طبق روایات مثلا خردسال هفت ساله اینها می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 78.4,
+   "end": 84.06,
+   "text": "متفاوت گفتن مثلا در روایت دوم می‌خوام علتش رو بررسی کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 84.06,
+   "end": 87.66,
+   "text": "در روایت دوم که حالا من متنش رو نمی‌خونم که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 87.66,
+   "end": 89.78,
+   "text": "زیاده وقت داریم فرمودن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 89.78,
+   "end": 93.08,
+   "text": "ما بین الستين الی السبعین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 93.08,
+   "end": 98.08,
+   "text": "یعنی بین شصت سالگی و هفتاد سالگی این حالت رخ میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 98.08,
+   "end": 100.74,
+   "text": "یعنی از شصت سالگی شروع می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 100.74,
+   "end": 106.26,
+   "text": "روایت سوم فرمودن اذا بلغ العبد مئة سنة",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 106.26,
+   "end": 108.26,
+   "text": "یعنی وقتی صد سالش شد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 108.26,
+   "end": 112.0,
+   "text": "فهی ارذل العمر اون حالت براش پیش میاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 112.0,
+   "end": 114.92,
+   "text": "عجب! می‌گه از شصت سال شروع می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 114.92,
+   "end": 123.42,
+   "text": "اینجا می‌گه صد سال. روایت چهارم می‌فرماید ان اذا بلغ المئة فذلك ارذل العمر باز میگه صد سال.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 123.42,
+   "end": 126.7,
+   "text": "همینطور این چند تا روایت چرا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 126.7,
+   "end": 129.68,
+   "text": "مثلا از شصت شروع کردن تا صد سال؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 129.68,
+   "end": 132.06,
+   "text": "اهل بیت علیهم الصلاة والسلام چرا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 132.06,
+   "end": 137.3,
+   "text": "یک سال خاصی رو مشخص برای همه نکردند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 137.3,
+   "end": 145.88,
+   "text": "یه دلیلش رو من عرض کنم از جهت علمی برمی‌گرده به همون عرض شود اینجا ما گفتیم بعضیا خندیدن متأسفانه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 145.88,
+   "end": 150.6,
+   "text": "مراقب باشن بعضیا به حقایق علمی بخندن چوب می‌خورن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 150.6,
+   "end": 153.44,
+   "text": "خندیدن به بحث مزاج،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 153.44,
+   "end": 158.3,
+   "text": "مزاج، مزاج شناسی. ببینید یه توضیح مختصری بدم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 158.3,
+   "end": 161.36,
+   "text": "نفس ناطقه ما که مجرده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 161.36,
+   "end": 166.74,
+   "text": "احکامش رو که می‌خواد به بدن ما پیاده کنه که ماده است چون اون ما--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 166.74,
+   "end": 171.06,
+   "text": "مال ملکوت نفس و این مال ماده است،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 171.06,
+   "end": 175.92,
+   "text": "این احکام ملکوت می‌خواد در ما-- ملک، در ماده،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 175.92,
+   "end": 179.4,
+   "text": "در بدن پیاده بشه. یه واسطه می‌خواد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 179.4,
+   "end": 186.18,
+   "text": "انقدر نفس عظمت داره و شامخه بلکه اشمخ مقامش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 186.18,
+   "end": 189.84,
+   "text": "این بدن انزل مراتبه مربوط به ماده است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 189.84,
+   "end": 192.9,
+   "text": "ر-- پست، پست فلسفی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 192.9,
+   "end": 197.5,
+   "text": "مادون مراتب خلقت ارتباط این‌ها یه واسطه می‌خواد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 197.5,
+   "end": 204.56,
+   "text": "واسطه این‌ها یک چیزیست که عضوی از اعضای بدن ماست و ما ازش غافلیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 204.56,
+   "end": 206.56,
+   "text": "اختلافات رو اون باعثش می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 206.56,
+   "end": 209.04,
+   "text": "اص-اصطلاحاً بهش میگن روح",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 209.04,
+   "end": 211.68,
+   "text": "بخاری که مزاج از اون حاصل می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 211.68,
+   "end": 214.42,
+   "text": "حالا بخواهیم برگردیم عقب‌تر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 214.42,
+   "end": 217.86,
+   "text": "وقتی که نطفه ما تشکیل شده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 217.86,
+   "end": 223.42,
+   "text": "در رحم شریف مادر که از اسم الرحمن حضرت حق منشعب شده، اونجا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 223.42,
+   "end": 226.26,
+   "text": "این نطفه از عناصر اربعة",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 226.26,
+   "end": 231.4,
+   "text": "ممزوج شده، از امتزاج عناصر اربعة تشکیل شده که قبلاً گفتیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 231.4,
+   "end": 234.98,
+   "text": "چی بود؟ آب و خاک و هوا و آتش یا مثلا حرارت،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 234.98,
+   "end": 242.34,
+   "text": "گرما. به میزانی که این‌ها چه می-- چطور با هم مخلوط و ممزوج می‌شن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 242.34,
+   "end": 249.76,
+   "text": "اینجا در حقیقت نطفه به اولین رنگیه که در عالم خلقت می‌گیره، رنگ می‌گیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 249.76,
+   "end": 255.24,
+   "text": "شد-- اون صاع و شدت و حدت و ضیغ این نطفه از اونجا معلوم می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 255.24,
+   "end": 258.58,
+   "text": "صاع وجودیش، اندازه‌ش، قدرش،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 258.58,
+   "end": 260.7,
+   "text": "لیلة القدر، اندازه‌ش،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 260.7,
+   "end": 265.04,
+   "text": "س-سر القدرش اولیا Godknows می‌فهمن کار هرکسی نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 265.04,
+   "end": 267.5,
+   "text": "خب این وقتی که شکل گرفت بعد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 267.5,
+   "end": 272.46,
+   "text": "بعد از این مرحله عناصر اربعة",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 272.46,
+   "end": 276.78,
+   "text": "چهار تا از امتزاج این عناصر چهار تا رکن یا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 276.78,
+   "end": 279.82,
+   "text": "خلت میگن اخلاط اربعة تشکیل می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 279.82,
+   "end": 283.3,
+   "text": "همون دم و سودا و بلغم و صفرا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 283.3,
+   "end": 285.28,
+   "text": "این‌ها تشکیل می‌شن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 285.28,
+   "end": 288.88,
+   "text": "حالا از لطافت این‌ها، اینجا رو خوب توجه کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 288.88,
+   "end": 295.88,
+   "text": "این‌ها که ممزوج شدن باز به میزان اینکه چگونه با هم ممزوج می‌شن، اِاِ-- اینجا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 295.88,
+   "end": 297.92,
+   "text": "مزاج ما تشکیل می‌شه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 297.92,
+   "end": 302.74,
+   "text": "و خودش رو نشون می‌ده. حالا از لطافت این امتزاج",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 302.74,
+   "end": 306.88,
+   "text": "روح بخاری درست می‌شه. از کثافت این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 306.88,
+   "end": 309.3,
+   "text": "امتزاج، اینم باز فلسفیه ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 309.3,
+   "end": 312.16,
+   "text": "کثافت که می‌گیم یعنی نه در معنی زشتی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 312.16,
+   "end": 315.2,
+   "text": "یعنی پستی مرتبه‌ای.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 315.2,
+   "end": 318.9,
+   "text": "یعنی سختی، لطافت، رقت، پاکی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 318.9,
+   "end": 321.44,
+   "text": "کثافت، پست-پستی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 321.44,
+   "end": 324.12,
+   "text": "مثلا مرتبه‌ای. مرتبه‌ش مثل الان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 324.12,
+   "end": 327.28,
+   "text": "مثلا بدن ما کثافته روح ما لطافته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 327.28,
+   "end": 330.5,
+   "text": "اینطوری نگاه کنید به قصه نه از جهت اخلاقی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 330.5,
+   "end": 333.38,
+   "text": "پس از لطافتش روح بخاری از اون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 333.38,
+   "end": 336.34,
+   "text": "عناصر، از اون ارکان اربعة",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 336.34,
+   "end": 339.88,
+   "text": "ایجاد می‌شه از کثافتش بدن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 339.88,
+   "end": 342.74,
+   "text": "بدن شکل می‌گیره. اینا همش مراتب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 342.74,
+   "end": 344.94,
+   "text": "نفس ها، شناخت نفس، معرفت نفس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 344.94,
+   "end": 347.5,
+   "text": "من عرف نفسه فقد عرف ربه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 347.5,
+   "end": 350.06,
+   "text": "بزرگان همه سفارش کردن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 350.06,
+   "end": 355.38,
+   "text": "علامه عسل‌زاده بسیار بیش از هر کسی سفارش داره که آقا جون اینا رو باید بشناسی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 94,
+   "start": 355.38,
+   "end": 357.78,
+   "text": "حتی فرمود در تهذیبتون،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 95,
+   "start": 357.78,
+   "end": 360.4,
+   "text": "در تحصیل معرفتتون،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 96,
+   "start": 360.4,
+   "end": 363.46,
+   "text": "در حتی اخلاقتون تاثیر مستقیم داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 97,
+   "start": 363.46,
+   "end": 366.13,
+   "text": "چرا یکی زود قرآن رو حفظ می‌شه یکی دیر؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 98,
+   "start": 366.13,
+   "end": 368.31,
+   "text": "یکی می‌گیره زود می‌گیره مطلب رو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 99,
+   "start": 368.31,
+   "end": 371.49,
+   "text": "مطلب پیچیده علمی رو تو میگی عقلش سریع می‌گیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 100,
+   "start": 371.49,
+   "end": 374.95,
+   "text": "ولی یکی باید کلی مثال بزنی تا بگیری،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 101,
+   "start": 374.95,
+   "end": 380.73,
+   "text": "بگیره. چرا؟ اختلاف، اختلاف مزاج.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 102,
+   "start": 380.73,
+   "end": 384.09,
+   "text": "یا مثلا ما میگیم جان یا میگیم روان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 103,
+   "start": 384.09,
+   "end": 386.43,
+   "text": "جان چیه؟ جان همون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 104,
+   "start": 386.43,
+   "end": 390.77,
+   "text": "روح بخاریه. اصطلاحا روح حیوانیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 105,
+   "start": 390.77,
+   "end": 394.15,
+   "text": "روان چیه؟ روان همون نفسه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 106,
+   "start": 394.15,
+   "end": 396.09,
+   "text": "اینا رو جایگاهش رو باید بدونیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 107,
+   "start": 396.09,
+   "end": 400.39,
+   "text": "حالا نفس ناطقه ما حالا به یک معنا میگیم روح",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 108,
+   "start": 400.39,
+   "end": 402.83,
+   "text": "یا به عبارتی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 109,
+   "start": 402.83,
+   "end": 405.47,
+   "text": "اون عرض شود جان ما.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 110,
+   "start": 405.47,
+   "end": 409.35,
+   "text": "ببخشید روان ما. روان، روانشناسی که میگن یعنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 111,
+   "start": 409.35,
+   "end": 414.17,
+   "text": "نفس‌شناسی. اون وقتی می‌خواد احکامش رو پیاده کنه در این بدن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 112,
+   "start": 414.17,
+   "end": 417.55,
+   "text": "به وساطت، به وساطت کی انجام میده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 113,
+   "start": 417.55,
+   "end": 421.37,
+   "text": "به وساطت جان ما، روح",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 114,
+   "start": 421.37,
+   "end": 424.67,
+   "text": "نباتی ما یا روح حیوانی ما.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 115,
+   "start": 424.67,
+   "end": 427.21,
+   "text": "هرچی اون لطیف‌تره،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 116,
+   "start": 427.21,
+   "end": 430.37,
+   "text": "پاک‌تره، سبک‌تره،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 117,
+   "start": 430.37,
+   "end": 437.59,
+   "text": "رقیق‌تره، اعتدال در مزاج ایجاد میشه و مزاج معتدل‌تره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 118,
+   "start": 437.59,
+   "end": 442.47,
+   "text": "هرچی مزاج معتدل‌تره دیرتر از پا می‌افته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 119,
+   "start": 442.47,
+   "end": 447.69,
+   "text": "این یه دلیل علمی که ما گفتیم چرا اختلاف اهل بدعت دادن اتفاقا این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 120,
+   "start": 447.69,
+   "end": 451.97,
+   "text": "خیلی حکیمانه است این اختلافی که بر اساس سن ارز لول امور دادن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 121,
+   "start": 451.97,
+   "end": 454.37,
+   "text": "از شصت سال دیگه سرازیریشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 122,
+   "start": 454.37,
+   "end": 456.63,
+   "text": "میره تا صد سال دیگه، دیگه صد درصده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 123,
+   "start": 456.63,
+   "end": 459.23,
+   "text": "دیگه کسی به اون سن رسید دیگه بسه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 124,
+   "start": 459.23,
+   "end": 463.09,
+   "text": "حالا این مزاج رو و اینجا نشون میده چقدر مزاج شناسی مهمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 125,
+   "start": 463.09,
+   "end": 465.73,
+   "text": "نه این مزاج شناسی‌های بازاری‌ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 126,
+   "start": 465.73,
+   "end": 469.89,
+   "text": "کتاب‌های بزرگان رو آدم مثل شیخ الرئیس رو بخونه، شیخ طوسی رو بخونه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 127,
+   "start": 469.89,
+   "end": 472.67,
+   "text": "خود علامه رو بررسی کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 128,
+   "start": 472.67,
+   "end": 474.53,
+   "text": "حداقل کتاب‌های شاگردای ایشون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 129,
+   "start": 474.53,
+   "end": 477.39,
+   "text": "چقدر در مسیر معرفت نفس اینا مهمن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 130,
+   "start": 477.39,
+   "end": 482.73,
+   "text": "حالا یه روح پس بخاری یا حیوانی داریم، روح نفسانی هم داریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 131,
+   "start": 482.73,
+   "end": 485.93,
+   "text": "خون، قلب اینا برمی‌گرده به روح بخاری",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 132,
+   "start": 485.93,
+   "end": 491.29,
+   "text": "که روح بخاری از طریق قلب و پمپاژشو خون، اون دم، خون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 133,
+   "start": 491.29,
+   "end": 496.39,
+   "text": "در اعضای بدن احکامش رو نازل می‌کنه و مدیریت می‌کنه بدن رو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 134,
+   "start": 496.39,
+   "end": 499.11,
+   "text": "روح این شد روح",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 135,
+   "start": 499.11,
+   "end": 502.31,
+   "text": "حالا بخاری یا روح حیوانی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 136,
+   "start": 502.31,
+   "end": 504.87,
+   "text": "اما روح نفسانی ما،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 137,
+   "start": 504.87,
+   "end": 508.93,
+   "text": "اون از چه طریقی؟ از طریق دماغ و اعصاب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 138,
+   "start": 508.93,
+   "end": 510.99,
+   "text": "کنترل می‌کنه بدن رو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 139,
+   "start": 510.99,
+   "end": 516.39,
+   "text": "حالا این‌ها رو برای اینکه از جهت علمی شما بخواید بدونید چند تا جمله من براتون اینا رو میگم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 140,
+   "start": 516.39,
+   "end": 519.89,
+   "text": "حالا هر کدومش جای توضیح داره اما میگم رد میشم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 141,
+   "start": 519.89,
+   "end": 523.59,
+   "text": "اگه کسی خواست پژوهش کنه این جملات خیلی به دردش می‌خوره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 142,
+   "start": 523.59,
+   "end": 530.29,
+   "text": "یکی اینکه جسم کثیف و روح مجرد از لحاظ ماهیت کاملا متقابلند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 143,
+   "start": 530.29,
+   "end": 534.89,
+   "text": "توضیح دادیم. لذا واسطه می‌خواهند که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 144,
+   "start": 534.89,
+   "end": 537.29,
+   "text": "اون روح بتونه احکامش رو پیاده کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 145,
+   "start": 537.29,
+   "end": 540.83,
+   "text": "روح بخاری مرکب نفس است،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 146,
+   "start": 540.83,
+   "end": 543.81,
+   "text": "مرکب نفس و همان روح",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 147,
+   "start": 543.81,
+   "end": 551.39,
+   "text": "حیوانی است. اینا رو که گفتیم. اعتدال روح بخاری به وسیله نفس حفظ می‌شود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 148,
+   "start": 551.39,
+   "end": 553.63,
+   "text": "و به واسطه هوا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 149,
+   "start": 553.63,
+   "end": 557.45,
+   "text": "تغذیه می‌شود. چرا میگن برو جایی که هوا پاکه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 150,
+   "start": 557.45,
+   "end": 560.03,
+   "text": "الان آلودگی هوا پدر مزاج‌ها رو داره در میاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 151,
+   "start": 560.03,
+   "end": 563.35,
+   "text": "لذا اعصاب‌ها خورد، کسی قدرت تحمل نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 152,
+   "start": 563.35,
+   "end": 566.69,
+   "text": "اینا یکیش هم این هوا. چرا میگن سحر پاشو؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 153,
+   "start": 566.69,
+   "end": 569.65,
+   "text": "عجیبه ارتباط مزاج با سحر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 154,
+   "start": 569.65,
+   "end": 571.79,
+   "text": "هوا اونجا تلطیف میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 155,
+   "start": 571.79,
+   "end": 577.03,
+   "text": "در سحر. هوا پاکسازی میشه، تلطیف میشه و اتفاقاتی می‌افته که مفصله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 156,
+   "start": 577.03,
+   "end": 582.03,
+   "text": "اونجا هم بزرگان حرف‌هایی زدن. لذا اونجا مزاج وقتی معتدل میشه خیلی چیزا رو می‌گیریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 157,
+   "start": 582.03,
+   "end": 586.13,
+   "text": "اصلا چرا امام معصوم ما معتقدیم نمی‌میره مگر بکشند او را؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 158,
+   "start": 586.13,
+   "end": 588.21,
+   "text": "چون اعدل امزجه رو داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 159,
+   "start": 588.21,
+   "end": 590.61,
+   "text": "هی بعضیا اینو به مسخره گرفتن به ما رسیدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 160,
+   "start": 590.61,
+   "end": 594.07,
+   "text": "اعدل امزجه، اعدل امزجه متاسفانه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 161,
+   "start": 594.07,
+   "end": 596.49,
+   "text": "چون اون معتدل‌ترین مزاج رو داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 162,
+   "start": 596.49,
+   "end": 599.11,
+   "text": "چرا به این حقایق ما می‌خندیم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 163,
+   "start": 599.11,
+   "end": 601.87,
+   "text": "بعد عالم هم به ما می‌خنده. اینجا رو ببینید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 164,
+   "start": 601.87,
+   "end": 608.85,
+   "text": "روح بخاری لطیف‌ترین، دقیق‌ترین و پاک‌ترین اجسام از اجزای بدن است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 165,
+   "start": 608.85,
+   "end": 615.69,
+   "text": "به همین دلیل بهتر از سایر اجزای بدن افعال نفس را قبول می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 166,
+   "start": 615.69,
+   "end": 619.65,
+   "text": "روح بخاری اگر از بدن مفارقت کند باطل و فاسد می‌شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 167,
+   "start": 619.65,
+   "end": 621.91,
+   "text": "یعنی وقت مرگ چه اتفاقی می‌افته؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 168,
+   "start": 621.91,
+   "end": 624.81,
+   "text": "روح بخاری که روح حیوانیه خارج میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 169,
+   "start": 624.81,
+   "end": 627.45,
+   "text": "وقت م-- م-- وقت موت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 170,
+   "start": 627.45,
+   "end": 630.53,
+   "text": "خارج میشه. وقت نوم یعنی خواب خارج نمیشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 171,
+   "start": 630.53,
+   "end": 633.29,
+   "text": "لذا بیداری بدنت فاسد نمیشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 172,
+   "start": 633.29,
+   "end": 635.59,
+   "text": "وقتی موت اتفاق افتاد خارج میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 173,
+   "start": 635.59,
+   "end": 638.15,
+   "text": "لذا بدنت فاسد میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 174,
+   "start": 638.15,
+   "end": 641.09,
+   "text": "روح حیوانی پس ماده آن چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 175,
+   "start": 641.09,
+   "end": 643.61,
+   "text": "هواست. محل رویشش کجاست؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 176,
+   "start": 643.61,
+   "end": 648.29,
+   "text": "گفتیم قلبه. توسط رگ‌ها در بدن پراکنده میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 177,
+   "start": 648.29,
+   "end": 650.47,
+   "text": "افعالش چیه؟ حیات،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 178,
+   "start": 650.47,
+   "end": 653.25,
+   "text": "نبض، تنفس و غیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 179,
+   "start": 653.25,
+   "end": 656.05,
+   "text": "آخرین نکته. روح نفسانی چی شد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 180,
+   "start": 656.05,
+   "end": 658.75,
+   "text": "گفتیم ماده آن روح حیوانی است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 181,
+   "start": 658.75,
+   "end": 660.61,
+   "text": "مادش روح حیوانی است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 182,
+   "start": 660.61,
+   "end": 663.95,
+   "text": "یعنی از اونجا مون انتشار پیدا می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 183,
+   "start": 663.95,
+   "end": 670.57,
+   "text": "محل رویششه. خب وقتی، وقتی که این اتفاق افتاد چگونه این در بدن توسعه پیدا می‌کنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 184,
+   "start": 670.57,
+   "end": 676.77,
+   "text": "توسط دماغ و خود دماغ هم که از توسط اعصاب در تمام بدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 185,
+   "start": 676.77,
+   "end": 678.93,
+   "text": "حالا دماغ چه کارهایی رو می‌کنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 186,
+   "start": 678.93,
+   "end": 683.77,
+   "text": "اعصاب. فکر کردن، یادآوری، یادآوری حافظه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 187,
+   "start": 683.77,
+   "end": 686.07,
+   "text": "رؤیت و از این قبیل چیزا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 188,
+   "start": 686.07,
+   "end": 690.91,
+   "text": "پس اگر مزاج کسی به هم بریزه همه اینا مختل میشن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 189,
+   "start": 690.91,
+   "end": 693.59,
+   "text": "ولی ربطی به فیزیکش نداره به نظرم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 190,
+   "start": 693.59,
+   "end": 697.61,
+   "text": "به چی؟ مزاج ربطی به فیزیک نداره، به قوت ربطی نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 191,
+   "start": 697.61,
+   "end": 700.37,
+   "text": "مثلا شما میگی که الان امام معصوم-",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 192,
+   "start": 700.37,
+   "end": 704.45,
+   "text": "بله. یعنی امام معصوم پنجاه ساله همون قوت امام معصوم بیست ساله رو داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 193,
+   "start": 704.45,
+   "end": 706.69,
+   "text": "این که نمیشه- چرا میشه. عقلانی نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 194,
+   "start": 706.69,
+   "end": 714.63,
+   "text": "چرا؟ اصلا فیزیک- برادرم مزاج که نمی‌تونه بیاد قدرت عضله رو درست بکنه، بیاد جلوی پیر شدن چهره رو بگیره،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 195,
+   "start": 714.63,
+   "end": 716.41,
+   "text": "پوست رو جوان نگه داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 196,
+   "start": 716.41,
+   "end": 719.47,
+   "text": "چرا نمیشه؟ چرا خیلیا دیرتر پیر میشن؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 197,
+   "start": 719.47,
+   "end": 721.67,
+   "text": "نهایتا مزاج تاثیر میذاره تو رنگ.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 198,
+   "start": 721.67,
+   "end": 724.23,
+   "text": "مثلا رنگ زبونش رنگ مزاجشینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 199,
+   "start": 724.23,
+   "end": 726.97,
+   "text": "رنگ صورتش زرد. ولی نمی‌تونه جلوش- حالا شما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 200,
+   "start": 726.97,
+   "end": 730.79,
+   "text": "زحمت بکش بعد از نماز دم در وایسا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 201,
+   "start": 730.79,
+   "end": 734.93,
+   "text": "من کتاب کتاب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 202,
+   "start": 734.93,
+   "end": 738.97,
+   "text": "اِاِاِ اشارات شیخ صدوق همراهمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 203,
+   "start": 738.97,
+   "end": 742.39,
+   "text": "نمت سوم رو از رو می‌خونیم با هم روش بحث می‌کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 204,
+   "start": 742.39,
+   "end": 744.31,
+   "text": "آره انشاالله چون وقت نمازم گرفته میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 205,
+   "start": 744.31,
+   "end": 749.31,
+   "text": "ببخشید. انشاالله عاقبت بخیر بشه و برکت صلوات بر محمد و آل محمد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 206,
+   "start": 749.31,
+   "end": 752.45,
+   "text": "اللهم صل على",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 207,
+   "start": 752.45,
+   "end": 757.83,
+   "text": "محمد و آل محمد و عجل فرجهم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

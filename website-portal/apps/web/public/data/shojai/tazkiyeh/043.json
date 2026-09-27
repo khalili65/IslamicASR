@@ -1,0 +1,60 @@
+{
+ "id": "043",
+ "index": 43,
+ "lecturer": "shojai",
+ "course": "tazkiyeh",
+ "title": "ایمان به قلب",
+ "topic": null,
+ "summary": "ایمان و اسلام باید به عمق قلب راه یابد نه فقط بر زبان و صورت قلب بماند. نماز میزان است و پراکندگی خیال گواه نرسیدن ذکر به قلب. تتبع عثرات مانع فتوح است؛ خدا أثر عیب‌جو را دنبال می‌کند و عفو را سخت می‌گیرد. پرده‌پوش پیش می‌رود و سخت‌گیر در جا می‌زند. استماع خبر ناخواسته گوش قلب را می‌بندد و کشف سمعی را دور می‌کند.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/shojai/tazkiyeh/043/043_play.m4a",
+  "filename": "043_play.m4a",
+  "size": 22201777,
+  "display": "21.2 MB",
+  "duration": 1718.62,
+  "durationText": "28:39"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "043.vtt",
+   "cues": "043.cues.json",
+   "words": "043.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## ایمان به قلب",
+   "start": 1.34,
+   "end": 849.27
+  },
+  {
+   "index": 1,
+   "title": "## تتبع و عفو",
+   "start": 849.27,
+   "end": 1281.6
+  },
+  {
+   "index": 2,
+   "title": "## گوش قلب",
+   "start": 1281.6,
+   "end": 1718.62
+  }
+ ],
+ "recordedAt": null,
+ "sourceName": null,
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "042",
+ "next": "044"
+}

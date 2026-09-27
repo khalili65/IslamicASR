@@ -1,0 +1,72 @@
+{
+ "id": "018",
+ "index": 18,
+ "lecturer": "bayat",
+ "course": "qalb_monib",
+ "title": "شکیات باطل",
+ "topic": null,
+ "summary": "شکیات فاحش باطل؛ انابه با تسلیم نصرت می‌آورد؛ داستان مشهد نمونهٔ هزینهٔ تسلیم است.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/qalb_monib/018/018_play.m4a",
+  "filename": "018_play.m4a",
+  "size": 7433074,
+  "display": "7.1 MB",
+  "duration": 609.98,
+  "durationText": "10:10"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "018.vtt",
+   "cues": "018.cues.json",
+   "words": "018.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## شکیات باطل",
+   "start": 28.54,
+   "end": 102.98
+  },
+  {
+   "index": 1,
+   "title": "## انابه و تسلیم",
+   "start": 102.98,
+   "end": 233.08
+  },
+  {
+   "index": 2,
+   "title": "## حوالهٔ امام رضا",
+   "start": 233.08,
+   "end": 391.42
+  },
+  {
+   "index": 3,
+   "title": "## گسترش مطلب 018/3",
+   "start": 391.42,
+   "end": 465.86
+  },
+  {
+   "index": 4,
+   "title": "## گسترش مطلب 018/5",
+   "start": 465.86,
+   "end": 609.98
+  }
+ ],
+ "recordedAt": 1767735800,
+ "sourceName": "قلب منیب18_ ج50.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "017",
+ "next": "019"
+}

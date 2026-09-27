@@ -1,0 +1,856 @@
+{
+ "version": 1,
+ "sessionId": "046",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 397.02,
+ "alignment": {
+  "exact": 600,
+  "total": 600,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## هدیه‌ای از فلاح السائل",
+   "start": 0.36,
+   "end": 20.42
+  },
+  {
+   "index": 1,
+   "title": "## نردبان کتب دعا تا صحیفهٔ سجادیه",
+   "start": 20.42,
+   "end": 41.62
+  },
+  {
+   "index": 2,
+   "title": "## روایت امام هادی از پدران خویش",
+   "start": 41.62,
+   "end": 70.48
+  },
+  {
+   "index": 3,
+   "title": "## ملاک قرب و اثر دعا در نفس",
+   "start": 70.48,
+   "end": 116.94
+  },
+  {
+   "index": 4,
+   "title": "## اوج توحید افعالی",
+   "start": 116.94,
+   "end": 143.86
+  },
+  {
+   "index": 5,
+   "title": "## ده سطر کوتاه؛ شیرین‌تر از عسل",
+   "start": 143.86,
+   "end": 165.0
+  },
+  {
+   "index": 6,
+   "title": "## سطرهای دعا",
+   "start": 165.0,
+   "end": 220.8
+  },
+  {
+   "index": 7,
+   "title": "یعنی برای پرستش خدا.",
+   "start": 220.8,
+   "end": 291.56
+  },
+  {
+   "index": 8,
+   "title": "استغاثه، از الغوث. یعنی به جهت یاری‌رساندن و مددجویی از خدا.",
+   "start": 291.56,
+   "end": 397.02
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 0.36,
+   "end": 3.6,
+   "text": "هدایایی که امروز تقدیم می‌کنیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 3.6,
+   "end": 8.76,
+   "text": "از کتاب شریف فلاح السائل سید ابن طاووس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 8.76,
+   "end": 20.04,
+   "text": "یکی از کتاب‌های بسیار عالی و خوبه که حضرت استاد هم خیلی ترغیب می‌کردن، تشویق می‌کردن عزیزان رو به همین کتاب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 20.04,
+   "end": 23.38,
+   "text": "فلاح السائل سید ابن طاووس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 23.38,
+   "end": 26.36,
+   "text": "مثل مفتاح الفلاح شیخ بها مثلاً.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 26.36,
+   "end": 28.4,
+   "text": "عُدَّة الداعي ابن فهد حلی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 28.4,
+   "end": 32.5,
+   "text": "قوت القالب ابن-- ااا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 32.5,
+   "end": 39.54,
+   "text": "قوت القالب مکی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 39.54,
+   "end": 45.7,
+   "text": "یا انتهاء این‌ها می‌فرمودن که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 45.7,
+   "end": 50.27,
+   "text": "صحیفه سجادیه. یعنی بی‌یک‌باره بری تو صحیفه کوب می‌کنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 50.27,
+   "end": 53.8,
+   "text": "این‌ها رو طی کنی بعد بری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 53.8,
+   "end": 60.92,
+   "text": "حالا در این کتاب شریف از امام هادی صلوات الله علیه روایتی رو میاره از پدران",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 60.92,
+   "end": 67.86,
+   "text": "خویش همینطوری سلسله‌وار میره که روایت می‌کند که هرکس این دعا را قبل از طلب حاجتش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 67.86,
+   "end": 70.48,
+   "text": "بخواند دعایش مستجاب می‌شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 70.48,
+   "end": 75.58,
+   "text": "با توجه به فرمایشی که الان از حضرت استاد شنیدیم باید اینطوری گفت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 75.58,
+   "end": 79.94,
+   "text": "که به قدری این دعا قرب به خدا میاره،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 79.94,
+   "end": 84.82,
+   "text": "به حدی انسان رو به خدا نزدیک می‌کنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 84.82,
+   "end": 87.18,
+   "text": "دیگه حاجتش رو خدا میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 87.18,
+   "end": 90.72,
+   "text": "اینطوری باید گفت. اون ملاک قرب دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 90.72,
+   "end": 93.82,
+   "text": "پس اینو یادمون باشه. قبلاً هم یه نکته‌ای در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 93.82,
+   "end": 96.56,
+   "text": "هم پیرامون تاثیرات ادعیه گفتیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 96.56,
+   "end": 99.54,
+   "text": "اگر میگه ثواب این دعا اینه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 99.54,
+   "end": 103.6,
+   "text": "یعنی تاثیری که در نفس می‌گذاره به قدر اینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 103.6,
+   "end": 110.82,
+   "text": "به این شکل. یا الان داره میگه این دعا رو کسی بخونه خدا حاجتشو میده یعنی ببینید چه شدت قربی میاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 110.82,
+   "end": 113.72,
+   "text": "دعا خیلی عالیه. بسیار.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 113.72,
+   "end": 119.88,
+   "text": "یعنی اوج به نظر بنده حقیر اوج توحید افعالیه این دعا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 119.88,
+   "end": 124.58,
+   "text": "اولین رتبه از توحید ثلات دیگه که علامه طباطبایی فرمودن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 124.58,
+   "end": 127.84,
+   "text": "توحید افعالی و صفاتی و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 127.84,
+   "end": 132.6,
+   "text": "ذاتی که البته حضرت امام علیه الرحمه در شرح دعای سحر و جاهای دیگه هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 132.6,
+   "end": 135.44,
+   "text": "یک توحید دیگه‌ای هم بیان می‌کنند چهار قسم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 135.44,
+   "end": 138.56,
+   "text": "توحید اف-- توحید عبادی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 138.56,
+   "end": 143.64,
+   "text": "توحید عبادی که انسان عبادتش صرفاً رضای خدا باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 143.64,
+   "end": 151.06,
+   "text": "خب این دعا چیه؟ من آروم می‌خونم خواستید بنویسید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 151.06,
+   "end": 156.0,
+   "text": "ده خطه. منتها خط‌هاش کوتاهه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 156.0,
+   "end": 159.36,
+   "text": "عبارت ماشاءالله هم ابتدای هر خط تکرار میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 159.36,
+   "end": 165.0,
+   "text": "خیلی عالیه. یعنی به نظرم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 165.0,
+   "end": 170.06,
+   "text": "واقعاً أحلى من العسل این دعا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 170.06,
+   "end": 178.04,
+   "text": "ماشاءالله توجهًا إلى الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 178.04,
+   "end": 182.84,
+   "text": "یعنی چرا میگی ماشاءالله؟ چرا میگی خدا هرچی خدا بخواد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 182.84,
+   "end": 185.2,
+   "text": "به منظور توجه به خدا میگن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 185.2,
+   "end": 189.34,
+   "text": "یعنی اینطوری میشه. ماشاءالله توجهًا إلى الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 189.34,
+   "end": 192.34,
+   "text": "من به خاطر توجه به الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 192.34,
+   "end": 199.22,
+   "text": "که او هم توجه به من کنه اصلاً شاید این دعا ما رو ببره به سمت توجهات عرفانی که گفتیم خیلی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 199.22,
+   "end": 202.28,
+   "text": "سر و رمز و رازی توشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 202.28,
+   "end": 207.18,
+   "text": "ماشاءالله توجهًا إلى الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 207.18,
+   "end": 210.56,
+   "text": "ماشاءالله تعبدًا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 210.56,
+   "end": 215.88,
+   "text": "لله. یعنی برای پرستش خدا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 215.88,
+   "end": 219.84,
+   "text": "ماشاءالله تلطفًا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 219.84,
+   "end": 224.84,
+   "text": "لله. از لطف میاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 224.84,
+   "end": 233.02,
+   "text": "برای اینکه خدا لطف کنه. ماشاءالله تذللاً لله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 233.02,
+   "end": 236.6,
+   "text": "از ذلت میاد. تذللاً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 236.6,
+   "end": 240.66,
+   "text": "لله. برای تواضع در پیشگاه حق میگن ماشاءالله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 240.66,
+   "end": 244.16,
+   "text": "ماشاءالله استنصارًا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 244.16,
+   "end": 247.66,
+   "text": "بالله. یعنی من",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 247.66,
+   "end": 252.6,
+   "text": "به جهت جلب نصرت از خدا میگم ماشاءالله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 252.6,
+   "end": 257.76,
+   "text": "ماشاءالله استکانةً لله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 257.76,
+   "end": 261.34,
+   "text": "استکانةً یعنی خشوع، افتادگی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 261.34,
+   "end": 263.76,
+   "text": "یعنی خودمو زدم زمین در درگاه خدا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 263.76,
+   "end": 271.5,
+   "text": "چه حالی چه. ماشاءالله تضرعًا إلى الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 271.5,
+   "end": 275.96,
+   "text": "به جهت تضرع و زاری به درگاه خدا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 275.96,
+   "end": 280.76,
+   "text": "ماشاءالله استغاثةً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 280.76,
+   "end": 285.02,
+   "text": "بالله. استغاثة، الغوث.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 285.02,
+   "end": 289.72,
+   "text": "یعنی به جهت یاری رساندن و مدد‌جویی از خدا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 289.72,
+   "end": 294.02,
+   "text": "ماشاءالله استعانةً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 294.02,
+   "end": 298.42,
+   "text": "بالله. اون استغاثةً بالله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 298.42,
+   "end": 302.62,
+   "text": "این استعانةً بالله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 302.62,
+   "end": 306.42,
+   "text": "برای یاری طلبن-- طلبیدن از خدا میگم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 306.42,
+   "end": 314.42,
+   "text": "جمله‌ی آخر ماشاءالله لا حول ولا قوة إلا بالله العلي العظيم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 314.42,
+   "end": 319.54,
+   "text": "خودتون الان باید دیگه اذعان کنید که چه عظمتی داره این دعا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 319.54,
+   "end": 328.1,
+   "text": "چقدر عالیه. انسان رو باید واقعاً از زمین بکنه و ببره به عالم بالا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 328.1,
+   "end": 330.7,
+   "text": "دیگه چیزی فروگذار نکرده دیگه تو این دعا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 330.7,
+   "end": 337.24,
+   "text": "همه چی داره. هر چیزی که مورد نیاز ما در درگاه خدا هست رو اینجا بیان کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 337.24,
+   "end": 343.08,
+   "text": "اینم نوش جونتون انشاالله ازش بهره گرفتید ما رو هم دعا کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 343.08,
+   "end": 347.6,
+   "text": "بله؟ صداتونو نمیشنوم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 347.6,
+   "end": 350.54,
+   "text": "یه بار دیگه بخونم؟ ماشاءالله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 350.54,
+   "end": 352.78,
+   "text": "توجهًا إلى الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 352.78,
+   "end": 356.4,
+   "text": "ماشاءالله تعبدًا لله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 356.4,
+   "end": 359.36,
+   "text": "ماشاءالله تلطفًا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 359.36,
+   "end": 364.04,
+   "text": "لله. ماشاءالله تذللاً لله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 364.04,
+   "end": 368.48,
+   "text": "ماشاءالله استنصارًا بالله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 368.48,
+   "end": 372.94,
+   "text": "ماشاءالله استکانةً لله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 372.94,
+   "end": 376.56,
+   "text": "ماشاءالله تضرعًا إلى الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 376.56,
+   "end": 379.06,
+   "text": "ماشاءالله استعا--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 379.06,
+   "end": 382.0,
+   "text": "استغاثةً بالله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 382.0,
+   "end": 384.3,
+   "text": "استغاثةً بالله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 384.3,
+   "end": 387.38,
+   "text": "ماشاءالله استعانةً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 387.38,
+   "end": 397.02,
+   "text": "بالله. ماشاءالله لا حول ولا قوة إلا بالله العلي العظيم. خب این از هدیه ما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

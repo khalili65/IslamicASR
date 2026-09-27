@@ -1,0 +1,66 @@
+{
+ "id": "004",
+ "index": 4,
+ "lecturer": "bayat",
+ "course": "qalb_maknun",
+ "title": "نذر زن بدون اذن شوهر",
+ "topic": null,
+ "summary": "نذر زن بدون اذن، سپس قلب مکنون در انعام ۲۵ با حواس پنج‌گانه و خمیرمایهٔ کودکی و یغظه.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/qalb_maknun/004/004_play.m4a",
+  "filename": "004_play.m4a",
+  "size": 8188295,
+  "display": "7.8 MB",
+  "duration": 674.9,
+  "durationText": "11:15"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "004.vtt",
+   "cues": "004.cues.json",
+   "words": "004.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## نذر زن بدون اذن شوهر",
+   "start": 10.34,
+   "end": 36.7
+  },
+  {
+   "index": 1,
+   "title": "## قلب مکنون؛ آیهٔ بیست‌وپنج انعام",
+   "start": 36.7,
+   "end": 62.06
+  },
+  {
+   "index": 2,
+   "title": "## حواس پنج‌گانه در یک آیه",
+   "start": 62.06,
+   "end": 86.82
+  },
+  {
+   "index": 3,
+   "title": "## هرم فکری کودک",
+   "start": 86.82,
+   "end": 674.9
+  }
+ ],
+ "recordedAt": 1785848746,
+ "sourceName": "قلب مکنون7_ج241.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "003",
+ "next": "005"
+}

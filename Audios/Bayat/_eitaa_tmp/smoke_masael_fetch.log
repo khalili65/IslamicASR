@@ -1,0 +1,34 @@
+resume #15 masael_ebadi (have 11 audio, leftover .part files)
+Opening https://web.eitaa.com
+
+=== 15 masael_ebadi مسائل عبادی _سیاسی_اجتماعی ===
+Opening invite hash 4157932934C264982bb75...
+  channel 'مسائل مهم عبادی، سیاسی، اجتماعی' peerId=-92731349 (chatId=92731349, chatInviteAlready)
+Listing channel audio via getHistory (peerId=-92731349)...
+  history pages=1 scanned=26 audio=23
+  skip     (numbered) #عبادی #اجتماعی #سیاسی ۳-۹-۴۰۳.mp3
+  queued   #عبادی_اجتماعی_سیاسی ۸-۷-۴۰۳.mp3 (9832803 bytes)
+  queued   #عبادی #اجتماعی #سیاسی ۲-۴-۴۰۳.mp3 (9706989 bytes)
+  queued   #عبادی #اجتماعی #سیاسی ۲۶-۳-۴۰۳_1.mp3 (9556524 bytes)
+  collect limit 3 reached
+  wrote catalog with 23 item(s)
+Queued 3 file(s) for download.
+  download [1/3] #عبادی_اجتماعی_سیاسی ۸-۷-۴۰۳.mp3
+           stream size=9832803 bytes
+           retry 1/7 after 3s: Page.evaluate: TypeError: Failed to fetch (web.eitaa.com)
+           trimmed part to 8912896
+           stream size=9832803 bytes resume@8912896
+           saved (9.4 MB)
+  download [2/3] #عبادی #اجتماعی #سیاسی ۲-۴-۴۰۳.mp3
+           stream size=9706989 bytes
+           retry 1/7 after 3s: Page.evaluate: TypeError: Failed to fetch (web.eitaa.com)
+           trimmed part to 8912896
+           stream size=9706989 bytes resume@8912896
+           saved (9.3 MB)
+  download [3/3] #عبادی #اجتماعی #سیاسی ۲۶-۳-۴۰۳_1.mp3
+           stream size=9556524 bytes
+           retry 1/7 after 3s: Page.evaluate: TypeError: Failed to fetch (web.eitaa.com)
+           trimmed part to 8912896
+           stream size=9556524 bytes resume@8912896
+           saved (9.1 MB)
+Done masael_ebadi: downloaded=3 skipped=1 failed=0 filtered=0

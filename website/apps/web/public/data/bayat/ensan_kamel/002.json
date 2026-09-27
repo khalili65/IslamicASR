@@ -1,0 +1,41 @@
+{
+ "id": "002",
+ "index": 2,
+ "lecturer": "bayat",
+ "course": "ensan_kamel",
+ "title": "آغاز سخن",
+ "topic": null,
+ "summary": "بازنویسی کتابی جلسهٔ ensan_kamel / 002 بر اساس گفتار استاد؛ جزئیات روایات و تمثیل‌ها در متن کتاب آمده است.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/ensan_kamel/002/002_play.m4a",
+  "filename": "002_play.m4a",
+  "size": 26495556,
+  "display": "25.3 MB",
+  "duration": 2180.28,
+  "durationText": "36:20"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "002.vtt",
+   "cues": "002.cues.json",
+   "words": "002.words.json"
+  }
+ },
+ "chapters": [],
+ "recordedAt": 1763685451,
+ "sourceName": "بخش اول_سخنرانی_شب دوم محرم_08.05.1401.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "001",
+ "next": "003"
+}

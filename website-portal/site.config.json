@@ -7,7 +7,10 @@
     "dir": "rtl"
   },
   "mode": "portal",
-  "defaultLecturer": "qasemian",
+  "defaultLecturer": "manaee",
+  "sources": {
+    "audioDirs": ["Qasemian", "Manaee", "Shojai"]
+  },
   "theme": {
     "bg": "#F7F8FC",
     "brand": "#BBCAC5",

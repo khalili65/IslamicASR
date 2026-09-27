@@ -183,3 +183,11 @@ export const WaveIcon = ({ className }: IconProps) => (
     <path d="M4 11v2M8 8v8M12 5.5v13M16 8v8M20 11v2" />
   </Svg>
 );
+
+export const AskIcon = ({ className }: IconProps) => (
+  <Svg className={className}>
+    <circle cx="12" cy="12" r="9" />
+    <path d="M9.6 9.4a2.5 2.5 0 1 1 3.6 2.2c-.7.4-1.2.9-1.2 1.7" />
+    <path d="M12 16.6h.01" />
+  </Svg>
+);

@@ -1,0 +1,60 @@
+{
+ "id": "012",
+ "index": 12,
+ "lecturer": "bayat",
+ "course": "qalb_aghlad",
+ "title": "شهادت موسی بن جعفر و لقبی شگفت در صلوات خواجه نصیر",
+ "topic": null,
+ "summary": "در شهادت موسی بن جعفر، صلوات خواجه نصیر لقب «العلوم کاظمیة» را برجسته می‌کند: علم ارث کاظم است که به امام عصر رسیده. علم ناموس خلقت و در خفاست؛ حدیث کنز مخفی و خلقت برای شناخته‌شدن. تعارض ظاهر قیامت با خلق بالحق و کثرت در ملکوت با پاسخ حکیمان؛ دعوت به سیر معرفت نفس علامه حسن‌زاده. قلب اغلف علم را پس می‌زند و آیهٔ بقره/۸۸ لعنت کفر را می‌آورد.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/qalb_aghlad/012/012_play.m4a",
+  "filename": "012_play.m4a",
+  "size": 10628713,
+  "display": "10.1 MB",
+  "duration": 856.94,
+  "durationText": "14:17"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "012.vtt",
+   "cues": "012.cues.json",
+   "words": "012.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## ناموس خلقت؛ علم در خفا",
+   "start": 126.52,
+   "end": 223.64
+  },
+  {
+   "index": 1,
+   "title": "## پاسخ حکیمان و دعوت به سیر معرفتی",
+   "start": 223.64,
+   "end": 309.72
+  },
+  {
+   "index": 2,
+   "title": "## قلب اغلف و پس زدن علم",
+   "start": 309.72,
+   "end": 856.94
+  }
+ ],
+ "recordedAt": 1785942337,
+ "sourceName": "قلب اغلف13_ج303.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "011",
+ "next": "013"
+}

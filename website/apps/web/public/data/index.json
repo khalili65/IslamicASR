@@ -4,7 +4,7 @@
  "defaultLecturer": "bayat",
  "brand": {
   "name": "درس‌گفتارها",
-  "tagline": "حضرت استاد بیات (عبدالزهرا)",
+  "tagline": "استاد بیات (عبدالزهرا)",
   "logo": "",
   "locale": "fa",
   "dir": "rtl"
@@ -33,21 +33,12 @@
  "lecturers": [
   {
    "slug": "bayat",
-   "name": "حضرت استاد بیات (عبدالزهرا)",
+   "name": "استاد بیات (عبدالزهرا)",
    "title": "استاد درس‌گفتارها",
-   "bio": "این درس‌گفتارها از حضرت استاد بیات (عبدالزهرا) است؛ شامل دروس معرفت نفس (شرح آثار علامه حسن‌زاده آملی)، سر مکنون، و لقاء الله.",
-   "avatar": "/images/lecturers/bayat_hero.png?v=6",
+   "bio": "این درس‌گفتارها از استاد بیات (عبدالزهرا) است؛ شامل دروس معرفت نفس، انواع قلب در قرآن، سیر و سلوک، لقاء الله، کتاب الموت، و دیگر سلسله‌ها.",
+   "avatar": "/images/lecturers/bayat_hero.png?v=7",
    "links": [],
    "courses": [
-    {
-     "slug": "ehras_awzat",
-     "title": "احراز و عوذات",
-     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) در باب احراز و عوذات",
-     "cover": "/images/courses/ehras_awzat.png?v=1",
-     "sessionCount": 49,
-     "transcribedCount": 49,
-     "totalDurationText": "10:36:25"
-    },
     {
      "slug": "leghaallah",
      "title": "لقاء الله",
@@ -58,13 +49,346 @@
      "totalDurationText": "81:50:24"
     },
     {
+     "slug": "al_mawt_bihar",
+     "title": "کتاب الموت",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — کتاب الموت",
+     "cover": "/images/courses/al_mawt_bihar.png?v=1",
+     "sessionCount": 171,
+     "transcribedCount": 171,
+     "totalDurationText": "43:59:08"
+    },
+    {
+     "slug": "asrar_ruzeh_namaz",
+     "title": "اسرار روزه و نماز",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — اسرار روزه و نماز",
+     "cover": "/images/courses/asrar_ruzeh_namaz.png?v=1",
+     "sessionCount": 20,
+     "transcribedCount": 20,
+     "totalDurationText": "12:05:49"
+    },
+    {
+     "slug": "darunmayeh_ramadan",
+     "title": "درون مایه ماه مبارک رمضان",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — درون مایه ماه مبارک رمضان",
+     "cover": "/images/courses/darunmayeh_ramadan.png?v=1",
+     "sessionCount": 30,
+     "transcribedCount": 30,
+     "totalDurationText": "5:14:10"
+    },
+    {
+     "slug": "ehras_awzat",
+     "title": "احراز و عوذات",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) در باب احراز و عوذات",
+     "cover": "/images/courses/ehras_awzat.png?v=1",
+     "sessionCount": 49,
+     "transcribedCount": 49,
+     "totalDurationText": "10:36:25"
+    },
+    {
+     "slug": "ensan_kamel",
+     "title": "انسان کامل",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — انسان کامل",
+     "cover": "/images/courses/ensan_kamel.png?v=1",
+     "sessionCount": 11,
+     "transcribedCount": 11,
+     "totalDurationText": "6:58:36"
+    },
+    {
+     "slug": "kashkul_noor",
+     "title": "کشکول نور",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — کشکول نور",
+     "cover": "/images/courses/kashkul_noor.png?v=1",
+     "sessionCount": 82,
+     "transcribedCount": 82,
+     "totalDurationText": "15:06:25"
+    },
+    {
+     "slug": "manazel_saerein",
+     "title": "منازل السائرین",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — منازل السائرین",
+     "cover": "/images/courses/manazel_saerein.png?v=1",
+     "sessionCount": 13,
+     "transcribedCount": 13,
+     "totalDurationText": "8:40:04"
+    },
+    {
+     "slug": "maqamat_imam_zaman",
+     "title": "مقامات امام زمان",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — مقامات امام زمان",
+     "cover": "/images/courses/maqamat_imam_zaman.png?v=1",
+     "sessionCount": 5,
+     "transcribedCount": 5,
+     "totalDurationText": "2:43:29"
+    },
+    {
+     "slug": "maqamat_zahra",
+     "title": "مقامات حضرت زهرا",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — مقامات حضرت زهرا",
+     "cover": "/images/courses/maqamat_zahra.png?v=1",
+     "sessionCount": 11,
+     "transcribedCount": 11,
+     "totalDurationText": "6:30:56"
+    },
+    {
      "slug": "marefat_nafs",
      "title": "دروس معرفت نفس",
      "description": "شرح کتاب‌های علامه حسن‌زاده آملی در مسیر معرفت نفس و حکمت",
-     "cover": "/images/courses/marefat_nafs.png?v=6",
-     "sessionCount": 75,
-     "transcribedCount": 75,
-     "totalDurationText": "59:29:48"
+     "cover": "/images/courses/marefat_nafs.png?v=7",
+     "sessionCount": 78,
+     "transcribedCount": 78,
+     "totalDurationText": "61:53:21"
+    },
+    {
+     "slug": "masael_ebadi",
+     "title": "مسائل عبادی سیاسی اجتماعی",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — مسائل عبادی سیاسی اجتماعی",
+     "cover": "/images/courses/masael_ebadi.png?v=1",
+     "sessionCount": 23,
+     "transcribedCount": 23,
+     "totalDurationText": "4:52:48"
+    },
+    {
+     "slug": "nahj_al_wilayah",
+     "title": "نهج الولایة",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — نهج الولایة",
+     "cover": "/images/courses/nahj_al_wilayah.png?v=1",
+     "sessionCount": 9,
+     "transcribedCount": 9,
+     "totalDurationText": "6:58:22"
+    },
+    {
+     "slug": "nameha_barnameha",
+     "title": "نامه‌ها برنامه‌ها",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — نامه‌ها برنامه‌ها",
+     "cover": "/images/courses/nameha_barnameha.png?v=1",
+     "sessionCount": 50,
+     "transcribedCount": 50,
+     "totalDurationText": "29:32:47"
+    },
+    {
+     "slug": "porsesh_pasokh",
+     "title": "پرسش و پاسخ",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — پرسش و پاسخ",
+     "cover": "/images/courses/porsesh_pasokh.png?v=1",
+     "sessionCount": 43,
+     "transcribedCount": 43,
+     "totalDurationText": "9:56:40"
+    },
+    {
+     "slug": "qalb_aghlad",
+     "title": "قلب اغلف",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — قلب اغلف",
+     "cover": "/images/courses/qalb_aghlad.png?v=1",
+     "sessionCount": 18,
+     "transcribedCount": 18,
+     "totalDurationText": "4:03:51"
+    },
+    {
+     "slug": "qalb_athem",
+     "title": "قلب آثم",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — قلب آثم",
+     "cover": "/images/courses/qalb_athem.png?v=1",
+     "sessionCount": 9,
+     "transcribedCount": 9,
+     "totalDurationText": "2:06:42"
+    },
+    {
+     "slug": "qalb_khashe",
+     "title": "قلب خاشع",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — قلب خاشع",
+     "cover": "/images/courses/qalb_khashe.png?v=1",
+     "sessionCount": 13,
+     "transcribedCount": 13,
+     "totalDurationText": "1:56:21"
+    },
+    {
+     "slug": "qalb_layyen",
+     "title": "قلب لیّن",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — قلب لیّن",
+     "cover": "/images/courses/qalb_layyen.png?v=1",
+     "sessionCount": 21,
+     "transcribedCount": 21,
+     "totalDurationText": "5:18:37"
+    },
+    {
+     "slug": "qalb_makhtum",
+     "title": "قلب مختوم",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — قلب مختوم",
+     "cover": "/images/courses/qalb_makhtum.png?v=1",
+     "sessionCount": 7,
+     "transcribedCount": 7,
+     "totalDurationText": "57:20"
+    },
+    {
+     "slug": "qalb_maknun",
+     "title": "قلب مکنون",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — قلب مکنون",
+     "cover": "/images/courses/qalb_maknun.png?v=1",
+     "sessionCount": 16,
+     "transcribedCount": 16,
+     "totalDurationText": "3:07:20"
+    },
+    {
+     "slug": "qalb_maluf",
+     "title": "قلب مألوف",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — قلب مألوف",
+     "cover": "/images/courses/qalb_maluf.png?v=1",
+     "sessionCount": 20,
+     "transcribedCount": 20,
+     "totalDurationText": "4:18:12"
+    },
+    {
+     "slug": "qalb_manzel",
+     "title": "قلب منزل",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — قلب منزل",
+     "cover": "/images/courses/qalb_manzel.png?v=1",
+     "sessionCount": 40,
+     "transcribedCount": 40,
+     "totalDurationText": "10:47:15"
+    },
+    {
+     "slug": "qalb_maqful",
+     "title": "قلب مقفول",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — قلب مقفول",
+     "cover": "/images/courses/qalb_maqful.png?v=1",
+     "sessionCount": 8,
+     "transcribedCount": 8,
+     "totalDurationText": "1:19:25"
+    },
+    {
+     "slug": "qalb_marub",
+     "title": "قلب مرعوب",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — قلب مرعوب",
+     "cover": "/images/courses/qalb_marub.png?v=1",
+     "sessionCount": 13,
+     "transcribedCount": 13,
+     "totalDurationText": "5:38:53"
+    },
+    {
+     "slug": "qalb_mashrub",
+     "title": "قلب مشروب",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — قلب مشروب",
+     "cover": "/images/courses/qalb_mashrub.png?v=1",
+     "sessionCount": 17,
+     "transcribedCount": 17,
+     "totalDurationText": "5:24:15"
+    },
+    {
+     "slug": "qalb_matbu",
+     "title": "قلب مطبوع",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — قلب مطبوع",
+     "cover": "/images/courses/qalb_matbu.png?v=1",
+     "sessionCount": 3,
+     "transcribedCount": 3,
+     "totalDurationText": "28:44"
+    },
+    {
+     "slug": "qalb_mokhbet",
+     "title": "قلب مخبت",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — قلب مخبت",
+     "cover": "/images/courses/qalb_mokhbet.png?v=1",
+     "sessionCount": 13,
+     "transcribedCount": 13,
+     "totalDurationText": "2:26:27"
+    },
+    {
+     "slug": "qalb_momen",
+     "title": "قلب مؤمن",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — قلب مؤمن",
+     "cover": "/images/courses/qalb_momen.png?v=1",
+     "sessionCount": 29,
+     "transcribedCount": 29,
+     "totalDurationText": "12:48:55"
+    },
+    {
+     "slug": "qalb_momtahan",
+     "title": "قلب ممتحن",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — قلب ممتحن",
+     "cover": "/images/courses/qalb_momtahan.png?v=1",
+     "sessionCount": 25,
+     "transcribedCount": 25,
+     "totalDurationText": "4:56:25"
+    },
+    {
+     "slug": "qalb_monafeq",
+     "title": "قلب منافق",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — قلب منافق",
+     "cover": "/images/courses/qalb_monafeq.png?v=1",
+     "sessionCount": 39,
+     "transcribedCount": 39,
+     "totalDurationText": "6:33:20"
+    },
+    {
+     "slug": "qalb_monghamer",
+     "title": "قلب منغمر",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — قلب منغمر",
+     "cover": "/images/courses/qalb_monghamer.png?v=1",
+     "sessionCount": 22,
+     "transcribedCount": 22,
+     "totalDurationText": "5:54:42"
+    },
+    {
+     "slug": "qalb_monharef",
+     "title": "قلب منحرف",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — قلب منحرف",
+     "cover": "/images/courses/qalb_monharef.png?v=1",
+     "sessionCount": 12,
+     "transcribedCount": 12,
+     "totalDurationText": "1:46:21"
+    },
+    {
+     "slug": "qalb_monib",
+     "title": "قلب منیب",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — قلب منیب",
+     "cover": "/images/courses/qalb_monib.png?v=1",
+     "sessionCount": 19,
+     "transcribedCount": 19,
+     "totalDurationText": "3:11:45"
+    },
+    {
+     "slug": "qalb_morib",
+     "title": "قلب مریب",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — قلب مریب",
+     "cover": "/images/courses/qalb_morib.png?v=1",
+     "sessionCount": 31,
+     "transcribedCount": 31,
+     "totalDurationText": "8:30:34"
+    },
+    {
+     "slug": "qalb_motmaen",
+     "title": "قلب مطمئن",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — قلب مطمئن",
+     "cover": "/images/courses/qalb_motmaen.png?v=1",
+     "sessionCount": 9,
+     "transcribedCount": 9,
+     "totalDurationText": "1:26:29"
+    },
+    {
+     "slug": "qalb_qasi",
+     "title": "قلب قسی",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — قلب قسی",
+     "cover": "/images/courses/qalb_qasi.png?v=1",
+     "sessionCount": 19,
+     "transcribedCount": 19,
+     "totalDurationText": "3:28:05"
+    },
+    {
+     "slug": "qalb_salim",
+     "title": "قلب سلیم",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — قلب سلیم",
+     "cover": "/images/courses/qalb_salim.png?v=1",
+     "sessionCount": 9,
+     "transcribedCount": 9,
+     "totalDurationText": "1:39:20"
+    },
+    {
+     "slug": "sad_kalameh",
+     "title": "صد کلمه در معرفت نفس",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — صد کلمه در معرفت نفس",
+     "cover": "/images/courses/sad_kalameh.png?v=1",
+     "sessionCount": 74,
+     "transcribedCount": 74,
+     "totalDurationText": "17:48:02"
     },
     {
      "slug": "sermaknoon",
@@ -74,6 +398,42 @@
      "sessionCount": 31,
      "transcribedCount": 31,
      "totalDurationText": "9:51:52"
+    },
+    {
+     "slug": "seyr_bahr_olum",
+     "title": "سیر و سلوک سید بحرالعلوم",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — سیر و سلوک سید بحرالعلوم",
+     "cover": "/images/courses/seyr_bahr_olum.png?v=1",
+     "sessionCount": 50,
+     "transcribedCount": 50,
+     "totalDurationText": "30:08:41"
+    },
+    {
+     "slug": "seyr_tabatabai",
+     "title": "سیر و سلوک علامه طباطبایی",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — سیر و سلوک علامه طباطبایی",
+     "cover": "/images/courses/seyr_tabatabai.png?v=1",
+     "sessionCount": 27,
+     "transcribedCount": 27,
+     "totalDurationText": "26:11:49"
+    },
+    {
+     "slug": "sukhtan",
+     "title": "موضوع سوختن",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — موضوع سوختن",
+     "cover": "/images/courses/sukhtan.png?v=1",
+     "sessionCount": 5,
+     "transcribedCount": 5,
+     "totalDurationText": "1:41:41"
+    },
+    {
+     "slug": "ziyarat_jameh",
+     "title": "زیارت جامعه کبیره",
+     "description": "درس‌گفتارهای حضرت استاد بیات (عبدالزهرا) — زیارت جامعه کبیره",
+     "cover": "/images/courses/ziyarat_jameh.png?v=1",
+     "sessionCount": 2,
+     "transcribedCount": 2,
+     "totalDurationText": "1:29:11"
     }
    ]
   }

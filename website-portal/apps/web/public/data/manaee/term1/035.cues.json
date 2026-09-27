@@ -1,0 +1,913 @@
+{
+ "version": 1,
+ "sessionId": "035",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 373.25,
+ "alignment": {
+  "exact": 710,
+  "total": 710,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## تذکر فقهی پیش از قرائت",
+   "start": 10.22,
+   "end": 62.12
+  },
+  {
+   "index": 1,
+   "title": "## امر به خواندن و خلقت انسان از علق",
+   "start": 62.12,
+   "end": 112.62
+  },
+  {
+   "index": 2,
+   "title": "## کلا: انسان به‌جای استقبال، طغیان می‌کند",
+   "start": 112.62,
+   "end": 172.42
+  },
+  {
+   "index": 3,
+   "title": "خداوند می‌فرماید غصه نخور:",
+   "start": 172.42,
+   "end": 192.46
+  },
+  {
+   "index": 4,
+   "title": "## نمونهٔ انسان طغیانگر: نهی از نماز بنده",
+   "start": 192.46,
+   "end": 216.26
+  },
+  {
+   "index": 5,
+   "title": "بعد خدا سؤال می‌کند. می‌گوید:",
+   "start": 216.26,
+   "end": 275.88
+  },
+  {
+   "index": 6,
+   "title": "بعد می‌فرماید:",
+   "start": 275.88,
+   "end": 329.72
+  },
+  {
+   "index": 7,
+   "title": "## فرمان پایانی: اطاعت نکن، سجده کن، نزدیک شو",
+   "start": 329.72,
+   "end": 373.25
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 10.22,
+   "end": 12.52,
+   "text": "فقط یه دور بخونیم ببینیم جاییش گیر دارین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 12.52,
+   "end": 15.36,
+   "text": "بسم الله الرحمن الرحیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 15.36,
+   "end": 24.8,
+   "text": "اقرأ. من اینو بگم حالا احیاناً اگر کسی ما در جمع داریم که چون سوره سجده واجب داره با کسب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 24.8,
+   "end": 33.46,
+   "text": "اجازه و البته عذرخواهی از برادران و خواهران، کسانی که عذر شرعی دارن حتی یک حرف از این سوره رو نباید بخونن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 33.46,
+   "end": 36.72,
+   "text": "ولی گوش دادنش هیچ مانعی نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 36.72,
+   "end": 40.8,
+   "text": "آیه سجده‌دارم من نمی‌خونم چون اینجا امکان سجده نداریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 40.8,
+   "end": 42.7,
+   "text": "انشاالله اون آیه رو نمی‌خونم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 42.7,
+   "end": 47.64,
+   "text": "ترجمه‌ش رو فقط میگم تا سجده هم واجب نشه براتون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 47.64,
+   "end": 52.1,
+   "text": "پس فقط خودتون اونایی که عذر شرعی دارن نخونن فقط گوش بدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 52.1,
+   "end": 54.48,
+   "text": "بقیه اگه بخونن هم اشکال نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 54.48,
+   "end": 56.86,
+   "text": "بسم الله الرحمن الرحیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 56.86,
+   "end": 60.02,
+   "text": "اقرأ باسم ربك الذي",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 60.02,
+   "end": 65.58,
+   "text": "خلق. بخوان به اسم پروردگارت همونی که خلق کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 65.58,
+   "end": 68.18,
+   "text": "خلق الإنسان من علق.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 68.18,
+   "end": 73.58,
+   "text": "خلق یعنی چی؟ یعنی خلق کرد انسان را از علق، خون بسته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 73.58,
+   "end": 77.18,
+   "text": "اقرأ بخوان. وربك الأکرم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 77.18,
+   "end": 82.74,
+   "text": "و پروردگار تو کریم‌تر است، کریم‌ترین است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 82.74,
+   "end": 85.06,
+   "text": "الذي علم بالقلم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 85.06,
+   "end": 89.8,
+   "text": "یعنی چی اکرم؟ یعنی که علم یعنی یاد داد با چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 89.8,
+   "end": 93.58,
+   "text": "با قلم. اون کسی‌ست که یاد داد با قلم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 93.58,
+   "end": 96.62,
+   "text": "چی یاد داد؟ علم الإنسان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 96.62,
+   "end": 101.62,
+   "text": "ما لم يعلم. یاد داد به انسان آنچه را که انسان یاد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 101.62,
+   "end": 103.96,
+   "text": "نگرفت. آنچه را که انسان ندانست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 103.96,
+   "end": 108.58,
+   "text": "آنچه را که انسان ندانست به او تعلیم داد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 108.58,
+   "end": 111.62,
+   "text": "كلا إن الإنسان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 111.62,
+   "end": 113.9,
+   "text": "ليطغى. هرگز،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 113.9,
+   "end": 121.78,
+   "text": "هرگز یعنی چی هرگز؟ یعنی متأسفانه انسان از تعلیم الهی استقبال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 121.78,
+   "end": 124.76,
+   "text": "نکرد بلکه چه می‌کند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 124.76,
+   "end": 129.5,
+   "text": "طغیان می‌کند. علم الإنسان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 129.5,
+   "end": 134.76,
+   "text": "ما لم يعلم ولی إن الإنسان ليطغى.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 134.76,
+   "end": 138.32,
+   "text": "خدا به انسان یاد داد اونی رو که انسان بلد نبود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 138.32,
+   "end": 142.86,
+   "text": "ولی انسان به جای اینکه بگه به دستت درد نکنه چه خوب شد یادم دادی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 142.86,
+   "end": 145.36,
+   "text": "انسان طغیان می‌کند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 145.36,
+   "end": 148.14,
+   "text": "سرکشی می‌کند. إن الإنسان ليطغى.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 148.14,
+   "end": 149.84,
+   "text": "چرا سرکشی می‌کند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 149.84,
+   "end": 151.92,
+   "text": "أن رآه استغنى.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 151.92,
+   "end": 155.68,
+   "text": "چون خود را از تعلیم پروردگارش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 155.68,
+   "end": 158.5,
+   "text": "بی‌نیاز دیده. میگه من می‌خوام چیکار؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 158.5,
+   "end": 162.24,
+   "text": "حالا یاد دادی که چی؟ یاد نمی‌دادی اصلاً.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 162.24,
+   "end": 166.04,
+   "text": "زحمت کشیدی یاد دادی. ولمون کن بذار راحت باشیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 166.04,
+   "end": 170.48,
+   "text": "أن رآه استغنى. خداوند می‌فرماید غصه نخور إن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 170.48,
+   "end": 175.5,
+   "text": "إلى ربك الرجعى. همه اینایی که می‌بینی اینجور پرروگری می‌کنند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 175.5,
+   "end": 178.72,
+   "text": "به سوی پروردگار تو بر می‌گردن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 178.72,
+   "end": 183.66,
+   "text": "آخرش سر کارشون با خود پروردگار توئه که ما باشیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 183.66,
+   "end": 185.84,
+   "text": "أَرَأَيْتَ الَّذِي يَنْهى.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 185.84,
+   "end": 188.16,
+   "text": "می‌بینی این کسی را که نهی می‌کند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 188.16,
+   "end": 190.98,
+   "text": "گویا خدا می‌خواد این انسان طغیانگر رو نشون بده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 190.98,
+   "end": 193.3,
+   "text": "بگه انسان طغیانگر نمونه‌شو ببینید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 193.3,
+   "end": 196.22,
+   "text": "می‌بینی این انسانی را که نهی می‌کند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 196.22,
+   "end": 198.48,
+   "text": "کیو نهی می‌کند؟ عبداً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 198.48,
+   "end": 201.4,
+   "text": "بنده‌ای را. از چی نهی می‌کند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 201.4,
+   "end": 203.54,
+   "text": "إذا صلى از نماز.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 203.54,
+   "end": 209.84,
+   "text": "می‌بینی این انسانی که یه بنده‌ای را وقتی نماز می‌خونه می‌خواد جلوی نماز خوندنشو بگیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 209.84,
+   "end": 213.32,
+   "text": "عبداً إذا صلى. بعد خدا سؤال می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 213.32,
+   "end": 216.26,
+   "text": "میگه أَرَأَيْتَ إِن كَانَ عَلَى الْهُدَى.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 216.26,
+   "end": 225.3,
+   "text": "هیچ توجه کردی اگر این بنده على الهدى بر هدایت استوار باشد چی می‌شه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 225.3,
+   "end": 231.56,
+   "text": "یعنی آدم بیاد یه کسی رو هُل بده یا کسی رو نهی بکنه که بر هدایت استواره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 231.56,
+   "end": 234.22,
+   "text": "أَرَأَيْتَ إِن كَانَ عَلَى الْهُدَى",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 234.22,
+   "end": 236.02,
+   "text": "أو أمر بالتقوى.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 236.02,
+   "end": 240.96,
+   "text": "هیچ فکر کردی اگر این بنده به تقوی امر کنه چی می‌شه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 240.96,
+   "end": 247.0,
+   "text": "یعنی آدم بیاد یه کسی رو که بر هدایت مبتنیست و امر به تقوی می‌کند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 247.0,
+   "end": 252.18,
+   "text": "نهیش بکنه. هیچ فکر کردی به عاقبت این کار؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 252.18,
+   "end": 255.08,
+   "text": "أَرَأَيْتَ إِن كَذَّبَ وَتَوَلَّى.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 255.08,
+   "end": 260.38,
+   "text": "هیچ فکر کردی اگر اینی که نهی می‌کنه تکذیب کرده باشد چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 260.38,
+   "end": 264.12,
+   "text": "اگر اینی که نهی می‌کنه روی گردان شده باشد چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 264.12,
+   "end": 267.44,
+   "text": "چیو تکذیب کرده باشد؟ هدایت را.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 267.44,
+   "end": 269.34,
+   "text": "از چی روی گردان شده باشد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 269.34,
+   "end": 272.18,
+   "text": "از تقوی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 272.18,
+   "end": 275.88,
+   "text": "بعد می‌فرماید أَلَمْ يَعْلَمْ بِأَنَّ اللَّهَ يَرَى.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 275.88,
+   "end": 280.54,
+   "text": "آیا این انسان ندانست که الله می‌بیند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 280.54,
+   "end": 285.96,
+   "text": "كَلَّا لَئِنْ لَمْ يَنتَهِ لَنَسْفَعًا بِالنَّاصِيَةِ.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 285.96,
+   "end": 293.04,
+   "text": "هرگز اگر دست برندارد موی پیشانی او را می‌گیریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 293.04,
+   "end": 295.4,
+   "text": "لَنَسْفَعًا بِالنَّاصِيَةِ.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 295.4,
+   "end": 298.06,
+   "text": "کدوم پیشانی؟ ناصية",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 298.06,
+   "end": 300.4,
+   "text": "كاذبة خاقعة.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 300.4,
+   "end": 305.4,
+   "text": "همون پیشانی دروغگوی خطاکار را.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 305.4,
+   "end": 309.76,
+   "text": "می‌گیریم از پیشونی‌ش یعنی می‌گیریمش تو مشتمون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 309.76,
+   "end": 311.74,
+   "text": "فليَدْعُ نادِيَه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 311.74,
+   "end": 316.92,
+   "text": "اون موقع صدا کنه اینایی که دور و برش جمع شدن دارن هو می‌کنن، سر و صدا می‌کنند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 316.92,
+   "end": 320.7,
+   "text": "براش کف می‌زنن، اون موقع صداشون کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 320.7,
+   "end": 323.36,
+   "text": "فليَدْعُ نادِيَه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 323.36,
+   "end": 325.88,
+   "text": "خب اونا رو صدا کرد تو می‌خوای چیکار کنی خدایا؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 325.88,
+   "end": 327.74,
+   "text": "سَنَدْعُ زَبَانِيَه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 327.74,
+   "end": 334.64,
+   "text": "ما هم آتیش رو صدا می‌کنیم. بعد خدا می‌فرماید که پیغمبر من اطاعت از او",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 334.64,
+   "end": 336.78,
+   "text": "نکن و سجده کن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 336.78,
+   "end": 339.16,
+   "text": "و به درگاه ما بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 339.16,
+   "end": 343.36,
+   "text": "نزدیک شو. پس ما تو ترجمه الحمد لله مشکلی نداریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 343.36,
+   "end": 346.22,
+   "text": "اتصال سیاقی برقراره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 346.22,
+   "end": 349.02,
+   "text": "چرا برقراره؟ به‌خاطر اینکه خیلی روشن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 349.02,
+   "end": 352.0,
+   "text": "ببینید اینجا اقرأ، اقرأ که روشنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 352.0,
+   "end": 358.18,
+   "text": "اینجا این كَلَّا إِنَّ الْإِنْسَانَ لَيَطْغَى همین انسانیه که عَلَّمَ الْإِنْسَانَ مَا لَمْ يَعْلَمْ.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 358.18,
+   "end": 366.76,
+   "text": "این روشنه. بعد اینجام که میگه أَرَأَيْتَ الَّذِي يَنْهى داره مثال می‌زنه به کسی که إن الإنسان بگید ليطغى.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 366.76,
+   "end": 369.92,
+   "text": "پس تو یه سیاق هستیم با فرازهای متعدد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 369.92,
+   "end": 373.25,
+   "text": "انشاالله ساعت بعدی می‌خوایم تدبر رو کامل بکنیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

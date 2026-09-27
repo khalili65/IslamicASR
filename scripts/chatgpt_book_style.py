@@ -1,34 +1,35 @@
 #!/usr/bin/env python3
-"""Turn cleaned ASR transcripts into book-style Persian prose via ChatGPT's web UI.
+"""Turn raw or cleaned ASR transcripts into book-style Markdown via ChatGPT's web UI.
 
-This drives chatgpt.com in a real browser with your own logged-in session, so it
-uses your ChatGPT subscription instead of the paid API.
+Pipeline (see prompts/lecture-transcript-pipeline.md):
+  1. ElevenLabs ASR → *.txt (raw, never overwritten)
+  2. This script → *.book.md (citations, clarity, drop Q&A, Farsi under Arabic, polish)
+  3. --summarize → *.summary.md
+
+Uses chatgpt.com in a real browser with your logged-in session (subscription, not API).
 
 Usage:
-    python scripts/chatgpt_book_style.py --login                      # once, to sign in
-    python scripts/chatgpt_book_style.py Audios/Bayat/marefat_nafs --dry-run
-    python scripts/chatgpt_book_style.py Audios/Bayat/marefat_nafs --only 019
-    python scripts/chatgpt_book_style.py Audios/Bayat/marefat_nafs --jobs 20
+    python scripts/chatgpt_book_style.py --login
+    python scripts/chatgpt_book_style.py Audios/Tadabor_Sobohi/Manaee/Term1 --dry-run
+    python scripts/chatgpt_book_style.py Audios/Tadabor_Sobohi/Manaee/Term1 --only 001
+    python scripts/chatgpt_book_style.py Audios/Bayat/marefat_nafs --jobs 3
+    python scripts/chatgpt_book_style.py Audios/.../Term1 --summarize
 
-For every `*.cleaned.txt` it finds, the script opens one new chat, sends the
-transcript in chunks (a 90-minute lecture is far too long for one message), and
-writes the replies to `*.book.md` beside the source. Each chunk's reply is also
-cached in `.book_parts_<stem>/`, so an interrupted run resumes where it stopped.
+By default the script reads raw `*.txt` (strips `--- Segments ---`). Use
+`--input cleaned` for legacy `*.cleaned.txt` files.
 
-`--jobs N` opens N ChatGPT tabs in one browser and processes N lectures at once.
+Each lecture opens one new chat, sends the transcript in chunks, and writes
+`*.book.md`. Chunk replies are cached in `.book_parts_<stem>/` for resume.
 
 Setup:
     pip install playwright
     playwright install chromium
 
-`--login` opens a browser window where you sign in normally. The session lives in
-a local browser profile (default `~/.chatgpt_playwright_profile`), so later runs
-need no login. The window is visible by design: ChatGPT blocks headless traffic,
-and you may need to answer a captcha or pick the thinking model by hand.
+`--login` saves the session in ~/.chatgpt_playwright_profile. The window stays
+visible — ChatGPT blocks headless traffic.
 
-chatgpt.com's markup is not a stable API. If a run reports that it cannot find
-the composer or the reply, pass different selectors via `--composer-selector` /
-`--assistant-selector` instead of editing this file.
+If the composer or reply selectors break, pass --composer-selector /
+--assistant-selector instead of editing this file.
 """
 
 from __future__ import annotations
@@ -92,28 +93,96 @@ LOGIN_MARKERS = (
 )
 
 OUTPUT_SUFFIX = ".book.md"
+SUMMARY_SUFFIX = ".summary.md"
 PARTS_PREFIX = ".book_parts_"
+SUMMARY_PARTS_PREFIX = ".summary_parts_"
+SEGMENTS_MARKER = "--- Segments ---"
+
+DERIVED_TXT_SUFFIXES = (
+    ".corrected.txt",
+    ".cleaned.txt",
+    ".partial.txt",
+    ".rawbak",
+)
 
 # Persian sentence enders, used when a single paragraph is longer than the budget.
 SENTENCE_SPLIT = re.compile(r"(?<=[.!?؟؛])\s+")
 
-STYLE_RULES = """این متن، پیاده‌سازیِ ماشینیِ گفتار (ASR) از یک سخنرانی فارسی است و کاملاً «گفتاری» است. می‌خواهم آن را به نثرِ «نوشتاریِ کتابی» تبدیل کنی تا در یک کتاب چاپ شود.
+STYLE_RULES = """این متن، پیاده‌سازیِ ماشینی (ASR) از گفتارِ یک استاد در جلسهٔ درس/سخنرانی فارسی است. آن را به یک فایل **مطالعهٔ کتابی** به‌صورت Markdown تبدیل کن.
 
-قواعد الزامی:
-۱) فقط ویرایشِ زبانی و نگارشی. مفهوم، استدلال، ترتیب مطالب، مثال‌ها، داستان‌ها و پرسش‌وپاسخ‌ها را تغییر نده.
-۲) هیچ مطلبی اضافه نکن و هیچ مطلبی حذف نکن. خلاصه نکن. تفسیر، توضیح، نتیجه‌گیری یا پانویسِ از خودت اضافه نکن.
-۳) فعل‌ها و ضمیرهای شکستهٔ گفتاری را نوشتاری کن (می‌گه ← می‌گوید، اینو ← این را، می‌تونیم ← می‌توانیم، تو بحث ← در بحث).
-۴) کلمات پرکننده و تکرارهای بی‌معنای گفتاری (مانند «خب»، «دیگه»، «یعنی»های تکراری، لکنت‌ها و جمله‌های نیمه‌رها) را حذف یا اصلاح کن، اما محتوا را دست‌نخورده نگه دار.
-۵) جمله‌های ناتمام یا آشفتهٔ ASR را به جملهٔ کاملِ روان تبدیل کن، بدون افزودنِ معنای جدید.
-۶) عبارت‌های عربی (آیات، روایات، دعاها) را دقیقاً همان‌گونه که آمده نگه دار؛ ترجمه نکن و حدسی اصلاح نکن.
-۷) پرسش‌های حاضران و پاسخ استاد را حفظ کن؛ در صورت نیاز با «پرسش:» و «پاسخ:» از هم جدا کن.
-۸) پاراگراف‌بندیِ مناسبِ کتاب انجام بده، اما عنوان و تیتر و شماره‌گذاریِ جدید اختراع نکن.
-۹) خروجی فقط و فقط متنِ ویرایش‌شدهٔ فارسی باشد: بدون مقدمه، بدون توضیح دربارهٔ کاری که کردی، و بدون عبارت‌هایی مثل «در ادامه…».
-۱۰) اگر جایی نامفهوم است، نزدیک‌ترین صورتِ روانِ همان جمله را بنویس و چیزی از خودت به محتوا نیفزا.
+## کارهایی که باید انجام دهی
 
-متن در {total} بخشِ پشت‌سرهم فرستاده می‌شود. هر بخش را جداگانه ویرایش کن و بی‌درنگ فقط متنِ ویرایش‌شدهٔ همان بخش را بازگردان، سپس منتظرِ بخش بعدی بمان."""
+### ۱) اصلاحِ ارجاعات و نقلِ اسلامی
+- آیات قرآن، احادیث، نهج‌البلاغه، ادعیه و نقل‌های عربی/کلاسیک را وقتی قابل‌شناسایی‌اند اصلاح کن.
+- نام سوره، شماره آیه، «صلوات»، «علیه‌السلام» و عبارات مذهبیِ mangled را درست کن.
+- برای هر نقلِ مهم، در صورت امکان **جست‌وجوی وب** بزن و متن معتبر را بیار (tanzil.net، quran.com، منابع معتبر).
+- نقل را حدسی گسترش نده؛ فقط همان بخشی را که سخنران خوانده یا اشاره کرده بازسازی کن.
 
-CHUNK_HEADER = "بخش {index} از {total} — با همان قواعد ویرایش کن و فقط متنِ ویرایش‌شده را بده:"
+### ۲) ویرایشِ وضوح (بدون تغییرِ فکر استاد)
+- ایده، استدلال، ترتیب مطالب، مثال‌ها و داستان‌های **استاد** را حفظ کن.
+- garble سنگین ASR را به فارسیِ روان تبدیل کن (می‌گه ← می‌گوید، اینو ← این را).
+- پرکننده‌های بی‌معنا («خب»، «دیگه»، لکنت، تکرار) را کم کن؛ محتوای علمی/معنوی را نه.
+
+### ۳) حذفِ کاملِ گفتارِ حاضران (فقط صدای استاد بماند)
+- **فقط monologue استاد** در خروجی باشد — انگار فقط یک نوارِ صوتی از سخنرانی استاد را می‌خوانی.
+- **حذف کن (کامل، بدون بازنویسی):**
+  - هر سؤال، جواب، یا حرفِ دانشجو / حاضر / سالن
+  - «بلند بگویید»، «جان؟»، «خواهرها چه گفتند؟»، «احسنت»، شوخی با جمع
+  - گفت‌وگوی دونفره یا چندنفرهٔ جانبی
+  - متنِ ASRِ نامفهوم که clearly از میکروفونِ دور یا صدای مخاطب است — **بازسازی نکن**؛ همان بخش را حذف کن
+  - نشانه‌هایی مثل `[صدای …]`، `[پخش …]`، `[خنده]` وقتی مربوط به مخاطب است
+- **نگه دار:** وقتی **خودِ استاد** سؤال می‌پرسد و خودش جواب می‌دهد (بحث درسی).
+- اگر استاد خلاصهٔ سؤالِ مخاطب را تکرار می‌کند و بعد پاسخ می‌دهد، **فقط پاسخِ استاد** (و تکرارِ خلاصه در صورت نیاز) بماند؛ متنِ خامِ سؤالِ مخاطب نیاید.
+
+### ۴) ترجمهٔ فارسی زیر عربی
+- زیر هر بلوک عربی، این برچسب را بگذار:
+  > **ترجمهٔ فارسی (توسط مدل، نه استاد):** …
+- در ابتدای فایل (بخش اول) یک یادداشت کوتاه: ترجمه‌های زیرِ عربی توسط **مدل** است نه استاد.
+
+### ۵) قالب Markdown
+- با `##` / `###` بر اساس جریان جلسه بخش‌بندی کن.
+- آیات را با فونت بزرگ‌تر HTML بنویس، مثلاً:
+  ```html
+  <p class="ayah-ar" dir="rtl" style="font-size:1.5em; line-height:2.1; font-family: Amiri, 'Scheherazade New', 'Noto Naskh Arabic', serif;">
+  «…» <span class="ayah-ref">(سوره/آیه)</span>
+  </p>
+  ```
+- در **بخش آخر** یک پاورقی: منبع ASR، ترجمه‌ها از مدل، پرسش‌وپاسخ حذف شده، Segments نیست.
+
+## قواعد سخت
+- **خلاصه نکن.** این فایل مطالعه است نه digest (خلاصه جداگانه می‌آید).
+- ادعای تازه یا آیه‌ای که سخنران نگفته **نیاور**.
+- خروجی **فقط Markdown ویرای‌شده** — بدون «البته من … کردم»، بدون توضیح دربارهٔ دستورالعمل.
+- اگر جایی نامفهوم است، همان معنا را روان بنویس؛ حدسِ جدید نزن.
+
+متن در {total} بخش پشت‌سرهم می‌آید. هر بخش را جداگانه ویرایش کن و **فقط** خروجی همان بخش را بده، سپس منتظر بخش بعد بمان."""
+
+SUMMARY_RULES = """این متن، نسخهٔ **کتابیِ ویرای‌شده** از یک جلسهٔ درس/سخنرانی فارسی است (`*.book.md`). یک فایل خلاصهٔ Markdown بنویس.
+
+## ساختار خروجی (دقیقاً این سرعنوان‌ها)
+
+## خلاصهٔ کوتاه
+۵–۱۰ جمله: موضوع جلسه و پیام اصلی.
+
+## فهرست مطالب
+فهرست bullet از بخش‌های جلسه (هم‌تراز با عناوین book.md).
+
+## نکات کلیدی
+۸–۱۵ bullet: ادعاها، توصیه‌ها، هشدارها، اعمالی که استاد تأکید کرد.
+
+## اصطلاحات و منابع
+(فقط اگر در جلسه بود) اصطلاحات فنی + کتاب/مرجع نام‌برده.
+
+---
+> خلاصه توسط **مدل** از متن کتابیِ جلسه — نقل مستقیم طولانی از عربی لازم نیست.
+
+## قواعد
+- فقط از روی متن؛ چیز جدید اختراع نکن.
+- آیات/روایات را دوباره طولانی نقل نکن.
+- فارسی روان و فشرده."""
+
+CHUNK_HEADER = "بخش {index} از {total} — با همان قواعد ویرایش کن و فقط Markdownِ ویرای‌شدهٔ همان بخش را بده:"
+SUMMARY_HEADER = "متن کاملِ جلسه — خلاصهٔ Markdown بنویس (فقط خروجی خلاصه، بدون مقدمه):"
 RESUME_NOTE = (
     "برای پیوستگی، پایانِ بخشِ ویرایش‌شدهٔ پیشین را می‌آورم. آن را بازنویسی نکن و "
     "در خروجی تکرارش نکن؛ فقط لحن و ادامهٔ مطلب را با آن هم‌آهنگ کن:"
@@ -133,14 +202,91 @@ def log(message: str) -> None:
 # --------------------------------------------------------------------------- #
 
 
-def find_transcripts(target: Path) -> list[Path]:
-    """Collect `*.cleaned.txt` files from a file, a lecture folder, or a series."""
+def is_derived_txt(path: Path) -> bool:
+    name = path.name
+    if not name.endswith(".txt"):
+        return False
+    return any(name.endswith(suffix) for suffix in DERIVED_TXT_SUFFIXES)
+
+
+def transcript_stem(path: Path) -> str:
+    for suffix in (".cleaned.txt", ".txt"):
+        if path.name.endswith(suffix):
+            return path.name[: -len(suffix)]
+    return path.stem
+
+
+def continuous_text(text: str) -> str:
+    """Drop the timestamp block; ChatGPT only needs continuous prose."""
+    if SEGMENTS_MARKER in text:
+        return text.split(SEGMENTS_MARKER, 1)[0].strip()
+    return text.strip()
+
+
+def find_transcripts(target: Path, input_kind: str) -> list[Path]:
+    """Collect transcript files from a file, lecture folder, or series."""
     if target.is_file():
-        return [target]
+        if target.suffix == ".md" and target.name.endswith(".book.md"):
+            return []
+        if target.suffix == ".txt" and not is_derived_txt(target):
+            return [target]
+        if target.name.endswith(".cleaned.txt"):
+            return [target]
+        sys.exit(f"Not a transcript file: {target}")
     if not target.is_dir():
         sys.exit(f"Not found: {target}")
-    found = sorted(target.glob("*.cleaned.txt")) + sorted(target.glob("*/*.cleaned.txt"))
-    return [path for path in found if path.is_file()]
+
+    found: list[Path] = []
+    patterns = ("*.txt", "*/*.txt")
+    if input_kind in ("cleaned", "auto"):
+        patterns = ("*.cleaned.txt", "*/*.cleaned.txt") + patterns
+
+    seen: set[Path] = set()
+    for pattern in patterns:
+        for path in sorted(target.glob(pattern)):
+            if not path.is_file() or path in seen:
+                continue
+            if path.name.endswith(".cleaned.txt"):
+                seen.add(path)
+                found.append(path)
+            elif not is_derived_txt(path):
+                seen.add(path)
+                found.append(path)
+
+    if input_kind == "raw":
+        return [p for p in found if not p.name.endswith(".cleaned.txt")]
+    if input_kind == "cleaned":
+        return [p for p in found if p.name.endswith(".cleaned.txt")]
+    # auto: prefer raw *.txt; drop cleaned when raw exists for same stem
+    by_stem: dict[str, Path] = {}
+    for path in found:
+        stem = transcript_stem(path)
+        existing = by_stem.get(stem)
+        if existing is None:
+            by_stem[stem] = path
+        elif path.name.endswith(".cleaned.txt") and not existing.name.endswith(".cleaned.txt"):
+            continue
+        else:
+            by_stem[stem] = path
+    return sorted(by_stem.values())
+
+
+def find_book_files(target: Path) -> list[Path]:
+    """Collect *.book.md files for the summarize pass."""
+    if target.is_file():
+        return [target] if target.name.endswith(".book.md") else []
+    if not target.is_dir():
+        sys.exit(f"Not found: {target}")
+    return sorted(
+        p
+        for pattern in ("*.book.md", "*/*.book.md")
+        for p in target.glob(pattern)
+        if p.is_file()
+    )
+
+
+def book_stem(path: Path) -> str:
+    return path.name[: -len(".book.md")]
 
 
 def lecture_number(path: Path) -> int | None:
@@ -208,17 +354,21 @@ def split_chunks(text: str, budget: int) -> list[str]:
     return chunks
 
 
-def parts_dir(transcript: Path) -> Path:
-    stem = transcript.name[: -len(".cleaned.txt")]
-    return transcript.parent / f"{PARTS_PREFIX}{stem[:60]}"
+def parts_dir(transcript: Path, prefix: str = PARTS_PREFIX) -> Path:
+    stem = transcript_stem(transcript)
+    return transcript.parent / f"{prefix}{stem[:60]}"
 
 
-def part_path(transcript: Path, index: int) -> Path:
-    return parts_dir(transcript) / f"part_{index:03d}.md"
+def part_path(transcript: Path, index: int, prefix: str = PARTS_PREFIX) -> Path:
+    return parts_dir(transcript, prefix) / f"part_{index:03d}.md"
 
 
 def output_path(transcript: Path, suffix: str) -> Path:
-    return transcript.parent / (transcript.name[: -len(".cleaned.txt")] + suffix)
+    return transcript.parent / (transcript_stem(transcript) + suffix)
+
+
+def summary_output_path(book: Path) -> Path:
+    return book.parent / (book_stem(book) + SUMMARY_SUFFIX)
 
 
 def partial_suffix(suffix: str) -> str:
@@ -588,12 +738,18 @@ async def ask(page, composer, message: str, args, before_text: str, tag: str = "
 # --------------------------------------------------------------------------- #
 
 
-def build_message(index: int, total: int, chunk: str, previous_tail: str | None) -> str:
+def build_message(
+    index: int,
+    total: int,
+    chunk: str,
+    previous_tail: str | None,
+    rules: str = STYLE_RULES,
+) -> str:
     parts = []
     if index == 1:
-        parts.append(STYLE_RULES.format(total=total))
+        parts.append(rules.format(total=total))
     elif previous_tail:
-        parts.append(STYLE_RULES.format(total=total))
+        parts.append(rules.format(total=total))
         parts.append(f"{RESUME_NOTE}\n\n«…{previous_tail}»")
     parts.append(CHUNK_HEADER.format(index=index, total=total))
     parts.append(chunk)
@@ -601,7 +757,8 @@ def build_message(index: int, total: int, chunk: str, previous_tail: str | None)
 
 
 async def process_transcript(page, transcript: Path, args, tag: str = "") -> Path | None:
-    text = transcript.read_text(encoding="utf-8")
+    raw = transcript.read_text(encoding="utf-8")
+    text = continuous_text(raw)
     chunks = split_chunks(text, args.chunk_chars)
     if not chunks:
         log(f"{tag}Skipping {transcript.name}: no text in it.")
@@ -639,7 +796,7 @@ async def process_transcript(page, transcript: Path, args, tag: str = "") -> Pat
             tail = None
             if index > 1 and position == 0 and previous.exists():
                 tail = previous.read_text(encoding="utf-8").strip()[-args.tail_chars :]
-            message = build_message(index, len(chunks), chunks[index - 1], tail)
+            message = build_message(index, len(chunks), chunks[index - 1], tail, STYLE_RULES)
 
             log(f"{tag}  chunk {index}/{len(chunks)} → sending {len(chunks[index - 1]):,} chars")
             before_text = await last_reply_text(page, args.assistant_selector)
@@ -672,6 +829,82 @@ async def process_transcript(page, transcript: Path, args, tag: str = "") -> Pat
     return target
 
 
+async def process_summary(page, book: Path, args, tag: str = "") -> Path | None:
+    text = book.read_text(encoding="utf-8").strip()
+    if not text:
+        log(f"{tag}Skipping {book.name}: empty.")
+        return None
+
+    target = summary_output_path(book)
+    cache = parts_dir(book, SUMMARY_PARTS_PREFIX)
+    cache.mkdir(exist_ok=True)
+
+    chunks = split_chunks(text, args.summary_chunk_chars)
+    done = {
+        i
+        for i in range(1, len(chunks) + 1)
+        if (cache / f"part_{i:03d}.md").exists()
+    }
+    todo = [i for i in range(1, len(chunks) + 1) if i not in done]
+
+    log(
+        f"{tag}{book.parent.name}: summarize {len(text):,} chars, "
+        f"{len(chunks)} chunk(s), sending {len(todo)}."
+    )
+
+    if len(chunks) == 1:
+        message = f"{SUMMARY_RULES}\n\n{SUMMARY_HEADER}\n\n{text}"
+        composer = await start_chat(
+            page, args.model, args.composer_selectors, args.load_timeout, tag, args.rate_limit_wait
+        )
+        before_text = await last_reply_text(page, args.assistant_selector)
+        reply = await ask(page, composer, message, args, before_text, tag)
+        target.write_text(reply + "\n", encoding="utf-8")
+        log(f"{tag}  wrote {target.name} ({len(reply):,} chars)")
+        return target
+
+    # Very long book.md: summarize each chunk, then merge in a final chat.
+    if todo:
+        composer = await start_chat(
+            page, args.model, args.composer_selectors, args.load_timeout, tag, args.rate_limit_wait
+        )
+        for index in todo:
+            header = f"بخش {index} از {len(chunks)} — فقط یادداشت‌های خلاصه برای این قطعه:"
+            message = f"{SUMMARY_RULES}\n\n{header}\n\n{chunks[index - 1]}"
+            before_text = await last_reply_text(page, args.assistant_selector)
+            reply = await ask(page, composer, message, args, before_text, tag)
+            (cache / f"part_{index:03d}.md").write_text(reply + "\n", encoding="utf-8")
+            if index != todo[-1]:
+                await page.wait_for_timeout(int(args.delay * 1000))
+                composer = await wait_for_composer(
+                    page,
+                    args.composer_selectors,
+                    args.load_timeout,
+                    rate_limit_budget=args.rate_limit_wait,
+                    tag=tag,
+                )
+
+    partial_notes = "\n\n".join(
+        (cache / f"part_{i:03d}.md").read_text(encoding="utf-8").strip()
+        for i in range(1, len(chunks) + 1)
+        if (cache / f"part_{i:03d}.md").exists()
+    )
+    merge_message = (
+        f"{SUMMARY_RULES}\n\n"
+        "یادداشت‌های خلاصهٔ هر بخش از یک جلسهٔ طولانی:\n\n"
+        f"{partial_notes}\n\n"
+        "اکنون **یک** فایل خلاصهٔ نهایی با ساختار خواسته‌شده بنویس (بدون تکرار بخش‌ها):"
+    )
+    composer = await start_chat(
+        page, args.model, args.composer_selectors, args.load_timeout, tag, args.rate_limit_wait
+    )
+    before_text = await last_reply_text(page, args.assistant_selector)
+    reply = await ask(page, composer, merge_message, args, before_text, tag)
+    target.write_text(reply + "\n", encoding="utf-8")
+    log(f"{tag}  wrote {target.name} ({len(reply):,} chars)")
+    return target
+
+
 # --------------------------------------------------------------------------- #
 # CLI
 # --------------------------------------------------------------------------- #
@@ -679,18 +912,27 @@ async def process_transcript(page, transcript: Path, args, tag: str = "") -> Pat
 
 def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Rewrite cleaned ASR transcripts as book-style Persian prose "
-        "using the ChatGPT web app (no API key).",
+        description="Raw ASR → book-style Markdown (+ optional summary) via ChatGPT web UI.",
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
     parser.add_argument(
         "target",
         nargs="?",
         type=Path,
-        help="A *.cleaned.txt file, a lecture folder, or a series folder "
-        "(e.g. Audios/Bayat/marefat_nafs).",
+        help="A *.txt file, lecture folder (001/), or series folder.",
     )
     parser.add_argument("--login", action="store_true", help="Open the browser to sign in, then exit.")
+    parser.add_argument(
+        "--summarize",
+        action="store_true",
+        help="Summarize existing *.book.md → *.summary.md (instead of book pass).",
+    )
+    parser.add_argument(
+        "--input",
+        choices=("raw", "cleaned", "auto"),
+        default="raw",
+        help="Transcript source: raw *.txt (default), *.cleaned.txt, or auto-prefer-raw.",
+    )
     parser.add_argument(
         "--wait-login",
         type=float,
@@ -717,7 +959,13 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     selection.add_argument("--max-chunks", type=int, default=0, help="Send at most N chunks per lecture (smoke test).")
 
     pacing = parser.add_argument_group("pacing and limits")
-    pacing.add_argument("--chunk-chars", type=int, default=6000, help="Characters per message (default 6000).")
+    pacing.add_argument("--chunk-chars", type=int, default=6000, help="Characters per book message (default 6000).")
+    pacing.add_argument(
+        "--summary-chunk-chars",
+        type=int,
+        default=12000,
+        help="Characters per chunk when summarizing very long book.md (default 12000).",
+    )
     pacing.add_argument("--tail-chars", type=int, default=600, help="Context carried into a resumed chat.")
     pacing.add_argument("--delay", type=float, default=5.0, help="Seconds to wait between messages.")
     pacing.add_argument("--response-timeout", type=float, default=900.0, help="Max seconds to wait per reply.")
@@ -739,7 +987,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     )
 
     advanced = parser.add_argument_group("advanced")
-    advanced.add_argument("--suffix", default=OUTPUT_SUFFIX, help=f"Output suffix (default {OUTPUT_SUFFIX}).")
+    advanced.add_argument("--suffix", default=OUTPUT_SUFFIX, help=f"Book output suffix (default {OUTPUT_SUFFIX}).")
     advanced.add_argument("--composer-selector", help="Override the message-box selector.")
     advanced.add_argument("--assistant-selector", default=ASSISTANT_SELECTOR, help="Override the reply selector.")
     advanced.add_argument(
@@ -774,10 +1022,21 @@ async def run_login(args) -> None:
         await context.close()
 
 
-def run_dry(transcripts: list[Path], args) -> None:
+def run_dry(transcripts: list[Path], args, summarize: bool = False) -> None:
     total_chunks = 0
+    if summarize:
+        for book in transcripts:
+            text = book.read_text(encoding="utf-8")
+            chunks = split_chunks(text, args.summary_chunk_chars)
+            total_chunks += max(1, len(chunks))
+            exists = "exists" if summary_output_path(book).exists() else "-"
+            log(f"{book.parent.name}: {len(text):,} chars → summary output={exists}")
+        log(f"{len(transcripts)} book file(s) to summarize.")
+        return
+
     for transcript in transcripts:
-        chunks = split_chunks(transcript.read_text(encoding="utf-8"), args.chunk_chars)
+        text = continuous_text(transcript.read_text(encoding="utf-8"))
+        chunks = split_chunks(text, args.chunk_chars)
         total_chunks += len(chunks)
         cached = sum(1 for i in range(1, len(chunks) + 1) if part_path(transcript, i).exists())
         exists = "exists" if output_path(transcript, args.suffix).exists() else "-"
@@ -789,20 +1048,20 @@ def run_dry(transcripts: list[Path], args) -> None:
     log(f"{len(transcripts)} lecture(s), {total_chunks} message(s) to send in total.")
 
 
-async def run_parallel(transcripts: list[Path], args) -> int:
+async def run_parallel(items: list[Path], args, summarize: bool = False) -> int:
     """Process lectures across `args.jobs` ChatGPT tabs in one browser window."""
-    jobs = min(args.jobs, len(transcripts))
+    jobs = min(args.jobs, len(items))
     if jobs > 12:
         log(
             f"Opening {jobs} tabs — ChatGPT may rate-limit or show captchas; "
             "rerun with a smaller --jobs if that happens."
         )
     else:
-        log(f"Opening {jobs} tab(s) for {len(transcripts)} lecture(s).")
+        log(f"Opening {jobs} tab(s) for {len(items)} item(s).")
 
     queue: asyncio.Queue[Path | None] = asyncio.Queue()
-    for transcript in transcripts:
-        await queue.put(transcript)
+    for item in items:
+        await queue.put(item)
     for _ in range(jobs):
         await queue.put(None)
 
@@ -829,32 +1088,33 @@ async def run_parallel(transcripts: list[Path], args) -> int:
                     await asyncio.sleep(args.stagger * (worker_id - 1))
                 page = bootstrap if worker_id == 1 else await context.new_page()
                 while not stop.is_set():
-                    transcript = await queue.get()
-                    if transcript is None:
+                    item = await queue.get()
+                    if item is None:
                         return
                     if stop.is_set():
                         return
                     try:
-                        await process_transcript(page, transcript, args, tag)
+                        if summarize:
+                            await process_summary(page, item, args, tag)
+                        else:
+                            await process_transcript(page, item, args, tag)
                     except RateLimitedError as exc:
                         async with fail_lock:
                             failures += 1
-                        log(f"{tag}{transcript.parent.name}: {exc}")
+                        log(f"{tag}{item.parent.name}: {exc}")
                         stop.set()
-                        # Put the lecture back so a later rerun still sees it as unfinished
-                        # (its finished chunks remain cached).
                         return
                     except BrowserFlowError as exc:
                         async with fail_lock:
                             failures += 1
-                        log(f"{tag}{transcript.parent.name}: {exc}")
+                        log(f"{tag}{item.parent.name}: {exc}")
                         if args.stop_on_error:
                             stop.set()
                             return
                     except Exception as exc:  # noqa: BLE001  keep other tabs going
                         async with fail_lock:
                             failures += 1
-                        log(f"{tag}{transcript.parent.name}: unexpected error: {exc}")
+                        log(f"{tag}{item.parent.name}: unexpected error: {exc}")
                         if args.stop_on_error:
                             stop.set()
                             return
@@ -874,33 +1134,40 @@ def main(argv: list[str] | None = None) -> int:
         if args.target is None:
             return 0
 
-    transcripts = filter_transcripts(
-        find_transcripts(args.target), args.only, args.start, args.end
-    )
-    if not args.overwrite:
-        transcripts = [t for t in transcripts if not output_path(t, args.suffix).exists()]
-    if args.limit:
-        transcripts = transcripts[: args.limit]
+    summarize = args.summarize
+    if summarize:
+        items = filter_transcripts(find_book_files(args.target), args.only, args.start, args.end)
+        if not args.overwrite:
+            items = [b for b in items if not summary_output_path(b).exists()]
+        empty_msg = "Nothing to do (no matching *.book.md, or all summaries exist)."
+    else:
+        items = filter_transcripts(find_transcripts(args.target, args.input), args.only, args.start, args.end)
+        if not args.overwrite:
+            items = [t for t in items if not output_path(t, args.suffix).exists()]
+        empty_msg = "Nothing to do (no matching *.txt, or all book outputs exist)."
 
-    if not transcripts:
-        log("Nothing to do (no matching *.cleaned.txt, or all outputs already exist).")
+    if args.limit:
+        items = items[: args.limit]
+
+    if not items:
+        log(empty_msg)
         return 0
 
     if args.dry_run:
-        run_dry(transcripts, args)
+        run_dry(items, args, summarize=summarize)
         return 0
 
     if args.confirm_first_send and args.jobs > 1:
         log("--confirm-first-send is ignored when --jobs > 1.")
 
     try:
-        failures = asyncio.run(run_parallel(transcripts, args))
+        failures = asyncio.run(run_parallel(items, args, summarize=summarize))
     except KeyboardInterrupt:
         log("Interrupted. Finished chunks are cached; rerun to continue.")
         return 130
 
     if failures:
-        log(f"Done with {failures} lecture(s) unfinished. Rerun to resume from the cache.")
+        log(f"Done with {failures} item(s) unfinished. Rerun to resume from the cache.")
         return 1
     log("Done.")
     return 0

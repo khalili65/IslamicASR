@@ -21,12 +21,13 @@ from typing import List, Optional
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from align import align_tokens                      # noqa: E402
-from cues import build_cues                         # noqa: E402
+from align import align_tokens, AlignmentStats                      # noqa: E402
+from cues import build_cues, build_raw_cues, build_book_chapters           # noqa: E402
 from transcript import (                            # noqa: E402
     SPOKEN_KINDS,
     parse_cleaned,
     parse_corrected,
+    parse_raw_text,
     parse_segments,
 )
 
@@ -47,6 +48,7 @@ class SessionFiles:
         self.session_id = folder.name
         self.raw: Optional[Path] = None
         self.corrected: Optional[Path] = None
+        self.book: Optional[Path] = None
         self.cleaned: Optional[Path] = None
         self.audio: Optional[Path] = None
 
@@ -58,6 +60,8 @@ class SessionFiles:
             name = path.name
             if name.endswith(".corrected.md"):
                 self.corrected = path
+            elif name.endswith(".book.md"):
+                self.book = path
             elif name.endswith(".cleaned.txt"):
                 self.cleaned = path
             elif name.endswith("_play.m4a") or name.endswith(".play.m4a"):
@@ -72,6 +76,25 @@ class SessionFiles:
                 if not name.startswith("transcribe"):
                     self.raw = path
         self.audio = play_audio or source_audio
+        self._fill_from_legacy_archive()
+
+    def _legacy_dir(self) -> Optional[Path]:
+        legacy = self.folder.parent / "_legacy" / self.session_id
+        return legacy if legacy.is_dir() else None
+
+    def _fill_from_legacy_archive(self) -> None:
+        """Pick up corrected/cleaned moved to course/_legacy/<NNN>/."""
+        legacy = self._legacy_dir()
+        if legacy is None:
+            return
+        for path in sorted(legacy.iterdir()):
+            if not path.is_file():
+                continue
+            name = path.name
+            if self.corrected is None and name.endswith(".corrected.md"):
+                self.corrected = path
+            elif self.cleaned is None and name.endswith(".cleaned.txt"):
+                self.cleaned = path
 
     @property
     def stem(self) -> str:
@@ -80,8 +103,45 @@ class SessionFiles:
 
     def is_alignable(self) -> bool:
         return self.raw is not None and (
-            self.corrected is not None or self.cleaned is not None
+            self.corrected is not None
+            or self.book is not None
+            or self.cleaned is not None
         )
+
+
+def is_raw_alignable(files: SessionFiles) -> bool:
+    """True when the raw transcript carries a word-level segments block."""
+    if files.raw is None:
+        return False
+    return bool(parse_segments(files.raw))
+
+
+def align_raw_session(files: SessionFiles) -> Optional[dict]:
+    """Build subtitle cues directly from ASR word timestamps."""
+    words = parse_segments(files.raw) if files.raw else []
+    if not words:
+        return None
+
+    cue_list, chapter_list = build_raw_cues(words)
+    if files.book and files.book.exists():
+        chapter_list = build_book_chapters(files.book, words, cue_list)
+    stats = AlignmentStats(
+        total=len(words),
+        exact=len(words),
+        interpolated=0,
+        max_gap=0.0,
+        p95_gap=0.0,
+        drift_fraction=0.0,
+    )
+    return {
+        "source": "raw",
+        "words": words,
+        "blocks": [],
+        "cues": cue_list,
+        "chapters": chapter_list,
+        "stats": stats,
+        "duration": words[-1].end if words else 0.0,
+    }
 
 
 def align_session(files: SessionFiles) -> Optional[dict]:
@@ -93,6 +153,9 @@ def align_session(files: SessionFiles) -> Optional[dict]:
     if files.corrected:
         blocks = parse_corrected(files.corrected)
         source = "corrected"
+    elif files.book:
+        blocks = parse_corrected(files.book)
+        source = "book"
     elif files.cleaned:
         blocks = parse_cleaned(files.cleaned)
         source = "cleaned"

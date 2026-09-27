@@ -1,0 +1,41 @@
+{
+ "id": "012",
+ "index": 12,
+ "lecturer": "shojai",
+ "course": "mabohas_mozui",
+ "title": "جلسه ۱۲",
+ "topic": null,
+ "summary": null,
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/shojai/mabohas_mozui/012/012_play.m4a",
+  "filename": "012_play.m4a",
+  "size": 20506710,
+  "display": "19.6 MB",
+  "duration": 1604.0,
+  "durationText": "26:44"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "012.vtt",
+   "cues": "012.cues.json",
+   "words": "012.words.json"
+  }
+ },
+ "chapters": [],
+ "recordedAt": null,
+ "sourceName": null,
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": false,
+ "hasBook": false,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": null,
+ "previous": "011",
+ "next": "013"
+}

@@ -1,0 +1,18 @@
+[Unit]
+Description=IslamASR Manaee RAG API (FastAPI)
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+Group=ubuntu
+WorkingDirectory=/home/ubuntu/IslamASR
+EnvironmentFile=/opt/islam-asr-rag.env
+ExecStart=/home/ubuntu/IslamASR/.venv/bin/python -m uvicorn rag.server:app --host 127.0.0.1 --port 8001 --workers 1
+Restart=on-failure
+RestartSec=3
+# Long SSE answers
+TimeoutStopSec=30
+
+[Install]
+WantedBy=multi-user.target

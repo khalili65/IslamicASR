@@ -1,0 +1,68 @@
+Eval 3 questions × 6 combos = 18 runs
+Output → /Users/mohammadreza/IslamASR/rag/eval/runs/20260923_065001
+[1/18] H2 | bge-m3 | gpt-oss-120b …
+    ok used=2 cost=≈ $0.0004 39.9s
+[2/18] H2 | bge-m3 | GLM-5.3 …
+    ok used=7 cost=≈ $0.0110 8.5s
+[3/18] H2 | bge-m3 | Kimi-K2.6 …
+    ERROR: Model returned empty content (finish_reason=length). Reasoning models may need a higher max_tokens — try again or pick GPT-OSS.
+[4/18] H2 | Qwen3-Embedding-8B | gpt-oss-120b …
+    ok used=4 cost=≈ $0.0004 33.6s
+[5/18] H2 | Qwen3-Embedding-8B | GLM-5.3 …
+    ok used=8 cost=≈ $0.0104 7.4s
+[6/18] H2 | Qwen3-Embedding-8B | Kimi-K2.6 …
+    ERROR: Model returned empty content (finish_reason=length). Reasoning models may need a higher max_tokens — try again or pick GPT-OSS.
+[7/18] H3 | bge-m3 | gpt-oss-120b …
+    ok used=2 cost=≈ $0.0002 11.9s
+[8/18] H3 | bge-m3 | GLM-5.3 …
+    ok used=5 cost=≈ $0.0065 3.9s
+[9/18] H3 | bge-m3 | Kimi-K2.6 …
+    ERROR: Unterminated string starting at: line 13 column 16 (char 1563)
+[10/18] H3 | Qwen3-Embedding-8B | gpt-oss-120b …
+    ok used=2 cost=≈ $0.0002 9.4s
+[11/18] H3 | Qwen3-Embedding-8B | GLM-5.3 …
+    ok used=3 cost=≈ $0.0060 6.0s
+[12/18] H3 | Qwen3-Embedding-8B | Kimi-K2.6 …
+    ok used=4 cost=≈ $0.0210 169.0s
+[13/18] H6 | bge-m3 | gpt-oss-120b …
+    ok used=2 cost=≈ $0.0004 27.4s
+[14/18] H6 | bge-m3 | GLM-5.3 …
+    ok used=6 cost=≈ $0.0100 135.3s
+[15/18] H6 | bge-m3 | Kimi-K2.6 …
+    ERROR: Model returned empty content (finish_reason=length). Reasoning models may need a higher max_tokens — try again or pick GPT-OSS.
+[16/18] H6 | Qwen3-Embedding-8B | gpt-oss-120b …
+    ok used=3 cost=≈ $0.0004 61.7s
+[17/18] H6 | Qwen3-Embedding-8B | GLM-5.3 …
+    ok used=6 cost=≈ $0.0092 10.4s
+[18/18] H6 | Qwen3-Embedding-8B | Kimi-K2.6 …
+    ERROR: Model returned empty content (finish_reason=length). Reasoning models may need a higher max_tokens — try again or pick GPT-OSS.
+
+# RAG bake-off 20260923_065001
+
+- Questions: 3 (easy/medium/hard mix)
+- Combos: 6
+- OK: 13 · errors: 5
+- Approx total API cost (reported): **$0.0762**
+
+## Combinations
+
+| Embed | LLM | OK | Errors | Avg used chunks | Approx $ |
+| --- | --- | ---: | ---: | ---: | ---: |
+| `BAAI/bge-m3` | `openai/gpt-oss-120b` | 3 | 0 | 2.0 | $0.0009 |
+| `BAAI/bge-m3` | `zai-org/GLM-5.3` | 3 | 0 | 6.0 | $0.0276 |
+| `BAAI/bge-m3` | `moonshotai/Kimi-K2.6` | 0 | 3 | 0.0 | $0.0000 |
+| `Qwen/Qwen3-Embedding-8B` | `openai/gpt-oss-120b` | 3 | 0 | 3.0 | $0.0010 |
+| `Qwen/Qwen3-Embedding-8B` | `zai-org/GLM-5.3` | 3 | 0 | 5.7 | $0.0256 |
+| `Qwen/Qwen3-Embedding-8B` | `moonshotai/Kimi-K2.6` | 1 | 2 | 4.0 | $0.0210 |
+
+## How to compare
+
+1. Open `answers/` — same question id, different embed/LLM filenames.
+2. Check whether used passages are on-topic (retrieval quality → embedding).
+3. Check answer faithfulness and citation quality (generation → LLM).
+4. Prefer cheaper combo if quality is similar.
+
+Raw rows: `results.jsonl`
+
+
+Done. Study: /Users/mohammadreza/IslamASR/rag/eval/runs/20260923_065001/summary.md

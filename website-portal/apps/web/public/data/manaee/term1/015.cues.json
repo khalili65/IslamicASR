@@ -1,0 +1,1681 @@
+{
+ "version": 1,
+ "sessionId": "015",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 729.48,
+ "alignment": {
+  "exact": 1349,
+  "total": 1349,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## آغاز سورهٔ غاشیه و دسته‌بندی دو سیاق",
+   "start": 10.36,
+   "end": 42.2
+  },
+  {
+   "index": 1,
+   "title": "خوراکشان چیست؟ برایشان طعامی نیست مگر از ضریع. خار بخورند. خار.",
+   "start": 42.2,
+   "end": 85.41
+  },
+  {
+   "index": 2,
+   "title": "### ستون دوم: چهره‌های ناعم",
+   "start": 85.41,
+   "end": 105.64
+  },
+  {
+   "index": 3,
+   "title": "آن‌ها تسقی من عین آنیة؛ این‌ها فیها عین جاریة.",
+   "start": 105.64,
+   "end": 125.96
+  },
+  {
+   "index": 4,
+   "title": "دو گروه را در دو ستون با هم مقایسه کرده است. این حدیث الغاشیه است.",
+   "start": 125.96,
+   "end": 219.9
+  },
+  {
+   "index": 5,
+   "title": "## سیاق دوم: دستور مطالعاتی و تذکر (آیات ۱۷ تا ۲۶)",
+   "start": 219.9,
+   "end": 273.48
+  },
+  {
+   "index": 6,
+   "title": "### چهار تکلیف مطالعاتی: شتر، آسمان، کوه، زمین",
+   "start": 273.48,
+   "end": 372.56
+  },
+  {
+   "index": 7,
+   "title": "### تو فقط تذکردهنده‌ای؛ مصیطر نیستی",
+   "start": 372.56,
+   "end": 492.26
+  },
+  {
+   "index": 8,
+   "title": "### استدراک «إلّا»: لکن، نه استثنا",
+   "start": 492.26,
+   "end": 512.32
+  },
+  {
+   "index": 9,
+   "title": "### بازگشت و حساب نزد خدا",
+   "start": 512.32,
+   "end": 729.48
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 10.36,
+   "end": 13.92,
+   "text": "سوره مبارکه بعدی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 13.92,
+   "end": 21.22,
+   "text": "سوره قاشیه است. خب من با اجازتون تکلیف سوره قاشیه رو یه قدم می‌برم به جلو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 21.22,
+   "end": 24.34,
+   "text": "اول دسته‌بندی سوره رو خودم میگم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 24.34,
+   "end": 30.22,
+   "text": "دو دسته داره آیه یک تا شونزده، آیه هفده تا بیست و شش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 30.22,
+   "end": 34.14,
+   "text": "در آیات یک تا شونزده چه سیری طی شده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 34.14,
+   "end": 38.52,
+   "text": "با یه سؤال بحث آغاز شده \"هل أتاك حديث الغاشية\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 38.52,
+   "end": 42.2,
+   "text": "حکایت قاشیه به تو رسید یا نه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 42.2,
+   "end": 46.42,
+   "text": "و بعد خود خدا \"حديث الغاشية\" را شرح داده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 46.42,
+   "end": 51.99,
+   "text": "\"حديث الغاشية\" اینه. \"وجوه يومئذ خاشعة\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 51.99,
+   "end": 54.93,
+   "text": "\"عاملة ناصبة\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 54.93,
+   "end": 57.58,
+   "text": "\"تسلی ناراً حامية\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 57.58,
+   "end": 60.57,
+   "text": "\"تسقی من عين آنية\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 60.57,
+   "end": 62.9,
+   "text": "\"ليس لهم طعام\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 62.9,
+   "end": 65.86,
+   "text": "بگید. . \"إلا من ضريع\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 65.86,
+   "end": 70.96,
+   "text": "خار بخورن. خار.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 70.96,
+   "end": 75.2,
+   "text": "\"لا يسمن ولا يغني من جوع\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 75.2,
+   "end": 77.94,
+   "text": "نه فربه می‌کنه، نه گرسنگی رو برطرف می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 77.94,
+   "end": 83.0,
+   "text": "ولی مثل شتر باید خار بجود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 83.0,
+   "end": 85.41,
+   "text": "قرآنه ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 85.41,
+   "end": 89.22,
+   "text": "اما نقطه مقابل \"وجوه يومئذ ناعمة\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 89.22,
+   "end": 94.57,
+   "text": "اینا \"خاشعة\" اینا \"ناعمة\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 94.57,
+   "end": 97.66,
+   "text": "\"لسعيها راضية\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 97.66,
+   "end": 100.48,
+   "text": "اینا \"عاملة ناصبة\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 100.48,
+   "end": 105.64,
+   "text": "اینا \"لسعيها\". این هر کار کرده فقط خستگی براش مونده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 105.64,
+   "end": 111.38,
+   "text": "این اما تلاشی که کرده به رضایت رسیده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 111.38,
+   "end": 114.78,
+   "text": "چه شد؟ \"في جنة عالية\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 114.78,
+   "end": 120.46,
+   "text": "اینا \"تسلی ناراً حامية\" اینا \"في جنة عالية\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 120.46,
+   "end": 122.16,
+   "text": "اینم توصیفیه برای همون جنت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 122.16,
+   "end": 125.96,
+   "text": "تو چه جنتی‌اند؟ تو جنتی که در اون لغز نمی‌شنوند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 125.96,
+   "end": 128.24,
+   "text": "خب اونا \"تسقی من عين",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 128.24,
+   "end": 131.44,
+   "text": "آنية\" اینا \"فيها عين",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 131.44,
+   "end": 137.34,
+   "text": "جارية\". خب اونا \"ليس لهم طعام إلا من ضريع\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 137.34,
+   "end": 141.54,
+   "text": "اینجا \"فيها سرر مرفوعة",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 141.54,
+   "end": 146.7,
+   "text": "وأكواب موضوعة ونمارق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 146.7,
+   "end": 149.52,
+   "text": "مصفوفة وزرابي",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 149.52,
+   "end": 155.15,
+   "text": "مفروشة\". دو تا گروه را در دو ستون با هم مقایسه کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 155.15,
+   "end": 157.38,
+   "text": "این \"حديث الغاشية\" است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 157.38,
+   "end": 159.9,
+   "text": "قاشیه یعنی پوشاننده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 159.9,
+   "end": 165.06,
+   "text": "یعنی هیچکس از یکی از این دو ستون بیرون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 165.06,
+   "end": 171.96,
+   "text": "نیست. قاشیه حکایتی‌ست که همه را در بر می‌گیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 171.96,
+   "end": 175.68,
+   "text": "حالا یا تو این ستون یا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 175.68,
+   "end": 177.96,
+   "text": "بگید تو این ستون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 177.96,
+   "end": 181.92,
+   "text": "کسی که بگه نه من نه اینجام نه اونجام نداریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 181.92,
+   "end": 185.8,
+   "text": "قاشیه یعنی این. یعنی هیشکی بیرون نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 185.8,
+   "end": 188.46,
+   "text": "هیشکی حالت سومی نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 188.46,
+   "end": 191.32,
+   "text": "به طور کلی دو حالته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 191.32,
+   "end": 198.34,
+   "text": "یا خاشعة یا ناعمة، یا ناصبة یا راضية، یا ناراً حامية یا جنة عالية،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 198.34,
+   "end": 201.06,
+   "text": "یا عين آنية یا عين جارية،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 201.06,
+   "end": 208.62,
+   "text": "یا ليس لهم طعام یا سرر مرفوعة أكواب موضوعة نمارق مصفوفة زرابي مفروشة.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 208.62,
+   "end": 210.74,
+   "text": "یکی از این دو حالته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 210.74,
+   "end": 214.92,
+   "text": "این حرف اول. این کلاً شده سیاق یک.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 214.92,
+   "end": 217.6,
+   "text": "خب اینام که ما خواستیم بگیم در واقع اینا به هم ارتباط دارن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 217.6,
+   "end": 219.9,
+   "text": "این محورهای مقایسه‌ایه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 219.9,
+   "end": 226.36,
+   "text": "در سیاق دو خدا آمده گفته \"أفلا ينظرون\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 226.36,
+   "end": 228.54,
+   "text": "آیا توجه نمی‌کنن؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 228.54,
+   "end": 231.12,
+   "text": "آیا نگاه نمی‌کنن؟ چرا سیاق جدیدیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 231.12,
+   "end": 234.36,
+   "text": "چون دیگه ادامه \"حديث الغاشية\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 234.36,
+   "end": 238.28,
+   "text": "نیست دیگه. یه بحث مطالعاتی خدا پیش کشیده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 238.28,
+   "end": 243.38,
+   "text": "مثل اینکه خدا میگه دیدید دو تا ستون بود حالا می‌خوام یه تکلیف بدم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 243.38,
+   "end": 246.56,
+   "text": "برید مطالعه کنید. خب خدایا چیو مطالعه کنیم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 246.56,
+   "end": 252.9,
+   "text": "طبیعتاً می‌خواد دستور مطالعاتی بده که نتیجه‌ش بشه چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 252.9,
+   "end": 256.02,
+   "text": "ما جزء ستون اول",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 256.02,
+   "end": 259.44,
+   "text": "نباشیم. جزء ستون دوم باشیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 259.44,
+   "end": 261.66,
+   "text": "تکلیف برای این باید بده قاعدتاً دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 261.66,
+   "end": 266.36,
+   "text": "وقتی گفت دو تا ستونه قاشیه در این دو ستون همه را می‌گیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 266.36,
+   "end": 270.3,
+   "text": "حالا می‌خواد تکلیف بده. مطالعه بفرمایید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 270.3,
+   "end": 273.48,
+   "text": "این تکالیف جلسه بعد شمام باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 273.48,
+   "end": 277.94,
+   "text": "لطفاً مطالعه‌ای درباره چه ناوه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 277.94,
+   "end": 283.1,
+   "text": "شتر. شتر بکنید. بعضیا میگن قرآن مال هزار و چهارصد سال قبل گفته شتر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 283.1,
+   "end": 286.42,
+   "text": "الان که دیگه شتر نداریم. الان چی داریم بنده خدا؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 286.42,
+   "end": 289.5,
+   "text": "میگه اگر الان بود خدا می‌گفت برید در بنز مطالعه کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 289.5,
+   "end": 292.2,
+   "text": "اصلاً نفهمیدی ماجرا چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 292.2,
+   "end": 301.8,
+   "text": "نفهمیدی فکر می‌کنی الان اینجا خدا دنبال تکنولوژیه که مثلاً مقایسه آقا لطفاً برید به کیفیت خلقت شتر دقت بکنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 301.8,
+   "end": 309.14,
+   "text": "خدایا من به کیفیت ش-- خلقت شتر دقت بکنم جزء ستون اول میشم اگه درست دقت کنی بله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 309.14,
+   "end": 316.16,
+   "text": "عه. شترو خوب مطالعه کنیم راستش رو بخوای جزو ستون اول میشی-- ستون دوم بله ستون دوم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 316.16,
+   "end": 319.34,
+   "text": "اگه دقت کنی بله تو جزو ستون دوم میشی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 319.34,
+   "end": 321.22,
+   "text": "دیگه به چی نگاه کنیم دقت کنیم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 321.22,
+   "end": 325.68,
+   "text": "میگه \"والسماء\" به آسمونم دقت کنید \"كيف رفعت\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 325.68,
+   "end": 327.66,
+   "text": "شترو ببینید چجور خلق کردم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 327.66,
+   "end": 330.98,
+   "text": "آسمون هم مطالعه کنید ببینید چجور برافراشتم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 330.98,
+   "end": 336.64,
+   "text": "\"والجبال كيف نصبت\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 336.64,
+   "end": 342.56,
+   "text": "لطفاً به کوهام نگاه کنید ببینید چجوری نصبشون کردم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 342.56,
+   "end": 344.48,
+   "text": "\"والأرض كيف سبحت\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 344.48,
+   "end": 349.2,
+   "text": "به زمین هم نگاه کنید ببینید سطح زمین را چگونه آماده زندگی کردم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 349.2,
+   "end": 352.66,
+   "text": "این چهار تا تکلیف مطالعاتی را اگر داشته باشید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 352.66,
+   "end": 357.74,
+   "text": "امید میره که از ستون اول نجات پیدا کنید جزء ستون دوم بشید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 357.74,
+   "end": 361.44,
+   "text": "تکلیف شما بررسی ربط بین این مطالعات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 361.44,
+   "end": 363.62,
+   "text": "با حدیث القاشیه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 363.62,
+   "end": 367.4,
+   "text": "بعد در ادامه همین دستور مطالعاتی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 367.4,
+   "end": 372.56,
+   "text": "مثل اینکه خدا در نظر میگیره بله کسانی این مطالعه رو انجام دادن آماده‌اند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 372.56,
+   "end": 375.96,
+   "text": "\"فذكر انما انت مذكر\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 375.96,
+   "end": 379.08,
+   "text": "پیغمبر دستور مطالعاتی رو دیدی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 379.08,
+   "end": 385.6,
+   "text": "تو تذکرتو بده. میشد \"فذكر\" را شروع سیاق جدید هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 385.6,
+   "end": 387.78,
+   "text": "بگید؟ دونست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 94,
+   "start": 387.78,
+   "end": 391.52,
+   "text": "ولی با توجه به اینکه هنوز، بنده استدلالم اینه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 95,
+   "start": 391.52,
+   "end": 393.68,
+   "text": "هنوز خداوند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 96,
+   "start": 393.68,
+   "end": 403.96,
+   "text": "از \"افلا ينظرون الى الابل كيف خلقت، الى السماء كيف رفعت، الى الارض كيف، الى الجبال كيف نصبت والارض كيف سطحت\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 97,
+   "start": 403.96,
+   "end": 407.98,
+   "text": "هنوز خدا از این آیات نتیجه بگید نگرفته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 98,
+   "start": 407.98,
+   "end": 414.3,
+   "text": "چون هنوز نتیجه نگرفته من ترجیح میدم بگم این \"ذكر\" ادامه همون سیاق دوئه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 99,
+   "start": 414.3,
+   "end": 416.96,
+   "text": "یعنی شروع سیاق سوم نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 100,
+   "start": 416.96,
+   "end": 422.02,
+   "text": "و الا اشکالی هم نداره اگر کسی بگه اینم یه سیاق سومیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 101,
+   "start": 422.02,
+   "end": 427.36,
+   "text": "پس یادتون هست من روز اول گفتم یه جاهایی ما میگیم اشکالی نداره اونم میشه اینم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 102,
+   "start": 427.36,
+   "end": 431.26,
+   "text": "میشه توضیح میدیم. یه جاهایی ولی میگیم نه حتما باید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 103,
+   "start": 431.26,
+   "end": 433.4,
+   "text": "یک نظر درستی رو باید انتخاب کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 104,
+   "start": 433.4,
+   "end": 439.38,
+   "text": "نظر درست دو تا نیست. اینجا از اون جاهاست که میشه به یه توجیحی گفت ادامه سیاق قبله،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 105,
+   "start": 439.38,
+   "end": 441.6,
+   "text": "به یه توجیحی گفت شروع سیاق جدیده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 106,
+   "start": 441.6,
+   "end": 449.12,
+   "text": "هرچیه حرف اینه. \"فذكر\" پیغمبر تذکر بده \"انما انت مذكر\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 107,
+   "start": 449.12,
+   "end": 453.04,
+   "text": "تو فقط تذکر دهنده‌ای ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 108,
+   "start": 453.04,
+   "end": 455.95,
+   "text": "عه من فقط تذکر دهنده ام چی نیستم پس؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 109,
+   "start": 455.95,
+   "end": 458.94,
+   "text": "\"لست عليهم بمصيطر\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 110,
+   "start": 458.94,
+   "end": 465.26,
+   "text": "تو نمیتونی مجبورشون کنی. تو میتونی ابلاغ کنی، نمیتونی مجبور کنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 111,
+   "start": 465.26,
+   "end": 467.54,
+   "text": "نه اینکه نمیتونی یعنی حق نداری ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 112,
+   "start": 467.54,
+   "end": 473.54,
+   "text": "اصلاً نمیشه. اصلاً ایمان شکلش اینطوری نیست که کسیو بشه به ایمان بگید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 113,
+   "start": 473.54,
+   "end": 476.26,
+   "text": "ایمان یه چیزی تو قلب آدماست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 114,
+   "start": 476.26,
+   "end": 481.02,
+   "text": "تو میتونی بگی. تو میتونی ابلاغ کنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 115,
+   "start": 481.02,
+   "end": 485.97,
+   "text": "ولی نمیشود به جبر ایمان رو در قلب کسی تثبیت کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 116,
+   "start": 485.97,
+   "end": 488.04,
+   "text": "\"لست عليهم بمصيطر\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 117,
+   "start": 488.04,
+   "end": 489.98,
+   "text": "پس خدا هیچی به هیچی آزاده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 118,
+   "start": 489.98,
+   "end": 492.26,
+   "text": "هرکی خواست ایمان میاره نخوست نمیاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 119,
+   "start": 492.26,
+   "end": 498.96,
+   "text": "\"الا من تولى وكفر فيعذبه الله العذاب الاكبر\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 120,
+   "start": 498.96,
+   "end": 501.54,
+   "text": "اینکه من میگم \"لست عليهم بمصيطر\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 121,
+   "start": 501.54,
+   "end": 505.34,
+   "text": "معنیش این نیستش که حالا ایمان نیاوردن هم نیاوردن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 122,
+   "start": 505.34,
+   "end": 514.42,
+   "text": "نه. کسی که تولی کند، پشت کند و کفر ورزد، پس خدا او را عذاب می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 123,
+   "start": 514.42,
+   "end": 517.18,
+   "text": "\"العذاب الاكبر\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 124,
+   "start": 517.18,
+   "end": 519.6,
+   "text": "بزرگ‌ترین عذاب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 125,
+   "start": 519.6,
+   "end": 524.24,
+   "text": "تو تذکر بده. مجبورم نمیتونی بکنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 126,
+   "start": 524.24,
+   "end": 530.44,
+   "text": "ولی اینکه مجبور نمیتونی بکنی به معنی آزاد بودن افراد در اینکه خواستن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 127,
+   "start": 530.44,
+   "end": 534.2,
+   "text": "دوست داشتن قبول کنن، دوست داشتن قبول نکنن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 128,
+   "start": 534.2,
+   "end": 536.94,
+   "text": "طوری نمیشه، نه اینطور نیست. طوری میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 129,
+   "start": 536.94,
+   "end": 544.4,
+   "text": "اگه قبول نکنن خدا به بدترین و بزرگترین شکل ممکنی عذابشون میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 130,
+   "start": 544.4,
+   "end": 547.46,
+   "text": "آخه خدایا کی میخوای این کارو انجام بدی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 131,
+   "start": 547.46,
+   "end": 554.74,
+   "text": "ما که فعلاً نگاه می‌کنیم اینایی که از ما رویگردان شدن، پشت کردن، کفر ورزیدن، خیلی‌ام اتفاقاً وضعشون خوبه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 132,
+   "start": 554.74,
+   "end": 557.5,
+   "text": "میفرماید \"ان\" بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 133,
+   "start": 557.5,
+   "end": 563.34,
+   "text": "\"ان الينا ايابهم\" میان پیش ما.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 134,
+   "start": 563.34,
+   "end": 566.48,
+   "text": "میان پیش ما. خیلی ما عجله نداریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 135,
+   "start": 566.48,
+   "end": 569.98,
+   "text": "میگه طرف مالشو دزدیده بودن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 136,
+   "start": 569.98,
+   "end": 572.36,
+   "text": "خیلی ناراحت رفت نشست دم قبرستون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 137,
+   "start": 572.36,
+   "end": 575.9,
+   "text": "اینجا چرا نشستی؟ گفت میاد اینجا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 138,
+   "start": 575.9,
+   "end": 579.3,
+   "text": "میاد. هرجا باشه اینجا میاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 139,
+   "start": 579.3,
+   "end": 582.24,
+   "text": "دزدید برد. باشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 140,
+   "start": 582.24,
+   "end": 586.7,
+   "text": "اینجا میاد. خدا میگه من میگیرمشون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 141,
+   "start": 586.7,
+   "end": 589.24,
+   "text": "من عذاب میکنم. خدایا آخه کی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 142,
+   "start": 589.24,
+   "end": 593.44,
+   "text": "میگه میان. \"ان الينا ايابهم\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 143,
+   "start": 593.44,
+   "end": 598.28,
+   "text": "میان پیش ما. \"ثم ان علينا حسابهم\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 144,
+   "start": 598.28,
+   "end": 600.62,
+   "text": "بعد ما حسابشونو باید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 145,
+   "start": 600.62,
+   "end": 604.04,
+   "text": "حل و فصل بکنیم در خدمتشون هستیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 146,
+   "start": 604.04,
+   "end": 606.24,
+   "text": "تمام. سوره قاشیه تمام.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 147,
+   "start": 606.24,
+   "end": 609.28,
+   "text": "دو تا سیاق، یه سیاق حدیث القاشیه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 148,
+   "start": 609.28,
+   "end": 612.84,
+   "text": "یه سیاق دیگه دو فراز، یک تکلیف مطالعاتی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 149,
+   "start": 612.84,
+   "end": 616.98,
+   "text": "مطالعه درباره شتر و آسمون و کوه و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 150,
+   "start": 616.98,
+   "end": 621.9,
+   "text": "زمین. بعد از این تکلیف مطالعاتی نتیجه میگیره تو \"فذكر\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 151,
+   "start": 621.9,
+   "end": 623.7,
+   "text": "ان شاء الله تکلیف.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 152,
+   "start": 623.7,
+   "end": 628.14,
+   "text": "یک جمع‌بندی سیاق اول سوره قاشیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 153,
+   "start": 628.14,
+   "end": 630.96,
+   "text": "دو جمع‌بندی سیاق دوم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 154,
+   "start": 630.96,
+   "end": 633.72,
+   "text": "سوره قاشیه. سه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 155,
+   "start": 633.72,
+   "end": 636.58,
+   "text": "ارتباط دو سیاق در سوره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 156,
+   "start": 636.58,
+   "end": 643.06,
+   "text": "قاشیه. ان شاء الله اینا رو خواهید داشت و سوره بعدیمون سوره چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 157,
+   "start": 643.06,
+   "end": 648.62,
+   "text": "فجره. ما توقعمون اینه که بتونیم هفته آینده سوره قاشیه رو جمع‌بندی کنیم و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 158,
+   "start": 648.62,
+   "end": 652.42,
+   "text": "سوره فجر هم یا تمام کنیم یا به جای خوبی ان شاء الله برسونیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 159,
+   "start": 652.42,
+   "end": 655.8,
+   "text": "آماده شدن برای سوره فجر یعنی چه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 160,
+   "start": 655.8,
+   "end": 658.6,
+   "text": "یعنی آیاتشو بخونید، بفهمید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 161,
+   "start": 658.6,
+   "end": 661.84,
+   "text": "اگر اشکالی در فهم آیات دارید برطرف کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 162,
+   "start": 661.84,
+   "end": 665.06,
+   "text": "یک. دو یعنی سوره را سیاق بندی کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 163,
+   "start": 665.06,
+   "end": 667.92,
+   "text": "لطفاً نه با کتاب، خودتون،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 164,
+   "start": 667.92,
+   "end": 675.04,
+   "text": "خودتون سیاق بندی کنید. بعدش کتابو دیدید عیب نداره ولی خودتون یه وقتی به خودتون میدید یه فرصتی بگذارید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 165,
+   "start": 675.04,
+   "end": 679.88,
+   "text": "سه سیاق‌های سوره فجر را در حد خودتون جمع‌بندی کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 166,
+   "start": 679.88,
+   "end": 684.38,
+   "text": "چهار اگر فرصت کردید، چهار اگر فرصت کردید،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 167,
+   "start": 684.38,
+   "end": 690.0,
+   "text": "اگر فرصت کردید ارتباط سیاق‌های سوره فجر رو هم بکاوید و بررسی کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 168,
+   "start": 690.0,
+   "end": 695.32,
+   "text": "این \"الا\" نمیخواد بگه تو \"مصيطر\" نیستی مگر بر اینا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 169,
+   "start": 695.32,
+   "end": 701.16,
+   "text": "یعنی بر اینا \"مصيطری\". این \"الا\" به معنی \"لکن\" است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 170,
+   "start": 701.16,
+   "end": 706.6,
+   "text": "یعنی تو یه پیغمبر \"مصيطر\" نیستی \"لکن\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 171,
+   "start": 706.6,
+   "end": 710.34,
+   "text": "اونی که رویگردان بشود خدا او را عذاب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 172,
+   "start": 710.34,
+   "end": 713.42,
+   "text": "می‌کند. نه اینکه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 173,
+   "start": 713.42,
+   "end": 715.48,
+   "text": "غیر از یه گروهی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 174,
+   "start": 715.48,
+   "end": 718.13,
+   "text": "\"الا\" استثنا نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 175,
+   "start": 718.13,
+   "end": 721.95,
+   "text": "\"الا\" تدارک بهش میگن استدراک.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 176,
+   "start": 721.95,
+   "end": 725.48,
+   "text": "\"الا\" \"لکن\" است. یعنی به معنی \"لکن\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 177,
+   "start": 725.48,
+   "end": 729.48,
+   "text": "لکن فارسی خودمون. تو فارسیمون هم میگیم لکن اینطوریه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

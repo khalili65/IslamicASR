@@ -1,0 +1,94 @@
+{
+ "v": 1,
+ "lecturers": [
+  {
+   "slug": "qasemian",
+   "name": "حجت‌الاسلام والمسلمین غلامرضا قاسمیان",
+   "format": "audio",
+   "source": "cues-raw-asr",
+   "courses": [
+    {
+     "slug": "insanekamel",
+     "title": "انسان کامل",
+     "format": "audio"
+    },
+    {
+     "slug": "yusuf",
+     "title": "تفسیر سوره یوسف",
+     "format": "audio"
+    },
+    {
+     "slug": "siyasatdarquran",
+     "title": "سیاست خارجی در قرآن",
+     "format": "audio"
+    }
+   ]
+  },
+  {
+   "slug": "manaee",
+   "name": "حجت‌الاسلام والمسلمین علی صبوحی طسوجی",
+   "format": "audio",
+   "source": "cues-raw-asr",
+   "courses": [
+    {
+     "slug": "term1",
+     "title": "معارف تدبر در قرآن — ترم ۱ (۱۳۹۸)",
+     "format": "audio"
+    },
+    {
+     "slug": "term2",
+     "title": "معارف تدبر در قرآن — ترم ۲ (۱۳۹۸)",
+     "format": "audio"
+    },
+    {
+     "slug": "term3",
+     "title": "معارف تدبر در قرآن — ترم ۳ (۱۳۹۹)",
+     "format": "audio"
+    },
+    {
+     "slug": "term4",
+     "title": "معارف تدبر در قرآن — ترم ۴ (۱۴۰۰)",
+     "format": "audio"
+    }
+   ]
+  },
+  {
+   "slug": "shojai",
+   "name": "آیت‌الله محمد شجاعی زنجانی",
+   "format": "audio",
+   "source": "cues-raw-asr",
+   "courses": [
+    {
+     "slug": "tazkiyeh",
+     "title": "بحث تزکیه",
+     "format": "audio"
+    },
+    {
+     "slug": "asma_hosna",
+     "title": "اسماء حسنی",
+     "format": "audio"
+    },
+    {
+     "slug": "asrarfatemi",
+     "title": "اسرار فاطمی",
+     "format": "audio"
+    },
+    {
+     "slug": "mabahese_tohidi",
+     "title": "مباحث توحیدی",
+     "format": "audio"
+    },
+    {
+     "slug": "cheraghhedayat",
+     "title": "چراغ هدایت",
+     "format": "audio"
+    },
+    {
+     "slug": "mabohas_mozui",
+     "title": "مباحث موضوعی",
+     "format": "audio"
+    }
+   ]
+  }
+ ]
+}

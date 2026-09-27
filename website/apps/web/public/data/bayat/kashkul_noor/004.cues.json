@@ -1,0 +1,895 @@
+{
+ "version": 1,
+ "sessionId": "004",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 397.02,
+ "alignment": {
+  "exact": 768,
+  "total": 768,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## ورود به مهمانی خدا و مقام محمود",
+   "start": 18.0,
+   "end": 45.84
+  },
+  {
+   "index": 1,
+   "title": "بحث در آیهٔ شریفه بود:",
+   "start": 45.84,
+   "end": 83.7
+  },
+  {
+   "index": 2,
+   "title": "### روایت أنس؛ نگاه پیامبر به علی",
+   "start": 83.7,
+   "end": 198.5
+  },
+  {
+   "index": 3,
+   "title": "### توحید و ولایت؛ محرومیت ناصبی",
+   "start": 198.5,
+   "end": 311.98
+  },
+  {
+   "index": 4,
+   "title": "### شفاعت از شفع؛ نه پارتی‌بازی",
+   "start": 311.98,
+   "end": 397.02
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 1.44,
+   "end": 5.5,
+   "text": "بسم الله الرحمن الرحیم و به این استعین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 5.5,
+   "end": 9.7,
+   "text": "السلام الیک ای داعی الله و ربانی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 9.7,
+   "end": 14.96,
+   "text": "آیه. سلام علیکم و رحمة الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 14.96,
+   "end": 19.18,
+   "text": "تبریک عرض می‌کنم. در شرف",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 19.18,
+   "end": 22.64,
+   "text": "ورود به مهمانی خدا هستیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 22.64,
+   "end": 29.36,
+   "text": "و شروع بندگی تاج بندگی رو خدا از امشب ان شا الله سر ما، روی ما می‌گذاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 29.36,
+   "end": 31.8,
+   "text": "خوش به سعادت کسی که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 31.8,
+   "end": 35.9,
+   "text": "نه فقط ماه رجب و شعبان بلکه کل سال رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 35.9,
+   "end": 37.94,
+   "text": "خودشو آماده کرد برای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 37.94,
+   "end": 41.04,
+   "text": "درک این ماه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 41.04,
+   "end": 42.94,
+   "text": "که دیگه ورود به روضه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 42.94,
+   "end": 49.28,
+   "text": "ورود به روضه مقدسه‌ست که شب قدر ان شا الله تربت رو بشه زیارت کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 49.28,
+   "end": 56.78,
+   "text": "ما در آیه شریفه و من الیل فتهجد بهی نافلة الليل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 56.78,
+   "end": 61.46,
+   "text": "عسی ان یبعثک ربک مقام محمودا بودیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 61.46,
+   "end": 67.66,
+   "text": "داشتیم عرض می‌کردیم که ان شا الله وعده داده بودیم که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 67.66,
+   "end": 73.66,
+   "text": "عرض می‌کنیم نظرات مختلف بزرگان رو در خصوص این مقام محمود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 73.66,
+   "end": 77.2,
+   "text": "که این چیه؟ که در پس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 77.2,
+   "end": 83.58,
+   "text": "تهجد سحر خدا به پیغمبر عز عالم وعدش رو داده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 83.58,
+   "end": 86.98,
+   "text": "یه روایتی اینجا تقدیم کنم از کتاب شریف",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 86.98,
+   "end": 91.08,
+   "text": "تعویل آیات واهره فی فوائد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 91.08,
+   "end": 94.8,
+   "text": "عترت طاهره. این روایت خیلی شیرینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 94.8,
+   "end": 96.42,
+   "text": "کوتاهه ولی خیلی شیرینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 96.42,
+   "end": 100.6,
+   "text": "آدم کیف می‌کنه چه بخونه چه بشنوه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 100.6,
+   "end": 104.1,
+   "text": "ذیل همین آیه اومده این روایت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 104.1,
+   "end": 110.58,
+   "text": "که معنای این مقام محمود رو به خوبی بیان کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 110.58,
+   "end": 114.94,
+   "text": "روایت اینه که عن انس ابن مالک قال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 114.94,
+   "end": 122.38,
+   "text": "انس ابن مالک میگه که رأیت رسول الله صلی الله علیه و آله و سلم مقبلا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 122.38,
+   "end": 125.06,
+   "text": "علی علی ابن ابی طالب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 125.06,
+   "end": 129.82,
+   "text": "میگه پیغمبر رو دیدم در حالی که رو کرده بود به مولامون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 129.82,
+   "end": 135.26,
+   "text": "علی ابن ابی طالب. رو کرده بود به امیرالمؤمنین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 135.26,
+   "end": 137.7,
+   "text": "و هو يتلو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 137.7,
+   "end": 140.64,
+   "text": "همونطور که رو کرد به مولا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 140.64,
+   "end": 142.32,
+   "text": "این آیه رو قرائت می‌کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 142.32,
+   "end": 147.92,
+   "text": "همین آیه رو. و من الیل فتهجد بهی نافلة الليل.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 147.92,
+   "end": 152.26,
+   "text": "همونطور که مولا رو نگاه می‌کرد پیغمبر این آیه رو تلاوت می‌کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 152.26,
+   "end": 160.9,
+   "text": "پس پیداست که یه ربطی بین این آیه و این مقام محمود و مولاست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 160.9,
+   "end": 163.96,
+   "text": "که توی این فرمایش پیدا میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 163.96,
+   "end": 168.94,
+   "text": "ثم قال وقتی که این آیه رو تلاوت کرد پیغمبر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 168.94,
+   "end": 172.04,
+   "text": "رو کرده بود به مولا فرمود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 172.04,
+   "end": 174.52,
+   "text": "یا علی به به.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 174.52,
+   "end": 176.7,
+   "text": "ان الله عز و جل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 176.7,
+   "end": 179.22,
+   "text": "ملكنی الشفاعه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 179.22,
+   "end": 182.56,
+   "text": "فی اهل توحید من امتی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 182.56,
+   "end": 187.34,
+   "text": "خدای عز و جل اصلاً مالکیت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 187.34,
+   "end": 189.66,
+   "text": "شفاعت رو به من بخشیده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 189.66,
+   "end": 193.98,
+   "text": "از کیا؟ از اهل توحید امتم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 193.98,
+   "end": 198.1,
+   "text": "اونایی که به توحید رسیدن. حالا توحید،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 198.1,
+   "end": 204.52,
+   "text": "الان این انتهای روایت مشخص می‌کنه که اصلاً معنای توحید، روح توحید ولایت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 204.52,
+   "end": 206.96,
+   "text": "امیرالمؤمنینه. چگونه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 206.96,
+   "end": 211.36,
+   "text": "فرمود و خبر والک علی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 211.36,
+   "end": 214.66,
+   "text": "من ناسبك أو ناسبك",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 214.66,
+   "end": 218.94,
+   "text": "أو ناسب ولیك من بعدك.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 218.94,
+   "end": 223.36,
+   "text": "می‌فرمود که این رو، این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 223.36,
+   "end": 231.82,
+   "text": "شفاعت رو که خدا مالکیتشو به من بخشیده به اهل توحید از یه سری محروم کرده اینو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 231.82,
+   "end": 235.44,
+   "text": "برحذر داشته خدا. از کیا؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 235.44,
+   "end": 240.38,
+   "text": "علی من ناسبك کسی که دشمنی با تو رو بکنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 240.38,
+   "end": 248.12,
+   "text": "أو ناسب ولیك من بعدك یا از اولیاء بعد از تو رو یعنی فرزندان تو، اهل بیت رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 248.12,
+   "end": 254.3,
+   "text": "تا امام عصر تا امام زمان ما رو هر کس دشمنی اینا با رو کنه از شفاعت چی میشه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 254.3,
+   "end": 259.28,
+   "text": "محروم میشه. پس کیا مورد شفاعت قرار می‌گیرن؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 259.28,
+   "end": 263.44,
+   "text": "اهل توحیدی که محبت مولا رو دارن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 263.44,
+   "end": 269.74,
+   "text": "ولایت مولا رو دارن. پس اصلاً معنای توحید میشه ولایت امیر، روح توحید میشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 269.74,
+   "end": 274.5,
+   "text": "ولایت امیرالمؤمنین. پس از این روایت میشه این برداشتو کرد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 274.5,
+   "end": 279.12,
+   "text": "نظر بزرگانی از، از همین روایت شاید برداشت شده که ها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 279.12,
+   "end": 281.86,
+   "text": "اصلاً مقام محمود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 281.86,
+   "end": 284.88,
+   "text": "که نماز شب پیغمبر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 284.88,
+   "end": 288.96,
+   "text": "نتیجه‌ش میشه اون مقام شفاعته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 288.96,
+   "end": 291.9,
+   "text": "کیو پیغمبر شفاعت می‌کنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 291.9,
+   "end": 295.2,
+   "text": "اونهایی که روح ولایت امیرالمؤمنین رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 295.2,
+   "end": 298.74,
+   "text": "در خودشون دارن، التزام عملیه دارن، پذیرفتن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 298.74,
+   "end": 304.64,
+   "text": "یعنی به یک معنا توی جمله بگیم یعنی مولا رو سرپرست خودشون اختیار کردن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 304.64,
+   "end": 306.96,
+   "text": "تمام شد. ولی خودشون،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 306.96,
+   "end": 309.84,
+   "text": "صاحب اختیار خودشون، اولاد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 309.84,
+   "end": 316.6,
+   "text": "نفس و جان خودشون. در معنای شفع هم که حالا به هر حال نماز شبه دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 316.6,
+   "end": 320.6,
+   "text": "نماز شب و شفاعت هم که از همون شفع",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 320.6,
+   "end": 327.1,
+   "text": "شفاعت میاد از جفت شفاعت، شفع یعنی جفت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 327.1,
+   "end": 329.42,
+   "text": "شفاعت این جمله آخر هم باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 329.42,
+   "end": 332.86,
+   "text": "علامه-- حضرت علامه حسن زاده علیه الرحمه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 332.86,
+   "end": 341.04,
+   "text": "چند جا ما از ایشون شنیدیم که تشر زدن به اونایی که میگن مقام شفاعت پارتی بازیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 341.04,
+   "end": 344.54,
+   "text": "پیغمبر دست گنهکار رو می‌گیره به همین تعبیر ایشون فرمودن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 344.54,
+   "end": 350.52,
+   "text": "می‌بره پیش خدا و به خدا میگه خدایا یه دستی هم به محاسن مبارک می‌گیره به خاطر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 350.52,
+   "end": 353.48,
+   "text": "من حالا این غلطی کرد به خاطر من از این بگذر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 353.48,
+   "end": 358.9,
+   "text": "این پارتی بازی. علامه فرمود چه حرف زشتیه شما می‌زنید که تو کتاباتون هم پر کردید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 358.9,
+   "end": 364.9,
+   "text": "اصلاً این نیست شفاعت. شفاعت از شفع میاد یعنی جفت شدن یعنی هم سنخیته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 364.9,
+   "end": 367.14,
+   "text": "یعنی بوی مولا رو بدی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 367.14,
+   "end": 369.48,
+   "text": "رنگ مولا رو داشته باشی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 369.48,
+   "end": 371.36,
+   "text": "که ملائکه‌ای که میان بو می‌کنن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 371.36,
+   "end": 378.0,
+   "text": "بوی ولایت امیرالمؤمنین اگه داشته باشی تو به مقام شفاعت رسیدی و خودبه‌خود میری با مولا راه میفتی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 378.0,
+   "end": 380.86,
+   "text": "یوم ندعو كل اناس بإمام.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 380.86,
+   "end": 382.94,
+   "text": "نماز شب ما رو به این شب‌ها می‌رسونه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 382.94,
+   "end": 385.82,
+   "text": "یکی از توصیه‌های پنج گانه آقای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 385.82,
+   "end": 389.14,
+   "text": "قاضی در این شب‌ها نماز شب بوده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 389.14,
+   "end": 392.64,
+   "text": "بهترین فرصته ان شا الله همه بهره‌مند باشیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 392.64,
+   "end": 394.42,
+   "text": "والحمد لله رب العالمين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 394.42,
+   "end": 397.02,
+   "text": "صلوات بفرستید. اللهم صل على محمد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

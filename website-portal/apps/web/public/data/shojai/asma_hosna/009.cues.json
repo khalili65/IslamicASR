@@ -1,0 +1,6682 @@
+{
+ "version": 1,
+ "sessionId": "009",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 3112.68,
+ "alignment": {
+  "exact": 5993,
+  "total": 5993,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "بسم الله الرحمن الرحیم.",
+   "start": 101.14,
+   "end": 258.02
+  },
+  {
+   "index": 1,
+   "title": "## آیهٔ «کل من علیها فان» و وجه ربِّ ذو الجلال والإکرام",
+   "start": 258.02,
+   "end": 279.78
+  },
+  {
+   "index": 2,
+   "title": "## آیهٔ پایانی الرحمن: تبارک اسم ربک",
+   "start": 279.78,
+   "end": 1154.59
+  },
+  {
+   "index": 3,
+   "title": "## تعریف اسماء جمال و اسماء جلال",
+   "start": 1154.59,
+   "end": 1678.32
+  },
+  {
+   "index": 4,
+   "title": "## جمال منشأ ایجاد؛ جلال کنارزنندهٔ نقص؛ خوف و رجا",
+   "start": 1678.32,
+   "end": 1706.51
+  },
+  {
+   "index": 5,
+   "title": "## جمال منشأ ایجاد و افاضه",
+   "start": 1706.51,
+   "end": 2401.61
+  },
+  {
+   "index": 6,
+   "title": "## نمونه‌ها و مرزهای دسته‌بندی",
+   "start": 2401.61,
+   "end": 2465.8
+  },
+  {
+   "index": 7,
+   "title": "## پیوندِ اسم و صفت در این تقسیم",
+   "start": 2465.8,
+   "end": 3112.68
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 0.34,
+   "end": 3.5,
+   "text": "الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 3.5,
+   "end": 5.68,
+   "text": "و ما الله الخالق.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 5.68,
+   "end": 11.62,
+   "text": "و الله الخالق.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 11.62,
+   "end": 14.8,
+   "text": "الخالق البارئ المصور.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 14.8,
+   "end": 20.28,
+   "text": "له الأسماء الحسنى.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 20.28,
+   "end": 24.64,
+   "text": "الحسنى.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 24.64,
+   "end": 28.18,
+   "text": "الجليل الرحيم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 28.18,
+   "end": 39.36,
+   "text": "المجيب العلي الحكيم الودود المجيب الباعث الشهيد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 39.36,
+   "end": 46.72,
+   "text": "مباحث عرفانی آیت الله محمد شجاعی در باب اسماء الهی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 46.72,
+   "end": 48.56,
+   "text": "لله الأسماء الحسنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 48.56,
+   "end": 52.19,
+   "text": "هر اسمی که مشایعت کمال میکنه اسم خداست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 52.19,
+   "end": 64.18,
+   "text": "الواجد الماجد الواحد الصمد القادر المقتدر المقدم المؤخر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 64.18,
+   "end": 67.24,
+   "text": "الأول الآخر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 67.24,
+   "end": 69.26,
+   "text": "الأسماء الحسنى.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 69.26,
+   "end": 74.78,
+   "text": "المقصف الجامع الغنی المبدی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 74.78,
+   "end": 83.72,
+   "text": "المعيد الصاف النافع النور الهادی البدیع",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 83.72,
+   "end": 94.74,
+   "text": "الباقی الوارث الرشید الصبور الذي ليس كمثله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 94.74,
+   "end": 101.14,
+   "text": "شيء وهو السميع البصير.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 101.14,
+   "end": 106.62,
+   "text": "از موضوعاتی که در مسئله اسماء خدا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 106.62,
+   "end": 111.04,
+   "text": "مطرح هست مسئله اسماء",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 111.04,
+   "end": 114.46,
+   "text": "جمال و اسماء، اسماء جلال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 114.46,
+   "end": 121.02,
+   "text": "است که این هم یک از نواحی که در بحث اسماء هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 121.02,
+   "end": 125.42,
+   "text": "یعنی یک جزء و ارده ای از مسائل که در اسماء هست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 125.42,
+   "end": 128.98,
+   "text": "و در مباحثی که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 128.98,
+   "end": 130.92,
+   "text": "در اسماء الهی میشود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 130.92,
+   "end": 140.9,
+   "text": "مطرح میشود. این معنی که اسماء خدا، اسماء، اسماء الهی منقسم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 140.9,
+   "end": 144.5,
+   "text": "میشود، تقسیم میشود به یک نظر،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 144.5,
+   "end": 148.98,
+   "text": "یک نظر به اسماء جمالی و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 148.98,
+   "end": 151.54,
+   "text": "اسماء جلالی یا اسماء جمال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 151.54,
+   "end": 154.1,
+   "text": "و اسماء جلال.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 154.1,
+   "end": 160.1,
+   "text": "صفات جمال یا صفات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 160.1,
+   "end": 168.02,
+   "text": "جلال. قبلاً که در اوایل بحث گفتم فراموش نفرمایید صفات بگیم یا اسماء بگیم اینو با اختلاف عرض",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 168.02,
+   "end": 174.8,
+   "text": "میکنیم. اسم همین صفات، صفات همان اسماء است با اختلاف ما اینها رو عرض میکنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 174.8,
+   "end": 178.1,
+   "text": "علم به عنوان کمال صفت است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 178.1,
+   "end": 184.86,
+   "text": "علیم ذات را اتخاذ میکنیم با علم میشود اسم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 184.86,
+   "end": 187.52,
+   "text": "در هر صورت به علیم هم میگیم صفت خدا و هم میگیم یکی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 187.52,
+   "end": 191.06,
+   "text": "از اسماء خدا. فرق اسم و صفت اینجوریه، فرق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 191.06,
+   "end": 193.04,
+   "text": "اختلاف است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 193.04,
+   "end": 196.48,
+   "text": "در هر صورت تقسیم میشود به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 196.48,
+   "end": 198.42,
+   "text": "اسماء جلال و جمال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 198.42,
+   "end": 201.74,
+   "text": "یا صفات جمال و جلال.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 201.74,
+   "end": 205.36,
+   "text": "دو نوع تقسیم در اسماء و صفات خداست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 205.36,
+   "end": 209.02,
+   "text": "ذات حق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 209.02,
+   "end": 211.56,
+   "text": "در مقام تجلی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 211.56,
+   "end": 214.94,
+   "text": "و ظهور و تأین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 214.94,
+   "end": 218.34,
+   "text": "که همان مرحله اسماء است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 218.34,
+   "end": 222.0,
+   "text": "به دو صورت ظهور و تأین دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 222.0,
+   "end": 225.46,
+   "text": "یک صورت ظهور و تأیناتی است که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 225.46,
+   "end": 228.5,
+   "text": "ظهورات و تأیناتی است که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 228.5,
+   "end": 233.44,
+   "text": "به اصطلاح اسماء و صفات جمالی نامیده میشود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 233.44,
+   "end": 241.92,
+   "text": "یک قسمت از این ظهورات و تأینات ذات غیر مادی اسماء و صفاتی است که صفات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 241.92,
+   "end": 243.82,
+   "text": "جلال نامیده میشود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 243.82,
+   "end": 249.02,
+   "text": "حالا آن اندازه‌ای که البته باز در این بحث مختصر من بحثی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 249.02,
+   "end": 258.02,
+   "text": "که ایجاد میشود من در اسماء جمال و جلال خدا مطالبی را عرض میکنم و بعداً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 258.02,
+   "end": 260.66,
+   "text": "اگر انشاالله خدا خواست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 260.66,
+   "end": 263.44,
+   "text": "شما را به شناخت بالاتری ببریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 263.44,
+   "end": 272.86,
+   "text": "این طوری نیست که به این صورت نیست که با این صحبت‌های خلاصه یا آن اندازه که من میگویم حتی ممکن است ادابش کسایی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 272.86,
+   "end": 275.6,
+   "text": "جالب و همه اون پر و پیمان نیست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 275.6,
+   "end": 279.78,
+   "text": "مسئله جمال و جلال هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 279.78,
+   "end": 288.86,
+   "text": "در قرآن هم اگر البته بر اساس اظهار خلاصه جو رفقا محققین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 288.86,
+   "end": 291.6,
+   "text": "آنهایی که اهل تحقیق هستند اگر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 291.6,
+   "end": 298.32,
+   "text": "مطالعه کنید میبینید که این قسمت این مسئله را اشاره کرده‌اند که اسماء جمال و اسماء جلال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 298.32,
+   "end": 310.06,
+   "text": "و از روایات هم در متون روایات هم اگر کسی دقت کند باز از متون روایات هم برمی‌آید که صفات اسماء خدا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 310.06,
+   "end": 314.38,
+   "text": "منقسم به صفات جمال و صفات جلال است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 314.38,
+   "end": 323.3,
+   "text": "از طرف دیگه از قرآن هم این معنا از آیات قرآن هم استفاده میشود مخصوصاً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 323.3,
+   "end": 325.56,
+   "text": "در دو مورد از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 325.56,
+   "end": 329.18,
+   "text": "قرآن، آیات قرآنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 329.18,
+   "end": 333.72,
+   "text": "با کمال صراحت به این معنا اشاره شده است که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 333.72,
+   "end": 336.7,
+   "text": "صفات اسماء خدا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 336.7,
+   "end": 339.78,
+   "text": "صفات جمالی است و صفات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 339.78,
+   "end": 343.86,
+   "text": "جلالی است و این دو مورد هر دو در سوره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 343.86,
+   "end": 348.76,
+   "text": "الرحمن هست. سوره الرحمن این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 348.76,
+   "end": 351.4,
+   "text": "شماره آیه، آیات را اینجا نوشتم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 351.4,
+   "end": 354.56,
+   "text": "سوره الرحمن یکی در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 354.56,
+   "end": 360.92,
+   "text": "هر دو سوره الرحمن این ده تا آیات به این مسئله اشاره می‌کند که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 360.92,
+   "end": 364.66,
+   "text": "اسماء خدا، اسماء جلالش، اسماء جمال یعنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 364.66,
+   "end": 366.88,
+   "text": "این انقسام در اسماء،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 366.88,
+   "end": 370.38,
+   "text": "بیان می‌کنه. آیه دویست و سی‌وسه، بیست و هفت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 370.38,
+   "end": 373.76,
+   "text": "از رحمان می‌فرماید که کل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 373.76,
+   "end": 378.98,
+   "text": "من علیها خام باید با وجه ربّک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 378.98,
+   "end": 381.0,
+   "text": "ذو الجلال و اکرام.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 381.0,
+   "end": 383.12,
+   "text": "این آیه دویست و سی‌وسه و بیست و هفت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 383.12,
+   "end": 385.6,
+   "text": "کل من علیها خام این آیه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 385.6,
+   "end": 387.9,
+   "text": "دنبال اون آیه، متصل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 387.9,
+   "end": 390.66,
+   "text": "به اون آیه است، متصل به این آیه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 390.66,
+   "end": 396.5,
+   "text": "به این نیست که می‌فرماید باید با وجه ربّک ذو الجلال و اکرام.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 396.5,
+   "end": 400.04,
+   "text": "ترجمه ساده‌ش این است که هر کسی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 400.04,
+   "end": 407.1,
+   "text": "خامی خواهد شد. هر موجودی، هر کسی کل من علیها خام فناپذیر است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 407.1,
+   "end": 411.73,
+   "text": "البته فنا امروزی ترجمه است و من دستیار تفسیر قرآن نیستم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 411.73,
+   "end": 415.27,
+   "text": "ممکن است منظورم این بیاید این آیه اشاره به جمال و جلال بکند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 415.27,
+   "end": 418.0,
+   "text": "ولی این فنا اینجا تعبیر شده باشه که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 418.0,
+   "end": 421.14,
+   "text": "هر چیزی، هر کسی خامی می‌شود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 421.14,
+   "end": 423.58,
+   "text": "و وجه خدا فقط باقی می‌ماند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 423.58,
+   "end": 425.93,
+   "text": "خامی بودن به معنی از بین رفتن نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 94,
+   "start": 425.93,
+   "end": 430.36,
+   "text": "از بین رفتن باشه اون وقت معاد اصلا هیچ مفهومی ندارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 95,
+   "start": 430.36,
+   "end": 438.5,
+   "text": "خامی می‌شه این حالا کل یک بحثی است باز خدا خواست به وقتی خدا خواست اون صحبت شد یا به هر صورت شما پس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 96,
+   "start": 438.5,
+   "end": 442.54,
+   "text": "فهمیدین. یه معنی عمیقی دارد که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 97,
+   "start": 442.54,
+   "end": 447.54,
+   "text": "انسان‌ها، همه چیز خامی می‌شود و اونچه که باقی می‌ماند وجه خداست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 98,
+   "start": 447.54,
+   "end": 451.18,
+   "text": "اگر خامی شود به معنی معدوم بودن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 99,
+   "start": 451.18,
+   "end": 458.08,
+   "text": "و از سطح وجود برچیده شدن باشد، متناقض با اون ده ها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 100,
+   "start": 458.08,
+   "end": 470.0,
+   "text": "و صدها آیات که مربوط به معاد است و بازگشت موجودات است و مخصوصا انسان‌هاست که خامی نمی‌شوند به معنی معدوم شدن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 101,
+   "start": 470.0,
+   "end": 474.2,
+   "text": "می‌مانند و نتایج اعمال خودشان را می‌بینند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 102,
+   "start": 474.2,
+   "end": 476.72,
+   "text": "حالا بهشتی‌اند، واقعا در بهشت می‌مانند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 103,
+   "start": 476.72,
+   "end": 478.74,
+   "text": "جهنمی‌اند، واقعا در جهنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 104,
+   "start": 478.74,
+   "end": 483.1,
+   "text": "فنا به اون معنا که از بین بروند به اصطلاحی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 105,
+   "start": 483.1,
+   "end": 489.14,
+   "text": "که ما از فنا می‌فهمیم در اصطلاحات عامه که به کار می‌بریم دو معنا نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 106,
+   "start": 489.14,
+   "end": 493.28,
+   "text": "یه معنی خاصی دارد که گفتم خوبش احتیاج به تحقیق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 107,
+   "start": 493.28,
+   "end": 501.84,
+   "text": "و بررسی بالاترین دارد. و الا خودتون هم اگر تعمق کنید این آیه را اگر اون زیر معنی بکنید با آیات معاد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 108,
+   "start": 501.84,
+   "end": 505.86,
+   "text": "که انسان‌ها می‌مونند به نتایج اعمالشون را می‌بینند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 109,
+   "start": 505.86,
+   "end": 512.64,
+   "text": "هیچ وقت هم هیچ موجودی و از جمله انسان معدوم بشه از بین بره دو معنا نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 110,
+   "start": 512.64,
+   "end": 516.92,
+   "text": "همیشه هست حالا یا بهشتی‌ست یا جهنمی‌ست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 111,
+   "start": 516.92,
+   "end": 519.68,
+   "text": "سرای آخرت کسان در جهنم همیشه می‌مانند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 112,
+   "start": 519.68,
+   "end": 521.84,
+   "text": "کسان در بهشت همیشه می‌مانند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 113,
+   "start": 521.84,
+   "end": 525.59,
+   "text": "این‌ها فنا به اون معنا را از این آیه رفع می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 114,
+   "start": 525.59,
+   "end": 531.0,
+   "text": "پس اینجا که می‌فرماید کل من علیها خام هر کسی از این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 115,
+   "start": 531.0,
+   "end": 539.96,
+   "text": "انسان‌ها و موجودات زنده، این همه کثرت و اصطلاح خامی، слово خامی معنی خیلی معنوی خاصی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 116,
+   "start": 539.96,
+   "end": 541.96,
+   "text": "دارد اگر وقت شود خدا خواست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 117,
+   "start": 541.96,
+   "end": 544.24,
+   "text": "یعنی به چه معناست خامی بودن؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 118,
+   "start": 544.24,
+   "end": 549.96,
+   "text": "معنا این است که هم موجود خامی است و هم موجود باقی است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 119,
+   "start": 549.96,
+   "end": 552.42,
+   "text": "دقت کنید هم هست و هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 120,
+   "start": 552.42,
+   "end": 556.48,
+   "text": "به اون صورتی که ما فکر می‌کنیم هست، نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 121,
+   "start": 556.48,
+   "end": 565.12,
+   "text": "هم هست و هم به اون صورتی که الان ما فکر می‌کنیم که در درک فعلی خودمون و در سطح فعلی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 122,
+   "start": 565.12,
+   "end": 571.32,
+   "text": "و با اجازه‌ی ذهنیت اجرایی فعلی خودمون از انسان، از موجودات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 123,
+   "start": 571.32,
+   "end": 574.82,
+   "text": "می‌فهمیم به اون صورت باقی باصفت نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 124,
+   "start": 574.82,
+   "end": 579.43,
+   "text": "اما به اون صورت هم خامی باصفt که معلوم بشه این هم نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 125,
+   "start": 579.43,
+   "end": 583.3,
+   "text": "حالا اونجا تعمق بشه پس می‌گیم که خامی این معنی است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 126,
+   "start": 583.3,
+   "end": 587.32,
+   "text": "کل من علیها خام هر کسی خامی می‌شود باید با ربّش ربّ را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 127,
+   "start": 587.32,
+   "end": 592.06,
+   "text": "ببیند و باقی می‌ماند. دنبال آیه شاهد بعدی داره دنبال این آیه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 128,
+   "start": 592.06,
+   "end": 595.46,
+   "text": "باقی می‌ماند وجه پروردگار تو،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 129,
+   "start": 595.46,
+   "end": 600.2,
+   "text": "وجه ربّ تو. اون وجهی که چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 130,
+   "start": 600.2,
+   "end": 602.56,
+   "text": "توصیف می‌کنه ذو الجلال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 131,
+   "start": 602.56,
+   "end": 606.72,
+   "text": "و اکرام. دارای جلال و اکرام است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 132,
+   "start": 606.72,
+   "end": 610.84,
+   "text": "وجه ربّ دارای جلال است و دارای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 133,
+   "start": 610.84,
+   "end": 612.69,
+   "text": "اکرام است. دو جنبه دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 134,
+   "start": 612.69,
+   "end": 617.0,
+   "text": "وجه ربوبی hebt. اون وجه الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 135,
+   "start": 617.0,
+   "end": 622.82,
+   "text": "که وجه ربّ، این وجهی که موجودات را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 136,
+   "start": 622.82,
+   "end": 627.44,
+   "text": "خلق می‌کند و تبدیل می‌کند و به حرکت می‌آورد و می‌دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 137,
+   "start": 627.44,
+   "end": 632.08,
+   "text": "اینو می‌گویند رب. یکی از صفات خدا، یکی از اسماء خدا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 138,
+   "start": 632.08,
+   "end": 639.56,
+   "text": "همان رب است. یکی از اسماء اسم انش God خیلی طولانی دارد که باز اگر خدا خواست به انش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 139,
+   "start": 639.56,
+   "end": 642.48,
+   "text": "God اسماء فرع داره اونجا صحبت می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 140,
+   "start": 642.48,
+   "end": 648.08,
+   "text": "می‌گویند که رب یکی از اسماء خداست و یعنی یکی از مصداق‌هاش این است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 141,
+   "start": 648.08,
+   "end": 651.4,
+   "text": "اون وجه ربّ خدا یعنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 142,
+   "start": 651.4,
+   "end": 660.18,
+   "text": "خدا در جنبه ربوبی خودش، خدا در ظهور ربوبی خودش، خدا با اسم ربوبی خودش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 143,
+   "start": 660.18,
+   "end": 664.7,
+   "text": "باقی می‌ماند. خدا با قیافه ربوبی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 144,
+   "start": 664.7,
+   "end": 667.7,
+   "text": "خدا با وجه ربوبی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 145,
+   "start": 667.7,
+   "end": 671.82,
+   "text": "وجه ربوبی هم از نظر من باز تغییر می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 146,
+   "start": 671.82,
+   "end": 675.76,
+   "text": "یعنی خدا با اسم ربوبیش، خدا با فعل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 147,
+   "start": 675.76,
+   "end": 678.46,
+   "text": "ربوبیش، خدا با ظهور",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 148,
+   "start": 678.46,
+   "end": 680.9,
+   "text": "ربوبیش به اصطلاح ربوبی‌ست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 149,
+   "start": 680.9,
+   "end": 685.94,
+   "text": "این خودش همین ظهور ربوبی یا اسم رب،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 150,
+   "start": 685.94,
+   "end": 687.64,
+   "text": "خودش خیلی انش God دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 151,
+   "start": 687.64,
+   "end": 690.36,
+   "text": "مثلا خارج از انش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 152,
+   "start": 690.36,
+   "end": 695.94,
+   "text": "God ربّ است. به نام خدا در انش God ربّ، مصرف، صانع همه این‌ها،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 153,
+   "start": 695.94,
+   "end": 701.48,
+   "text": "افعل، تفعل، جلال همه این‌ها از انش God همین وجه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 154,
+   "start": 701.48,
+   "end": 703.7,
+   "text": "رب. اینجا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 155,
+   "start": 703.7,
+   "end": 706.84,
+   "text": "می‌فرماید که خدا با وجه ربّش،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 156,
+   "start": 706.84,
+   "end": 709.74,
+   "text": "با اون ظهور ربوبیتش یا با صفت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 157,
+   "start": 709.74,
+   "end": 714.56,
+   "text": "ربوبیتش باقی می‌ماند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 158,
+   "start": 714.56,
+   "end": 719.37,
+   "text": "خدا با اسم ربوبیتش، با وجه ربّش دارای دو جنبه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 159,
+   "start": 719.37,
+   "end": 722.62,
+   "text": "ذو الجلال است و هست ذو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 160,
+   "start": 722.62,
+   "end": 725.29,
+   "text": "اکرام است. دقت بکنید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 161,
+   "start": 725.29,
+   "end": 729.49,
+   "text": "با او می ماند. هرکی که تلاوت میکنه بگه بعدش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 162,
+   "start": 729.49,
+   "end": 735.87,
+   "text": "با او می ماند. وجه رب یعنی ذات با وصف ربوبیت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 163,
+   "start": 735.87,
+   "end": 741.65,
+   "text": "ذات در ایین ربوبی، ذات در چهره ربوبی چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 164,
+   "start": 741.65,
+   "end": 746.71,
+   "text": "همین مثل وجه رب. ذات خدا با چهره ربوبی از با او می ماند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 165,
+   "start": 746.71,
+   "end": 750.25,
+   "text": "اون چهره ربوبی با اون اسم ربوبی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 166,
+   "start": 750.25,
+   "end": 752.35,
+   "text": "که خود اون جلال دارد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 167,
+   "start": 752.35,
+   "end": 754.43,
+   "text": "به هم، اکرام دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 168,
+   "start": 754.43,
+   "end": 760.71,
+   "text": "اکرام، جمال به اصطلاح، به اصطلاح عرفا و زهد اهل عرفان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 169,
+   "start": 760.71,
+   "end": 764.31,
+   "text": "این همان اکرام و اثر که از جنبه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 170,
+   "start": 764.31,
+   "end": 768.23,
+   "text": "جمال حق و صفت جمالی حق.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 171,
+   "start": 768.23,
+   "end": 774.09,
+   "text": "پس بنابراین وجه رب یعنی اسم رب خودش دو جنبه دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 172,
+   "start": 774.09,
+   "end": 776.87,
+   "text": "یک جنبه جلالی دارد، یک جنبه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 173,
+   "start": 776.87,
+   "end": 781.01,
+   "text": "جمالی دارد. با توجه به اینکه گفتم رب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 174,
+   "start": 781.01,
+   "end": 785.83,
+   "text": "خودش این اشعابات دارد یعنی بعض از این اشعابات رب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 175,
+   "start": 785.83,
+   "end": 787.79,
+   "text": "صفت جلال است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 176,
+   "start": 787.79,
+   "end": 790.23,
+   "text": "بعضی از این اشعاباتش صفت چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 177,
+   "start": 790.23,
+   "end": 793.68,
+   "text": "صفت اکرام و جمال است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 178,
+   "start": 793.68,
+   "end": 795.95,
+   "text": "توجه کردید؟ نه اینکه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 179,
+   "start": 795.95,
+   "end": 801.93,
+   "text": "یک چیزی منشعت میشه از رب، اسم رب یک چیز نیست که این اشعاب متصل به خودش فقط",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 180,
+   "start": 801.93,
+   "end": 803.63,
+   "text": "دو جنبه باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 181,
+   "start": 803.63,
+   "end": 812.39,
+   "text": "اسم نیست رب که دارای این اشعابات است یعنی اسماعی از او منشعت میشه که بعض از این اشعاباتش،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 182,
+   "start": 812.39,
+   "end": 815.13,
+   "text": "بعض از این اشعابات رب،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 183,
+   "start": 815.13,
+   "end": 821.44,
+   "text": "این اسماء از رب منشعت میشه اسماء جلال است بعضی از اسماء جمال است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 184,
+   "start": 821.44,
+   "end": 824.33,
+   "text": "سو جلال و اکرام.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 185,
+   "start": 824.33,
+   "end": 831.67,
+   "text": "این یک آیه از سوره الرحمن با این شرحی که کردم باز هم بحث به طرف خود میره .",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 186,
+   "start": 831.67,
+   "end": 838.06,
+   "text": "آیه دیگر که بعد از سوره الرحمن است که صای میتونه در اینکه اسماء خدا دو قسم است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 187,
+   "start": 838.06,
+   "end": 840.47,
+   "text": "دو قسم یعنی دو. به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 188,
+   "start": 840.47,
+   "end": 844.11,
+   "text": "اصطلاح اسم دارین دو نوع هست اسماء الهی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 189,
+   "start": 844.11,
+   "end": 848.13,
+   "text": "جمال و جلالی یا جمال و جلال یا صفت جمال و جلال.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 190,
+   "start": 848.13,
+   "end": 850.37,
+   "text": "آیه آخر سوره الرحمن است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 191,
+   "start": 850.37,
+   "end": 852.59,
+   "text": "آیه آخر تسبیح است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 192,
+   "start": 852.59,
+   "end": 859.69,
+   "text": "آیه آخری. آیه آخر میفرماید که \"تبارک اسم ربه ذو جلال واکرام\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 193,
+   "start": 859.69,
+   "end": 862.3,
+   "text": "ذو جلال یعنی از اولی زوجه رو گفت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 194,
+   "start": 862.3,
+   "end": 864.19,
+   "text": "ذو جلال واکرام.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 195,
+   "start": 864.19,
+   "end": 869.01,
+   "text": "\"تبارک اسم ربه ذو جلال واکرام\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 196,
+   "start": 869.01,
+   "end": 875.9,
+   "text": "تبارک، تبارک یعنی منشأ اصطلاح برکت و آثار است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 197,
+   "start": 875.9,
+   "end": 879.81,
+   "text": "آثار. این که یک اشاره خاصی دارد تبارک.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 198,
+   "start": 879.81,
+   "end": 885.35,
+   "text": "تبارک در آن درجه‌های مختلفی که فرموده شده که در واقع یکی از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 199,
+   "start": 885.35,
+   "end": 887.68,
+   "text": "صفات خداست تبارک.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 200,
+   "start": 887.68,
+   "end": 890.57,
+   "text": "که خدا جهان هست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 201,
+   "start": 890.57,
+   "end": 892.49,
+   "text": "که \"بركة الله احسن الختام\" این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 202,
+   "start": 892.49,
+   "end": 895.87,
+   "text": "از همین است. تبارک ذات الله است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 203,
+   "start": 895.87,
+   "end": 899.89,
+   "text": "اینه که خدا هرچه بده و هرچه فاضل کنه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 204,
+   "start": 899.89,
+   "end": 903.51,
+   "text": "هر ثمنی، هر چیزی را بده که میده،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 205,
+   "start": 903.51,
+   "end": 908.19,
+   "text": "هر صورت بده جز فیاض بودن او",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 206,
+   "start": 908.19,
+   "end": 911.58,
+   "text": "و جز اصفا بودن او چیزی دیگر اضافه نمیکند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 207,
+   "start": 911.58,
+   "end": 914.45,
+   "text": "نه اینکه از خود او چیزی کم بشود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 208,
+   "start": 914.45,
+   "end": 919.49,
+   "text": "معنی تبارک این است. هرچه بده بیشتر میکنه به وجود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 209,
+   "start": 919.49,
+   "end": 922.99,
+   "text": "دادنش بیشتر او را فیاض‌تر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 210,
+   "start": 922.99,
+   "end": 925.61,
+   "text": "میکنه و mehrتر و فاضل میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 211,
+   "start": 925.61,
+   "end": 928.89,
+   "text": "این هم یک از صفات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 212,
+   "start": 928.89,
+   "end": 936.31,
+   "text": "خصوص خداست که در دعاها هم نمیدونم دقت کردید \"یا من لا فزیاده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 213,
+   "start": 936.31,
+   "end": 942.67,
+   "text": "له except العطا إلا جودا و کرما\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 214,
+   "start": 942.67,
+   "end": 950.49,
+   "text": "این یک از صفات استثنای-- در واقع همه چیز خدا استثنائی است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 215,
+   "start": 950.49,
+   "end": 953.01,
+   "text": "هیچ چیزی شباهت ندارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 216,
+   "start": 953.01,
+   "end": 956.51,
+   "text": "ولی یک چیز عجیبی است. در آن دعا که الآن گفتم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 217,
+   "start": 956.51,
+   "end": 962.45,
+   "text": "اونجا میفرماید میگه يا من ای اون کسی که لا فزیاده له except العطا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 218,
+   "start": 962.45,
+   "end": 965.65,
+   "text": "اضافه نمیکند زیاد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 219,
+   "start": 965.65,
+   "end": 968.01,
+   "text": "دادن به او مگر جود و کرما.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 220,
+   "start": 968.01,
+   "end": 971.25,
+   "text": "یعنی هرچه بده جوده تو بیشتر میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 221,
+   "start": 971.25,
+   "end": 974.77,
+   "text": "کرمش بیشتر میشه. نه اینکه کم بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 222,
+   "start": 974.77,
+   "end": 978.09,
+   "text": "اونچه دارد دادنش بیشتر میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 223,
+   "start": 978.09,
+   "end": 980.91,
+   "text": "بخشندش را. دقت کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 224,
+   "start": 980.91,
+   "end": 985.69,
+   "text": "دادنش بیشتر میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 225,
+   "start": 985.69,
+   "end": 991.59,
+   "text": "بخشندش. این هم یک چیز جالبه. در اصل همه چیز یک چیزی است که برای اینکه یک معنی کوچیکی داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 226,
+   "start": 991.59,
+   "end": 993.47,
+   "text": "به هر صورت تبارک معنیش اینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 227,
+   "start": 993.47,
+   "end": 996.71,
+   "text": "خدا تبارک است. هرچه بده بیشتر میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 228,
+   "start": 996.71,
+   "end": 999.65,
+   "text": "اما باز هم به این معنا تصور نکنید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 229,
+   "start": 999.65,
+   "end": 1002.37,
+   "text": "که قادر است که خدا مثلاً کم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 230,
+   "start": 1002.37,
+   "end": 1003.99,
+   "text": "داد اضافه بده. نه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 231,
+   "start": 1003.99,
+   "end": 1011.13,
+   "text": "این معنی خاص. به هر صورت منظورش از هر چیزی کم نمیشه بلکه بیشتر میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 232,
+   "start": 1011.13,
+   "end": 1015.51,
+   "text": "خب این که تبارک اسم ربه است .",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 233,
+   "start": 1015.51,
+   "end": 1017.47,
+   "text": "مبارک است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 234,
+   "start": 1017.47,
+   "end": 1024.97,
+   "text": "منشأ اثارات و افاضات بیشتر، بیشتر، بیشتر است که هرچی فاضل کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 235,
+   "start": 1024.97,
+   "end": 1026.59,
+   "text": "پس این تبارک است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 236,
+   "start": 1026.59,
+   "end": 1028.15,
+   "text": "مبارک است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 237,
+   "start": 1028.15,
+   "end": 1031.87,
+   "text": "دارای برکت است. اسم ربه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 238,
+   "start": 1031.87,
+   "end": 1033.59,
+   "text": "اون اسم رب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 239,
+   "start": 1033.59,
+   "end": 1037.25,
+   "text": "یعنی صفت اول ربوبیت خداست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 240,
+   "start": 1037.25,
+   "end": 1039.95,
+   "text": "بعد اینکه ربوبیت خدا چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 241,
+   "start": 1039.95,
+   "end": 1043.07,
+   "text": "ذو جلال است. این ذی که اینجا با",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 242,
+   "start": 1043.07,
+   "end": 1047.49,
+   "text": "اگر عطف به ذات been باشه به حالت جذب آمده صفت رب هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 243,
+   "start": 1047.49,
+   "end": 1051.48,
+   "text": "چون رب در اینجا مضمومه و اینجا ذفاً ذی آمده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 244,
+   "start": 1051.48,
+   "end": 1060.72,
+   "text": "همان زوجات که بالا گفتیم همان اینجا، اینجا ذی جلال گفته شده صفت رب هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 245,
+   "start": 1060.72,
+   "end": 1064.03,
+   "text": "و در این ذی جلال واکرام. مبارک است اسم ربه که صاحب جلال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 246,
+   "start": 1064.03,
+   "end": 1071.79,
+   "text": "است. این اسم ربه که اون اسم رب به معنی اون صفت رب خود صاحب جلال است و صاحب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 247,
+   "start": 1071.79,
+   "end": 1075.29,
+   "text": "جمال است. بیشتر از همه جمال است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 248,
+   "start": 1075.29,
+   "end": 1084.41,
+   "text": "این دو تا آیه گفتم به صراحت این را بیان میکنه که ربوبیت خدا که دارای این اشعابات است که دو،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 249,
+   "start": 1084.41,
+   "end": 1087.79,
+   "text": "دو اشعابات دارد. اسماء جمالی و اسماء",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 250,
+   "start": 1087.79,
+   "end": 1100.51,
+   "text": "جلالی است ما می‌دونیم که قدم به قدم سیستم می‌دونیم که فعلاً در این دو آیه توجه فرمود که اونچه که جلال و جمال را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 251,
+   "start": 1100.51,
+   "end": 1103.31,
+   "text": "این دو آیه اثبات می‌کند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 252,
+   "start": 1103.31,
+   "end": 1106.89,
+   "text": "در کدوم یک از اسماء خود اثبات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 253,
+   "start": 1106.89,
+   "end": 1109.99,
+   "text": "می‌کند؟ در اسم رب که اسم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 254,
+   "start": 1109.99,
+   "end": 1120.85,
+   "text": "رب خودش از اسماء بالا تر خداست و خودش منشعب میشه به اسماء زیادی که در وجود همه اون اسماء منشأ اثر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 255,
+   "start": 1120.85,
+   "end": 1123.67,
+   "text": "است. این اسم رب دارای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 256,
+   "start": 1123.67,
+   "end": 1127.51,
+   "text": "اسماء جلالی و اسماء جمال است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 257,
+   "start": 1127.51,
+   "end": 1130.36,
+   "text": "فعلاً از این دو آیه اینو می‌فهمیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 258,
+   "start": 1130.36,
+   "end": 1132.01,
+   "text": "ولی همین وقت مسئله این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 259,
+   "start": 1132.01,
+   "end": 1140.0,
+   "text": "است که اصل مسئله این است که با توجه به نظرات دیگر که حالا اینها البته اینجا طولانی شد بحث کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 260,
+   "start": 1140.0,
+   "end": 1144.91,
+   "text": "مسئله اصل همونه که صفات خدا یک قسم صفات جلالیه، یک قسم صفات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 261,
+   "start": 1144.91,
+   "end": 1148.43,
+   "text": "جمال. خب صفات جمال چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 262,
+   "start": 1148.43,
+   "end": 1150.35,
+   "text": "صفات جلال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 263,
+   "start": 1150.35,
+   "end": 1154.59,
+   "text": "چیه؟ اون اندازه‌ که من میتونم اینجا بگم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 264,
+   "start": 1154.59,
+   "end": 1163.03,
+   "text": "صفات جمال خدا یا صفات جمال خدا، اسماء جمال خدا مثلاً مانند علیم و رحیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 265,
+   "start": 1163.03,
+   "end": 1167.67,
+   "text": "اینها اسماء جمال حق هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 266,
+   "start": 1167.67,
+   "end": 1171.59,
+   "text": "جواب و افو و اینا هم‌ش اسماء چه می‌دونم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 267,
+   "start": 1171.59,
+   "end": 1173.45,
+   "text": "جمال خداست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 268,
+   "start": 1173.45,
+   "end": 1175.45,
+   "text": "سميع و بسط این دو سیستم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 269,
+   "start": 1175.45,
+   "end": 1177.87,
+   "text": "اینا همه اسماء جمال.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 270,
+   "start": 1177.87,
+   "end": 1181.75,
+   "text": "اسماء جمال یعنی چی؟ یعنی اون صفاتی که،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 271,
+   "start": 1181.75,
+   "end": 1188.17,
+   "text": "اون صفاتی که از کمالات ذات حکایت می‌کند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 272,
+   "start": 1188.17,
+   "end": 1191.83,
+   "text": "از کمالات ذات حکایت می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 273,
+   "start": 1191.83,
+   "end": 1195.05,
+   "text": "کمالات ذات حق داراست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 274,
+   "start": 1195.05,
+   "end": 1198.69,
+   "text": "اون صفاتی که از کمالات ذات وجود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 275,
+   "start": 1198.69,
+   "end": 1201.71,
+   "text": "و وجود حکایت می‌کند و خبر می‌دهد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 276,
+   "start": 1201.71,
+   "end": 1204.57,
+   "text": "اون صفات را می‌گویند صفات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 277,
+   "start": 1204.57,
+   "end": 1209.23,
+   "text": "جمال. همان صفات رحمت هم به اصطلاح نامیده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 278,
+   "start": 1209.23,
+   "end": 1215.79,
+   "text": "می‌شود. رحمان بودن خدا، رحیم بودن، سميع بودن، عليم بودن، بسط بودن، جواب دادن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 279,
+   "start": 1215.79,
+   "end": 1218.35,
+   "text": "یعنی موتیو بودن. این همه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 280,
+   "start": 1218.35,
+   "end": 1222.49,
+   "text": "صفات هست که از کمالات خدا اینهاست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 281,
+   "start": 1222.49,
+   "end": 1228.41,
+   "text": "این صفات جمال یک تعریف پیشرفته‌اش رو گفتم به اندازه که صادق رو بیان می‌کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 282,
+   "start": 1228.41,
+   "end": 1234.63,
+   "text": "چون اول یادتون هست مثلاً خیلی از اینها بیشتره فقط این اندازه که من می‌تونم با این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 283,
+   "start": 1234.63,
+   "end": 1237.59,
+   "text": "یعنی بحثم رو خلاصه بگم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 284,
+   "start": 1237.59,
+   "end": 1252.23,
+   "text": "صفات جلال خدا یا اسماء جلال خدا، اون قسمت صفات و اسماء خداست که غص و طهارت و نظافت و تنزه و تفرس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 285,
+   "start": 1252.23,
+   "end": 1255.71,
+   "text": "ذات را می‌رساند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 286,
+   "start": 1255.71,
+   "end": 1258.21,
+   "text": "اینها را می‌گویند صفات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 287,
+   "start": 1258.21,
+   "end": 1261.39,
+   "text": "جلال. اونی که طهارت،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 288,
+   "start": 1261.39,
+   "end": 1266.47,
+   "text": "غص، نظافت، پاکی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 289,
+   "start": 1266.47,
+   "end": 1268.45,
+   "text": "پاکی حق را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 290,
+   "start": 1268.45,
+   "end": 1272.07,
+   "text": "می‌رساند. اینها را می‌گویند صفات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 291,
+   "start": 1272.07,
+   "end": 1277.09,
+   "text": "جلال. یعنی پاکی حق، مقدس بودن حق،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 292,
+   "start": 1277.09,
+   "end": 1283.13,
+   "text": "منزه بودن حق از اونچه که تصور می‌شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 293,
+   "start": 1283.13,
+   "end": 1290.55,
+   "text": "عرضم به حضورتون می‌دانید که ماها هرچه معرفت ما بره بالاتر، خدا را مثلاً بخواهیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 294,
+   "start": 1290.55,
+   "end": 1297.61,
+   "text": "بشناسیم، بالاخره اونطور که ما می‌شناسیم و اونجور که ما فکر می‌کنیم، تصور",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 295,
+   "start": 1297.61,
+   "end": 1305.59,
+   "text": "می‌کنیم، می‌شناسیم نیست و منزه از همه این مسئله‌ای که در خدا هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 296,
+   "start": 1305.59,
+   "end": 1309.41,
+   "text": "از نام خداست. در قرآن نیز آیه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 297,
+   "start": 1309.41,
+   "end": 1314.73,
+   "text": "هست که سبحان الله عما یصفون شاهد می‌گویند مثل اینکه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 298,
+   "start": 1314.73,
+   "end": 1320.01,
+   "text": "شاهد بر اینکه این تنزه که می‌گوییم معنی‌ش این است که خدا از بدیها،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 299,
+   "start": 1320.01,
+   "end": 1330.71,
+   "text": "از نقائص، از ترس بدبخت، از ترس ادنست، از ترس نوزید، از ترس شربت، از ترس کمبود است، از ترس نقص",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 300,
+   "start": 1330.71,
+   "end": 1333.93,
+   "text": "پاک است. تنها بی‌معنا نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 301,
+   "start": 1333.93,
+   "end": 1337.55,
+   "text": "پاک بودن خدا، منزه بودن خدا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 302,
+   "start": 1337.55,
+   "end": 1345.93,
+   "text": "یا به اصطلاح سبوح و غدوس بودن خدا تنها بی‌معنا نیست که نقائص درش نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 303,
+   "start": 1345.93,
+   "end": 1351.35,
+   "text": "حقیقت بالا تره. حقیقتش این است که بی‌معنا از اونچه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 304,
+   "start": 1351.35,
+   "end": 1353.43,
+   "text": "که انسان‌ها بنا بر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 305,
+   "start": 1353.43,
+   "end": 1362.89,
+   "text": "شناخت‌های بالاتر و غیرانسان‌ها موجودات دیگر که مقداری شناخت بالاترند از غیرانسان، از ملائکه و...",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 306,
+   "start": 1362.89,
+   "end": 1366.17,
+   "text": "که بخوان خدا را بیابند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 307,
+   "start": 1366.17,
+   "end": 1369.39,
+   "text": "خدا خیلی بالاتر و منزهتر از اون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 308,
+   "start": 1369.39,
+   "end": 1374.59,
+   "text": "چیزی است که انسان‌ها و موجودات زنده و دارایی درک می‌یابند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 309,
+   "start": 1374.59,
+   "end": 1378.49,
+   "text": "خدا از اینها خیلی، خیلی منزهتره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 310,
+   "start": 1378.49,
+   "end": 1384.04,
+   "text": "نه تنها از نقائص، بدی‌ها، کمبودها و نظایر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 311,
+   "start": 1384.04,
+   "end": 1392.29,
+   "text": "بلکه اونطور که ماها و غیرماها از ما بالاترها، موجودات دیگر، هرچه دیگه که صاحب دریافت هست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 312,
+   "start": 1392.29,
+   "end": 1395.31,
+   "text": "می‌یابد خدا را، خدا از اون خیلی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 313,
+   "start": 1395.31,
+   "end": 1399.69,
+   "text": "بالاتره. این معنی به اصطلاح غص صاعد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 314,
+   "start": 1399.69,
+   "end": 1404.47,
+   "text": "حق است. در قرآن آیه هست که فرماید که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 315,
+   "start": 1404.47,
+   "end": 1409.97,
+   "text": "سبحان الله عما یصفون إلا عباد الله المخلصین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 316,
+   "start": 1409.97,
+   "end": 1412.01,
+   "text": "اگر آیه را درست نخونم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 317,
+   "start": 1412.01,
+   "end": 1417.85,
+   "text": "ممکنه یه خورده چیزه بلد شو اینور اونور می‌کنم ولی آیه تأثیرش اینجوریست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 318,
+   "start": 1417.85,
+   "end": 1427.67,
+   "text": "بعد من رو اصلاح کرده، بعد نادیده می‌گیره که چیز بعدش هستم من اینجا می‌گم از مورد هم تلاوت کنم به صورت آماده عرض",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 319,
+   "start": 1427.67,
+   "end": 1430.97,
+   "text": "کنم برای اینکه فهمید که چیز اینو، اینو می‌گه در این آیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 320,
+   "start": 1430.97,
+   "end": 1435.45,
+   "text": "می‌فرماید که خدا منزه است سبحان الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 321,
+   "start": 1435.45,
+   "end": 1444.47,
+   "text": "خدا منزه است عما یصفون از اون توصیفات توصیف کننده‌ها می‌کنند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 322,
+   "start": 1444.47,
+   "end": 1447.15,
+   "text": "خدا از اینها خیلی منزه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 323,
+   "start": 1447.15,
+   "end": 1451.39,
+   "text": "از این توصیفات که توصیفات خوبه از جانب توصیف.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 324,
+   "start": 1451.39,
+   "end": 1454.85,
+   "text": "در حالی که خدا را خوب توصیف می‌خواهند بکنند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 325,
+   "start": 1454.85,
+   "end": 1456.87,
+   "text": "مثلاً من که می‌شناسم خدا،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 326,
+   "start": 1456.87,
+   "end": 1462.07,
+   "text": "خدا را توصیف می‌کنم من در اسماء صاف خدا صحبت می‌کنم دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 327,
+   "start": 1462.07,
+   "end": 1467.11,
+   "text": "یا مثلاً من اگه بخوام از این هم بیشتر صحبت کنم نه از من بالاتر کسی که بخواد بیشتر از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 328,
+   "start": 1467.11,
+   "end": 1469.63,
+   "text": "من اون صحبت کنه اصلاً از اونا بالاتر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 329,
+   "start": 1469.63,
+   "end": 1472.57,
+   "text": "اصلاً مراد حق کی؟ حق هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 330,
+   "start": 1472.57,
+   "end": 1474.29,
+   "text": "اینکه سه گانه و سه گانه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 331,
+   "start": 1474.29,
+   "end": 1477.29,
+   "text": "خدا منزه از همه توصیفات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 332,
+   "start": 1477.29,
+   "end": 1481.13,
+   "text": "و توصیف‌ده‌ها توصیف می‌کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 333,
+   "start": 1481.13,
+   "end": 1482.93,
+   "text": "بعد نیست کسی صحبت کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 334,
+   "start": 1482.93,
+   "end": 1485.53,
+   "text": "این برای بندگان مخلصین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 335,
+   "start": 1485.53,
+   "end": 1492.07,
+   "text": "مگر آن بندگان مخلص خدا فقط اون‌ها می‌توانند خدا را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 336,
+   "start": 1492.07,
+   "end": 1497.13,
+   "text": "توصیف کنند که مناسب باشد با ذات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 337,
+   "start": 1497.13,
+   "end": 1500.55,
+   "text": "قدس و طهارت حق.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 338,
+   "start": 1500.55,
+   "end": 1502.83,
+   "text": "توجه کنید استثنا می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 339,
+   "start": 1502.83,
+   "end": 1508.98,
+   "text": "همین توصیف‌ها را کی باید از سوی خدا می‌داند و خدا را بالاتر از آنها می‌داند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 340,
+   "start": 1508.98,
+   "end": 1511.85,
+   "text": "این باید توصیف مخلصین را.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 341,
+   "start": 1511.85,
+   "end": 1515.09,
+   "text": "مخلصین هم می‌دانید که یک تیپ خاصی هستند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 342,
+   "start": 1515.09,
+   "end": 1521.69,
+   "text": "که انصار مثلاً رسول الله صلی الله علیه و آله این‌ها را می‌گویند مخلصین که در وجودشون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 343,
+   "start": 1521.69,
+   "end": 1524.73,
+   "text": "هیچ عیب و نقصی نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 344,
+   "start": 1524.73,
+   "end": 1527.99,
+   "text": "این آدم‌های مخلصین توصیف خیلی تغییر می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 345,
+   "start": 1527.99,
+   "end": 1531.05,
+   "text": "به هر صورت این آیه را خواهم گفت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 346,
+   "start": 1531.05,
+   "end": 1534.21,
+   "text": "اینکه اسماء جلال پس چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 347,
+   "start": 1534.21,
+   "end": 1538.95,
+   "text": "اسماء جلال یا صفات جلال، اون صفات و اون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 348,
+   "start": 1538.95,
+   "end": 1543.87,
+   "text": "اسماعی که قدس و طهارت خدا را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 349,
+   "start": 1543.87,
+   "end": 1547.31,
+   "text": "از اونچه که باید مقدس باشد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 350,
+   "start": 1547.31,
+   "end": 1553.43,
+   "text": "و منزه بودن خدا را از اونچه که منزه است می‌رساند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 351,
+   "start": 1553.43,
+   "end": 1555.57,
+   "text": "دقت کنید از اونچه که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 352,
+   "start": 1555.57,
+   "end": 1561.83,
+   "text": "منزه است می‌رساند. پس مضمون کلی صفات جلال را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 353,
+   "start": 1561.83,
+   "end": 1566.97,
+   "text": "فهمیده‌اید. صفت جمال اوج کمالات حق است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 354,
+   "start": 1566.97,
+   "end": 1576.97,
+   "text": "صفت جلال اوج نزاهت حق، قدس حق و تنزه حق است از اونچه که منزه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 355,
+   "start": 1576.97,
+   "end": 1582.43,
+   "text": "این در تعریف کلی، تعریف کلی صفات جمال و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 356,
+   "start": 1582.43,
+   "end": 1585.61,
+   "text": "صفات جلال حق است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 357,
+   "start": 1585.61,
+   "end": 1590.71,
+   "text": "صفات جلال مثلاً سبوح مثلاً قدوس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 358,
+   "start": 1590.71,
+   "end": 1594.11,
+   "text": "چه می‌دونم بعضی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 359,
+   "start": 1594.11,
+   "end": 1598.5,
+   "text": "چیزا دارد. اعلی، علیم، این حق هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 360,
+   "start": 1598.5,
+   "end": 1603.01,
+   "text": "متعال بعضی صفات بسیار عزیز،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 361,
+   "start": 1603.01,
+   "end": 1606.67,
+   "text": "بعضی صفات عزیز، غفار، کافر،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 362,
+   "start": 1606.67,
+   "end": 1613.45,
+   "text": "انصار اینها. مذل اینا همه‌ش البته تک تک از یادداشت مخصوصا اگه می‌رفتیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 363,
+   "start": 1613.45,
+   "end": 1616.75,
+   "text": "راستا، راستا صفات جلال خیلی از این انفعال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 364,
+   "start": 1616.75,
+   "end": 1619.83,
+   "text": "و ترتیب و ترتیب استفاده کردیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 365,
+   "start": 1619.83,
+   "end": 1621.75,
+   "text": "که اونجا باید واینا گفته بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 366,
+   "start": 1621.75,
+   "end": 1630.11,
+   "text": "ولی این می‌فهمیم اسماء صفات جماله مانند سبوح، مانند قدوس، مانند عزیز، مانند به اصطلاح",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 367,
+   "start": 1630.11,
+   "end": 1638.83,
+   "text": "جلیل. حالا جلیل در قرآن به کار نرفته ظاهراً ولی جلیل و مانند علیم، متعال، اعلی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 368,
+   "start": 1638.83,
+   "end": 1641.45,
+   "text": "عظیم اینها، اینها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 369,
+   "start": 1641.45,
+   "end": 1643.97,
+   "text": "از اسماء جمال حق است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 370,
+   "start": 1643.97,
+   "end": 1651.83,
+   "text": "تا این طرف میاد این صفاتی که منفرد، مذل اینا از اسماء جلال حق است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 371,
+   "start": 1651.83,
+   "end": 1659.71,
+   "text": "حالا مذل اینا رو که شما حالا جدا نمی‌تونید تصور کنید یه چیزی رو اسم خدا مذل یعنی اون دیگه چه--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 372,
+   "start": 1659.71,
+   "end": 1670.48,
+   "text": "یک نگاهی کنید که فرق می‌کنه این‌ها از صفات جمالی حق از، از در معنی پایین‌تر از این صفات صفات جمالی هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 373,
+   "start": 1670.48,
+   "end": 1674.49,
+   "text": "به هر صورت تعریف کلی اسماء جمال و جلال را متوجه شدیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 374,
+   "start": 1674.49,
+   "end": 1678.32,
+   "text": "این هم یک قسمتی از راجع به بحثمون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 375,
+   "start": 1678.32,
+   "end": 1681.89,
+   "text": "از اینجا می‌زنیم به یک دوباره من یک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 376,
+   "start": 1681.89,
+   "end": 1685.57,
+   "text": "معنی جمال و جلال که راستا روشن شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 377,
+   "start": 1685.57,
+   "end": 1687.61,
+   "text": "می‌زنیم به یک فراز",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 378,
+   "start": 1687.61,
+   "end": 1690.11,
+   "text": "سومی از این بحث. یعنی بحث سومی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 379,
+   "start": 1690.11,
+   "end": 1693.57,
+   "text": "که دیگه خود شما ذهنتون روشن‌تر بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 380,
+   "start": 1693.57,
+   "end": 1697.05,
+   "text": "حالا در اینجا شما را متأهل یک قدم вперед برد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 381,
+   "start": 1697.05,
+   "end": 1706.51,
+   "text": "اسماء جمال و یعنی تعریف دیگری از اسماء جمال حق و اسماء جلال حق کلی حالا میشه از کلی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 382,
+   "start": 1706.51,
+   "end": 1711.91,
+   "text": "صفات جمال حق اون است که منشاء این همه وجود می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 383,
+   "start": 1711.91,
+   "end": 1719.31,
+   "text": "دقت کنید. منشاء افاضه خدا می‌شه این همه وجود را و هستی را.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 384,
+   "start": 1719.31,
+   "end": 1721.39,
+   "text": "اگر نبود صفات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 385,
+   "start": 1721.39,
+   "end": 1725.97,
+   "text": "جمالی حق، اگر نداشت خدا اسماء",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 386,
+   "start": 1725.97,
+   "end": 1729.13,
+   "text": "جمال را، دقت کنید ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 387,
+   "start": 1729.13,
+   "end": 1732.79,
+   "text": "اگر نداشت خدا صفات جمال را،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 388,
+   "start": 1732.79,
+   "end": 1739.33,
+   "text": "این همه ایجاد که کرده یعنی وجود که بخشیده، ایجاد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 389,
+   "start": 1739.33,
+   "end": 1742.39,
+   "text": "خلق، ایجاد هیچ معنی نداشت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 390,
+   "start": 1742.39,
+   "end": 1744.33,
+   "text": "اصلاً مفهوم نداشت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 391,
+   "start": 1744.33,
+   "end": 1749.33,
+   "text": "یعنی خلق و ایجاد از آثار صفات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 392,
+   "start": 1749.33,
+   "end": 1751.83,
+   "text": "جمال حق است. دقت کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 393,
+   "start": 1751.83,
+   "end": 1756.51,
+   "text": "ایجاد و خلق از آثار صفات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 394,
+   "start": 1756.51,
+   "end": 1765.85,
+   "text": "جمال حق است. یعنی اون صفات و اسماء که کمالات حق و اون ذات ذی الوهیت و الهیت را آشکار می‌کنه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 395,
+   "start": 1765.85,
+   "end": 1774.39,
+   "text": "اون صفات و اسماء است که منشاء ایجاد شده و این همه موجودات ایجاد گردیده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 396,
+   "start": 1774.39,
+   "end": 1778.23,
+   "text": "است. صفات جمال اگر نبود، ایجاد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 397,
+   "start": 1778.23,
+   "end": 1780.57,
+   "text": "نبود و صفات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 398,
+   "start": 1780.57,
+   "end": 1786.01,
+   "text": "جلال، این صفات جمال، اینو خوب یادداشتون نوشتید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 399,
+   "start": 1786.01,
+   "end": 1790.41,
+   "text": "حالا اینو میگم ولی من نمی‌دونم دیگه شما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 400,
+   "start": 1790.41,
+   "end": 1797.39,
+   "text": "خواهید فهمید، فهم خواهید کرد بعداً خدا خواست انشاالله توضیح بیشتر میدم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 401,
+   "start": 1797.39,
+   "end": 1801.55,
+   "text": "چیکار بکنم؟ صفات جمال که اون کمالاتی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 402,
+   "start": 1801.55,
+   "end": 1804.35,
+   "text": "که آشکار کرد کمالات خدا می‌کنه. اگر این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 403,
+   "start": 1804.35,
+   "end": 1812.1,
+   "text": "اسماء خدا جمال، این صفات خدا جمال، اگر اینها نبود، ایجادی نبود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 404,
+   "start": 1812.1,
+   "end": 1815.81,
+   "text": "اونی که منشاء ایجاد است صفات جمالی و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 405,
+   "start": 1815.81,
+   "end": 1819.33,
+   "text": "اسماء جمالی حق است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 406,
+   "start": 1819.33,
+   "end": 1822.23,
+   "text": "این در این طرف صفات جلال کدومه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 407,
+   "start": 1822.23,
+   "end": 1827.49,
+   "text": "یه تعریف دیگه به استعمال کرد یا یک ویژگی، ویژگی دیگری از این دو تاست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 408,
+   "start": 1827.49,
+   "end": 1832.69,
+   "text": "و اگر صفت جلالی نبود، یعنی خدا صفت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 409,
+   "start": 1832.69,
+   "end": 1835.23,
+   "text": "جلالش را نداشت،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 410,
+   "start": 1835.23,
+   "end": 1838.43,
+   "text": "هیچ چیزی وجود نداشت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 411,
+   "start": 1838.43,
+   "end": 1840.37,
+   "text": "متوجه شدید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 412,
+   "start": 1840.37,
+   "end": 1843.81,
+   "text": "حالا اینو که گفتم طولانی شد باید از ابتدا تکرار بکنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 413,
+   "start": 1843.81,
+   "end": 1846.21,
+   "text": "اگر جلال خدا نفس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 414,
+   "start": 1846.21,
+   "end": 1854.77,
+   "text": "افعال را اندیش می‌کنه، افعال را منزه می‌کنه، اگر آن ها نبود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 415,
+   "start": 1854.77,
+   "end": 1857.03,
+   "text": "وجودی نبود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 416,
+   "start": 1857.03,
+   "end": 1863.33,
+   "text": "وجودی من و تو و شما باشد، آسمان باشد، زمین باشد، رزق و مادی باشد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 417,
+   "start": 1863.33,
+   "end": 1867.39,
+   "text": "این چیزها باشد، ملک باشد، هیچ کدوم از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 418,
+   "start": 1867.39,
+   "end": 1869.11,
+   "text": "این‌ها نبود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 419,
+   "start": 1869.11,
+   "end": 1871.81,
+   "text": "اگر جلال نبود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 420,
+   "start": 1871.81,
+   "end": 1874.11,
+   "text": "این سه تا را سه تا جمله جدا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 421,
+   "start": 1874.11,
+   "end": 1882.15,
+   "text": "کنم. سه تا چی می‌شه؟ اگر صفت جمالی خدا نبود، صفت جمالی خدا سرش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 422,
+   "start": 1882.15,
+   "end": 1887.19,
+   "text": "سربسته. صفت جمالی خدا چی می‌کنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 423,
+   "start": 1887.19,
+   "end": 1890.17,
+   "text": "موجود را از خدا دور می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 424,
+   "start": 1890.17,
+   "end": 1893.63,
+   "text": "بین خدا و موجود فاصله ایجاد می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 425,
+   "start": 1893.63,
+   "end": 1895.71,
+   "text": "چون خدا از خدا کیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 426,
+   "start": 1895.71,
+   "end": 1898.43,
+   "text": "منزهه. صفت جلال خاصیتش این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 427,
+   "start": 1898.43,
+   "end": 1904.77,
+   "text": "هست که چون خدا را اندیش می‌کنه، مخلوق را از خدا چی می‌کنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 428,
+   "start": 1904.77,
+   "end": 1907.18,
+   "text": "جدا می‌کنه. یعنی کنار می‌ذاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 429,
+   "start": 1907.18,
+   "end": 1909.03,
+   "text": "این می‌شه مخلوق، اونم می‌شه چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 430,
+   "start": 1909.03,
+   "end": 1915.05,
+   "text": "اونم می‌شه خالق. چون این با او هیچ تناسبی ندارد و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 431,
+   "start": 1915.05,
+   "end": 1922.77,
+   "text": "چون اگر، اگر این صفت این دو خاصیت دارد که وجود را جدا می‌کنه، ممتاز موجود را،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 432,
+   "start": 1922.77,
+   "end": 1925.13,
+   "text": "موجود را ممتاز می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 433,
+   "start": 1925.13,
+   "end": 1927.49,
+   "text": "اگر این صفت نبود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 434,
+   "start": 1927.49,
+   "end": 1932.27,
+   "text": "نور جماله است که وجود می‌ده آفرین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 435,
+   "start": 1932.27,
+   "end": 1934.71,
+   "text": "غوری کرد و در تنوعاتش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 436,
+   "start": 1934.71,
+   "end": 1938.63,
+   "text": "یک وجود واقعی نمی‌نده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 437,
+   "start": 1938.63,
+   "end": 1941.73,
+   "text": "جمالش وجود می‌ده، جلالش هم امتیاز می‌ده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 438,
+   "start": 1941.73,
+   "end": 1944.05,
+   "text": "یعنی جلال دور می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 439,
+   "start": 1944.05,
+   "end": 1948.69,
+   "text": "اگر نبود، اگر صفت جلال نبود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 440,
+   "start": 1948.69,
+   "end": 1953.09,
+   "text": "چی می‌شد؟ همه چیز عامی می‌شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 441,
+   "start": 1953.09,
+   "end": 1955.05,
+   "text": "همه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 442,
+   "start": 1955.05,
+   "end": 1956.59,
+   "text": "چیز یعنی اون جلالت کنار می‌رفت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 443,
+   "start": 1956.59,
+   "end": 1960.25,
+   "text": "اگر صفت جلال نبود-- گفتیم وجود صفت جلال.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 444,
+   "start": 1960.25,
+   "end": 1965.19,
+   "text": "اگر نبود نور حق، نور جمال حق، اون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 445,
+   "start": 1965.19,
+   "end": 1970.77,
+   "text": "نور ذات غوری زیا و روشنی داشت که همه چیز را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 446,
+   "start": 1970.77,
+   "end": 1973.75,
+   "text": "چی می‌کرد؟ نمود می‌کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 447,
+   "start": 1973.75,
+   "end": 1976.33,
+   "text": "این یه متنی که حالا من گفتم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 448,
+   "start": 1976.33,
+   "end": 1979.29,
+   "text": "باید شما یه خورده بفهمید. دفعه بعد اگر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 449,
+   "start": 1979.29,
+   "end": 1983.77,
+   "text": "خدا خواست توضیح میدم یه خورده بیشتر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 450,
+   "start": 1983.77,
+   "end": 1988.07,
+   "text": "راز این جمله اخیر را، جمله آخر را به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 451,
+   "start": 1988.07,
+   "end": 1991.17,
+   "text": "صورت من تکرار می‌کنم که باید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 452,
+   "start": 1991.17,
+   "end": 1995.13,
+   "text": "تکرار بکنم. صفت جمالی خدا منشأ ایجاد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 453,
+   "start": 1995.13,
+   "end": 2001.33,
+   "text": "می‌شه. خدا چون کمالات دارد منشأ می‌شه برای موجودات.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 454,
+   "start": 2001.33,
+   "end": 2003.97,
+   "text": "این اسماء جمالش منشأ موجودات می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 455,
+   "start": 2003.97,
+   "end": 2007.45,
+   "text": "اما موجودات باید آن موجودات بشوند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 456,
+   "start": 2007.45,
+   "end": 2014.13,
+   "text": "یعنی چیزی بشوند که نام و نشان به عنوان مخلوق چی بکنن؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 457,
+   "start": 2014.13,
+   "end": 2018.63,
+   "text": "پیدا بکنند. در چه تا خدا هستند و از خدا هستند و از این کشف می‌شن که این،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 458,
+   "start": 2018.63,
+   "end": 2021.17,
+   "text": "این نیستند و از اون نواقص نیستند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 459,
+   "start": 2021.17,
+   "end": 2025.85,
+   "text": "این دو تا از اون طرف چی می‌گیرند؟ از اسماء جمالی از اون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 460,
+   "start": 2025.85,
+   "end": 2028.63,
+   "text": "غیوم از این نواقص اینا نیستند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 461,
+   "start": 2028.63,
+   "end": 2033.19,
+   "text": "اما او هست، آثارش هم هست و اینا هم از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 462,
+   "start": 2033.19,
+   "end": 2035.59,
+   "text": "اون ثابت می‌شه. اینا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 463,
+   "start": 2035.59,
+   "end": 2038.37,
+   "text": "هم نشانه همون وجود می‌بخشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 464,
+   "start": 2038.37,
+   "end": 2043.53,
+   "text": "اما وجودی که شه. خدا باشد و مخلوق باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 465,
+   "start": 2043.53,
+   "end": 2052.41,
+   "text": "این اگر وجودی که می‌بخشه بخواهد خدایی باشد، اینا هم مخلوق باشند، به عنوان مخلوق صرف بشوند، اینجا صفت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 466,
+   "start": 2052.41,
+   "end": 2055.41,
+   "text": "جمال می‌خواد اینا رو کنار بزنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 467,
+   "start": 2055.41,
+   "end": 2058.87,
+   "text": "یک چیزی بشه. از این طرف جمال ایجاد می‌کنه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 468,
+   "start": 2058.87,
+   "end": 2061.21,
+   "text": "از این طرف جلال چی می‌کنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 469,
+   "start": 2061.21,
+   "end": 2064.56,
+   "text": "یک عایم در واقع جدا و ممتاز می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 470,
+   "start": 2064.56,
+   "end": 2070.37,
+   "text": "اگر صفت جلال نبود، نور کاظم الهدى، نور کاظم الهدى چی می‌کرد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 471,
+   "start": 2070.37,
+   "end": 2074.22,
+   "text": "همه را مستثنی می‌کرد و همه را می‌سوزوند اصلاً.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 472,
+   "start": 2074.22,
+   "end": 2078.09,
+   "text": "اصلاً عامی می‌شد و از بین می‌رفت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 473,
+   "start": 2078.09,
+   "end": 2081.49,
+   "text": "چیزی بحث جمال ایجاد می‌کرد، ایجاد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 474,
+   "start": 2081.49,
+   "end": 2084.17,
+   "text": "می‌کنه، ایجاد می‌کرد. اما جلالش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 475,
+   "start": 2084.17,
+   "end": 2089.97,
+   "text": "از بین می‌برد که یک موجود به نام مخلوق نداشتیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 476,
+   "start": 2089.97,
+   "end": 2093.87,
+   "text": "فهمیدین؟ نفهمیدین چی شد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 477,
+   "start": 2093.87,
+   "end": 2098.07,
+   "text": "بله. خب حالا اینو نفهمیدیم که نه ولی چی شد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 478,
+   "start": 2098.07,
+   "end": 2100.25,
+   "text": "بدبینید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 479,
+   "start": 2100.25,
+   "end": 2104.97,
+   "text": "صفت جمال اگر نبود، ایجاد نبود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 480,
+   "start": 2104.97,
+   "end": 2107.49,
+   "text": "یعنی جمال برای اینکه ایجاد می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 481,
+   "start": 2107.49,
+   "end": 2112.86,
+   "text": "ایجاد جلال هم نبود، وجود مخلوق معنی نداشت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 482,
+   "start": 2112.86,
+   "end": 2114.87,
+   "text": "جلال میاد ممتاز می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 483,
+   "start": 2114.87,
+   "end": 2117.49,
+   "text": "مخلوق به صورت مخلوق چی می‌کنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 484,
+   "start": 2117.49,
+   "end": 2120.49,
+   "text": "پیدا می‌کنه. اگر جلال نبود، مخلوق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 485,
+   "start": 2120.49,
+   "end": 2122.61,
+   "text": "عامی در چی می‌شد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 486,
+   "start": 2122.61,
+   "end": 2126.67,
+   "text": "عامی در حق و به صورت مخلوق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 487,
+   "start": 2126.67,
+   "end": 2130.57,
+   "text": "مشخصاً با نام و نشان نمی‌شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 488,
+   "start": 2130.57,
+   "end": 2132.81,
+   "text": "پس جلال امتیاز.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 489,
+   "start": 2132.81,
+   "end": 2137.01,
+   "text": "بحث که یعنی موجود را کنار می‌زنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 490,
+   "start": 2137.01,
+   "end": 2141.53,
+   "text": "این خاصیت صفت جلال. نمی‌دونم من فکر می‌کردم که بیننده‌ها رو که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 491,
+   "start": 2141.53,
+   "end": 2146.91,
+   "text": "دیگه مثال هم نفهمیدین. مثال که فهمیدین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 492,
+   "start": 2146.91,
+   "end": 2149.83,
+   "text": "ها؟ مثال بزنم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 493,
+   "start": 2149.83,
+   "end": 2153.37,
+   "text": "مثالش حالا نسبت چه بگم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 494,
+   "start": 2153.37,
+   "end": 2159.21,
+   "text": "ها؟ بله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 495,
+   "start": 2159.21,
+   "end": 2166.91,
+   "text": "درسته درسته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 496,
+   "start": 2166.91,
+   "end": 2170.05,
+   "text": "بله اینا البته از، از آثار بعدی جمال و جلاله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 497,
+   "start": 2170.05,
+   "end": 2172.27,
+   "text": "اینا رو باید بعد بحث کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 498,
+   "start": 2172.27,
+   "end": 2176.26,
+   "text": "چون در کل جمال و جلال می‌خوام صحبت کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 499,
+   "start": 2176.26,
+   "end": 2178.77,
+   "text": "اونی که شما می‌گید در مقام رویت این درسته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 500,
+   "start": 2178.77,
+   "end": 2182.37,
+   "text": "روایاتی داریم که اگر صفت جلال نبود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 501,
+   "start": 2182.37,
+   "end": 2184.29,
+   "text": "در روایت هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 502,
+   "start": 2184.29,
+   "end": 2186.85,
+   "text": "مخصوصاً در روایت در این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 503,
+   "start": 2186.85,
+   "end": 2189.83,
+   "text": "که در روایات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 504,
+   "start": 2189.83,
+   "end": 2195.48,
+   "text": "کی؟ در بیانات رسول اکرم صلوات الله علیه در معراج یا این آمده که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 505,
+   "start": 2195.48,
+   "end": 2197.68,
+   "text": "اگر شما فکر کنید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 506,
+   "start": 2197.68,
+   "end": 2203.5,
+   "text": "به زیاد روایات در خصوصش باشید می‌تونه در خصوصیت سه بهاء،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 507,
+   "start": 2203.5,
+   "end": 2206.86,
+   "text": "سه بهاء و یک حق نفوذها اینجوریه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 508,
+   "start": 2206.86,
+   "end": 2209.26,
+   "text": "اگر سه بهاء و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 509,
+   "start": 2209.26,
+   "end": 2212.4,
+   "text": "نبود، اگر سه بهاء و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 510,
+   "start": 2212.4,
+   "end": 2217.74,
+   "text": "به خدا نبود، وصف خدا همه چیز را میسوزوند و بین می‌برد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 511,
+   "start": 2217.74,
+   "end": 2221.32,
+   "text": "این میسوزان به یک معنی خاصی استفاده می‌شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 512,
+   "start": 2221.32,
+   "end": 2225.58,
+   "text": "بعد مثلاً در جای سوال کرد از رسول اکرم صلی الله علیه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 513,
+   "start": 2225.58,
+   "end": 2227.42,
+   "text": "و آله این سه بهاء چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 514,
+   "start": 2227.42,
+   "end": 2231.52,
+   "text": "سه یعنی اون سه بهاء و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 515,
+   "start": 2231.52,
+   "end": 2235.0,
+   "text": "چیه که اگر نبود همه چیز را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 516,
+   "start": 2235.0,
+   "end": 2239.04,
+   "text": "خاموش می‌کرد و یعنی خودش вроде چیزی دیگر نبود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 517,
+   "start": 2239.04,
+   "end": 2242.44,
+   "text": "همه چیز را روشن و میسوزاند و از بین می‌برد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 518,
+   "start": 2242.44,
+   "end": 2244.73,
+   "text": "فرمود جلال است، جلال است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 519,
+   "start": 2244.73,
+   "end": 2249.42,
+   "text": "حتی اینجور فرمود. موقعی هم که می‌فرمود رسول اکرم صلی الله علیه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 520,
+   "start": 2249.42,
+   "end": 2252.58,
+   "text": "رنج رویش هم تغییر می‌کرد. اون رسول الله بود یا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 521,
+   "start": 2252.58,
+   "end": 2256.81,
+   "text": "من نیستم که بخواهم همین طور بگم و تغییر هم پیدا نکنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 522,
+   "start": 2256.81,
+   "end": 2260.6,
+   "text": "این جلال حق رو نمی‌دانست چیه؟ یه سؤال کردن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 523,
+   "start": 2260.6,
+   "end": 2263.38,
+   "text": "اول اینجا فرموده اگر سه بهاء و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 524,
+   "start": 2263.38,
+   "end": 2270.56,
+   "text": "نبود چیزی نبود. وصف خدا، نور و وصف همه چیز را میسوزاند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 525,
+   "start": 2270.56,
+   "end": 2272.64,
+   "text": "بعد سؤال کرده سه بهاء و چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 526,
+   "start": 2272.64,
+   "end": 2277.94,
+   "text": "گفت جلال و وقتی جلال و وقتی اگر جلال نبود هیچی نبود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 527,
+   "start": 2277.94,
+   "end": 2279.72,
+   "text": "ایجاد وجود می‌کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 528,
+   "start": 2279.72,
+   "end": 2283.9,
+   "text": "جلال اگر نبود وجودها میسوزید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 529,
+   "start": 2283.9,
+   "end": 2288.5,
+   "text": "به فکر کنید صفت جمال می‌بخشه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 530,
+   "start": 2288.5,
+   "end": 2295.24,
+   "text": "اتازه می‌کنه. اما صفت جلال وقتی چیزی معلق است صفت جمال، جمال وجود میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 531,
+   "start": 2295.24,
+   "end": 2298.92,
+   "text": "اگر جلال هم با این جمال توام کار نکنه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 532,
+   "start": 2298.92,
+   "end": 2301.74,
+   "text": "اون نور وصف میاد از بین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 533,
+   "start": 2301.74,
+   "end": 2305.58,
+   "text": "می‌بره اینطور. جلال است که ممتاز می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 534,
+   "start": 2305.58,
+   "end": 2313.64,
+   "text": "عارض میشه بین حق و بین موجود تا موجود یک چیزی بشه لامحمول و الا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 535,
+   "start": 2313.64,
+   "end": 2324.82,
+   "text": "چیه؟ اصلاً این همه موضوعات بین فعل و این زرعات در برابر وجود حق اگر عارض اینها باشن نمی‌تونن باشن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 536,
+   "start": 2324.82,
+   "end": 2330.82,
+   "text": "نام و نشانی داشته باشن، به این چیزی باشن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 537,
+   "start": 2330.82,
+   "end": 2334.68,
+   "text": "بله چی بگم؟ من یه مثال، یه مثال پیدا نمی‌کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 538,
+   "start": 2334.68,
+   "end": 2339.54,
+   "text": "اگر شما اینجای نور خیلی قوی داشته باشید، اینجای نور قوی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 539,
+   "start": 2339.54,
+   "end": 2341.68,
+   "text": "بعد یه نور ضعیف را بیاره بیرونش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 540,
+   "start": 2341.68,
+   "end": 2343.68,
+   "text": "کجا در این نور قوی قرار بگیرد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 541,
+   "start": 2343.68,
+   "end": 2346.32,
+   "text": "دیگه از اون نور ضعیف خبری هست؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 542,
+   "start": 2346.32,
+   "end": 2347.97,
+   "text": "اون نیست که. چرا؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 543,
+   "start": 2347.97,
+   "end": 2350.5,
+   "text": "این دیوار این، این در و پنجره به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 544,
+   "start": 2350.5,
+   "end": 2355.22,
+   "text": "وقت عمر خودشان هم اظهار که می‌کنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 545,
+   "start": 2355.22,
+   "end": 2357.3,
+   "text": "اظهار وجود می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 546,
+   "start": 2357.3,
+   "end": 2359.98,
+   "text": "باز این مثال، من این مثال‌ها درست نیست ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 547,
+   "start": 2359.98,
+   "end": 2362.18,
+   "text": "فقط برای فهم چیزیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 548,
+   "start": 2362.18,
+   "end": 2364.38,
+   "text": "چون این‌ها را ما در این انسان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 549,
+   "start": 2364.38,
+   "end": 2366.87,
+   "text": "خدا نخواسته نیافته نمی‌یابد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 550,
+   "start": 2366.87,
+   "end": 2370.92,
+   "text": "فقط یه مثال‌هایی است که از خیالات خودمون می‌زنیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 551,
+   "start": 2370.92,
+   "end": 2373.4,
+   "text": "و برای اینکه خیال را راضی بکنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 552,
+   "start": 2373.4,
+   "end": 2376.2,
+   "text": "والا حقیقتش خیلی بالاتر از اینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 553,
+   "start": 2376.2,
+   "end": 2382.86,
+   "text": "به فکر کنید در یه نوری که خیلی باهر و روشنه شما اگر یه نور خیلی ضعیف",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 554,
+   "start": 2382.86,
+   "end": 2385.32,
+   "text": "را به لامپ ضعیف را دست بزنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 555,
+   "start": 2385.32,
+   "end": 2387.4,
+   "text": "آغوشی چند ضعیف را.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 556,
+   "start": 2387.4,
+   "end": 2389.78,
+   "text": "وقتی آغوشی دیگه مثل چیزی دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 557,
+   "start": 2389.78,
+   "end": 2391.99,
+   "text": "اون طرف نور بود ها. از اون طرف نور.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 558,
+   "start": 2391.99,
+   "end": 2399.96,
+   "text": "اینجا آمدی دیگه از اون نور که خودش یه نوری بود، حسیاتی داشت، چیزی بود، مسئله‌ای بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 559,
+   "start": 2399.96,
+   "end": 2404.84,
+   "text": "از اون وقتی آغوشی کرده و بر نور باهر و باهر قرار دادیم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 560,
+   "start": 2404.84,
+   "end": 2408.88,
+   "text": "این نوری که در آن بود وجود دارد یا ندارد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 561,
+   "start": 2408.88,
+   "end": 2410.64,
+   "text": "دیگه ندارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 562,
+   "start": 2410.64,
+   "end": 2413.78,
+   "text": "نه. این کجا بین این نور قوی و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 563,
+   "start": 2413.78,
+   "end": 2421.82,
+   "text": "نور نیست و اگر بخواد اون باشد باید کجا بین این و اون باشد که این بشه نور قوی و اون بشه چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 564,
+   "start": 2421.82,
+   "end": 2423.44,
+   "text": "نور ضعیف.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 565,
+   "start": 2423.44,
+   "end": 2429.6,
+   "text": "اون هم نامش هم باید بخاطر نام نور ضعیف این هم نامش اینم نور ضعیف.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 566,
+   "start": 2429.6,
+   "end": 2434.78,
+   "text": "اگر ایجاد نباشد و احی در سه بهاء و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 567,
+   "start": 2434.78,
+   "end": 2437.4,
+   "text": "که اینجوره که این تعریف را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 568,
+   "start": 2437.4,
+   "end": 2441.34,
+   "text": "همینجوری سه بهاء",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 569,
+   "start": 2441.34,
+   "end": 2445.9,
+   "text": "و... اینم یه داستان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 570,
+   "start": 2445.9,
+   "end": 2450.36,
+   "text": "یه مسئله‌ی دیگه حالا این گذشت. مسئله‌ی دیگه این است که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 571,
+   "start": 2450.36,
+   "end": 2453.56,
+   "text": "مسئله‌ای دیگری که می‌گم اینو تو ببر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 572,
+   "start": 2453.56,
+   "end": 2462.0,
+   "text": "حالا سر این مسئله‌ی دیگه‌ای که گفتم یه مثال این دو مهمیت سه آلمان قسمت از بحث وجود مربوط به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 573,
+   "start": 2462.0,
+   "end": 2465.58,
+   "text": "جمال و جلال و کل جمال و جلال را صحبت کنم ها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 574,
+   "start": 2465.58,
+   "end": 2467.99,
+   "text": "را مستندی ترتیب می‌دهم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 575,
+   "start": 2467.99,
+   "end": 2469.97,
+   "text": "در جزئیات صفت جمال و جزئیات صفت جلال صحبت نمی‌کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 576,
+   "start": 2469.97,
+   "end": 2474.52,
+   "text": "این چیزی که وقت نیاز دارد است و خیلی هم طولانی‌ست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 577,
+   "start": 2474.52,
+   "end": 2476.86,
+   "text": "کلاً صفت جمال است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 578,
+   "start": 2476.86,
+   "end": 2480.16,
+   "text": "چیست و صفت جلال چیست و آثار و آثار اینها چیست؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 579,
+   "start": 2480.16,
+   "end": 2483.52,
+   "text": "از این حرفم. به صورت عامی به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 580,
+   "start": 2483.52,
+   "end": 2488.24,
+   "text": "صفت جمال، صفت جمال همینکه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 581,
+   "start": 2488.24,
+   "end": 2499.3,
+   "text": "موجود را با صفت جلال گفتم هر دو از دو برآیات کندن از این سه آبات ربوبیت است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 582,
+   "start": 2499.3,
+   "end": 2504.64,
+   "text": "که یک نظر، یک نظر این سه آبات ربوبیت است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 583,
+   "start": 2504.64,
+   "end": 2508.52,
+   "text": "یعنی وصف به مناسب می‌گوید که اسماء",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 584,
+   "start": 2508.52,
+   "end": 2510.98,
+   "text": "جمالی و اسماء جلالی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 585,
+   "start": 2510.98,
+   "end": 2514.32,
+   "text": "اینها در خلق و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 586,
+   "start": 2514.32,
+   "end": 2523.4,
+   "text": "تغییر و حرکت دادن و تصمیم کردن موجودات هر کدام نقش به خصوصی دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 587,
+   "start": 2523.4,
+   "end": 2526.92,
+   "text": "به این معنا که به وقت که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 588,
+   "start": 2526.92,
+   "end": 2530.84,
+   "text": "می‌تونید دوباره جستجو بکنند که اونایی که ننوشتم بنویسند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 589,
+   "start": 2530.84,
+   "end": 2541.16,
+   "text": "صفت جمال و صفت جلال هر کدام این صفت جمال و جلال که به این سه آبات رفته که موجودات را تغییر می‌دهد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 590,
+   "start": 2541.16,
+   "end": 2543.7,
+   "text": "اینها هر کدام در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 591,
+   "start": 2543.7,
+   "end": 2547.82,
+   "text": "تغییر هر موجودی بدون استثناء نقش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 592,
+   "start": 2547.82,
+   "end": 2555.5,
+   "text": "به خصوصی دارد. صفت جمال موجود را جذب می‌کند به سوی خودش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 593,
+   "start": 2555.5,
+   "end": 2557.72,
+   "text": "در عرفت تکاملی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 594,
+   "start": 2557.72,
+   "end": 2561.76,
+   "text": "صفت جلال موجود را کنار میکنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 595,
+   "start": 2561.76,
+   "end": 2564.86,
+   "text": "در حرکت به سوی خدا، به سوی او،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 596,
+   "start": 2564.86,
+   "end": 2567.78,
+   "text": "به سوی خدا. حالا یه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 597,
+   "start": 2567.78,
+   "end": 2570.56,
+   "text": "فکر کنید، فکری هم از خودتان بکنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 598,
+   "start": 2570.56,
+   "end": 2573.15,
+   "text": "تخیلتون رو بیارید به این مسائل تا من بگم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 599,
+   "start": 2573.15,
+   "end": 2575.32,
+   "text": "به کس که دوباره تکرار میکنمش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 600,
+   "start": 2575.32,
+   "end": 2577.84,
+   "text": "جناب جلال هر دو،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 601,
+   "start": 2577.84,
+   "end": 2580.67,
+   "text": "اون جناب جلال تو این صفات چه چیزی بود؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 602,
+   "start": 2580.67,
+   "end": 2583.1,
+   "text": "مثل رویت بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 603,
+   "start": 2583.1,
+   "end": 2587.4,
+   "text": "خدای رب در تربیت هر موجودی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 604,
+   "start": 2587.4,
+   "end": 2592.9,
+   "text": "خدای رب هم از جنا-- هم جمالش نقش دارد و هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 605,
+   "start": 2592.9,
+   "end": 2597.58,
+   "text": "جلالش. صفت جمالی هست در تربیت موجود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 606,
+   "start": 2597.58,
+   "end": 2603.18,
+   "text": "موجود را جذب میکنه به سوی بالا، میبره به سوی خدا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 607,
+   "start": 2603.18,
+   "end": 2609.52,
+   "text": "صفت جمالی جذب میکنه، میبره، میکشه به حرکت تکاملی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 608,
+   "start": 2609.52,
+   "end": 2614.26,
+   "text": "به سوی خدا. صفت جلال در همین حرکت تکاملی موجود رو چه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 609,
+   "start": 2614.26,
+   "end": 2616.72,
+   "text": "میکنه؟ میزنه کنار.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 610,
+   "start": 2616.72,
+   "end": 2620.66,
+   "text": "این کشیدن و این زدن موجود رو چه میکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 611,
+   "start": 2620.66,
+   "end": 2624.8,
+   "text": "بگو چی؟ موجود رو تخریب میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 612,
+   "start": 2624.8,
+   "end": 2628.22,
+   "text": "اگر خالص جذب باشد هم درست نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 613,
+   "start": 2628.22,
+   "end": 2633.14,
+   "text": "اگر خالص رد باشد هم درست نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 614,
+   "start": 2633.14,
+   "end": 2636.12,
+   "text": "صفت جمالی میکشه به سوی خودش،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 615,
+   "start": 2636.12,
+   "end": 2639.12,
+   "text": "صفت جلال چه میکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 616,
+   "start": 2639.12,
+   "end": 2640.78,
+   "text": "میزنه کنار.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 617,
+   "start": 2640.78,
+   "end": 2643.24,
+   "text": "این کشیدن و این زدن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 618,
+   "start": 2643.24,
+   "end": 2646.56,
+   "text": "یعنی این جذب و این دفع،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 619,
+   "start": 2646.56,
+   "end": 2653.32,
+   "text": "میبره موجود را در مسیر تکاملی به سوی اون کمال و رب پیش میبره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 620,
+   "start": 2653.32,
+   "end": 2661.38,
+   "text": "به چه معنا؟ به این معنا که صفت جمالی که جذب میکنه به وجود کمال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 621,
+   "start": 2661.38,
+   "end": 2665.72,
+   "text": "میده. صفت کمال میده که کمالش بیشتر بشه به سوی خدا بره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 622,
+   "start": 2665.72,
+   "end": 2667.54,
+   "text": "صفت جلال چه میکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 623,
+   "start": 2667.54,
+   "end": 2670.63,
+   "text": "این نقائص و عیوب وجود را چه میکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 624,
+   "start": 2670.63,
+   "end": 2674.94,
+   "text": "محو‌ش میکنه؟ رد میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 625,
+   "start": 2674.94,
+   "end": 2678.78,
+   "text": "فهمیدی؟ دوباره توضیح بدم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 626,
+   "start": 2678.78,
+   "end": 2686.0,
+   "text": "توجه کنید. موجودی که میخواد یه دانه حساب بکنه، دانه را حساب بکنه، دانه میخواد طرف بخوره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 627,
+   "start": 2686.0,
+   "end": 2689.84,
+   "text": "صفت جمال جذبش میکنه به سوی خود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 628,
+   "start": 2689.84,
+   "end": 2692.02,
+   "text": "که جذب بکنه، که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 629,
+   "start": 2692.02,
+   "end": 2694.12,
+   "text": "کامل بکنه، ببره به سوی خودش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 630,
+   "start": 2694.12,
+   "end": 2696.58,
+   "text": "یه حالی جذب میکنه و کمال میده به طرف هم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 631,
+   "start": 2696.58,
+   "end": 2700.48,
+   "text": "اما این دانه باید نقائصش را بزنه کنار،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 632,
+   "start": 2700.48,
+   "end": 2704.72,
+   "text": "راه بره به سوی چی؟ به سوی خدا نزدیک بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 633,
+   "start": 2704.72,
+   "end": 2710.3,
+   "text": "اونی که تمام دانه را اضافه میکند و در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 634,
+   "start": 2710.3,
+   "end": 2714.86,
+   "text": "مقام جذب دانه به دانه بهش کمال میدهد، اون صفت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 635,
+   "start": 2714.86,
+   "end": 2717.2,
+   "text": "جمالی هستش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 636,
+   "start": 2717.2,
+   "end": 2720.16,
+   "text": "اونی که دانه را پاک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 637,
+   "start": 2720.16,
+   "end": 2730.38,
+   "text": "میکنه، بدنم را بدنم از اون عیب‌ها که باید پاک باشد و تخریب میکنه از اون نقصان‌ها که باید بذاره بیاد جلو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 638,
+   "start": 2730.38,
+   "end": 2733.14,
+   "text": "اونی که میزنه این عیوب را کنار میزنه، کدومه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 639,
+   "start": 2733.14,
+   "end": 2735.94,
+   "text": "صفت جلال هستش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 640,
+   "start": 2735.94,
+   "end": 2738.14,
+   "text": "این دو کار رو چه میکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 641,
+   "start": 2738.14,
+   "end": 2744.86,
+   "text": "اگر صفت جلال نباشد، موجود میخواد با حمل عیوبش بالا بره و نمیتونه بالا بره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 642,
+   "start": 2744.86,
+   "end": 2750.54,
+   "text": "اگر صفت جمال هم نباشد، موجود کمالش اضافه نمیشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 643,
+   "start": 2750.54,
+   "end": 2754.14,
+   "text": "او کمال میده و او نقائص",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 644,
+   "start": 2754.14,
+   "end": 2758.0,
+   "text": "را رد میکنه. با صفت جمالش میده،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 645,
+   "start": 2758.0,
+   "end": 2760.34,
+   "text": "با صفت جلالش چه میکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 646,
+   "start": 2760.34,
+   "end": 2765.19,
+   "text": "نقائصش را کنار میذاره تا برای کمال بیشتر آماده بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 647,
+   "start": 2765.19,
+   "end": 2767.26,
+   "text": "این بدنم را من چه جوریه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 648,
+   "start": 2767.26,
+   "end": 2771.06,
+   "text": "هم جلال، هم جمال تو هم عمل میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 649,
+   "start": 2771.06,
+   "end": 2774.96,
+   "text": "جمال کمال میده، نواقص،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 650,
+   "start": 2774.96,
+   "end": 2778.32,
+   "text": "نقائص که موجود دارد مانع او بیشتر بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 651,
+   "start": 2778.32,
+   "end": 2782.9,
+   "text": "جلال میاد اون نقائص رو کنار میزنه، جمال یه خورده بیشتر میکنه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 652,
+   "start": 2782.9,
+   "end": 2785.42,
+   "text": "میده. دیگه ظرفیت ندارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 653,
+   "start": 2785.42,
+   "end": 2788.56,
+   "text": "جلال میاد باز یک بار کنار میزنه، باز میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 654,
+   "start": 2788.56,
+   "end": 2790.16,
+   "text": "این دو تا توجه کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 655,
+   "start": 2790.16,
+   "end": 2792.62,
+   "text": "هم، فهمیدید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 656,
+   "start": 2792.62,
+   "end": 2796.62,
+   "text": "گفتم؟ موجودی که میخواد کمالش داده بشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 657,
+   "start": 2796.62,
+   "end": 2800.58,
+   "text": "در حقیقت جمال و همه کمالات را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 658,
+   "start": 2800.58,
+   "end": 2802.56,
+   "text": "دارد یا ندارد؟ ندارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 659,
+   "start": 2802.56,
+   "end": 2806.64,
+   "text": "صفت جمال یه خورده کمال میده و بعد میگه ظرفیت دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 660,
+   "start": 2806.64,
+   "end": 2809.48,
+   "text": "بیش از اونی که ظرفیت ندارد یعنی چرا ندارد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 661,
+   "start": 2809.48,
+   "end": 2814.2,
+   "text": "چون عیوبی دارد، نواقصی دارد، ظرفیت ندارد دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 662,
+   "start": 2814.2,
+   "end": 2818.38,
+   "text": "اون جلال میاد این نقائص را یه خورده کنار",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 663,
+   "start": 2818.38,
+   "end": 2820.14,
+   "text": "میزنه، یه خورده نظامش رو درست تر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 664,
+   "start": 2820.14,
+   "end": 2822.31,
+   "text": "ظرفیتش چی میشه؟ بیشتر میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 665,
+   "start": 2822.31,
+   "end": 2825.3,
+   "text": "جمال فوراً به سراغش میآد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 666,
+   "start": 2825.3,
+   "end": 2829.14,
+   "text": "میده. باز به همان اندازه که آمد باز بهش عیوبی میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 667,
+   "start": 2829.14,
+   "end": 2831.2,
+   "text": "البته نمیگه درجه بندی در نظر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 668,
+   "start": 2831.2,
+   "end": 2835.46,
+   "text": "نمیگیره. اما تو هم با هم کار میکنن و باز خودشان بعد بحثش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 669,
+   "start": 2835.46,
+   "end": 2838.2,
+   "text": "هی از اون طرف میاد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 670,
+   "start": 2838.2,
+   "end": 2843.48,
+   "text": "یعنی بعد ظرفیتش میخواد جواب نده، از اون طرف همون ظرفیت را درست میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 671,
+   "start": 2843.48,
+   "end": 2845.72,
+   "text": "یعنی عیوبش رو چه میکنه؟ کنار",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 672,
+   "start": 2845.72,
+   "end": 2850.76,
+   "text": "میذاره. این طوره. تو هم با هم کار",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 673,
+   "start": 2850.76,
+   "end": 2854.66,
+   "text": "میکنن. بنابراین باید هم جمال باشد و هم جلال باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 674,
+   "start": 2854.66,
+   "end": 2858.76,
+   "text": "اگر جلال نبود، نقائص در طرف نبود، به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 675,
+   "start": 2858.76,
+   "end": 2861.38,
+   "text": "تکامل موجود معنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 676,
+   "start": 2861.38,
+   "end": 2863.43,
+   "text": "نداشت. یک نظر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 677,
+   "start": 2863.43,
+   "end": 2865.74,
+   "text": "باز اگر جمال هم نبود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 678,
+   "start": 2865.74,
+   "end": 2869.94,
+   "text": "چون جمال کامل میکنه، باز تکامل موجود معنا ندارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 679,
+   "start": 2869.94,
+   "end": 2873.22,
+   "text": "جمال کمال میده به اندازه ظرفیت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 680,
+   "start": 2873.22,
+   "end": 2877.08,
+   "text": "مانع، مانع میشه. جلال میاد مانع را کنار میزنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 681,
+   "start": 2877.08,
+   "end": 2880.2,
+   "text": "دوباره جمال میاد اضافه میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 682,
+   "start": 2880.2,
+   "end": 2882.15,
+   "text": "در یه حد خاص طرف چه میکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 683,
+   "start": 2882.15,
+   "end": 2884.54,
+   "text": "جلال میاد باز کنار میزنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 684,
+   "start": 2884.54,
+   "end": 2888.48,
+   "text": "اون ظرفیت بیشتر میکنه، مانع میاد و همینطور.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 685,
+   "start": 2888.48,
+   "end": 2892.74,
+   "text": "بنابراین برای من و شما هم گفتن که یعنی برای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 686,
+   "start": 2892.74,
+   "end": 2899.94,
+   "text": "من و شما هم گفتن که شما اگر بخواهی کیلو بیستی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 687,
+   "start": 2899.94,
+   "end": 2902.91,
+   "text": "را ببری طرف قد و قواره تو باید حالت حوق. اینم چی؟ این در واقع مثلاً قد و قواره گفتم ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 688,
+   "start": 2902.91,
+   "end": 2910.86,
+   "text": "بعد اگر خدا خواست تغییر میکنه. حوق میاد انسان رو درست میکنه، رجب میاد میکنه انسان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 689,
+   "start": 2910.86,
+   "end": 2914.4,
+   "text": "را جذب میکنه، در حال رجب انسان میدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 690,
+   "start": 2914.4,
+   "end": 2918.34,
+   "text": "در حال ولی خب یه خورده دادن دیگه قابلیت چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 691,
+   "start": 2918.34,
+   "end": 2922.59,
+   "text": "که حوق بیاد یه خورده قابلیتت رو چه میکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 692,
+   "start": 2922.59,
+   "end": 2927.15,
+   "text": "بیشتر بشه یعنی از وجود یه مقدار کنار می‌زنه تا قابلیت استیهاش بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 693,
+   "start": 2927.15,
+   "end": 2931.07,
+   "text": "با اراده، با اراده خدا قصد ما جماله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 694,
+   "start": 2931.07,
+   "end": 2936.25,
+   "text": "خوف نیاد باز در یه حرکتی، خوف بیاد یه خورده باز اینو یه چیزی کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 695,
+   "start": 2936.25,
+   "end": 2939.21,
+   "text": "یه سوخت و سو میشه و یه خورده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 696,
+   "start": 2939.21,
+   "end": 2942.81,
+   "text": "از وجود کنار می‌زنه باز جمال به سراغش میاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 697,
+   "start": 2942.81,
+   "end": 2949.64,
+   "text": "پس لذا هم خوف لازمه در موقع حرکت وجود یه کنار میرن و هم نیاز.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 698,
+   "start": 2949.64,
+   "end": 2954.69,
+   "text": "هم رجا. رجا یعنی استیها باطل خدا را خواستن و پیش خدا رفتن، مجذوب شدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 699,
+   "start": 2954.69,
+   "end": 2957.61,
+   "text": "خوف یعنی ترسیدن از اینکه میره تو وجود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 700,
+   "start": 2957.61,
+   "end": 2959.87,
+   "text": "اینها در انسان به این صورت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 701,
+   "start": 2959.87,
+   "end": 2964.21,
+   "text": "یعنی منظورم این خوف و رجا هم معروف همین مسئله‌ست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 702,
+   "start": 2964.21,
+   "end": 2966.67,
+   "text": "مسئله جمال و جلاله هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 703,
+   "start": 2966.67,
+   "end": 2972.86,
+   "text": "اونجات که خوف می‌گیره انسان را الان یه مثال میزنم مثل عارف دلی میگم هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 704,
+   "start": 2972.86,
+   "end": 2975.11,
+   "text": "اونجات که ترس سؤال پیش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 705,
+   "start": 2975.11,
+   "end": 2978.99,
+   "text": "خدا میره. این ترسه ترس وجود جا می‌گیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 706,
+   "start": 2978.99,
+   "end": 2985.57,
+   "text": "خوف ثلوثی آمدنه و اونجات که شوق و جو استیها به وجود انسان میگیره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 707,
+   "start": 2985.57,
+   "end": 2987.25,
+   "text": "سؤال میکنه از خدا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 708,
+   "start": 2987.25,
+   "end": 2990.49,
+   "text": "اونجات که میشه صفت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 709,
+   "start": 2990.49,
+   "end": 2993.65,
+   "text": "جمال و این چیزی حالت استیها پیدا میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 710,
+   "start": 2993.65,
+   "end": 2997.15,
+   "text": "کدوم؟ خدا از کدوم سمتش جلو کرده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 711,
+   "start": 2997.15,
+   "end": 3001.61,
+   "text": "جماله. اونجات که ترس میگیره از کدوم سمتش جلو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 712,
+   "start": 3001.61,
+   "end": 3003.69,
+   "text": "کرده؟ از صفت جلاله. در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 713,
+   "start": 3003.69,
+   "end": 3008.71,
+   "text": "میتونیم مثالای اینا از این مراحل استیها خیلی میتونه به هر انسانی بده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 714,
+   "start": 3008.71,
+   "end": 3015.27,
+   "text": "اینها تا به دهن از انسان هرچی بالا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 715,
+   "start": 3015.27,
+   "end": 3019.33,
+   "text": "بره در برابر تجلیات جلال در مراحل بالاتر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 716,
+   "start": 3019.33,
+   "end": 3021.13,
+   "text": "اینم سؤال میپرسه. تو بنده‌ای؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 717,
+   "start": 3021.13,
+   "end": 3024.27,
+   "text": "تو بنده نیستی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 718,
+   "start": 3024.27,
+   "end": 3030.47,
+   "text": "می‌گه که اگر نیای خدا با اسم جلالش در هر مقامی انسان بالاتر بره تو بنده نیستی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 719,
+   "start": 3030.47,
+   "end": 3034.33,
+   "text": "سخت میشه یا سخت نمیشه؟ خیلی سخت میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 720,
+   "start": 3034.33,
+   "end": 3042.17,
+   "text": "که در انسان را در-- که درم در نگردیده نمیشه بالا بره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 721,
+   "start": 3042.17,
+   "end": 3045.03,
+   "text": "شنوندگان فرهیخته رادیو قرآن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 722,
+   "start": 3045.03,
+   "end": 3047.89,
+   "text": "آنچه شنیدید بحث جلسه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 723,
+   "start": 3047.89,
+   "end": 3052.71,
+   "text": "نهم بود در باب اسماء و صفات الهی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 724,
+   "start": 3052.71,
+   "end": 3055.11,
+   "text": "به بیان عارف فرزانه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 725,
+   "start": 3055.11,
+   "end": 3057.15,
+   "text": "آیت الله محمد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 726,
+   "start": 3057.15,
+   "end": 3060.69,
+   "text": "شجاعی. در برنامه بعد ان شاء الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 727,
+   "start": 3060.69,
+   "end": 3064.93,
+   "text": "بحث جلسه دهم را تقدیم شما می‌کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 728,
+   "start": 3064.93,
+   "end": 3077.59,
+   "text": "تا دیگر برنامه خدا یار و نگهدارتان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 729,
+   "start": 3077.59,
+   "end": 3093.13,
+   "text": "سبحانک سبحانک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 730,
+   "start": 3093.13,
+   "end": 3097.22,
+   "text": "سبحان الله. سبحانک سبحانک سبحان الله. سبحانک سبحانک سبحان الله. سبحانک سبحانک سبحان الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 731,
+   "start": 3097.22,
+   "end": 3100.73,
+   "text": "الله. الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 732,
+   "start": 3100.73,
+   "end": 3105.29,
+   "text": "الله اکبر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 733,
+   "start": 3105.29,
+   "end": 3107.61,
+   "text": "الله. الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 734,
+   "start": 3107.61,
+   "end": 3112.68,
+   "text": "الله اکبر. الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

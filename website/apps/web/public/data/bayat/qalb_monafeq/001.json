@@ -1,0 +1,60 @@
+{
+ "id": "001",
+ "index": 1,
+ "lecturer": "bayat",
+ "course": "qalb_monafeq",
+ "title": "وضو پیش از دخول وقت",
+ "topic": null,
+ "summary": "وضو به نیت واجب فقط نزدیک وقت؛ علاج نفاق سپردن به امام حتی با کارهای ذلت‌آور است.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/qalb_monafeq/001/001_play.m4a",
+  "filename": "001_play.m4a",
+  "size": 7514953,
+  "display": "7.2 MB",
+  "duration": 620.67,
+  "durationText": "10:21"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "001.vtt",
+   "cues": "001.cues.json",
+   "words": "001.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## وضو پیش از دخول وقت",
+   "start": 13.66,
+   "end": 48.98
+  },
+  {
+   "index": 1,
+   "title": "## سرفصل قلب منافق",
+   "start": 48.98,
+   "end": 156.86
+  },
+  {
+   "index": 2,
+   "title": "## دوگانگی زبان و دل",
+   "start": 156.86,
+   "end": 620.67
+  }
+ ],
+ "recordedAt": 1785846511,
+ "sourceName": "قلب منافق1_ج171.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": null,
+ "next": "002"
+}

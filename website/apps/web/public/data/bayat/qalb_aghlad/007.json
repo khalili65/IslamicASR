@@ -1,0 +1,66 @@
+{
+ "id": "007",
+ "index": 7,
+ "lecturer": "bayat",
+ "course": "qalb_aghlad",
+ "title": "قالوا قلوبنا غلف؛ مقایسه با یؤمنون",
+ "topic": null,
+ "summary": "مقایسهٔ قالوا و یؤمنون در آیهٔ غلف، فرق علم فکری و شهودی، داستان عیسی بر آب و ضرورت تأسی به ولایت، و مرکزیت قلب در ایمان تبیین می‌شود.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/qalb_aghlad/007/007_play.m4a",
+  "filename": "007_play.m4a",
+  "size": 7202636,
+  "display": "6.9 MB",
+  "duration": 582.42,
+  "durationText": "9:42"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "007.vtt",
+   "cues": "007.cues.json",
+   "words": "007.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## قالوا قلوبنا غلف؛ مقایسه با یؤمنون",
+   "start": 26.8,
+   "end": 49.58
+  },
+  {
+   "index": 1,
+   "title": "## عیسی بر آب؛ تأسی به ولایت",
+   "start": 49.58,
+   "end": 266.06
+  },
+  {
+   "index": 2,
+   "title": "## دانایی بدون دارایی",
+   "start": 266.06,
+   "end": 448.2
+  },
+  {
+   "index": 3,
+   "title": "## از لقلقه تا پیاده‌سازی",
+   "start": 448.2,
+   "end": 582.42
+  }
+ ],
+ "recordedAt": 1785942178,
+ "sourceName": "قلب اغلف8_ج298.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "006",
+ "next": "008"
+}

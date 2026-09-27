@@ -1,13 +1,16 @@
 {
   "brand": {
-    "name": "دروس معرفت نفس",
-    "tagline": "",
+    "name": "درس‌گفتارها",
+    "tagline": "استاد بیات (عبدالزهرا)",
     "logo": "",
     "locale": "fa",
     "dir": "rtl"
   },
   "mode": "single-lecturer",
   "defaultLecturer": "bayat",
+  "sources": {
+    "audioDirs": ["Bayat"]
+  },
   "theme": {
     "bg": "#F7F8FC",
     "brand": "#BBCAC5",
@@ -34,6 +37,7 @@
     "myList": true,
     "search": true,
     "download": true,
-    "wordHighlight": true
+    "wordHighlight": true,
+    "primaryText": "raw"
   }
 }

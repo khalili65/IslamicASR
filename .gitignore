@@ -53,8 +53,33 @@ Audios/**/eitaa_inspect.html
 
 .wrangler/
 
+# Admin publish job status (written on VPS)
+.publish-status.json
+**/.publish-status.json
+
+# RAG vector stores + eval runs (generated)
+rag/store/
+rag/eval/runs/
+
+# Local scratch / transfer / bulk dumps (never commit)
+Texts/
+Texts.zip
+_agent_scratch/
+_agent_xfer/
+_box_xfer/
+_work_*
+**/elevenlabs.env
+**/.book_work/
+ChatGPT Image*.png
+
 # Portal site (same conventions as website/)
 website-portal/apps/web/node_modules/
 website-portal/apps/web/.next/
 website-portal/apps/web/out/
 website-portal/apps/web/public/audio
+website-portal/admin/node_modules/
+website-portal/admin/.next/
+website-portal/admin/out/
+
+# Catch-all dependency trees
+**/node_modules/

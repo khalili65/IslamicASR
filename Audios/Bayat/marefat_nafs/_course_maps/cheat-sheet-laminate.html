@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>برگهٔ جیبی معرفت نفس — برای لمینت A4</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic:wght@500;600;700&family=Noto+Sans+Arabic:wght@400;500;600;700&display=swap');
+
+  :root {
+    --ink: #1a1713;
+    --muted: #5c554b;
+    --line: #b9ad97;
+    --paper: #faf6ee;
+    --soft: #f0e8d8;
+    --accent: #6e3f24;
+  }
+
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: #d8d0c2;
+    color: var(--ink);
+    font-family: 'Noto Sans Arabic', sans-serif;
+  }
+
+  .page {
+    width: 210mm;
+    min-height: 297mm;
+    margin: 8mm auto;
+    padding: 8mm 9mm;
+    background: var(--paper);
+    border: 1px solid var(--line);
+  }
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    border-bottom: 1.5px solid var(--ink);
+    padding-bottom: 3.5mm;
+    margin-bottom: 4mm;
+  }
+  header h1 {
+    margin: 0;
+    font-family: 'Noto Naskh Arabic', serif;
+    font-size: 16pt;
+    font-weight: 700;
+    line-height: 1.2;
+  }
+  header p {
+    margin: 0;
+    font-size: 7.5pt;
+    color: var(--muted);
+    text-align: left;
+    line-height: 1.45;
+    max-width: 62mm;
+  }
+
+  .mini-map {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2mm;
+    margin-bottom: 4mm;
+  }
+  .mini-map div {
+    border: 1px solid var(--ink);
+    padding: 2.2mm 2mm;
+    text-align: center;
+    background: var(--soft);
+  }
+  .mini-map strong {
+    display: block;
+    font-family: 'Noto Naskh Arabic', serif;
+    font-size: 10pt;
+  }
+  .mini-map span {
+    display: block;
+    font-size: 7pt;
+    color: var(--muted);
+    margin-top: 0.8mm;
+    line-height: 1.35;
+  }
+
+  .cols {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3.5mm 4mm;
+  }
+
+  section {
+    border: 1px solid var(--line);
+    background: #fffdf8;
+    padding: 2.8mm 3mm;
+  }
+  section h2 {
+    margin: 0 0 1.8mm;
+    font-size: 9pt;
+    color: var(--accent);
+    font-weight: 700;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 1.2mm;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 7.6pt;
+    line-height: 1.4;
+  }
+  th, td {
+    border-bottom: 1px solid #e4dccb;
+    padding: 1.4mm 1mm;
+    vertical-align: top;
+    text-align: right;
+  }
+  th {
+    width: 28%;
+    font-weight: 700;
+    color: var(--ink);
+  }
+  td { color: var(--muted); }
+  tr:last-child th, tr:last-child td { border-bottom: none; }
+
+  ul {
+    margin: 0;
+    padding: 0 3.5mm 0 0;
+    font-size: 7.7pt;
+    line-height: 1.5;
+    color: var(--muted);
+  }
+  li + li { margin-top: 1mm; }
+  b { color: var(--ink); font-weight: 700; }
+
+  .span2 { grid-column: 1 / -1; }
+
+  .foot {
+    margin-top: 3.5mm;
+    font-size: 7pt;
+    color: var(--muted);
+    line-height: 1.45;
+    border-top: 1px solid var(--line);
+    padding-top: 2.5mm;
+  }
+
+  @media print {
+    @page { size: A4 portrait; margin: 6mm; }
+    html, body { background: white; }
+    .page { margin: 0; border: none; width: auto; min-height: auto; }
+  }
+</style>
+</head>
+<body>
+  <article class="page">
+    <header>
+      <h1>برگهٔ جیبی معرفت نفس</h1>
+      <p>
+        برای لمینت A4<br />
+        منطبق با بیان علامه حسن‌زاده آملی<br />
+        همراه نقشهٔ مادر دوره
+      </p>
+    </header>
+
+    <div class="mini-map" aria-label="چهار مرتبه">
+      <div><strong>فوق تجرد</strong><span>اصل ۵ · الهی / قلبی · حد یقف ندارد</span></div>
+      <div><strong>عقلی</strong><span>اصل ۴ · تجرد تام · کلیات</span></div>
+      <div><strong>مثالی</strong><span>اصل ۳ · خیال / مثال متصل</span></div>
+      <div><strong>طبیعی</strong><span>اصل ۶ · جسمانیة الحدوث</span></div>
+    </div>
+
+    <div class="cols">
+      <section>
+        <h2>اصطلاحات پایه</h2>
+        <table>
+          <tr><th>نفس ناطقه</th><td>حقیقت انسان؛ ممیّز و مدرِک؛ محور تشخّص</td></tr>
+          <tr><th>بدن</th><td>روح متجسّد؛ شأن نازل همان حقیقت واحد</td></tr>
+          <tr><th>تجرد برزخی</th><td>اصل ۳: در مقام خیال و مثال متصل</td></tr>
+          <tr><th>تجرد عقلانی</th><td>اصل ۴: عاری از ماده؛ گوهر بسیط باقی</td></tr>
+          <tr><th>فوق تجرد</th><td>اصل ۵: مجرد از ماهیت نیز؛ حدّ یقف نیست</td></tr>
+          <tr><th>جسمانیة الحدوث</th><td>اصل ۶: حدوث در دل جسم + روحانیة البقاء</td></tr>
+          <tr><th>عین مدرکات</th><td>اصل ۷: نفس همان می‌شود که ادراک کرده</td></tr>
+          <tr><th>طفره</th><td>اصل ۷۴: پریدن بدون واسطه — مطلقاً محال</td></tr>
+          <tr><th>ملکه</th><td>صفت پایدار از تکرار عمل؛ مادهٔ صورت برزخی</td></tr>
+        </table>
+      </section>
+
+      <section>
+        <h2>دو جفتِ پرتکرارِ اشتباه‌زا</h2>
+        <table>
+          <tr><th>من / بدن</th><td>«من» بدن نیست؛ بدن از شئون و مراتب «من» است</td></tr>
+          <tr><th>مثال متصل / منفصل</th><td>متصل: وابسته به شخص · منفصل: عالم مثالی مستقل</td></tr>
+          <tr><th>معلوم بالذات / بالعرض</th><td>بالذات: صورت ادراکی · بالعرض: شیء خارجی</td></tr>
+          <tr><th>فطرت / سرشت</th><td>فطرت الهی است؛ تفاوت‌ها بیشتر به سرشت/طینت</td></tr>
+          <tr><th>دانایی / دارایی</th><td>دانستن مفهوم ≠ تحقق حقیقت در وجود</td></tr>
+          <tr><th>ثواب</th><td>اثر و صورتی که عمل در نفس می‌گذارد</td></tr>
+          <tr><th>موت اختیاری</th><td>یکی از معانی: ملاقات حق پیش از مرگ طبیعی</td></tr>
+        </table>
+      </section>
+
+      <section>
+        <h2>مراتب عقل نظری</h2>
+        <ul>
+          <li><b>هیولانی:</b> قابلیت محض پذیرش صور علمی</li>
+          <li><b>بالملکه:</b> بدیهیات و اولیات</li>
+          <li><b>بالفعل:</b> قدرت استحضار نظریات</li>
+          <li><b>مستفاد:</b> حضور معقولات؛ اتصال/اتحاد با عقل فعال</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>قوای ادراک (یادآور سریع)</h2>
+        <ul>
+          <li><b>حس:</b> درگاه طبیعت</li>
+          <li><b>خیال:</b> دستگاه عکاسی نفس؛ تجرد برزخی؛ خواب</li>
+          <li><b>وهم:</b> معنای جزئی / مقیدکردن کلی</li>
+          <li><b>عقل:</b> کلیات؛ تجرد تام</li>
+          <li><b>قلب / فوق تجرد:</b> فوق عقل؛ الهی / اسمائی</li>
+        </ul>
+      </section>
+
+      <section class="span2">
+        <h2>پنج سؤالِ هر جلسه — قبل از غرق‌شدن در جزئیات</h2>
+        <ul>
+          <li><b>۱.</b> این بحث در کدام نشئه است؟ طبیعی / مثالی / عقلی / الهی</li>
+          <li><b>۲.</b> کدام تجرد مطرح است؟ برزخی · تام · فوق‌تجرد</li>
+          <li><b>۳.</b> کدام قوه درگیر است؟ حس · خیال · وهم · عقل</li>
+          <li><b>۴.</b> نسبت «من» و بدن اینجا چیست؟ تمایز · اتحاد · تدبیر · تمثل</li>
+          <li><b>۵.</b> خروجی عملی چیست؟ تخلیه / تحلیه / مراقبت از مَسّ و خیال / ملکه</li>
+        </ul>
+      </section>
+
+      <section class="span2">
+        <h2>جمله‌های مادر (برای لنگر ذهنی)</h2>
+        <ul>
+          <li>وجود است که مشهود ماست. (درس اول)</li>
+          <li>معرفت نفس، پس از معرفت حق، شریف‌ترین مباحث است؛ کلید علوم قیامت.</li>
+          <li>مراتب تجرد: برزخی · عقلانی · فوق تجرد عقلانی — حدّ یقف ندارد.</li>
+          <li>بدن روح متجسّد است؛ اطوار یک حقیقت واحد.</li>
+          <li>طفره مطلقاً باطل است؛ راه از خیال به عقل می‌گذرد.</li>
+          <li>نفس عین مدرکات خویش است؛ علم و عمل انسان را می‌سازند.</li>
+        </ul>
+      </section>
+    </div>
+
+    <p class="foot">
+      این برگه فشردهٔ نقشهٔ مادر است، نه جایگزین متن دروس.
+      استناد اصلی: نقل اصول علامه در فایل‌های ‎.book.md‎ جلسات (به‌ویژه ۰۰۵، ۰۰۷، ۰۱۱، ۰۳۸، ۰۴۳، ۰۵۰، ۰۵۵، ۰۵۶، ۰۶۱، ۰۶۴).
+      «قلب» نام همان فوق تجرد در شرح است، نه طبقهٔ پنجم جدا.
+    </p>
+  </article>
+</body>
+</html>

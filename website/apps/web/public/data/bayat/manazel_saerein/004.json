@@ -1,0 +1,72 @@
+{
+ "id": "004",
+ "index": 4,
+ "lecturer": "bayat",
+ "course": "manazel_saerein",
+ "title": "شکستگی و نیاز",
+ "topic": null,
+ "summary": "این جلسه در امتداد بحث‌های معرفتی و سیر عملی، از مفاهیم و مثال‌های مطرح‌شده در گفتار آغاز می‌شود و پیوند میان مراتب وجود، تهذیب، عبادت و معرفت را دنبال می‌کند. شرح آیات، روایت‌ها، حکایت‌ها و اصطلاحات تخصصی در ترتیب طبیعی سخن آمده است.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/manazel_saerein/004/004_play.m4a",
+  "filename": "004_play.m4a",
+  "size": 31772150,
+  "display": "30.3 MB",
+  "duration": 2614.37,
+  "durationText": "43:34"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "004.vtt",
+   "cues": "004.cues.json",
+   "words": "004.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## شکستگی و نیاز",
+   "start": 1.28,
+   "end": 22.12
+  },
+  {
+   "index": 1,
+   "title": "## عنایت، حیا و توبه",
+   "start": 22.12,
+   "end": 1143.57
+  },
+  {
+   "index": 2,
+   "title": "## پیوند شریعت و حقیقت",
+   "start": 1143.57,
+   "end": 1651.1
+  },
+  {
+   "index": 3,
+   "title": "## سه مرتبه سلوک",
+   "start": 1651.1,
+   "end": 2130.07
+  },
+  {
+   "index": 4,
+   "title": "## حال و مقام",
+   "start": 2130.07,
+   "end": 2614.37
+  }
+ ],
+ "recordedAt": 1778949706,
+ "sourceName": "سخنرانی شیخ عبدالزهراء شب جمعه لیله الرغائب 04-10-1404.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "003",
+ "next": "005"
+}

@@ -1,0 +1,997 @@
+{
+ "version": 1,
+ "sessionId": "001",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 412.44,
+ "alignment": {
+  "exact": 794,
+  "total": 794,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## ماه ولادت؛ ظرفیت تشبّه به حجت",
+   "start": 0.14,
+   "end": 77.46
+  },
+  {
+   "index": 1,
+   "title": "### المهدی طاووس اهل الجنّة",
+   "start": 77.46,
+   "end": 171.5
+  },
+  {
+   "index": 2,
+   "title": "### نماز شب؛ جلا و نور و بها",
+   "start": 171.5,
+   "end": 364.12
+  },
+  {
+   "index": 3,
+   "title": "### این ماه؛ ماه میلاد نه شهادت",
+   "start": 364.12,
+   "end": 412.44
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 0.14,
+   "end": 3.0,
+   "text": "اللهم صل علی محمد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 3.0,
+   "end": 6.7,
+   "text": "و آل محمد و عجل فرجهم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 6.7,
+   "end": 10.5,
+   "text": "بسم الله الرحمن الرحيم و به نستعين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 10.5,
+   "end": 14.36,
+   "text": "السلام علیک یا داعی الله و ربانی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 14.36,
+   "end": 20.16,
+   "text": "آیات. سلام علیکم و رحمة الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 20.16,
+   "end": 24.52,
+   "text": "خب قبلاً عرض کردیم که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 24.52,
+   "end": 28.72,
+   "text": "یومی که هر کسی به دنیا میاد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 28.72,
+   "end": 36.38,
+   "text": "که ظرف ظهور هست، خیلی ربط وجودی داره با اون شخص.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 36.38,
+   "end": 41.04,
+   "text": "و چون در این ماه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 41.04,
+   "end": 47.44,
+   "text": "حجت خدا، ولی اعظم حق، بقیت الله الاعظم به دنیا اومده قطعاً این ماه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 47.44,
+   "end": 51.54,
+   "text": "مثل اون ساعت و اون روزی که به دنیا اومدن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 51.54,
+   "end": 55.08,
+   "text": "یک ظرفیت خاصی داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 55.08,
+   "end": 58.46,
+   "text": "و یوم یند او کل الناس امامه میگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 58.46,
+   "end": 62.2,
+   "text": "همه پشت سر امامشون قیامت محشور میشن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 62.2,
+   "end": 66.02,
+   "text": "مأموم یه وجه تشابهی با",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 66.02,
+   "end": 69.0,
+   "text": "امامش باید داشته باشه دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 69.0,
+   "end": 72.26,
+   "text": "لذا در این ماه بهترین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 72.26,
+   "end": 77.46,
+   "text": "ساعات و آنات برای تشبه به حضرت بقیت الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 77.46,
+   "end": 83.6,
+   "text": "یکی از القابی که پیغمبر عزیز عالم به ایشون دادن فرمودن المهدی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 83.6,
+   "end": 87.1,
+   "text": "طاووس اهل الجنة.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 87.1,
+   "end": 92.94,
+   "text": "خیلی همه شنیدید. هیچ‌وقت فکر کردین که چرا به ایشون لقب طاووس دادن؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 92.94,
+   "end": 98.22,
+   "text": "چرا به ایشون اصلاً؟ طاووس خب یکی از--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 98.22,
+   "end": 102.78,
+   "text": "یکیش که نه، بلکه زیباترین پرنده است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 102.78,
+   "end": 108.0,
+   "text": "خیلی‌ها مثلاً امیرالمؤمنین قربونش بریم علی عليه الصلاة والسلام حضرت بصی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 108.0,
+   "end": 111.54,
+   "text": "یه خطبه داره در خصوص عجائب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 111.54,
+   "end": 115.2,
+   "text": "وجودی طاووس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 115.2,
+   "end": 117.48,
+   "text": "خب معمولاً هم در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 117.48,
+   "end": 120.28,
+   "text": "تشابه گرفتن ما یه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 120.28,
+   "end": 123.6,
+   "text": "مشبه داریم، یه مشبه به داریم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 123.6,
+   "end": 126.64,
+   "text": "یه وجه شبه داریم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 126.64,
+   "end": 129.7,
+   "text": "یه حرف تشبیه داریم. این‌ها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 129.7,
+   "end": 133.92,
+   "text": "باید بحث بشه. مثلاً وقتی میگن که علی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 133.92,
+   "end": 137.78,
+   "text": "عليه الصلاة والسلام یا حیدر کراست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 137.78,
+   "end": 141.22,
+   "text": "اسدالله بود، شیر الهی بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 141.22,
+   "end": 143.44,
+   "text": "این نه یعنی که تمام",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 143.44,
+   "end": 149.46,
+   "text": "چیزهایی که در شیر هست در علی بود علی عذالله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 149.46,
+   "end": 151.36,
+   "text": "اصلاً قابل قیاس با هم نیستن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 151.36,
+   "end": 155.48,
+   "text": "منظور وجه شبه چیه اینجا؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 155.48,
+   "end": 158.78,
+   "text": "شجاعت شیره، نه همه چی که.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 158.78,
+   "end": 164.9,
+   "text": "وقتی که میگن امام عصر طاووس اهل بهشته، اولاً اهل بهشت کیان؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 164.9,
+   "end": 168.24,
+   "text": "عبادالله‌ن. عباد الرحمن‌اند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 168.24,
+   "end": 171.5,
+   "text": "طاووس اون‌هاست، از همه زیباتره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 171.5,
+   "end": 174.96,
+   "text": "در میان اعمال چی باعث",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 174.96,
+   "end": 178.36,
+   "text": "زیبایی و ظرافت و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 178.36,
+   "end": 182.22,
+   "text": "عرض شود جلا و نور و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 182.22,
+   "end": 188.66,
+   "text": "بهاست. ما داریم که چیزی که به شدت چهره رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 188.66,
+   "end": 192.26,
+   "text": "زیبا و نورانی می‌کنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 192.26,
+   "end": 196.14,
+   "text": "نماز شبه. فتهجد بها نافلة",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 196.14,
+   "end": 199.76,
+   "text": "الليل عسى ان يبعث ربک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 199.76,
+   "end": 201.68,
+   "text": "مقاماً محموداً.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 201.68,
+   "end": 204.92,
+   "text": "خب معمولاً برای هر چیز خدا ثوابی رو مترتب کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 204.92,
+   "end": 209.08,
+   "text": "ثوابش اینه، ثوابش اینه، ثوابش-- اینجا می‌فرماید مقام.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 209.08,
+   "end": 214.36,
+   "text": "حرف از ثواب نیست. خب یه وجهش هم می‌تونه این باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 214.36,
+   "end": 217.38,
+   "text": "یکی از عزیزان اهل دل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 217.38,
+   "end": 224.48,
+   "text": "سیم وصل اگر بخواهیم متعارف حرف بزنیم میگیم اهل کرامت که از دوستان نزدیک بنده است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 224.48,
+   "end": 227.44,
+   "text": "یه حرف شیرینی زد. من خودم توجه به این موضوع نداشتم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 227.44,
+   "end": 231.06,
+   "text": "گفتم که-- ایشون فرمودن که شاید یه وجهش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 231.06,
+   "end": 233.42,
+   "text": "مربوط به طولانی بودن عمر حضرت باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 233.42,
+   "end": 237.0,
+   "text": "اینم می‌تونه باشه. از همه عمر حضرت طولانی تره دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 237.0,
+   "end": 241.26,
+   "text": "از میان ائمه عمر ایشون از همه طولانی تره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 241.26,
+   "end": 244.44,
+   "text": "همه زیر صد سال بودن، ایشون هزار و اندی سال.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 244.44,
+   "end": 248.84,
+   "text": "خب هرچی عمر بیشتر، عبادت بیشتر، هرچی عبادت بیشتر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 248.84,
+   "end": 253.76,
+   "text": "قطعاً نور بیشتر. ببینید سید ابن طاووس ما مثلاً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 253.76,
+   "end": 257.48,
+   "text": "داریم عزیزی که بهش میگن طاووس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 257.48,
+   "end": 259.92,
+   "text": "چرا طاووس به--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 259.92,
+   "end": 263.22,
+   "text": "سید ابن طاووس به جد اعلاشون گفتن طاووس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 263.22,
+   "end": 265.62,
+   "text": "محمد بن اسحاق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 265.62,
+   "end": 271.76,
+   "text": "جد اعلای علی بن موسی بن جعفر بود که معروفه به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 271.76,
+   "end": 275.62,
+   "text": "ابن طاووس. چرا به ایشون گفتن طاووس؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 275.62,
+   "end": 281.16,
+   "text": "من بررسی کردم زندگی‌نامه ایشون رو دیدم دو تا وجه بیان کردن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 281.16,
+   "end": 285.28,
+   "text": "یکی اینکه گفتن خیلی اهل نماز شب بوده، جالبه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 285.28,
+   "end": 288.58,
+   "text": "از جهت-- ما از جد اعلاشون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 288.58,
+   "end": 294.26,
+   "text": "محمد بن اسحاق. انقدر که اهل نماز شب بوده چهره خاصی داشته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 294.26,
+   "end": 296.54,
+   "text": "معمولاً آدمایی که سحرخیزن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 296.54,
+   "end": 298.34,
+   "text": "چهرشون متفاوته با دیگران.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 298.34,
+   "end": 306.46,
+   "text": "آدم دوست داره نگاهشون کنه. برعکس دیگران که اهل سحر و نماز شب و تهجد و اینا نیستن، چهرشون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 306.46,
+   "end": 310.12,
+   "text": "آدم رو مشمئز می‌کنه. تلخه، بدت میاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 310.12,
+   "end": 313.44,
+   "text": "یه وجه دیگه‌ش فرمودن که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 313.44,
+   "end": 315.68,
+   "text": "بر می‌گرده به اینکه چون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 315.68,
+   "end": 318.64,
+   "text": "توی-- حالا اینم خوبه بدونید طاووس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 318.64,
+   "end": 322.12,
+   "text": "همه جاش زیباست غیر پاش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 322.12,
+   "end": 324.24,
+   "text": "پاش اصلاً به بدنش نمی‌خوره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 324.24,
+   "end": 328.2,
+   "text": "دقت کرده باشید پای طاووس خیلی زشته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 328.2,
+   "end": 331.48,
+   "text": "من دیدم. اصلاً به خودش نمیاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 331.48,
+   "end": 338.08,
+   "text": "حالا اونجا مثل اینکه علی شیر هست، نه یعنی همه چی علی شبیه شیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 338.08,
+   "end": 341.1,
+   "text": "شجاعتش به شیر رفته. اینجا هم میگن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 341.1,
+   "end": 342.82,
+   "text": "امام عصر طاووس اهل بهشته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 342.82,
+   "end": 344.76,
+   "text": "نه علی عذالله اینا حالا یه وجه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 344.76,
+   "end": 350.1,
+   "text": "پیدا کنیم برای اینکه پس حتماً یه قصه‌ای تو بحث پا هست و نه اصلاً همچین چیزی نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 350.1,
+   "end": 354.72,
+   "text": "ولی در خصوص سی-سید ابن طاووس این وجه رو هم گفتن خوبه بدونید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 354.72,
+   "end": 358.7,
+   "text": "از نظر تاریخی که میگن چهره خیلی چهره زیبا، خوش اندام",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 358.7,
+   "end": 361.7,
+   "text": "ولی پاهاشون مثلاً تناسب با بدن نداشت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 361.7,
+   "end": 364.12,
+   "text": "از این جهت هم میگن به ایشون مثل سید طاووس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 364.12,
+   "end": 366.12,
+   "text": "در هر حال بحث چی بود؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 94,
+   "start": 366.12,
+   "end": 369.3,
+   "text": "اینکه اگر کسی می‌خواد ان شاء الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 95,
+   "start": 369.3,
+   "end": 373.96,
+   "text": "خیلی نورانی بشه، خیلی شبیه به آقاش بشه، این ماه، ماهشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 96,
+   "start": 373.96,
+   "end": 377.78,
+   "text": "شبیه امام عصر بشه. ایام ولادت حضرته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 97,
+   "start": 377.78,
+   "end": 382.68,
+   "text": "نگیم روز ولادت، ایام، ماه ولادت حضرته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 98,
+   "start": 382.68,
+   "end": 387.14,
+   "text": "و عجیبه تنها ماهی هم هست که هیچ شهادتی درش نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 99,
+   "start": 387.14,
+   "end": 391.22,
+   "text": "همش میلاد و شگون و شادی و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 100,
+   "start": 391.22,
+   "end": 396.1,
+   "text": "به نیمنت قدم همش مخصوصاً دیگه عزیز دلبینه امام حسین هم که همین ایامه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 101,
+   "start": 396.1,
+   "end": 400.5,
+   "text": "یا نوزدهمه یا بیست و یکمه یا بیست و سومه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 102,
+   "start": 400.5,
+   "end": 404.0,
+   "text": "این روزهاش متفاوت نقشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 103,
+   "start": 404.0,
+   "end": 407.84,
+   "text": "ان شاء الله همه مون رو مشمول عنایات خاص و ویژه‌ی خودشون قرار بدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 104,
+   "start": 407.84,
+   "end": 409.84,
+   "text": "به سار همشون صلوات بفرستین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 105,
+   "start": 409.84,
+   "end": 412.44,
+   "text": "اللهم صل علی محمد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

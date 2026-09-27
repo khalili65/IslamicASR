@@ -1,0 +1,110 @@
+05:46:41 waiting reembed… last:   embedded 192/8408
+05:47:11 waiting reembed… last:   embedded 288/8408
+05:47:41 waiting reembed… last:   embedded 448/8408
+05:48:11 waiting reembed… last:   embedded 704/8408
+05:48:41 waiting reembed… last:   embedded 864/8408
+05:49:11 waiting reembed… last:   embedded 992/8408
+05:49:41 waiting reembed… last:   embedded 1152/8408
+05:50:11 waiting reembed… last:   embedded 1312/8408
+05:50:41 waiting reembed… last:   embedded 1440/8408
+05:51:11 waiting reembed… last:   embedded 1568/8408
+05:51:41 waiting reembed… last:   embedded 1600/8408
+05:52:11 waiting reembed… last:   embedded 1728/8408
+05:52:41 waiting reembed… last:   embedded 1824/8408
+05:53:11 waiting reembed… last:   embedded 1984/8408
+05:53:41 waiting reembed… last:   embedded 2080/8408
+05:54:11 waiting reembed… last:   embedded 2176/8408
+05:54:41 waiting reembed… last:   embedded 2336/8408
+05:55:11 waiting reembed… last:   embedded 2720/8408
+05:55:41 waiting reembed… last:   embedded 3008/8408
+05:56:11 waiting reembed… last:   embedded 3168/8408
+05:56:41 waiting reembed… last:   embedded 3264/8408
+05:57:11 waiting reembed… last:   embedded 3424/8408
+05:57:41 waiting reembed… last:   embedded 3488/8408
+05:58:11 waiting reembed… last:   embedded 3552/8408
+05:58:41 waiting reembed… last:   embedded 3616/8408
+05:59:11 waiting reembed… last:   embedded 3840/8408
+05:59:41 waiting reembed… last:   embedded 3904/8408
+06:00:11 waiting reembed… last:   embedded 3968/8408
+06:00:41 waiting reembed… last:   embedded 4064/8408
+06:01:11 waiting reembed… last:   embedded 4128/8408
+06:01:41 waiting reembed… last:   embedded 4192/8408
+06:02:11 waiting reembed… last:   embedded 4384/8408
+06:02:41 waiting reembed… last:   embedded 4576/8408
+06:03:12 waiting reembed… last:   embedded 4896/8408
+06:03:42 waiting reembed… last:   embedded 5024/8408
+06:04:12 waiting reembed… last:   embedded 5056/8408
+06:04:42 waiting reembed… last:   embedded 5216/8408
+06:05:12 waiting reembed… last:   embedded 5280/8408
+06:05:42 waiting reembed… last:   embedded 5344/8408
+06:06:12 waiting reembed… last:   embedded 5376/8408
+06:06:42 waiting reembed… last:   embedded 5408/8408
+06:07:12 waiting reembed… last:   embedded 5504/8408
+06:07:42 waiting reembed… last:   embedded 6080/8408
+06:08:12 waiting reembed… last:   embedded 6560/8408
+06:08:42 waiting reembed… last:   embedded 6976/8408
+06:09:12 waiting reembed… last:   embedded 7520/8408
+06:09:42 waiting reembed… last:   embedded 8000/8408
+06:10:12 reembed process ended
+06:10:12 starting bake-off (20q × 2 embed × 3 llm = 120 runs)
+Eval 20 questions × 6 combos = 120 runs
+Output → /Users/mohammadreza/IslamASR/rag/eval/runs/20260923_061012
+[1/120] E1 | bge-m3 | gpt-oss-120b …
+    ERROR: Expecting value: line 1 column 1 (char 0)
+[2/120] E1 | bge-m3 | GLM-5.3 …
+    ok used=5 cost=≈ $0.0054 4.1s
+[3/120] E1 | bge-m3 | Kimi-K2.6 …
+    ok used=5 cost=≈ $0.0228 91.2s
+[4/120] E1 | Qwen3-Embedding-8B | gpt-oss-120b …
+    ok used=3 cost=≈ $0.0002 10.8s
+[5/120] E1 | Qwen3-Embedding-8B | GLM-5.3 …
+    ok used=4 cost=≈ $0.0051 93.3s
+[6/120] E1 | Qwen3-Embedding-8B | Kimi-K2.6 …
+    ok used=4 cost=≈ $0.0179 69.4s
+[7/120] E2 | bge-m3 | gpt-oss-120b …
+    ok used=1 cost=≈ $0.0002 18.6s
+[8/120] E2 | bge-m3 | GLM-5.3 …
+    ok used=6 cost=≈ $0.0079 125.1s
+[9/120] E2 | bge-m3 | Kimi-K2.6 …
+    ERROR: Model returned empty content (finish_reason=length). Reasoning models may need a higher max_tokens — try again or pick GPT-OSS.
+[10/120] E2 | Qwen3-Embedding-8B | gpt-oss-120b …
+    ok used=1 cost=≈ $0.0002 13.4s
+[11/120] E2 | Qwen3-Embedding-8B | GLM-5.3 …
+    ok used=3 cost=≈ $0.0071 6.5s
+[12/120] E2 | Qwen3-Embedding-8B | Kimi-K2.6 …
+    ERROR: Model returned empty content (finish_reason=length). Reasoning models may need a higher max_tokens — try again or pick GPT-OSS.
+[13/120] E3 | bge-m3 | gpt-oss-120b …
+    ok used=2 cost=≈ $0.0001 6.5s
+[14/120] E3 | bge-m3 | GLM-5.3 …
+    ok used=6 cost=≈ $0.0061 9.1s
+[15/120] E3 | bge-m3 | Kimi-K2.6 …
+    ok used=5 cost=≈ $0.0183 74.2s
+[16/120] E3 | Qwen3-Embedding-8B | gpt-oss-120b …
+    ok used=2 cost=≈ $0.0001 10.1s
+[17/120] E3 | Qwen3-Embedding-8B | GLM-5.3 …
+    ok used=6 cost=≈ $0.0058 5.0s
+[18/120] E3 | Qwen3-Embedding-8B | Kimi-K2.6 …
+    ok used=6 cost=≈ $0.0243 114.7s
+[19/120] M1 | bge-m3 | gpt-oss-120b …
+    ok used=3 cost=≈ $0.0002 12.3s
+[20/120] M1 | bge-m3 | GLM-5.3 …
+    ok used=5 cost=≈ $0.0062 20.5s
+[21/120] M1 | bge-m3 | Kimi-K2.6 …
+    ok used=5 cost=≈ $0.0184 76.8s
+[22/120] M1 | Qwen3-Embedding-8B | gpt-oss-120b …
+    ok used=2 cost=≈ $0.0002 9.0s
+[23/120] M1 | Qwen3-Embedding-8B | GLM-5.3 …
+    ok used=5 cost=≈ $0.0069 7.7s
+[24/120] M1 | Qwen3-Embedding-8B | Kimi-K2.6 …
+    ok used=4 cost=≈ $0.0182 73.3s
+[25/120] M2 | bge-m3 | gpt-oss-120b …
+    ok used=3 cost=≈ $0.0004 980.2s
+[26/120] M2 | bge-m3 | GLM-5.3 …
+    ok used=6 cost=≈ $0.0090 71.4s
+[27/120] M2 | bge-m3 | Kimi-K2.6 …
+    ERROR: Unterminated string starting at: line 2 column 3 (char 4)
+[28/120] M2 | Qwen3-Embedding-8B | gpt-oss-120b …
+    ok used=2 cost=≈ $0.0004 31.9s
+[29/120] M2 | Qwen3-Embedding-8B | GLM-5.3 …
+    ok used=6 cost=≈ $0.0090 7.1s
+[30/120] M2 | Qwen3-Embedding-8B | Kimi-K2.6 …

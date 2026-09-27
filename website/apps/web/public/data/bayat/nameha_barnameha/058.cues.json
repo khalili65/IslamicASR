@@ -1,0 +1,5038 @@
+{
+ "version": 1,
+ "sessionId": "058",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 2110.49,
+ "alignment": {
+  "exact": 4124,
+  "total": 4124,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## آغاز سخن",
+   "start": 0.18,
+   "end": 199.16
+  },
+  {
+   "index": 1,
+   "title": "## طرح مسأله",
+   "start": 199.16,
+   "end": 408.68
+  },
+  {
+   "index": 2,
+   "title": "## گشایش معنا",
+   "start": 408.68,
+   "end": 580.28
+  },
+  {
+   "index": 3,
+   "title": "## بیان روایت",
+   "start": 580.28,
+   "end": 602.06
+  },
+  {
+   "index": 4,
+   "title": "## تمثیل و شاهد",
+   "start": 602.06,
+   "end": 834.95
+  },
+  {
+   "index": 5,
+   "title": "## دقت در واژه‌ها",
+   "start": 834.95,
+   "end": 961.83
+  },
+  {
+   "index": 6,
+   "title": "## جریان بحث",
+   "start": 961.83,
+   "end": 1118.96
+  },
+  {
+   "index": 7,
+   "title": "## لایهٔ باطنی",
+   "start": 1118.96,
+   "end": 1268.36
+  },
+  {
+   "index": 8,
+   "title": "## ثمره در عمل",
+   "start": 1268.36,
+   "end": 1559.0
+  },
+  {
+   "index": 9,
+   "title": "## ادامهٔ برهان",
+   "start": 1559.0,
+   "end": 1580.92
+  },
+  {
+   "index": 10,
+   "title": "## شهادت حال اولیا",
+   "start": 1580.92,
+   "end": 1707.64
+  },
+  {
+   "index": 11,
+   "title": "## مسیر سلوک",
+   "start": 1707.64,
+   "end": 1988.47
+  },
+  {
+   "index": 12,
+   "title": "## جمع‌بندی عملی",
+   "start": 1988.47,
+   "end": 2110.49
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 0.18,
+   "end": 8.28,
+   "text": "یا رب اعوذ به من همزات الشیاطین و من شر نفسي و من شر خلقک.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 8.28,
+   "end": 10.26,
+   "text": "بسم الله الرحمن الرحیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 10.26,
+   "end": 15.56,
+   "text": "لا حول و لا قوة الا بالله العلی العظیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 15.56,
+   "end": 20.72,
+   "text": "اللهم ایکا نعبد و ایکا نستعین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 20.72,
+   "end": 25.8,
+   "text": "الحمد لله على كل نعمته و اسال الله من فضله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 25.8,
+   "end": 29.68,
+   "text": "السلام علیک یا داعی الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 29.68,
+   "end": 32.82,
+   "text": "و ربانی آیاته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 32.82,
+   "end": 36.88,
+   "text": "سلام علیکم و رحمة الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 36.88,
+   "end": 40.94,
+   "text": "بنا به دلیلی من قصد کردم صحبت نکنم امشب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 40.94,
+   "end": 43.94,
+   "text": "لذا با جش شروع شد جلسه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 43.94,
+   "end": 47.46,
+   "text": "اما حیفم اومد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 47.46,
+   "end": 51.58,
+   "text": "دیدم انقدر شما با صفایید و خوبید و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 51.58,
+   "end": 55.4,
+   "text": "ادب کردید و این‌ها حیفم اومد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 55.4,
+   "end": 58.54,
+   "text": "گفتم بحثمون هم منقطع نشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 58.54,
+   "end": 61.26,
+   "text": "یه چیزکی عرض کنیم تبرکاً.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 61.26,
+   "end": 66.98,
+   "text": "خیلی کوتاه. ما رسیده بودیم به انتهای نامه‌ی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 66.98,
+   "end": 68.82,
+   "text": "سوم نامه‌ها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 68.82,
+   "end": 71.26,
+   "text": "بر نامه‌های حضرت استاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 71.26,
+   "end": 72.86,
+   "text": "این تیکه انتهای اینا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 72.86,
+   "end": 75.96,
+   "text": "چون تو این نامه سوم خیلی موندیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 75.96,
+   "end": 78.88,
+   "text": "اجازه بدید که رد شیم. اگرچه خیلی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 78.88,
+   "end": 83.02,
+   "text": "عرض کردم کثیر الفروع هست مطالب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 83.02,
+   "end": 87.3,
+   "text": "یه پنج شش خط آخر نامه رو براتون بخونم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 87.3,
+   "end": 91.2,
+   "text": "این کسایی که حتی سنشون هم کم هست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 91.2,
+   "end": 95.3,
+   "text": "اون‌ها هم توجه کنن به درد همه میخوره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 95.3,
+   "end": 98.68,
+   "text": "حضرت استاد بعد از این که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 98.68,
+   "end": 102.76,
+   "text": "فرمودن اینجا رو که توضیح دادیم \"دل را اطلس آسا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 102.76,
+   "end": 108.34,
+   "text": "ساده و هموار دار که اکوس ارواح را در او گرداوری",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 108.34,
+   "end": 116.4,
+   "text": "که دل سالم کرسی ملائکه و عکاس ارواح گردد\" که اینا رو توضیح دادیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 116.4,
+   "end": 118.88,
+   "text": "قصد داشتیم اینو بیشتر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 118.88,
+   "end": 121.88,
+   "text": "توضیح بدیم. دیگه رد میشیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 121.88,
+   "end": 129.26,
+   "text": "بعد ادامه میدن \"در کلام علمای اعلام و سلاک الی الله الهادی\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 129.26,
+   "end": 131.32,
+   "text": "همینا که در مسیر صیر و سلوک‌اند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 131.32,
+   "end": 135.48,
+   "text": "\"دارد که اعلی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 135.48,
+   "end": 138.46,
+   "text": "و اکرم اوراد\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 138.46,
+   "end": 141.1,
+   "text": "ورد جمعش اوراد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 141.1,
+   "end": 144.9,
+   "text": "که رو لب جاری میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 144.9,
+   "end": 149.6,
+   "text": "میخواد بگه اعلی و اکرم اوراد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 149.6,
+   "end": 151.76,
+   "text": "مر راهرو را.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 151.76,
+   "end": 156.68,
+   "text": "یعنی کسی که تو راهه. کسی که میخواد بازی درآره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 156.68,
+   "end": 160.88,
+   "text": "اون نه. راهرو کسی که تو مسیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 160.88,
+   "end": 164.72,
+   "text": "سالکه. الی الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 164.72,
+   "end": 167.3,
+   "text": "حواسش هست که انا الیه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 167.3,
+   "end": 175.66,
+   "text": "راجعون. میگه برای چنین کسی خب الان همین ایام شعبان هم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 175.66,
+   "end": 178.14,
+   "text": "شعبان المعظم هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 178.14,
+   "end": 182.92,
+   "text": "بهترین اوقات برای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 182.92,
+   "end": 185.94,
+   "text": "اوراده که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 185.94,
+   "end": 191.68,
+   "text": "بر لسان جاری بشه از قلب عبور کنه بدل بشه به ذکر قلبی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 191.68,
+   "end": 196.34,
+   "text": "حالا داره اعلی و اکرم اولاد، اوراد رو میگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 196.34,
+   "end": 199.16,
+   "text": "خب بسم الله چه هدیه قشنگی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 199.16,
+   "end": 202.72,
+   "text": "هی میگیم آقا استاد فلانی حاج آقا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 202.72,
+   "end": 209.6,
+   "text": "اینا این یک ذکر و یک ختم و یک مثلا ورد خیلی خاص به من بدید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 209.6,
+   "end": 212.88,
+   "text": "قید چی بود؟ اعلی و اکرم اوراد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 212.88,
+   "end": 216.74,
+   "text": "دیگه نگرد جای دیگر. چی‌ان اینا؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 216.74,
+   "end": 220.24,
+   "text": "البته مر راهرو را.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 220.24,
+   "end": 224.7,
+   "text": "کلمه‌ی طاهر و متطهره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 224.7,
+   "end": 227.32,
+   "text": "لا اله الا الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 227.32,
+   "end": 231.4,
+   "text": "به به. لا اله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 231.4,
+   "end": 234.9,
+   "text": "نفیه. الا الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 234.9,
+   "end": 240.5,
+   "text": "اثباته. تا نفی نباشه اثباتی نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 240.5,
+   "end": 246.14,
+   "text": "تا مناهی پروردگار رو ترک نکنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 246.14,
+   "end": 250.62,
+   "text": "اثباتی هم نمیاد. ثبوتی هم ایجاد نمیشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 250.62,
+   "end": 252.7,
+   "text": "لذا تثبت وجودی هم نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 252.7,
+   "end": 256.4,
+   "text": "ثبات قدم نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 256.4,
+   "end": 264.04,
+   "text": "ل-لذا اون الا الله که انجام اوامره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 264.04,
+   "end": 267.94,
+   "text": "از در حقیقت گردنه‌ی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 267.94,
+   "end": 270.72,
+   "text": "لا اله رد میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 270.72,
+   "end": 273.48,
+   "text": "لا اله. نفی میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 273.48,
+   "end": 276.18,
+   "text": "هیچ الهی. هیچ الهی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 276.18,
+   "end": 279.56,
+   "text": "دلتو به هیچکس خوش نکن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 279.56,
+   "end": 282.92,
+   "text": "خب پس این اولین ذکر و دروده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 282.92,
+   "end": 286.46,
+   "text": "بعد ذکر دوم که این هم اعلی و اکرم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 286.46,
+   "end": 292.94,
+   "text": "و درود مروّح و معطر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 292.94,
+   "end": 298.16,
+   "text": "یعنی روح بخش این ذکر دوم یا دروده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 298.16,
+   "end": 300.9,
+   "text": "که عطرش همه جا رو گرفته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 300.9,
+   "end": 303.78,
+   "text": "چیه؟ اللهم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 303.78,
+   "end": 306.74,
+   "text": "صل علی محمد و آل محمد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 306.74,
+   "end": 309.48,
+   "text": "اللهم. آمن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 309.48,
+   "end": 312.86,
+   "text": "اللهم صل علی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 312.86,
+   "end": 314.92,
+   "text": "محمد و آل محمد به حق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 314.92,
+   "end": 319.9,
+   "text": "الفرج. ای بابا حاج آقا خیلی ما رو سطح پایین آوردی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 319.9,
+   "end": 322.36,
+   "text": "خیلی چیزای معمولی داری میگی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 322.36,
+   "end": 327.14,
+   "text": "یه چیز جدید بگو. یه چیزی بگو که به هیچکس نمیگی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 327.14,
+   "end": 330.4,
+   "text": "بابا حضرت استاد علامه ذو فنون،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 330.4,
+   "end": 333.36,
+   "text": "أبو الفضائل بعضیا بهش لقب دادن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 333.36,
+   "end": 336.52,
+   "text": "داره میفرماید که اعلی و اکرم اوراده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 336.52,
+   "end": 339.6,
+   "text": "بالا بالا چی داره میگردی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 339.6,
+   "end": 344.42,
+   "text": "بعد میفرماید اگر اهل دلی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 344.42,
+   "end": 346.48,
+   "text": "یعنی برای بازی نیومدی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 346.48,
+   "end": 349.94,
+   "text": "نیومدی معرکه گیری کنی. واقعا با دلت اومدی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 349.94,
+   "end": 356.26,
+   "text": "تو این راه. \"اگر اهل دلی دل را آگاه دار\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 356.26,
+   "end": 359.7,
+   "text": "به دلت این آگاهی رو بده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 359.7,
+   "end": 363.44,
+   "text": "\"که آدمی را رسوم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 363.44,
+   "end": 367.4,
+   "text": "جمع رسم، سنت‌هاست، رسم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 94,
+   "start": 367.4,
+   "end": 369.52,
+   "text": "آدمی را رسوم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 95,
+   "start": 369.52,
+   "end": 373.42,
+   "text": "عموم عوام",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 96,
+   "start": 373.42,
+   "end": 376.58,
+   "text": "گاهی هم همسر،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 97,
+   "start": 376.58,
+   "end": 382.38,
+   "text": "اولاد، اموال، چیزایی که ما گرفتارشیم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 98,
+   "start": 382.38,
+   "end": 384.76,
+   "text": "و دیگر امور وی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 99,
+   "start": 384.76,
+   "end": 392.28,
+   "text": "دام و سد راه گردد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 100,
+   "start": 392.28,
+   "end": 395.56,
+   "text": "هم دامه هم سد راهه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 101,
+   "start": 395.56,
+   "end": 400.5,
+   "text": "برای کی البته؟ برای عموم عوام.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 102,
+   "start": 400.5,
+   "end": 403.8,
+   "text": "این گرفتاره. عوامن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 103,
+   "start": 403.8,
+   "end": 406.74,
+   "text": "عمیق نشدن در دین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 104,
+   "start": 406.74,
+   "end": 410.54,
+   "text": "لذا دل خوش می‌کنند به بچه‌شون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 105,
+   "start": 410.54,
+   "end": 412.16,
+   "text": "دل خوش می‌کنند به همسرشون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 106,
+   "start": 412.16,
+   "end": 418.52,
+   "text": "دل خوش می‌کنند یعنی اون‌ها رو در عرض خدا قرار میدن و الا که هرچه قدر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 107,
+   "start": 418.52,
+   "end": 422.36,
+   "text": "انسان به خدا نزدیک‌تر بشه عشق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 108,
+   "start": 422.36,
+   "end": 425.94,
+   "text": "همسر و فرزند و اینا تو دلش بیشتر می‌شه اتفاقا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 109,
+   "start": 425.94,
+   "end": 431.04,
+   "text": "می‌دونستید حدیث داریم هرچه ایمان بیشتر،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 110,
+   "start": 431.04,
+   "end": 434.34,
+   "text": "عشق به خانواده بیشتر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 111,
+   "start": 434.34,
+   "end": 437.8,
+   "text": "اما این عشقیه که در طول حب خداست،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 112,
+   "start": 437.8,
+   "end": 441.98,
+   "text": "نه در عرضش. که اگر یه بلایی سر بچه اومد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 113,
+   "start": 441.98,
+   "end": 443.88,
+   "text": "بگه خدایا ما رو گیر آوردی‌ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 114,
+   "start": 443.88,
+   "end": 446.12,
+   "text": "چرا بچه رو، بچه منو؟ چرا اینطوری شد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 115,
+   "start": 446.12,
+   "end": 453.28,
+   "text": "چرا همسرم فلان. بعضی از دوستان شده میان به من درد و دل می‌کنند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 116,
+   "start": 453.28,
+   "end": 456.88,
+   "text": "که بالاخره زن از قدیمامون گفتن ضعیفه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 117,
+   "start": 456.88,
+   "end": 460.26,
+   "text": "ضعیفه. ها؟ مثلا همسر ما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 118,
+   "start": 460.26,
+   "end": 465.12,
+   "text": "زیاد مریض می‌شه. اصلا اینطوری هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 119,
+   "start": 465.12,
+   "end": 470.14,
+   "text": "رهبر عزیزمون در ابتدای درس خارجشون یه روز فرمودن که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 120,
+   "start": 470.14,
+   "end": 473.72,
+   "text": "اتفاقا بلاها سر همسرت می‌ریزه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 121,
+   "start": 473.72,
+   "end": 476.9,
+   "text": "به آقایون می‌گفتن. سر خانمت می‌ریزه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 122,
+   "start": 476.9,
+   "end": 479.1,
+   "text": "اون گناهی نکرده. امتحان توئه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 123,
+   "start": 479.1,
+   "end": 483.12,
+   "text": "ابتلاء توئه. تو رو دارن امتحان می‌کنن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 124,
+   "start": 483.12,
+   "end": 485.2,
+   "text": "بلایی که به تو می‌خواست بزنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 125,
+   "start": 485.2,
+   "end": 487.62,
+   "text": "به همسر بیچاره‌ت خورده. خب چرا؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 126,
+   "start": 487.62,
+   "end": 492.42,
+   "text": "مگه خدا عادل نیست؟ بالعَدل قامت السماوات والأرض.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 127,
+   "start": 492.42,
+   "end": 495.36,
+   "text": "چرا؟ این تحلیل فرمایش رهبر عزیزمونه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 128,
+   "start": 495.36,
+   "end": 499.76,
+   "text": "فرمودن همین ابت-- برای همسرت ارتقای درجه‌ست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 129,
+   "start": 499.76,
+   "end": 503.56,
+   "text": "تحملی که بر این مریضی، بر این کسالت، بر این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 130,
+   "start": 503.56,
+   "end": 508.82,
+   "text": "گرفتاری‌ها می‌کنه و برای تو امتحان و ابتلاءئه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 131,
+   "start": 508.82,
+   "end": 510.84,
+   "text": "برای تو گوشمالیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 132,
+   "start": 510.84,
+   "end": 512.96,
+   "text": "رهبر فرمودن گوش تو رو خدا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 133,
+   "start": 512.96,
+   "end": 519.66,
+   "text": "داره می‌پیچونه. ولی او رو ارتقای درجه می‌ده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 134,
+   "start": 519.66,
+   "end": 524.46,
+   "text": "حالا اینجا برای عوام که حالیشون نیست این چیزا رو می‌گه این چی می‌شه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 135,
+   "start": 524.46,
+   "end": 529.26,
+   "text": "سد و دامه. باید از این رد شی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 136,
+   "start": 529.26,
+   "end": 532.16,
+   "text": "مراقب باشی که به أبی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 137,
+   "start": 532.16,
+   "end": 536.58,
+   "text": "أنتم وأمی و nafsi و مالی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 138,
+   "start": 536.58,
+   "end": 539.9,
+   "text": "وأسرتی وأولادی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 139,
+   "start": 539.9,
+   "end": 542.52,
+   "text": "هرچی دارم فدای تو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 140,
+   "start": 542.52,
+   "end": 545.24,
+   "text": "دقیقا چی؟ ورد زبان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 141,
+   "start": 545.24,
+   "end": 548.2,
+   "text": "مادر مولود امروز.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 142,
+   "start": 548.2,
+   "end": 550.74,
+   "text": "ها؟ همه رو فدا داد، فدا کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 143,
+   "start": 550.74,
+   "end": 553.52,
+   "text": "فدای یه موی سر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 144,
+   "start": 553.52,
+   "end": 555.68,
+   "text": "امام زمانم. بچه‌ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 145,
+   "start": 555.68,
+   "end": 558.26,
+   "text": "اون مادری که بیست و هفت بهمن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 146,
+   "start": 558.26,
+   "end": 561.36,
+   "text": "دختر بچه‌ها رفتن آوردنش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 147,
+   "start": 561.36,
+   "end": 564.12,
+   "text": "همراهیش کردن. حالا اسمش یادم نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 148,
+   "start": 564.12,
+   "end": 566.54,
+   "text": "اصفهان بود. بله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 149,
+   "start": 566.54,
+   "end": 570.16,
+   "text": "چهار تا شهید. مادر چهار تا شه-- مثل کوه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 150,
+   "start": 570.16,
+   "end": 573.06,
+   "text": "استوار، محکم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 151,
+   "start": 573.06,
+   "end": 575.5,
+   "text": "حالا ما یه چک تو راه خدا بخوریم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 152,
+   "start": 575.5,
+   "end": 578.76,
+   "text": "خودمون رو می‌بازیم. می‌گیم ول کن بابا مثل اینکه خیلی سخته این راه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 153,
+   "start": 578.76,
+   "end": 582.86,
+   "text": "ولش کن. نخواستیم. چهار تا عزیز در دونه‌ش رو داده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 154,
+   "start": 582.86,
+   "end": 588.24,
+   "text": "و پنجاهمین بچه‌ش آورد، اومده بود همراهیش می‌کرد توی راهپیمایی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 155,
+   "start": 588.24,
+   "end": 590.6,
+   "text": "شوخی نیستا. جیگر گوشت رو بدی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 156,
+   "start": 590.6,
+   "end": 593.4,
+   "text": "یه سوزی همیشه همراهته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 157,
+   "start": 593.4,
+   "end": 596.38,
+   "text": "همیشه. داره، داره می‌خنده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 158,
+   "start": 596.38,
+   "end": 599.64,
+   "text": "مهمانداری می‌کنه. مادر شهید حجه‌عی رو دیدید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 159,
+   "start": 599.64,
+   "end": 604.1,
+   "text": "یه وقت رفتید انشاالله نجف آباد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 160,
+   "start": 604.1,
+   "end": 607.0,
+   "text": "میان مزار پسرشون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 161,
+   "start": 607.0,
+   "end": 608.9,
+   "text": "بگید من ایشون رو می‌خوام زیارت کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 162,
+   "start": 608.9,
+   "end": 611.86,
+   "text": "ببینید یک پارچه صلابت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 163,
+   "start": 611.86,
+   "end": 614.08,
+   "text": "اما یه سوزی تو دلشه این زن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 164,
+   "start": 614.08,
+   "end": 616.34,
+   "text": "من اونجا یه شب یه روضه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 165,
+   "start": 616.34,
+   "end": 618.4,
+   "text": "خیلی سنگینی خوندم. مادر خواسته بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 166,
+   "start": 618.4,
+   "end": 623.62,
+   "text": "مادر شهید خواسته بود. بعد که جلسه تموم شد ریختن سر ما بعضیا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 167,
+   "start": 623.62,
+   "end": 627.32,
+   "text": "حتی ج-- دم در چند نفر اومدن منو بزنن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 168,
+   "start": 627.32,
+   "end": 631.48,
+   "text": "از مردم نجف آباد. فحش و داد و سر من،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 169,
+   "start": 631.48,
+   "end": 634.0,
+   "text": "منو به زور کردن تو ماشین بردن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 170,
+   "start": 634.0,
+   "end": 637.32,
+   "text": "که چرا اینطوری روضه اینطوری جلوی مادر شهید خوندی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 171,
+   "start": 637.32,
+   "end": 640.3,
+   "text": "بیچاره‌ها نمی‌دونستن که مادر شهید به من گفته بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 172,
+   "start": 640.3,
+   "end": 643.8,
+   "text": "گفته بود از پسرم کسی چیزی نمیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 173,
+   "start": 643.8,
+   "end": 647.6,
+   "text": "من دوست دارم بگید. بگید چی به سر پسرم اومد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 174,
+   "start": 647.6,
+   "end": 653.14,
+   "text": "همه هم بشنون. یه سوزی تو دلشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 175,
+   "start": 653.14,
+   "end": 657.86,
+   "text": "خب این اتفاقا دارم اینو الان که به شما میگم یادم افتاد یه فرمایشی رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 176,
+   "start": 657.86,
+   "end": 660.72,
+   "text": "در شرح مصباح العنس حضرت علامه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 177,
+   "start": 660.72,
+   "end": 663.3,
+   "text": "ها اینا که تا اینجا چیزایی که الان گفتم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 178,
+   "start": 663.3,
+   "end": 669.98,
+   "text": "همه فهمیدیم. هیچکس نمی‌تونه بگه آقا، آقا سنگین حرف زدی، بچه‌ترها نمی‌فهمن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 179,
+   "start": 669.98,
+   "end": 673.84,
+   "text": "سیر بحث رو عوض کن. الان من می‌خوام حرف سنگینی بزنم الان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 180,
+   "start": 673.84,
+   "end": 676.1,
+   "text": "اما یه جوری میگم همه بفهمید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 181,
+   "start": 676.1,
+   "end": 681.48,
+   "text": "مراقبه و حضور که بزرگترین شرط است در سیر و سلوک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 182,
+   "start": 681.48,
+   "end": 688.58,
+   "text": "حضور و مراقبه. که جز با حضور و مراقبه ما به هیچ جا نمی‌رسیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 183,
+   "start": 688.58,
+   "end": 691.92,
+   "text": "حضرت علامه طباطبایی علیه الرحمه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 184,
+   "start": 691.92,
+   "end": 695.54,
+   "text": "به اس-- به شاگردشون حضرت علامه حسن زاده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 185,
+   "start": 695.54,
+   "end": 698.12,
+   "text": "علیه الرحمه، اینو کی میگه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 186,
+   "start": 698.12,
+   "end": 702.38,
+   "text": "حضرت استاد علامه در شرح مصباح العنس ابن فناری میگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 187,
+   "start": 702.38,
+   "end": 707.78,
+   "text": "میگه استاد ما حضرت علامه طباطبایی مثالی که برای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 188,
+   "start": 707.78,
+   "end": 713.26,
+   "text": "درک حس حضور و مراقبه می‌زد همین بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 189,
+   "start": 713.26,
+   "end": 717.4,
+   "text": "فرمود مادری که عزیز بچه از دست داده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 190,
+   "start": 717.4,
+   "end": 723.18,
+   "text": "هرچقدر هم می‌بینی داره زندگی می‌کنه، آشپزی می‌کنه، جارو می‌کنه، مهمانداری می‌کنه، ظاهرا می‌خنده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 191,
+   "start": 723.18,
+   "end": 727.65,
+   "text": "اما یک سوزچیزی همیشه تو وجودشه، جگرش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 192,
+   "start": 727.65,
+   "end": 731.07,
+   "text": "این جگرش خونه. این هیچوقت ازش فارغ نمیشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 193,
+   "start": 731.07,
+   "end": 733.91,
+   "text": "\"اولادنا اکبادنا\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 194,
+   "start": 733.91,
+   "end": 740.87,
+   "text": "فرزندان ما جگرهایمان، جگرمان، جگرگوشه که میگن از اینجایی این روایت برداشته شده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 195,
+   "start": 740.87,
+   "end": 744.75,
+   "text": "که من خودم هر وقت بنا به مصالحی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 196,
+   "start": 744.75,
+   "end": 748.93,
+   "text": "یه وقت مصلحت اقتضا کرده، یه وقت یه دادی سر مثلاً بچه‌ام بزنم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 197,
+   "start": 748.93,
+   "end": 751.83,
+   "text": "یه تشری بزنم، یه گوشی ازش بگیرم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 198,
+   "start": 751.83,
+   "end": 756.25,
+   "text": "بعد خدا شاهده بدون استثنا در خلوتم گریه کردم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 199,
+   "start": 756.25,
+   "end": 758.79,
+   "text": "رفتم گریه کردم. سختم بوده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 200,
+   "start": 758.79,
+   "end": 762.53,
+   "text": "چرا مثلاً من تشر زدم؟ چرا گوش بچه‌مو؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 201,
+   "start": 762.53,
+   "end": 766.41,
+   "text": "مجبور بودم خب. از، اِ-- جگرگوشه آدمن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 202,
+   "start": 766.41,
+   "end": 768.37,
+   "text": "حالا این جگرگوشه‌ش رو سر بریدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 203,
+   "start": 768.37,
+   "end": 774.49,
+   "text": "شوخیه مگه؟ اون سوز همیشه همراهشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 204,
+   "start": 774.49,
+   "end": 778.85,
+   "text": "تو هر حالتی. علامه حسنزاده برای فهم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 205,
+   "start": 778.85,
+   "end": 786.15,
+   "text": "فهم حس حضور و مراقبه که همیشه همراه خوشا آنان که دائم در نمازند میگه یعنی همین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 206,
+   "start": 786.15,
+   "end": 789.19,
+   "text": "تو همیشه حواست به خدات هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 207,
+   "start": 789.19,
+   "end": 792.01,
+   "text": "میگن مؤمن حتی تو شادی‌ش هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 208,
+   "start": 792.01,
+   "end": 795.81,
+   "text": "در فرح و سرورش هم یه حزنی داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 209,
+   "start": 795.81,
+   "end": 799.33,
+   "text": "ته دلش یه حزنی داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 210,
+   "start": 799.33,
+   "end": 800.73,
+   "text": "حالا ما روضه نمی‌خونیم چون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 211,
+   "start": 800.73,
+   "end": 801.73,
+   "text": "از وقتی که شنیدیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 212,
+   "start": 801.73,
+   "end": 809.19,
+   "text": "رهبر عزیزمون گلایه کردن از مداح‌ها که گاهی اوقات من گوش میدم تشخیص نمیدم این مجلس جشنه یا عزاست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 213,
+   "start": 809.19,
+   "end": 811.67,
+   "text": "فرمودن جشن رو شادی بخونید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 214,
+   "start": 811.67,
+   "end": 815.51,
+   "text": "عزا رو هم عزا. مطابق با. برا-- دیگه ما، من خودم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 215,
+   "start": 815.51,
+   "end": 819.33,
+   "text": "کسی بودم که تو جشن‌ها روضه می‌خوندم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 216,
+   "start": 819.33,
+   "end": 822.23,
+   "text": "یادتونه دیگه. ولی دیگه این کارو نکردیم بهش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 217,
+   "start": 822.23,
+   "end": 825.05,
+   "text": "گفتیم آقا این راستو دیگه ها. ولی خب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 218,
+   "start": 825.05,
+   "end": 832.31,
+   "text": "با این حال میشه وقتی که حتی جشن هم می‌خونیم، میگ-- اصلاً یه حزنی همراه آدمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 219,
+   "start": 832.31,
+   "end": 836.35,
+   "text": "این همون حس حضوره. بی کس و کار نیستیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 220,
+   "start": 836.35,
+   "end": 839.11,
+   "text": "یه کسی بالا سرمون هست. این رو باید حفظ کنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 221,
+   "start": 839.11,
+   "end": 842.15,
+   "text": "حس حضور. از الان این بچه ترها، اینایی که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 222,
+   "start": 842.15,
+   "end": 849.63,
+   "text": "سنشون ظاهراً از من کمتره و الا باطناً که قطعاً شما قریب‌العهد به مبدا هستید و از ما بهتر و پاک‌تر و بالاتر،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 223,
+   "start": 849.63,
+   "end": 851.95,
+   "text": "رو شماها باید قسم خورد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 224,
+   "start": 851.95,
+   "end": 854.21,
+   "text": "به شماها باید دخیل بست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 225,
+   "start": 854.21,
+   "end": 857.33,
+   "text": "اینو تا آخر عمرتون یادگار از حضرت استاد داشته باشید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 226,
+   "start": 857.33,
+   "end": 860.35,
+   "text": "نه از من، از ایشون. این سوز",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 227,
+   "start": 860.35,
+   "end": 863.63,
+   "text": "حضور و مراقبه رو همیشه همراه خودتون داشته باشید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 228,
+   "start": 863.63,
+   "end": 867.83,
+   "text": "این اگه باشه یه وقت خدایی نکرده زبونم لال یک آنی هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 229,
+   "start": 867.83,
+   "end": 870.15,
+   "text": "اگر شیطان اومد وسوسه کرد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 230,
+   "start": 870.15,
+   "end": 873.01,
+   "text": "نگاهت رو چرخوند، گوشت رو برد سمت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 231,
+   "start": 873.01,
+   "end": 880.41,
+   "text": "محرمات. ها؟ قلبت رو متخیلاتی برات ایجاد کرد، قوه خیالتو به سمت آلودگی دعوت کرد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 232,
+   "start": 880.41,
+   "end": 883.35,
+   "text": "همون لحظه با شهاب سنگ ذکر،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 233,
+   "start": 883.35,
+   "end": 886.79,
+   "text": "با شهاب سنگ رجمش می‌کنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 234,
+   "start": 886.79,
+   "end": 891.47,
+   "text": "به تعبیر حضرت استاد. با شهاب سنگی که تو سوره هشت میگه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 235,
+   "start": 891.47,
+   "end": 896.69,
+   "text": "ما شیاطین رو با شهاب، شهاب سنگ‌ها اینا دف می‌کنیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 236,
+   "start": 896.69,
+   "end": 899.31,
+   "text": "، اینو دفش می‌کنی. کدوم ذکر؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 237,
+   "start": 899.31,
+   "end": 901.19,
+   "text": "اون ذکر قلبی. یعنی حس حضور.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 238,
+   "start": 901.19,
+   "end": 904.41,
+   "text": "حواست هست که در محضر حقی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 239,
+   "start": 904.41,
+   "end": 907.45,
+   "text": "سریع توبه می‌کنی، سریع عنابه می‌کنی، برمی‌گردی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 240,
+   "start": 907.45,
+   "end": 910.23,
+   "text": "نوب، نوب،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 241,
+   "start": 910.23,
+   "end": 913.79,
+   "text": "عنابه. اون حالت برگشت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 242,
+   "start": 913.79,
+   "end": 920.81,
+   "text": "ز-زنبور به کن-کندوشو میگن رفته حالا بخواد برگرده به اصلش، به بیتش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 243,
+   "start": 920.81,
+   "end": 924.25,
+   "text": "\"شیعتنا کالنحل\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 244,
+   "start": 924.25,
+   "end": 926.93,
+   "text": "شیعه ما مثل زنبور عسله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 245,
+   "start": 926.93,
+   "end": 930.27,
+   "text": "یه جا دیگه میفرماید \"کالنحل\" مثل نخل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 246,
+   "start": 930.27,
+   "end": 936.33,
+   "text": "شیعه ما. من از همه خودمون، خودمون خواهشم اینه که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 247,
+   "start": 936.33,
+   "end": 939.89,
+   "text": "بیاید از همین غنفوان، ما که دیگه تموم شد کارمون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 248,
+   "start": 939.89,
+   "end": 943.65,
+   "text": "شماها نوجوانی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 249,
+   "start": 943.65,
+   "end": 949.33,
+   "text": "راه و رسم بندگی رو با طریق معرفت پیش بگیرید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 250,
+   "start": 949.33,
+   "end": 952.05,
+   "text": "می‌خوام دیگه گناه نکنم. خب چگونه گناه نکنم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 251,
+   "start": 952.05,
+   "end": 954.55,
+   "text": "من که گناه‌ها رو نمی‌شناسم. چگونه گناه نکنم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 252,
+   "start": 954.55,
+   "end": 956.67,
+   "text": "اصلاً چرا نباید گناه کنم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 253,
+   "start": 956.67,
+   "end": 959.53,
+   "text": "بشناسم اصلاً این، این سیر رو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 254,
+   "start": 959.53,
+   "end": 961.83,
+   "text": "اصلاً من کی‌ام که نباید گناه کنم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 255,
+   "start": 961.83,
+   "end": 964.29,
+   "text": "سیر معرفت نفس میطلبه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 256,
+   "start": 964.29,
+   "end": 969.11,
+   "text": "این یعنی از طریق علم. حضرت امام سجاد صلوات الله علیه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 257,
+   "start": 969.11,
+   "end": 974.61,
+   "text": "وقتی در مجلس یزید ملعون،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 258,
+   "start": 974.61,
+   "end": 978.21,
+   "text": "اینجا در شام خطبه خوند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 259,
+   "start": 978.21,
+   "end": 981.77,
+   "text": "چون شامیان جاهل بودن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 260,
+   "start": 981.77,
+   "end": 984.51,
+   "text": "کوفی‌ها ترسو بودن، جاهل نبودن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 261,
+   "start": 984.51,
+   "end": 987.47,
+   "text": "شامیان جاهل بودند. جهل بیچاره‌شون کرده بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 262,
+   "start": 987.47,
+   "end": 991.15,
+   "text": "امام سجاد اونجا وقتی خودشون رو معرفی کردن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 263,
+   "start": 991.15,
+   "end": 993.73,
+   "text": "فرمودن که خدا شش تا چیز به ما داده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 264,
+   "start": 993.73,
+   "end": 999.19,
+   "text": "اولیش رو فرمودن چی؟ بعثنا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 265,
+   "start": 999.19,
+   "end": 1001.85,
+   "text": "العلم. به ما علم داده خدا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 266,
+   "start": 1001.85,
+   "end": 1005.53,
+   "text": "بعد فرمود الحلم. بعد الشجاعه همینطوری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 267,
+   "start": 1005.53,
+   "end": 1007.55,
+   "text": "اولیش فرمود العلم، علم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 268,
+   "start": 1007.55,
+   "end": 1010.75,
+   "text": "افتخار امام سجاد علمه، دانشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 269,
+   "start": 1010.75,
+   "end": 1016.03,
+   "text": "و عرفته. این پرچم علم و دانش باید سر در دلمون همیشه باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 270,
+   "start": 1016.03,
+   "end": 1018.83,
+   "text": "الان اومدی هیئت. حالا میخوای تشریف ببری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 271,
+   "start": 1018.83,
+   "end": 1020.85,
+   "text": "به معرفت، به علمت،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 272,
+   "start": 1020.85,
+   "end": 1026.01,
+   "text": "به دارایی وجودیت نسبت به صاحبان این جلسه اضافه شد یا نه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 273,
+   "start": 1026.01,
+   "end": 1031.23,
+   "text": "اگه نشده باختی. عمرتو دادی رفته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 274,
+   "start": 1031.23,
+   "end": 1037.39,
+   "text": "لذا اگر یک شب اومدی، الان عزیز دلم آقا مرتضی جمله قشنگی گفت همون لحظه که تشریف آوردن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 275,
+   "start": 1037.39,
+   "end": 1040.01,
+   "text": "همین عزیزی که الان براتون شور می‌خوندن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 276,
+   "start": 1040.01,
+   "end": 1046.25,
+   "text": "آقا مرتضی سلمانی. جالب بود که از لسانه مثلاً مداحی به این شکل آدم بشنوه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 277,
+   "start": 1046.25,
+   "end": 1048.71,
+   "text": "فرمودن حاجی بیا بریم به داد این هیئت‌ها برسه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 278,
+   "start": 1048.71,
+   "end": 1052.51,
+   "text": "اصلاً منبرها تعطیل شده. کسی پای منبر نمیشینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 279,
+   "start": 1052.51,
+   "end": 1055.97,
+   "text": "معرفت لان شده اینا. الان من دیشب هم یه هیئتی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 280,
+   "start": 1055.97,
+   "end": 1058.73,
+   "text": "رد میشدم از جلوس نبرم، معروف بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 281,
+   "start": 1058.73,
+   "end": 1061.87,
+   "text": "به هر حال. دلتنگ بودیم گفتیم بریم چند دقیقه بشینیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 282,
+   "start": 1061.87,
+   "end": 1065.83,
+   "text": "رفتیم تو جلسه نشستیم. همه هم سن و سال‌های شما و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 283,
+   "start": 1065.83,
+   "end": 1068.35,
+   "text": "جوون. بعد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 284,
+   "start": 1068.35,
+   "end": 1070.09,
+   "text": "فکر می‌کنم بیست دقیقه نشستم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 285,
+   "start": 1070.09,
+   "end": 1074.41,
+   "text": "یک بیت شعر از خوندن این مداح رو من نفهمیدم چی گفت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 286,
+   "start": 1074.41,
+   "end": 1077.71,
+   "text": "آخر پاشدم اومدم بیرون. زیرصدا می‌گفتن حسین حسین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 287,
+   "start": 1077.71,
+   "end": 1082.27,
+   "text": "این آقا شعر می‌خوند صدا انقدر به قدری زیاد بود این زیرصدای حسین حسین،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 288,
+   "start": 1082.27,
+   "end": 1085.83,
+   "text": "اصلاً نمی‌فهمیدم این آقا چی داره می‌خونه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 289,
+   "start": 1085.83,
+   "end": 1089.05,
+   "text": "خب چی دستگیرت شد؟ چی فهمیدی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 290,
+   "start": 1089.05,
+   "end": 1102.86,
+   "text": "چه شناختی؟ اجازه بدید برای اینکه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 291,
+   "start": 1102.86,
+   "end": 1106.46,
+   "text": "نامه تموم شه دو خط باقیمونده رو هم بخونم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 292,
+   "start": 1106.46,
+   "end": 1111.96,
+   "text": "طعام روحی که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 293,
+   "start": 1111.96,
+   "end": 1118.96,
+   "text": "مطعم و مَأکل ارواح آمد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 294,
+   "start": 1118.96,
+   "end": 1122.58,
+   "text": "کی در کام هر کسی گوارا گردد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 295,
+   "start": 1122.58,
+   "end": 1127.56,
+   "text": "هر کسی نه. یعنی اون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 296,
+   "start": 1127.56,
+   "end": 1130.66,
+   "text": "اکل و شرب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 297,
+   "start": 1130.66,
+   "end": 1136.92,
+   "text": "معنوی، معرفت که طعام روحیه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 298,
+   "start": 1136.92,
+   "end": 1141.64,
+   "text": "این به کام هر کسی گوارا نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 299,
+   "start": 1141.64,
+   "end": 1147.28,
+   "text": "الان غالب مردم، اکثر مردم از لغویات،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 300,
+   "start": 1147.28,
+   "end": 1150.52,
+   "text": "دعات نفسانی خوششون میاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 301,
+   "start": 1150.52,
+   "end": 1154.98,
+   "text": "از چیزی که تحریک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 302,
+   "start": 1154.98,
+   "end": 1157.36,
+   "text": "قوه خیالشون رو داشته باشه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 303,
+   "start": 1157.36,
+   "end": 1160.48,
+   "text": "قوه خیالشون رو تحریک کنه. مثلا رمان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 304,
+   "start": 1160.48,
+   "end": 1163.06,
+   "text": "اون سکس تند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 305,
+   "start": 1163.06,
+   "end": 1168.94,
+   "text": "این چیزا لذت می برن. حالا همین الان روبروی همین هیئت یه نفر بره یه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 306,
+   "start": 1168.94,
+   "end": 1171.76,
+   "text": "بساطی پهن کنه فال بگیره مار",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 307,
+   "start": 1171.76,
+   "end": 1178.2,
+   "text": "فلان کنه سوت بزنه ماره بیاد از ق-قفس بیرون فلان فالگیری کنه معرکه گیری کنه اینا بیشتر از من،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 308,
+   "start": 1178.2,
+   "end": 1182.56,
+   "text": "من با این ادعام و این جلسه آدم دورش جمع میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 309,
+   "start": 1182.56,
+   "end": 1187.0,
+   "text": "چرا؟ چون قوه خیال اینا رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 310,
+   "start": 1187.0,
+   "end": 1189.68,
+   "text": "در نفوخ نمی کنم یا عشق می کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 311,
+   "start": 1189.68,
+   "end": 1195.28,
+   "text": "از این حالا این حرفایی که الان ما داریم می زنیم مثل زهر به کام اینا تلخه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 312,
+   "start": 1195.28,
+   "end": 1199.62,
+   "text": "آدمای اینطوری. میگه این حواست باشه این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 313,
+   "start": 1199.62,
+   "end": 1202.82,
+   "text": "غذای هر کسی نیستا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 314,
+   "start": 1202.82,
+   "end": 1206.5,
+   "text": "نکنه میل دلت عوض بشه بعدش بیاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 315,
+   "start": 1206.5,
+   "end": 1211.06,
+   "text": "آدم کامل همواره در همه امور",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 316,
+   "start": 1211.06,
+   "end": 1217.54,
+   "text": "دور محور عدل و وسط گردد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 317,
+   "start": 1217.54,
+   "end": 1221.44,
+   "text": "خیر الامور احس-- اوسط ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 318,
+   "start": 1221.44,
+   "end": 1223.66,
+   "text": "حد وسط. نه افراط،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 319,
+   "start": 1223.66,
+   "end": 1227.88,
+   "text": "نه تفریط. الان یکی از دوستان اومد به من گفت،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 320,
+   "start": 1227.88,
+   "end": 1231.26,
+   "text": "یه سوالی پرسید گفت \"من شنیدم که\"،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 321,
+   "start": 1231.26,
+   "end": 1234.72,
+   "text": "این نوجوونه، گفت \"من شنیدم که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 322,
+   "start": 1234.72,
+   "end": 1237.78,
+   "text": "مثلا از علامه فرمودن که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 323,
+   "start": 1237.78,
+   "end": 1241.62,
+   "text": "روزی دو وعده غذا بخورید بینش هم هیچی نخورید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 324,
+   "start": 1241.62,
+   "end": 1244.06,
+   "text": "تا صفای وجودی پیدا\"، گفتم مطلقا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 325,
+   "start": 1244.06,
+   "end": 1246.28,
+   "text": "اصلا و ابدا همچین چیزی مال شما نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 326,
+   "start": 1246.28,
+   "end": 1249.26,
+   "text": "شما قشنگم بخور، خوبم بخور.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 327,
+   "start": 1249.26,
+   "end": 1251.9,
+   "text": "الان وقت رشدته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 328,
+   "start": 1251.9,
+   "end": 1254.36,
+   "text": "درستم بخواب و استراحت کن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 329,
+   "start": 1254.36,
+   "end": 1257.28,
+   "text": "فقط شما اینو داشته باش فعلا این دستورالعمل شماست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 330,
+   "start": 1257.28,
+   "end": 1260.66,
+   "text": "نه افراط نه تفریط. چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 331,
+   "start": 1260.66,
+   "end": 1264.7,
+   "text": "گفتم که آقا تا گرسنه نشدی چیزی نخور.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 332,
+   "start": 1264.7,
+   "end": 1266.48,
+   "text": "اگه گرسنه شدی برو سمت غذا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 333,
+   "start": 1266.48,
+   "end": 1269.92,
+   "text": "این فرمایش پیامبره. علامه هم نمیاد که برا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 334,
+   "start": 1269.92,
+   "end": 1273.0,
+   "text": "صحبت پیامبر چیزی بگه. دو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 335,
+   "start": 1273.0,
+   "end": 1276.18,
+   "text": "هنوز سیر نشدی دست از خوردن بکش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 336,
+   "start": 1276.18,
+   "end": 1278.7,
+   "text": "گفت تنقلات هم بخورم یا نخورم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 337,
+   "start": 1278.7,
+   "end": 1280.72,
+   "text": "گفتم تنقلات منظورت چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 338,
+   "start": 1280.72,
+   "end": 1283.76,
+   "text": "چیه مثلا مثل پسته و تخمه این چیزایی که خـ--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 339,
+   "start": 1283.76,
+   "end": 1288.34,
+   "text": "مقوین؟ گفت نه. منظورش چیپس و پفک ظاهرا بود این چیزا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 340,
+   "start": 1288.34,
+   "end": 1291.62,
+   "text": "گفتم که اونا که خب به دردت نمیخوره برای چی بخوری؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 341,
+   "start": 1291.62,
+   "end": 1293.96,
+   "text": "گفت آخه نفسم دوست داره بخورم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 342,
+   "start": 1293.96,
+   "end": 1300.0,
+   "text": "گفتم خب اگر به جایی رسیدی که مخالفت با نفست کنی در گناهان،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 343,
+   "start": 1300.0,
+   "end": 1302.44,
+   "text": "دقت بفرمایید نه افراط، نه تفریط.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 344,
+   "start": 1302.44,
+   "end": 1304.84,
+   "text": "اگه به جایی رسیدی که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 345,
+   "start": 1304.84,
+   "end": 1309.8,
+   "text": "نسبت به گناه عکس‌العمل نشون بدی، چشمتو ببندی، گوشتو بگیری،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 346,
+   "start": 1309.8,
+   "end": 1312.32,
+   "text": "غیبت نشنوی، دروغ نگی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 347,
+   "start": 1312.32,
+   "end": 1315.38,
+   "text": "بله تنقلاتم نخور مخالفت نفس کن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 348,
+   "start": 1315.38,
+   "end": 1320.38,
+   "text": "برو به اون سمت. حالا که تو گناه معاصی اونچه که مح-محرز حرمتش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 349,
+   "start": 1320.38,
+   "end": 1322.88,
+   "text": "خود رو حفظ کردی، بله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 350,
+   "start": 1322.88,
+   "end": 1326.08,
+   "text": "مثل کسی که دست نمیزنه تو مجلس مویسن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 351,
+   "start": 1326.08,
+   "end": 1328.46,
+   "text": "حاج آقا شما چرا دست نمیزنی؟ یا الله آقا!",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 352,
+   "start": 1328.46,
+   "end": 1332.26,
+   "text": "که راحت دارد آقا جان. مراجع گفتن اشکال دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 353,
+   "start": 1332.26,
+   "end": 1336.62,
+   "text": "خب بعد همون آقا میبینی تا یه زنی از بغلش عبور کرد چشماش داره با زنه میره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 354,
+   "start": 1336.62,
+   "end": 1339.74,
+   "text": "خب خاک بر سرت کنن. تو که برا خودت دکون بازار راه انداختی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 355,
+   "start": 1339.74,
+   "end": 1343.64,
+   "text": "این چه دینیه؟ یه چیزی که شبه‌ست برات.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 356,
+   "start": 1343.64,
+   "end": 1345.98,
+   "text": "اصلا یقینی هم براش نداری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 357,
+   "start": 1345.98,
+   "end": 1348.78,
+   "text": "یه مرجع گفته درسته یکی گفته اشکال نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 358,
+   "start": 1348.78,
+   "end": 1353.6,
+   "text": "فلان چی فلان. اینو رعایت میکنی بعد اونکه حرمت مس-مسلم الهیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 359,
+   "start": 1353.6,
+   "end": 1358.9,
+   "text": "آخه این چه دینیه؟ نه افراط نه تفریط عزیز دلم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 360,
+   "start": 1358.9,
+   "end": 1362.02,
+   "text": "هداک الله الی الصراط. به به، به به السلام.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 361,
+   "start": 1362.02,
+   "end": 1367.22,
+   "text": "می فرمود که خدا تو رو به محکم‌ترین راه، گزیده‌ترین راه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 362,
+   "start": 1367.22,
+   "end": 1371.42,
+   "text": "که تو رو به صواب قدم میکشونه دعوت کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 363,
+   "start": 1371.42,
+   "end": 1374.52,
+   "text": "این چقدر نکته تو همین چند جمله علامه بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 364,
+   "start": 1374.52,
+   "end": 1378.72,
+   "text": "هر کدوم، هر کدوم از این نکته‌ها یه منبر میخواست یا نه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 365,
+   "start": 1378.72,
+   "end": 1381.08,
+   "text": "دیگه ما گفتیم از بارش فرار کنیم دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 366,
+   "start": 1381.08,
+   "end": 1383.88,
+   "text": "هی چقدر دیگه هی بمونیم سرش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 367,
+   "start": 1383.88,
+   "end": 1390.36,
+   "text": "که همه این‌ها ، عزیز دلم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 368,
+   "start": 1390.36,
+   "end": 1401.94,
+   "text": "همون بحث دل را اطلس آسا ساده و هموار دار که اکو سروار رو درو گردآوریست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 369,
+   "start": 1401.94,
+   "end": 1405.42,
+   "text": "که دلتو صاف، سالم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 370,
+   "start": 1405.42,
+   "end": 1407.46,
+   "text": "سالم، صاف،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 371,
+   "start": 1407.46,
+   "end": 1409.94,
+   "text": "بی غلغش اینا قرار بده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 372,
+   "start": 1409.94,
+   "end": 1412.56,
+   "text": "بعد ببین عکس ارواح میفته روش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 373,
+   "start": 1412.56,
+   "end": 1414.24,
+   "text": "یعنی چی عکس ارواح میفته روش؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 374,
+   "start": 1414.24,
+   "end": 1418.46,
+   "text": "یعنی مناسبت. بحث مناسبت که جلسه پیش گفتیم کسایی که بودن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 375,
+   "start": 1418.46,
+   "end": 1422.4,
+   "text": "گفتیم که بین مدرک و مدرک مناسبت هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 376,
+   "start": 1422.4,
+   "end": 1425.74,
+   "text": "نمیشه این مناسبت رو ورداریم. مشاكلت هست،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 377,
+   "start": 1425.74,
+   "end": 1429.08,
+   "text": "مصاحخت هست، مجالست--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 378,
+   "start": 1429.08,
+   "end": 1432.42,
+   "text": "عذر 消 防 . مؤانست هست، یه انسی هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 379,
+   "start": 1432.42,
+   "end": 1434.48,
+   "text": "نمیشه. است که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 380,
+   "start": 1434.48,
+   "end": 1437.92,
+   "text": "اصلا کل-- القل کل ای عمل علی شاکلته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 381,
+   "start": 1437.92,
+   "end": 1440.7,
+   "text": "همه بر اساس شاکلشون عمل میکنن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 382,
+   "start": 1440.7,
+   "end": 1443.14,
+   "text": "چرا این از گناه لذت میبره اون از ثواب؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 383,
+   "start": 1443.14,
+   "end": 1447.94,
+   "text": "شاکلش اینطوری شده. هرچی هست از--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 384,
+   "start": 1447.94,
+   "end": 1450.92,
+   "text": "اصلا چیزی که صادر میشه از هر کسی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 385,
+   "start": 1450.92,
+   "end": 1453.56,
+   "text": "بر اساس شاکل-- اون تناسب،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 386,
+   "start": 1453.56,
+   "end": 1457.32,
+   "text": "مناسبت. خیلی بحث مناسبت مهمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 387,
+   "start": 1457.32,
+   "end": 1462.76,
+   "text": "لذا اونجایی که تناسب، دقت بفرمایید نکته آخرو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 388,
+   "start": 1462.76,
+   "end": 1467.5,
+   "text": "تناسب بین ظاهر و باطن من برقرار میکنه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 389,
+   "start": 1467.5,
+   "end": 1470.96,
+   "text": "توازن رو ایجاد میکنه، یادتونه چی بود؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 390,
+   "start": 1470.96,
+   "end": 1473.78,
+   "text": "میشد برزخ بین ظاهر و باطن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 391,
+   "start": 1473.78,
+   "end": 1476.26,
+   "text": "بهش میگفتم قوه خیال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 392,
+   "start": 1476.26,
+   "end": 1479.7,
+   "text": "یا مثال،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 393,
+   "start": 1479.7,
+   "end": 1483.28,
+   "text": "رتبه مثال متصل یا مقید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 394,
+   "start": 1483.28,
+   "end": 1486.56,
+   "text": "بیرون از من عالم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 395,
+   "start": 1486.56,
+   "end": 1490.8,
+   "text": "که الان انوات ما رفتن بهش میگن مثال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 396,
+   "start": 1490.8,
+   "end": 1493.82,
+   "text": "چی؟ منفصل بیرون از من.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 397,
+   "start": 1493.82,
+   "end": 1497.24,
+   "text": "همون تو منم هست. اونو باید مراقب باشید پاک باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 398,
+   "start": 1497.24,
+   "end": 1503.32,
+   "text": "قوه خیال. تا این قوه خیال پاک نشه به هیچ جا نمیرسیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 399,
+   "start": 1503.32,
+   "end": 1505.36,
+   "text": "این نکته رو خیلی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 400,
+   "start": 1505.36,
+   "end": 1508.94,
+   "text": "روش تمرکز کنیم. قوه خیال رو تا میتونیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 401,
+   "start": 1508.94,
+   "end": 1511.7,
+   "text": "از افکار و خیالات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 402,
+   "start": 1511.7,
+   "end": 1521.34,
+   "text": "پلید پاک نگه داریم تا بتونیم رابطه، رابطه بین ظاهر و باطن و اون توازن و اون تناسب برقرار بشه عزیزان دل.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 403,
+   "start": 1521.34,
+   "end": 1524.26,
+   "text": "این تناسب رو شما نمیتونی برداری",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 404,
+   "start": 1524.26,
+   "end": 1527.92,
+   "text": "که مثل اینکه دقت بفرمایید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 405,
+   "start": 1527.92,
+   "end": 1531.38,
+   "text": "الان اینجا چون بحث ارواح رو آورده علامه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 406,
+   "start": 1531.38,
+   "end": 1534.8,
+   "text": "عکوس ارواح، عکس ارواح بیفته تو دلت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 407,
+   "start": 1534.8,
+   "end": 1538.56,
+   "text": "شما وقتی که با سیر معرفتی میری جلو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 408,
+   "start": 1538.56,
+   "end": 1545.76,
+   "text": "متوجه میشی که همین آسمان و ملک و فلک و این زمین و همین عالم عنصری و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 409,
+   "start": 1545.76,
+   "end": 1549.0,
+   "text": "بگیر برو تا مراتب عالیه همه چین؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 410,
+   "start": 1549.0,
+   "end": 1551.96,
+   "text": "همه پیاده شده از ارواحن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 411,
+   "start": 1551.96,
+   "end": 1554.84,
+   "text": "ارواح رو شما بگیرید معانی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 412,
+   "start": 1554.84,
+   "end": 1558.08,
+   "text": "معانی یا معن-- میگن معنوی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 413,
+   "start": 1558.08,
+   "end": 1560.84,
+   "text": "ها؟ وجودات معنوی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 414,
+   "start": 1560.84,
+   "end": 1564.3,
+   "text": "معانی عالم، ارواح که واسطه فیضن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 415,
+   "start": 1564.3,
+   "end": 1567.84,
+   "text": "اونا مبدعن، ایجاد میکنن، انشا میکنن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 416,
+   "start": 1567.84,
+   "end": 1574.74,
+   "text": "حرکت ایجادی در ما دارن که ما بتونیم حرکت وجودی کنیم به سمت اشتداد وجودی بریم، رشد کنیم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 417,
+   "start": 1574.74,
+   "end": 1578.08,
+   "text": "ارتقای وجودی پیدا کنیم. اون ارواح",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 418,
+   "start": 1578.08,
+   "end": 1582.26,
+   "text": "وقتی پیاده میشن دقت بفرمایید میخوام ربطشو با قوه خیال بدم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 419,
+   "start": 1582.26,
+   "end": 1587.88,
+   "text": "وقتی پیاده میشن میان به مراتب مادون، ارواح، معانی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 420,
+   "start": 1587.88,
+   "end": 1590.76,
+   "text": "میشن چی؟ بفرمایید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 421,
+   "start": 1590.76,
+   "end": 1596.28,
+   "text": "ملک و فلک و آسمان و زمین و عالم عنصر و ماده و طبعا این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 422,
+   "start": 1596.28,
+   "end": 1600.06,
+   "text": "جماد و این موالید سلافه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 423,
+   "start": 1600.06,
+   "end": 1604.28,
+   "text": "معدن یا جمادات، نبات و حیوان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 424,
+   "start": 1604.28,
+   "end": 1609.4,
+   "text": "که انسان هم جزوشه. اینا صورت میگیره، شکل میگیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 425,
+   "start": 1609.4,
+   "end": 1612.68,
+   "text": "همون معانی اومده این قدرت الهیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 426,
+   "start": 1612.68,
+   "end": 1617.22,
+   "text": "اومده شده این. تو قوه خیال شما همین اتفاق میفته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 427,
+   "start": 1617.22,
+   "end": 1620.72,
+   "text": "عقل، اصلا چه خواب باشی، چه بیدار.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 428,
+   "start": 1620.72,
+   "end": 1626.84,
+   "text": "حالا خواب رو مثال بزنیم. شما میخوابی کجا اخذ حقیقت میکنه پیام الهی رو؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 429,
+   "start": 1626.84,
+   "end": 1630.24,
+   "text": "چی میگیره؟ عقلت. عقل یک حالت کلیه دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 430,
+   "start": 1630.24,
+   "end": 1634.04,
+   "text": "یک حقیقت کلیه. مدرک،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 431,
+   "start": 1634.04,
+   "end": 1637.14,
+   "text": "مدرک کلیاته. کلی رو میگیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 432,
+   "start": 1637.14,
+   "end": 1638.98,
+   "text": "خب چه شکلیه این؟ چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 433,
+   "start": 1638.98,
+   "end": 1641.86,
+   "text": "من چجوری ببینمش؟ چه شکلی بهش بدم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 434,
+   "start": 1641.86,
+   "end": 1646.22,
+   "text": "کی این صورت و شکل رو به اون معنی کلی میده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 435,
+   "start": 1646.22,
+   "end": 1651.04,
+   "text": "شما وقتی میخوابی عقلت با عالم قدس ارتباط میگیره، با عالم مثال.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 436,
+   "start": 1651.04,
+   "end": 1653.7,
+   "text": "رفتی به یه رتبه پنهان‌تر از این عالم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 437,
+   "start": 1653.7,
+   "end": 1657.5,
+   "text": "یه حقیقت، یه پیامی از خدا اخذ میکنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 438,
+   "start": 1657.5,
+   "end": 1664.18,
+   "text": "خب میخوای اینو ببینیش. چگونه باهاش حشر و نشر پیدا کنی که ببینیش، بچشیش، بفهمیش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 439,
+   "start": 1664.18,
+   "end": 1667.0,
+   "text": "کار کار چیه؟ قوه خیاله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 440,
+   "start": 1667.0,
+   "end": 1671.06,
+   "text": "یعنی عقل تو وقتی پیاده میشه میاد به مرتبه مادون،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 441,
+   "start": 1671.06,
+   "end": 1675.48,
+   "text": "مثلش-- میشه قوه خیالت که صورت و شکل به تو میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 442,
+   "start": 1675.48,
+   "end": 1677.82,
+   "text": "حالا چه الله اکبر!",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 443,
+   "start": 1677.82,
+   "end": 1686.94,
+   "text": "از این قدرتی که خدا پیاده کرده در قوه خیال از کجا بفهمه معنی کلیه رو چه صورتی بهش بده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 444,
+   "start": 1686.94,
+   "end": 1691.04,
+   "text": "یه معنی کلیه چه شکلیش بکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 445,
+   "start": 1691.04,
+   "end": 1693.8,
+   "text": "چرا شما تو خواب این صورت و شکلو میبینی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 446,
+   "start": 1693.8,
+   "end": 1697.26,
+   "text": "اون، اون صورت و شکلو میبینه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 447,
+   "start": 1697.26,
+   "end": 1700.28,
+   "text": "که مفسر میاد از اون صورت عبور میکنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 448,
+   "start": 1700.28,
+   "end": 1703.5,
+   "text": "حقیقت پیامی که از خدا گرفتی رو استخراج میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 449,
+   "start": 1703.5,
+   "end": 1706.28,
+   "text": "این کار تعبیر خواب که میگن یعنی اینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 450,
+   "start": 1706.28,
+   "end": 1710.7,
+   "text": "قوه خیال میاد یعنی پیاده شده عقل تو میشه تو قوه خیالت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 451,
+   "start": 1710.7,
+   "end": 1713.16,
+   "text": "اگر کسی قوه خیالش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 452,
+   "start": 1713.16,
+   "end": 1718.66,
+   "text": "سوار بر اشکال موهشه و وحشتناک داره نملذه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 453,
+   "start": 1718.66,
+   "end": 1726.36,
+   "text": "لذت نمیبره. اعصابش داغون میشه وقتی فکر میکنه به چیزهایی که داره تو خیال پردازی‌هاش یا به خواب‌هاش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 454,
+   "start": 1726.36,
+   "end": 1731.84,
+   "text": "اینا پیداست که چی؟ قوه خیال آلوده شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 455,
+   "start": 1731.84,
+   "end": 1734.32,
+   "text": "و متاسفانه عقلش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 456,
+   "start": 1734.32,
+   "end": 1739.5,
+   "text": "مشوب شده به وهم، خیالی داره زندگی میکنه، خیالاتشم ناپاک شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 457,
+   "start": 1739.5,
+   "end": 1742.1,
+   "text": "باید حواسش رو بیشتر از دیگران جمع کنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 458,
+   "start": 1742.1,
+   "end": 1745.76,
+   "text": "تا اون حقایق کلیه بتونن پیاده بشن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 459,
+   "start": 1745.76,
+   "end": 1752.08,
+   "text": "این دقیقا مناسبتی که داریم میگیم مشاکلاتی که کل قل کل يعمل على",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 460,
+   "start": 1752.08,
+   "end": 1754.14,
+   "text": "شاکلته، این مشاکلت،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 461,
+   "start": 1754.14,
+   "end": 1756.48,
+   "text": "این مناسبت یعنی این.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 462,
+   "start": 1756.48,
+   "end": 1758.38,
+   "text": "اگر قوه خیال تو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 463,
+   "start": 1758.38,
+   "end": 1760.66,
+   "text": "با عقلت مناسبت داشت،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 464,
+   "start": 1760.66,
+   "end": 1763.9,
+   "text": "حقایق کلیه اون پیام‌هایی که از خدا بهت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 465,
+   "start": 1763.9,
+   "end": 1767.42,
+   "text": "القا میشه به راحتی تو قوه خیالت شکل میگیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 466,
+   "start": 1767.42,
+   "end": 1774.84,
+   "text": "تو اصلا امام حسین رو تو کربلا تو گود قطلگاه میبینی و گریه میکنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 467,
+   "start": 1774.84,
+   "end": 1779.54,
+   "text": "ولی نه، اگر اینچنین نباشه هرچی زور بزنی نمیتونی ارتباط بگیری با آقا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 468,
+   "start": 1779.54,
+   "end": 1784.76,
+   "text": "نمیتونی ببینیش. صحنه رو نمیتونی ببینی، رصد کنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 469,
+   "start": 1784.76,
+   "end": 1787.12,
+   "text": "توجه کردین؟ این گیر اصلیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 470,
+   "start": 1787.12,
+   "end": 1790.5,
+   "text": "این گیر که میگه دلت رو اطلس آسا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 471,
+   "start": 1790.5,
+   "end": 1792.94,
+   "text": "ساده و بی آلایش قبلا توضیح دادیم دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 472,
+   "start": 1792.94,
+   "end": 1795.94,
+   "text": "اطلس فلک چندم بود؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 473,
+   "start": 1795.94,
+   "end": 1800.84,
+   "text": "نهم. ذیل اون فلک هشتم بهش میگن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 474,
+   "start": 1800.84,
+   "end": 1803.04,
+   "text": "آسمان ستارگان ثوابت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 475,
+   "start": 1803.04,
+   "end": 1805.84,
+   "text": "ظاهرا میگن ثابتن اما ثابت نیستن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 476,
+   "start": 1805.84,
+   "end": 1812.84,
+   "text": "تو ثابت میبینی. بی‌نهایت دونه، دونه، دونه، دونه، دونه تو فلک هشتم این ستاره کهکشان،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 477,
+   "start": 1812.84,
+   "end": 1820.6,
+   "text": "میلیاردها ترمینال، در هر ترمینال میلیاردها کهکشان، در هر کهکشان میلیاردها منظومه، در هر منظومه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 478,
+   "start": 1820.6,
+   "end": 1825.32,
+   "text": "الا ماشاءالله سیاره و ستاره و چی و چی تو اون فلک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 479,
+   "start": 1825.32,
+   "end": 1827.91,
+   "text": "هشتم. ستاره‌گان صواب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 480,
+   "start": 1827.91,
+   "end": 1830.55,
+   "text": "دونه، دونه، دونه. بالاش که اطلسه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 481,
+   "start": 1830.55,
+   "end": 1833.03,
+   "text": "ذیلش میشه آسمان هفتم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 482,
+   "start": 1833.03,
+   "end": 1836.99,
+   "text": "بالاش که اطلسه آسمان اول که نهم، اونو در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 483,
+   "start": 1836.99,
+   "end": 1839.29,
+   "text": "نشئ طبیعت بهش میگن عرش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 484,
+   "start": 1839.29,
+   "end": 1842.79,
+   "text": "تمشای طبیعت. و الا عرش ما فوق هم داریم آقا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 485,
+   "start": 1842.79,
+   "end": 1847.33,
+   "text": "عرش معنوی هم داریم. پیاده شده اون عرش معنوی اطلسه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 486,
+   "start": 1847.33,
+   "end": 1851.73,
+   "text": "پیاده شده کرسی معنوی در عالم انصاری،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 487,
+   "start": 1851.73,
+   "end": 1855.51,
+   "text": "آسمان ستارگان صوابته، هشتم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 488,
+   "start": 1855.51,
+   "end": 1858.21,
+   "text": "توجه کردی؟ این--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 489,
+   "start": 1858.21,
+   "end": 1861.61,
+   "text": "میگه دلت رو مثل اطلس الف تا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 490,
+   "start": 1861.61,
+   "end": 1864.57,
+   "text": "لام سین که نقطه هم نداره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 491,
+   "start": 1864.57,
+   "end": 1866.89,
+   "text": "صاف صاف اطلس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 492,
+   "start": 1866.89,
+   "end": 1869.33,
+   "text": "میگه اینطوری یه نقطه سیاه توش نباشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 493,
+   "start": 1869.33,
+   "end": 1875.87,
+   "text": "بعد ببین چجوری القاءات و پیام‌های الهی به تو نازل میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 494,
+   "start": 1875.87,
+   "end": 1877.69,
+   "text": "میشه محل نزول حقایق.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 495,
+   "start": 1877.69,
+   "end": 1880.13,
+   "text": "انا انزلناه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 496,
+   "start": 1880.13,
+   "end": 1882.63,
+   "text": "في ليلة القدر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 497,
+   "start": 1882.63,
+   "end": 1886.49,
+   "text": "بسه همین مقدار الحمد لله که نامه تموم شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 498,
+   "start": 1886.49,
+   "end": 1889.47,
+   "text": "اگرچه بحث تموم نشد اما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 499,
+   "start": 1889.47,
+   "end": 1893.11,
+   "text": "خب دیگه بار سنگینه واقعا من هی می‌خوام فرار کنم از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 500,
+   "start": 1893.11,
+   "end": 1897.59,
+   "text": "نامه ها. انقدر سنگینه واقعا می‌خوام فرار کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 501,
+   "start": 1897.59,
+   "end": 1901.91,
+   "text": "ان شا الله که عاقبتmon ختم به خیر بشه والحمد لله رب العالمین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 502,
+   "start": 1901.91,
+   "end": 1905.77,
+   "text": "بسم الله العظیم الاعظم الهی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 503,
+   "start": 1905.77,
+   "end": 1909.13,
+   "text": "برای اینکه ان شا الله حاجع الرب بشیم یه صلوات بفرستین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 504,
+   "start": 1909.13,
+   "end": 1912.63,
+   "text": "اللهم صل علی محمد و آل محمد و عجل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 505,
+   "start": 1912.63,
+   "end": 1916.03,
+   "text": "فرجهم. به مولانا حسین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 506,
+   "start": 1916.03,
+   "end": 1918.85,
+   "text": "و ب‌سیدنا العباس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 507,
+   "start": 1918.85,
+   "end": 1921.37,
+   "text": "و به امامنا علی ابن الحسین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 508,
+   "start": 1921.37,
+   "end": 1924.67,
+   "text": "یا الله، یا الله، یا الله، یا الله، یا الله، یا الله، یا الله،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 509,
+   "start": 1924.67,
+   "end": 1929.59,
+   "text": "یا الله، یا الله، یا الله، یا رحمان، یا رحیم، یا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 510,
+   "start": 1929.59,
+   "end": 1933.75,
+   "text": "مقلب القلوب ثبت قلبی علی دینک.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 511,
+   "start": 1933.75,
+   "end": 1936.65,
+   "text": "اللهم عجل لولی‌الفرج.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 512,
+   "start": 1936.65,
+   "end": 1944.39,
+   "text": "یا الله. خدایا ، این شعبان معظم را آخرین ماه شعبان عمر ما قرار نده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 513,
+   "start": 1944.39,
+   "end": 1949.57,
+   "text": "یا الله. خدایا جوانی ما را عاقبت بخیر کن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 514,
+   "start": 1949.57,
+   "end": 1955.03,
+   "text": "یا الله. این جوونی اگه عاقبت بخیر شد، کلاً عمرتم عاقبت بخیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 515,
+   "start": 1955.03,
+   "end": 1960.97,
+   "text": "مأسش میشه. خدایا به حرمت این جلسات هرکس تو التماس دعا گفته مریضه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 516,
+   "start": 1960.97,
+   "end": 1967.27,
+   "text": "دلش مثل من مریضه، قلبش، روحش، جسمش همه رو خدایا از صاع رخت عافیت بپوشان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 517,
+   "start": 1967.27,
+   "end": 1972.37,
+   "text": "یا الله. دست عزتت، تأییدت، شوکتت، حمایتت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 518,
+   "start": 1972.37,
+   "end": 1976.85,
+   "text": "بر دوش علمدار انقلاب، این جانباز عزیز،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 519,
+   "start": 1976.85,
+   "end": 1980.79,
+   "text": "رهبر عزیز اون که روز جانباز هم هست قرار بده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 520,
+   "start": 1980.79,
+   "end": 1986.91,
+   "text": "یا الله. خدایا به حرمت حضرت صدیده طاهره ما رو قدردان این جلسات بگردان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 521,
+   "start": 1986.91,
+   "end": 1988.47,
+   "text": "یا الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 522,
+   "start": 1988.47,
+   "end": 1995.03,
+   "text": "خدایا به حرمت صاحبان این جلسه، بچه های ما رو، نسل در نسل ما رو بدون استثناء",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 523,
+   "start": 1995.03,
+   "end": 2002.37,
+   "text": "از فساد آخرالزمان حفظ و هدایت و عاقبت بخیر و در خدمت قرآن و عترت قرار بده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 524,
+   "start": 2002.37,
+   "end": 2005.27,
+   "text": "یا الله. به حرمت حضرت ولی عصر،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 525,
+   "start": 2005.27,
+   "end": 2007.85,
+   "text": "خدایا هم‌نشینی با",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 526,
+   "start": 2007.85,
+   "end": 2014.87,
+   "text": "یاران شهیدمون رو ، با عاقبت بخیری و با شهادت نسیم ما بگردان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 527,
+   "start": 2014.87,
+   "end": 2018.85,
+   "text": "یا الله. این عکس راست میگه آقا مرتضی دل می‌بره هی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 528,
+   "start": 2018.85,
+   "end": 2022.33,
+   "text": "عکس بین الحرمین که پشت سر شما نصب شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 529,
+   "start": 2022.33,
+   "end": 2028.85,
+   "text": "خدایا به حرمت صاحبان این ایام قسمت میدیم هرچه زودتر با معرفت به خرج خودت ما رو راهی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 530,
+   "start": 2028.85,
+   "end": 2031.21,
+   "text": "کربلا و مشهد الرضا بگردان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 531,
+   "start": 2031.21,
+   "end": 2037.75,
+   "text": "یا الله. پدر و مادرمون رو هر کجا هستن از فیض این جلسه از صاع بهره‌مند گردان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 532,
+   "start": 2037.75,
+   "end": 2044.27,
+   "text": "یا الله. خدایا از سر مردم مظلوم و گرفتار غزه و رفح و فلسطین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 533,
+   "start": 2044.27,
+   "end": 2048.97,
+   "text": "به حرمت آقا اباالفضل العباس دفع بلا بگردان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 534,
+   "start": 2048.97,
+   "end": 2053.61,
+   "text": "یا الله. دشمنان اسلام و مقاومت خاصه اسرائیل خبیث",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 535,
+   "start": 2053.61,
+   "end": 2056.55,
+   "text": "ریشه‌کن بگردان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 536,
+   "start": 2056.55,
+   "end": 2061.79,
+   "text": "یا الله. اللهم اغفر ذنبه من يقرأ الفاتحه من الصلوات.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 537,
+   "start": 2061.79,
+   "end": 2067.01,
+   "text": "اللهم صل علی محمد و آل محمد و عجل فرجهم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 538,
+   "start": 2067.01,
+   "end": 2071.81,
+   "text": "ان شا الله عزیزان حمدو که می‌خونن توجه داشته باشن که فردا شبم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 539,
+   "start": 2071.81,
+   "end": 2073.47,
+   "text": "از هشت اینجا جلسه هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 540,
+   "start": 2073.47,
+   "end": 2076.07,
+   "text": "کمیل رو اول تند تند می‌خونیم و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 541,
+   "start": 2076.07,
+   "end": 2080.99,
+   "text": "یه توسل کوتاه و بعد سخنرانی و بعدش هم جشن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 542,
+   "start": 2080.99,
+   "end": 2084.41,
+   "text": "و بیاین دیگه شب جمعه هم هست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 543,
+   "start": 2084.41,
+   "end": 2089.61,
+   "text": "و هم تشکر می‌کنم از عزیزانی که به وقت میان، به موقع میان هیأت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 544,
+   "start": 2089.61,
+   "end": 2095.57,
+   "text": "و اونایی که بار برمی‌دارن برای هیئت فقط مصرفی نیستن، نوکری هم می‌کنن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 545,
+   "start": 2095.57,
+   "end": 2099.25,
+   "text": "آقا حاجی کاری چیزی هست ما انجام بدیم تو هر زمینه‌ای.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 546,
+   "start": 2099.25,
+   "end": 2104.49,
+   "text": "و گله می‌کنم از اونایی که دیگه خیلی بیش از حد پیری زودرس گرفتن مثل من.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 547,
+   "start": 2104.49,
+   "end": 2107.61,
+   "text": "پیری، پیری زودرس گرفتن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 548,
+   "start": 2107.61,
+   "end": 2110.49,
+   "text": "خدا هممون رو عاقبت بخیر کنه ان شا الله. یا الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

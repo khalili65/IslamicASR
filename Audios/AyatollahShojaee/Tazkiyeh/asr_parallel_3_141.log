@@ -1,0 +1,1149 @@
+=== PARALLEL ASR 3-141 jobs=6 Tue Sep 15 00:21:06 PDT 2026 ===
+[skip] have txt 003
+[skip] have txt 004
+[start] 005 Tue Sep 15 00:21:06 PDT 2026
+[start] 007 Tue Sep 15 00:21:06 PDT 2026
+[skip] have txt 006
+[start] 008 Tue Sep 15 00:21:06 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/006/006_یقظه و توبه _ بحث تزکیه.srt cues=208
+[srt] Audios/AyatollahShojaee/Tazkiyeh/003/003_مراتب مختلف حیات انسان _ بحث تزکیه.srt cues=341
+[srt] Audios/AyatollahShojaee/Tazkiyeh/004/004_مراتب مختلف حیات انسان _ بحث تزکیه.srt cues=449
+[skip] have txt 010
+[start] 009 Tue Sep 15 00:21:06 PDT 2026
+[start] 011 Tue Sep 15 00:21:06 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/010/010_انابه و مراتب مختلف آن _ بحث تزکیه.srt cues=328
+[skip] have txt 012
+[srt] Audios/AyatollahShojaee/Tazkiyeh/012/012_مراقبه و مراتب آن _ بحث تزکیه.srt cues=396
+[skip] have txt 013
+[srt] Audios/AyatollahShojaee/Tazkiyeh/013/013_مراقبه و مراتب آن _ بحث تزکیه.srt cues=385
+[skip] have txt 014
+[srt] Audios/AyatollahShojaee/Tazkiyeh/014/014_مراقبه و مراتب آن _ بحث تزکیه.srt cues=376
+[start] 015 Tue Sep 15 00:21:06 PDT 2026
+[FAIL] 005 Tue Sep 15 00:21:18 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/005/005_یقظه _ بحث تزکیه.partial.txt
+  preparing audio (005_یقظه _ بحث تزکیه.mp3)...
+  37:54 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/005/005_یقظه _ بحث تزکیه.partial.txt
+  [1/1] 0:00–37:54 (13327 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"46c859a185707ebed2246f1b017e7614","param":"file"}}
+[start] 016 Tue Sep 15 00:21:18 PDT 2026
+[FAIL] 009 Tue Sep 15 00:21:20 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/009/009_مراتب توبه _ بحث تزکیه.partial.txt
+  preparing audio (009_مراتب توبه _ بحث تزکیه.mp3)...
+  31:19 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/009/009_مراتب توبه _ بحث تزکیه.partial.txt
+  [1/1] 0:00–31:19 (11012 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"daf0d4ddd5900107d856093ae2e7e5d0","param":"file"}}
+[start] 017 Tue Sep 15 00:21:20 PDT 2026
+[FAIL] 016 Tue Sep 15 00:21:25 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/016/016_مراقبه ، ذکر _ بحث تزکیه.partial.txt
+  preparing audio (016_مراقبه ، ذکر _ بحث تزکیه.mp3)...
+  25:07 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/016/016_مراقبه ، ذکر _ بحث تزکیه.partial.txt
+  [1/1] 0:00–25:07 (8833 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"ce0e8f4a7dd75c0250e83762224401ca","param":"file"}}
+[start] 018 Tue Sep 15 00:21:25 PDT 2026
+[FAIL] 017 Tue Sep 15 00:21:27 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/017/017_مراقبه، ذکر ،جذبه _ بحث تزکیه.partial.txt
+  preparing audio (017_مراقبه، ذکر ،جذبه _ بحث تزکیه.mp3)...
+  23:29 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/017/017_مراقبه، ذکر ،جذبه _ بحث تزکیه.partial.txt
+  [1/1] 0:00–23:29 (8258 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"3389a5511e1b0c53348f8d5deb5101a5","param":"file"}}
+[start] 019 Tue Sep 15 00:21:27 PDT 2026
+[FAIL] 018 Tue Sep 15 00:21:34 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/018/018_مراقبه ، عجب در ذکر _ بحث تزکیه.partial.txt
+  preparing audio (018_مراقبه ، عجب در ذکر _ بحث تزکیه.mp3)...
+  29:38 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/018/018_مراقبه ، عجب در ذکر _ بحث تزکیه.partial.txt
+  [1/1] 0:00–29:38 (10417 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"930a99edf72a0461f1b2d06585147c55","param":"file"}}
+[start] 020 Tue Sep 15 00:21:34 PDT 2026
+[FAIL] 019 Tue Sep 15 00:21:34 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/019/019_مراقبه ، قصد و نیت سالک _ بحث تزکیه.partial.txt
+  preparing audio (019_مراقبه ، قصد و نیت سالک _ بحث تزکیه.mp3)...
+  21:33 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/019/019_مراقبه ، قصد و نیت سالک _ بحث تزکیه.partial.txt
+  [1/1] 0:00–21:33 (7574 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"76d769f76063502aa82da87f39082710","param":"file"}}
+[start] 021 Tue Sep 15 00:21:34 PDT 2026
+[FAIL] 020 Tue Sep 15 00:21:43 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/020/020_نقش هوا در تثبیت حیات دنیوی- مراتب حیات بشر - موقعیت انسان در نظام وجود از دیدگاه قرآن و ... _ بحث تزکیه.partial.txt
+  preparing audio (020_نقش هوا در تثبیت حیات دنیوی- مراتب حیات بشر - موقعیت انسان در نظام وجود از دیدگاه قرآن و ... _ بحث تزکیه.mp3)...
+  29:11 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/020/020_نقش هوا در تثبیت حیات دنیوی- مراتب حیات بشر - موقعیت انسان در نظام وجود از دیدگاه قرآن و ... _ بحث تزکیه.partial.txt
+  [1/1] 0:00–29:11 (10261 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"f9b1a69becace97b6197270acd33f2a0","param":"file"}}
+[start] 022 Tue Sep 15 00:21:43 PDT 2026
+[FAIL] 021 Tue Sep 15 00:21:43 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/021/021_حیات دنیوی گسترده ترین مرتبه حیات _ بحث تزکیه.partial.txt
+  preparing audio (021_حیات دنیوی گسترده ترین مرتبه حیات _ بحث تزکیه.mp3)...
+  25:10 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/021/021_حیات دنیوی گسترده ترین مرتبه حیات _ بحث تزکیه.partial.txt
+  [1/1] 0:00–25:10 (8848 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"275498132abf4cd9b6961e30264fcf7a","param":"file"}}
+[start] 023 Tue Sep 15 00:21:43 PDT 2026
+[FAIL] 023 Tue Sep 15 00:21:51 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/023/023_حب مال، بخل و قرض و طمع _ بحث تزکیه.partial.txt
+  preparing audio (023_حب مال، بخل و قرض و طمع _ بحث تزکیه.mp3)...
+  24:33 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/023/023_حب مال، بخل و قرض و طمع _ بحث تزکیه.partial.txt
+  [1/1] 0:00–24:33 (8633 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"40441aac8e426d9813474130fc496f02","param":"file"}}
+[FAIL] 022 Tue Sep 15 00:21:51 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/022/022_مرز هوی کجاست محبت به انبیاء و نیکوکاران... _ بحث تزکیه.partial.txt
+  preparing audio (022_مرز هوی کجاست محبت به انبیاء و نیکوکاران... _ بحث تزکیه.mp3)...
+  28:57 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/022/022_مرز هوی کجاست محبت به انبیاء و نیکوکاران... _ بحث تزکیه.partial.txt
+  [1/1] 0:00–28:57 (10179 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"c73ca75d7eb495c266b741c9d481dcba","param":"file"}}
+[start] 024 Tue Sep 15 00:21:51 PDT 2026
+[start] 025 Tue Sep 15 00:21:51 PDT 2026
+[FAIL] 025 Tue Sep 15 00:21:59 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/025/025_خیانت _ بحث تزکیه.partial.txt
+  preparing audio (025_خیانت _ بحث تزکیه.mp3)...
+  27:05 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/025/025_خیانت _ بحث تزکیه.partial.txt
+  [1/1] 0:00–27:05 (9521 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"bf69187c93468a850efba9e8bbd05695","param":"file"}}
+[start] 026 Tue Sep 15 00:21:59 PDT 2026
+[FAIL] 024 Tue Sep 15 00:22:01 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/024/024_اجتناب نکردن از حرام _ بحث تزکیه.partial.txt
+  preparing audio (024_اجتناب نکردن از حرام _ بحث تزکیه.mp3)...
+  32:04 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/024/024_اجتناب نکردن از حرام _ بحث تزکیه.partial.txt
+  [1/1] 0:00–32:04 (11274 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"e641939457d5c34634b2b2b98a8da396","param":"file"}}
+[start] 027 Tue Sep 15 00:22:01 PDT 2026
+[FAIL] 026 Tue Sep 15 00:22:07 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/026/026_بی جا صحبت کردن _ بحث تزکیه.partial.txt
+  preparing audio (026_بی جا صحبت کردن _ بحث تزکیه.mp3)...
+  29:56 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/026/026_بی جا صحبت کردن _ بحث تزکیه.partial.txt
+  [1/1] 0:00–29:56 (10522 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"13addd0ec774427ed5a22e081cd36933","param":"file"}}
+[start] 028 Tue Sep 15 00:22:07 PDT 2026
+[FAIL] 027 Tue Sep 15 00:22:09 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/027/027_حسد 1.partial.txt
+  preparing audio (027_حسد 1.mp3)...
+  31:27 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/027/027_حسد 1.partial.txt
+  [1/1] 0:00–31:27 (11056 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"934d98f16ae922e17fee757f00a74323","param":"file"}}
+[start] 029 Tue Sep 15 00:22:09 PDT 2026
+[ok] 007 Tue Sep 15 00:22:10 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/007/007_توبه _ بحث تزکیه.srt cues=384
+Billed duration : 1261 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.077057 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/007/007_توبه _ بحث تزکیه.txt
+============================================================
+[start] 030 Tue Sep 15 00:22:10 PDT 2026
+[ok] 008 Tue Sep 15 00:22:12 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/008/008_مراتب توبه _ بحث تزکیه.srt cues=470
+Billed duration : 1593 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.097330 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/008/008_مراتب توبه _ بحث تزکیه.txt
+============================================================
+[start] 031 Tue Sep 15 00:22:12 PDT 2026
+[FAIL] 030 Tue Sep 15 00:22:17 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/030/030_ناصح-بودن-1.partial.txt
+  preparing audio (030_ناصح-بودن-1.mp3)...
+  25:17 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/030/030_ناصح-بودن-1.partial.txt
+  [1/1] 0:00–25:17 (8890 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"f1b43cb0fed4dbe7be33924f42240c74","param":"file"}}
+[start] 032 Tue Sep 15 00:22:18 PDT 2026
+[ok] 011 Tue Sep 15 00:22:18 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/011/011_انابه و مراتب آن _ بحث تزکیه.srt cues=410
+Billed duration : 1454 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.088814 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/011/011_انابه و مراتب آن _ بحث تزکیه.txt
+============================================================
+[start] 033 Tue Sep 15 00:22:18 PDT 2026
+[FAIL] 031 Tue Sep 15 00:22:20 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/031/031_ناصح-بودن-2.partial.txt
+  preparing audio (031_ناصح-بودن-2.mp3)...
+  31:10 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/031/031_ناصح-بودن-2.partial.txt
+  [1/1] 0:00–31:10 (10959 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"5fe18171d4f6bc29c44c88f6cd7246cb","param":"file"}}
+[start] 034 Tue Sep 15 00:22:20 PDT 2026
+[FAIL] 033 Tue Sep 15 00:22:26 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/033/033_اذیت مؤمن2 _ بحث تزکیه.partial.txt
+  preparing audio (033_اذیت مؤمن2 _ بحث تزکیه.mp3)...
+  26:22 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/033/033_اذیت مؤمن2 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–26:22 (9268 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"22acb08c096a89ece9e56fedbc0b8309","param":"file"}}
+[start] 035 Tue Sep 15 00:22:26 PDT 2026
+[FAIL] 034 Tue Sep 15 00:22:27 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/034/034_اذيت مومن3 واکرام مومن _ بحث تزکیه.partial.txt
+  preparing audio (034_اذيت مومن3 واکرام مومن _ بحث تزکیه.mp3)...
+  22:30 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/034/034_اذيت مومن3 واکرام مومن _ بحث تزکیه.partial.txt
+  [1/1] 0:00–22:30 (7909 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"39c7ad046ed96f8fc6cd5dd522ed206e","param":"file"}}
+[start] 036 Tue Sep 15 00:22:27 PDT 2026
+[ok] 015 Tue Sep 15 00:22:31 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/015/015_مراقبه ، محاسبه _ بحث تزکیه.srt cues=566
+Billed duration : 1893 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.115623 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/015/015_مراقبه ، محاسبه _ بحث تزکیه.txt
+============================================================
+[start] 037 Tue Sep 15 00:22:31 PDT 2026
+[FAIL] 036 Tue Sep 15 00:22:35 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/036/036_ايجادسرور براي مومن _ بحث تزکیه.partial.txt
+  preparing audio (036_ايجادسرور براي مومن _ بحث تزکیه.mp3)...
+  29:04 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/036/036_ايجادسرور براي مومن _ بحث تزکیه.partial.txt
+  [1/1] 0:00–29:04 (10222 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"7cf343c7310b8dfb27237ba21a0c868d","param":"file"}}
+[start] 038 Tue Sep 15 00:22:35 PDT 2026
+[FAIL] 037 Tue Sep 15 00:22:38 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/037/037_مداهنه وسستي درامربه معروف ونهي از منکر _ بحث تزکیه.partial.txt
+  preparing audio (037_مداهنه وسستي درامربه معروف ونهي از منکر _ بحث تزکیه.mp3)...
+  23:50 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/037/037_مداهنه وسستي درامربه معروف ونهي از منکر _ بحث تزکیه.partial.txt
+  [1/1] 0:00–23:50 (8378 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"b06c7edecc2f23a91bd60a2f2cb1861b","param":"file"}}
+[start] 039 Tue Sep 15 00:22:38 PDT 2026
+[FAIL] 038 Tue Sep 15 00:22:43 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/038/038_مداهنه وسستي درامربه معروف ونهي از منکر2 _ بحث تزکیه.partial.txt
+  preparing audio (038_مداهنه وسستي درامربه معروف ونهي از منکر2 _ بحث تزکیه.mp3)...
+  32:30 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/038/038_مداهنه وسستي درامربه معروف ونهي از منکر2 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–32:30 (11424 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"541637f66e13e88c31173222a9929678","param":"file"}}
+[start] 040 Tue Sep 15 00:22:43 PDT 2026
+[FAIL] 039 Tue Sep 15 00:22:49 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/039/039_مداهنه وسستي درامربه معروف ونهي از منکر3 _ بحث تزکیه.partial.txt
+  preparing audio (039_مداهنه وسستي درامربه معروف ونهي از منکر3 _ بحث تزکیه.mp3)...
+  42:06 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/039/039_مداهنه وسستي درامربه معروف ونهي از منکر3 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–42:06 (14802 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"92c4d976def478b6ede71b65982077a1","param":"file"}}
+[start] 041 Tue Sep 15 00:22:49 PDT 2026
+[FAIL] 040 Tue Sep 15 00:22:52 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/040/040_تباعد وتهاجر. _ بحث تزکیهmp3.partial.txt
+  preparing audio (040_تباعد وتهاجر. _ بحث تزکیهmp3.mp3)...
+  36:40 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/040/040_تباعد وتهاجر. _ بحث تزکیهmp3.partial.txt
+  [1/1] 0:00–36:40 (12889 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"3b5e9f104b013deec991a797f0e24afa","param":"file"}}
+[start] 042 Tue Sep 15 00:22:53 PDT 2026
+[FAIL] 041 Tue Sep 15 00:22:57 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/041/041_قطع رحم _ بحث تزکیه.partial.txt
+  preparing audio (041_قطع رحم _ بحث تزکیه.mp3)...
+  32:24 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/041/041_قطع رحم _ بحث تزکیه.partial.txt
+  [1/1] 0:00–32:24 (11392 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"9b8462b7bd238d879c037b4ca87973b0","param":"file"}}
+[start] 043 Tue Sep 15 00:22:57 PDT 2026
+[FAIL] 042 Tue Sep 15 00:23:00 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/042/042_حقوق همسایه و تتبع دیگران و پیگیری خطاهای دیگران1 _ بحث تزکیه.partial.txt
+  preparing audio (042_حقوق همسایه و تتبع دیگران و پیگیری خطاهای دیگران1 _ بحث تزکیه.mp3)...
+  28:22 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/042/042_حقوق همسایه و تتبع دیگران و پیگیری خطاهای دیگران1 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–28:22 (9973 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"0418beb71fe3d3441300b0f0e4651ce2","param":"file"}}
+[start] 044 Tue Sep 15 00:23:00 PDT 2026
+[FAIL] 043 Tue Sep 15 00:23:05 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/043/043_حقوق همسایه و تتبع دیگران و پیگیری خطاهای دیگران2 _ بحث تزکیه.partial.txt
+  preparing audio (043_حقوق همسایه و تتبع دیگران و پیگیری خطاهای دیگران2 _ بحث تزکیه.mp3)...
+  28:39 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/043/043_حقوق همسایه و تتبع دیگران و پیگیری خطاهای دیگران2 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–28:39 (10072 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"b8cb7d201867346655d61a0a3dba6d6b","param":"file"}}
+[start] 045 Tue Sep 15 00:23:05 PDT 2026
+[FAIL] 044 Tue Sep 15 00:23:08 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/044/044_نمامي وفاش کردن اسرار ديگران _ بحث تزکیه.partial.txt
+  preparing audio (044_نمامي وفاش کردن اسرار ديگران _ بحث تزکیه.mp3)...
+  26:08 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/044/044_نمامي وفاش کردن اسرار ديگران _ بحث تزکیه.partial.txt
+  [1/1] 0:00–26:08 (9190 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"03fe97d1ff96e1285a37d9378e8b5234","param":"file"}}
+[start] 046 Tue Sep 15 00:23:08 PDT 2026
+[FAIL] 045 Tue Sep 15 00:23:13 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/045/045_نمامي 2 و شماتت _ بحث تزکیه.partial.txt
+  preparing audio (045_نمامي 2 و شماتت _ بحث تزکیه.mp3)...
+  28:22 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/045/045_نمامي 2 و شماتت _ بحث تزکیه.partial.txt
+  [1/1] 0:00–28:22 (9976 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"71ea20e501c1bac2f0f88ed9454c82c9","param":"file"}}
+[start] 047 Tue Sep 15 00:23:13 PDT 2026
+[FAIL] 046 Tue Sep 15 00:23:17 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/046/046_غيبت1 _ بحث تزکیه.partial.txt
+  preparing audio (046_غيبت1 _ بحث تزکیه.mp3)...
+  39:35 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/046/046_غيبت1 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–39:35 (13918 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"ff233704ee1ec054b9259d500ec224c4","param":"file"}}
+[start] 048 Tue Sep 15 00:23:17 PDT 2026
+[FAIL] 047 Tue Sep 15 00:23:22 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/047/047_غيبت 2 _ بحث تزکیه.partial.txt
+  preparing audio (047_غيبت 2 _ بحث تزکیه.mp3)...
+  36:02 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/047/047_غيبت 2 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–36:02 (12668 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"85e97d55622b32402e0f270e67f304d1","param":"file"}}
+[start] 049 Tue Sep 15 00:23:22 PDT 2026
+[FAIL] 048 Tue Sep 15 00:23:24 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/048/048_غيبت ودروغ _ بحث تزکیه.partial.txt
+  preparing audio (048_غيبت ودروغ _ بحث تزکیه.mp3)...
+  29:15 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/048/048_غيبت ودروغ _ بحث تزکیه.partial.txt
+  [1/1] 0:00–29:15 (10281 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"121c6d4a866b1b1e735c51860704ea1b","param":"file"}}
+[start] 050 Tue Sep 15 00:23:24 PDT 2026
+[ok] 029 Tue Sep 15 00:23:26 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/029/029_غبطه.srt cues=489
+Billed duration : 1676 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.102419 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/029/029_غبطه.txt
+============================================================
+[start] 051 Tue Sep 15 00:23:26 PDT 2026
+[ok] 035 Tue Sep 15 00:23:27 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/035/035_ايجاد اضطراب براي مومن _ بحث تزکیه.srt cues=395
+Billed duration : 1352 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.082564 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/035/035_ايجاد اضطراب براي مومن _ بحث تزکیه.txt
+============================================================
+[start] 052 Tue Sep 15 00:23:27 PDT 2026
+[FAIL] 051 Tue Sep 15 00:23:33 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/051/051_صمت يا سکوت _ بحث تزکیه.partial.txt
+  preparing audio (051_صمت يا سکوت _ بحث تزکیه.mp3)...
+  28:13 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/051/051_صمت يا سکوت _ بحث تزکیه.partial.txt
+  [1/1] 0:00–28:13 (9921 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"51bea35eb10ec76d9197464f400f25f7","param":"file"}}
+[start] 053 Tue Sep 15 00:23:33 PDT 2026
+[FAIL] 052 Tue Sep 15 00:23:35 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/052/052_شهرت طلبي و جاه طلبي1 _ بحث تزکیه.partial.txt
+  preparing audio (052_شهرت طلبي و جاه طلبي1 _ بحث تزکیه.mp3)...
+  28:57 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/052/052_شهرت طلبي و جاه طلبي1 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–28:57 (10177 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"d14bc189f75879af6154d9f2e688363b","param":"file"}}
+[start] 054 Tue Sep 15 00:23:35 PDT 2026
+[ok] 028 Tue Sep 15 00:23:39 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/028/028_حسد 2.srt cues=448
+Billed duration : 1580 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.096501 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/028/028_حسد 2.txt
+============================================================
+[start] 055 Tue Sep 15 00:23:39 PDT 2026
+[FAIL] 053 Tue Sep 15 00:23:40 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/053/053_شهرت طلبي وجاه طلبي2 _ بحث تزکیه.partial.txt
+  preparing audio (053_شهرت طلبي وجاه طلبي2 _ بحث تزکیه.mp3)...
+  21:25 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/053/053_شهرت طلبي وجاه طلبي2 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–21:25 (7530 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"c3003611dfe8ce63ca79bda5c08b0d9a","param":"file"}}
+[start] 056 Tue Sep 15 00:23:40 PDT 2026
+[ok] 032 Tue Sep 15 00:23:44 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/032/032_اذیت مؤمن1 _ بحث تزکیه.srt cues=454
+Billed duration : 1550 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.094692 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/032/032_اذیت مؤمن1 _ بحث تزکیه.txt
+============================================================
+[start] 057 Tue Sep 15 00:23:44 PDT 2026
+[FAIL] 055 Tue Sep 15 00:23:46 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/055/055_ریا 2 _ بحث تزکیه.partial.txt
+  preparing audio (055_ریا 2 _ بحث تزکیه.mp3)...
+  24:15 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/055/055_ریا 2 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–24:15 (8526 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"510d13e6da4f20d38a44ae4585908859","param":"file"}}
+[start] 058 Tue Sep 15 00:23:46 PDT 2026
+[FAIL] 057 Tue Sep 15 00:23:52 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/057/057_مبحث اخلاص 2 _ بحث تزکیه.partial.txt
+  preparing audio (057_مبحث اخلاص 2 _ بحث تزکیه.mp3)...
+  32:05 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/057/057_مبحث اخلاص 2 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–32:05 (11280 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"2a490a88516da8f95d2c20a258a73767","param":"file"}}
+[start] 059 Tue Sep 15 00:23:52 PDT 2026
+[FAIL] 058 Tue Sep 15 00:23:52 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/058/058_نفاق 1 _ بحث تزکیه.partial.txt
+  preparing audio (058_نفاق 1 _ بحث تزکیه.mp3)...
+  24:02 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/058/058_نفاق 1 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–24:02 (8451 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"a3052566bab6e48d9ee51c784c5ba00b","param":"file"}}
+[start] 060 Tue Sep 15 00:23:52 PDT 2026
+[FAIL] 059 Tue Sep 15 00:23:58 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/059/059_نفاق 2 _ بحث تزکیه.partial.txt
+  preparing audio (059_نفاق 2 _ بحث تزکیه.mp3)...
+  20:38 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/059/059_نفاق 2 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–20:38 (7257 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"dd88aae4dd4f9e43b7edd409d03359a5","param":"file"}}
+[start] 061 Tue Sep 15 00:23:58 PDT 2026
+[FAIL] 060 Tue Sep 15 00:24:00 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/060/060_نفاق3 _ بحث تزکیه.partial.txt
+  preparing audio (060_نفاق3 _ بحث تزکیه.mp3)...
+  31:34 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/060/060_نفاق3 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–31:34 (11101 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"9f57dc6fa8e1118a859ef3f18f42327e","param":"file"}}
+[start] 062 Tue Sep 15 00:24:00 PDT 2026
+[FAIL] 061 Tue Sep 15 00:24:07 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/061/061_غرور1 _ بحث تزکیه.partial.txt
+  preparing audio (061_غرور1 _ بحث تزکیه.mp3)...
+  40:53 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/061/061_غرور1 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–40:53 (14372 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"6333f717489ca3c2d4078f7ada3bb3c4","param":"file"}}
+[start] 063 Tue Sep 15 00:24:07 PDT 2026
+[FAIL] 062 Tue Sep 15 00:24:08 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/062/062_غرور2 _ بحث تزکیه.partial.txt
+  preparing audio (062_غرور2 _ بحث تزکیه.mp3)...
+  29:16 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/062/062_غرور2 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–29:16 (10287 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"f4f0b7bd74088fca3bd886c69e9758fb","param":"file"}}
+[start] 064 Tue Sep 15 00:24:08 PDT 2026
+[FAIL] 063 Tue Sep 15 00:24:17 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/063/063_غرور3 _ بحث تزکیه.partial.txt
+  preparing audio (063_غرور3 _ بحث تزکیه.mp3)...
+  44:29 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/063/063_غرور3 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–44:29 (15637 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"d4ff5432984e5ec9de90a307c138068b","param":"file"}}
+[start] 065 Tue Sep 15 00:24:17 PDT 2026
+[FAIL] 064 Tue Sep 15 00:24:20 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/064/064_غرور4 _ بحث تزکیه.partial.txt
+  preparing audio (064_غرور4 _ بحث تزکیه.mp3)...
+  39:25 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/064/064_غرور4 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–39:25 (13856 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"66b16a734556aefc7acc418a3e170135","param":"file"}}
+[start] 066 Tue Sep 15 00:24:20 PDT 2026
+[FAIL] 065 Tue Sep 15 00:24:26 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/065/065_وقاحت و حيا1 _ بحث تزکیه.partial.txt
+  preparing audio (065_وقاحت و حيا1 _ بحث تزکیه.mp3)...
+  35:41 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/065/065_وقاحت و حيا1 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–35:41 (12545 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"ef109ce5901bce476d33dce8dbb1bd9a","param":"file"}}
+[start] 067 Tue Sep 15 00:24:26 PDT 2026
+[FAIL] 066 Tue Sep 15 00:24:27 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/066/066_وقاحت وحيا2 _ بحث تزکیه.partial.txt
+  preparing audio (066_وقاحت وحيا2 _ بحث تزکیه.mp3)...
+  29:14 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/066/066_وقاحت وحيا2 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–29:14 (10275 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"93ca16fa36acb094b2ecd2d2c486d6cb","param":"file"}}
+[start] 068 Tue Sep 15 00:24:27 PDT 2026
+[ok] 050 Tue Sep 15 00:24:30 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/050/050_صدق ومراحل آن _ بحث تزکیه.srt cues=407
+Billed duration : 1444 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.088202 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/050/050_صدق ومراحل آن _ بحث تزکیه.txt
+============================================================
+[start] 069 Tue Sep 15 00:24:30 PDT 2026
+[FAIL] 069 Tue Sep 15 00:24:37 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/069/069_طول امل3 _ بحث تزکیه.partial.txt
+  preparing audio (069_طول امل3 _ بحث تزکیه.mp3)...
+  24:59 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/069/069_طول امل3 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–24:59 (8782 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"8183a043b09d30b9d75f8004db70595d","param":"file"}}
+[skip] have txt 070
+[srt] Audios/AyatollahShojaee/Tazkiyeh/070/070_غضب1 _ بحث تزکیه.srt cues=492
+[start] 071 Tue Sep 15 00:24:37 PDT 2026
+[FAIL] 067 Tue Sep 15 00:24:37 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/067/067_طول امل1 _ بحث تزکیه.partial.txt
+  preparing audio (067_طول امل1 _ بحث تزکیه.mp3)...
+  33:02 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/067/067_طول امل1 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–33:02 (11613 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"6be1bfdd912c36729d31264ddae10400","param":"file"}}
+[skip] have txt 072
+[srt] Audios/AyatollahShojaee/Tazkiyeh/072/072_معالجه غضب1 _ بحث تزکیه.srt cues=504
+[start] 073 Tue Sep 15 00:24:37 PDT 2026
+[FAIL] 071 Tue Sep 15 00:24:45 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/071/071_غضب 2 _ بحث تزکیه.partial.txt
+  preparing audio (071_غضب 2 _ بحث تزکیه.mp3)...
+  31:50 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/071/071_غضب 2 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–31:50 (11189 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"b2ca5cce5a7487385da2e57b6129d1fa","param":"file"}}
+[start] 074 Tue Sep 15 00:24:45 PDT 2026
+[FAIL] 073 Tue Sep 15 00:24:46 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/073/073_معالجه غضب2 _ بحث تزکیه.partial.txt
+  preparing audio (073_معالجه غضب2 _ بحث تزکیه.mp3)...
+  40:39 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/073/073_معالجه غضب2 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–40:39 (14293 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"8cc90e7a080f3c1c6a40b965389657d5","param":"file"}}
+[start] 075 Tue Sep 15 00:24:46 PDT 2026
+[ok] 054 Tue Sep 15 00:24:48 PDT 2026
+[ok] 056 Tue Sep 15 00:24:48 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/054/054_ريا1 _ بحث تزکیه.srt cues=483
+Billed duration : 1621 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.099002 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/054/054_ريا1 _ بحث تزکیه.txt
+============================================================
+[srt] Audios/AyatollahShojaee/Tazkiyeh/056/056_مبحث اخلاص 1 _ بحث تزکیه.srt cues=439
+Billed duration : 1418 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.086596 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/056/056_مبحث اخلاص 1 _ بحث تزکیه.txt
+============================================================
+[start] 076 Tue Sep 15 00:24:48 PDT 2026
+[start] 077 Tue Sep 15 00:24:48 PDT 2026
+[FAIL] 076 Tue Sep 15 00:24:57 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/076/076_عجب 1 _ بحث تزکیه.partial.txt
+  preparing audio (076_عجب 1 _ بحث تزکیه.mp3)...
+  35:51 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/076/076_عجب 1 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–35:51 (12607 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"70863060aed47db4335a54efdb4f0432","param":"file"}}
+[start] 078 Tue Sep 15 00:24:57 PDT 2026
+[ok] 049 Tue Sep 15 00:24:59 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/049/049_دروغ واقسام آن _ بحث تزکیه.srt cues=751
+Billed duration : 2455 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.150016 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/049/049_دروغ واقسام آن _ بحث تزکیه.txt
+============================================================
+[start] 079 Tue Sep 15 00:24:59 PDT 2026
+[FAIL] 078 Tue Sep 15 00:25:08 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/078/078_تهور وترس در راه سلوک _ بحث تزکیه.partial.txt
+  preparing audio (078_تهور وترس در راه سلوک _ بحث تزکیه.mp3)...
+  47:03 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/078/078_تهور وترس در راه سلوک _ بحث تزکیه.partial.txt
+  [1/1] 0:00–47:03 (16541 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"6ff980f79bff40aa5e713209d646bc16","param":"file"}}
+[start] 080 Tue Sep 15 00:25:08 PDT 2026
+[FAIL] 079 Tue Sep 15 00:25:09 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/079/079_سوء ظن به خالق و مخلوق وراه حل آن _ بحث تزکیه.partial.txt
+  preparing audio (079_سوء ظن به خالق و مخلوق وراه حل آن _ بحث تزکیه.mp3)...
+  44:56 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/079/079_سوء ظن به خالق و مخلوق وراه حل آن _ بحث تزکیه.partial.txt
+  [1/1] 0:00–44:56 (15797 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"a1bcf76e5f08b5d89577f57c2657a95d","param":"file"}}
+[skip] have txt 081
+[srt] Audios/AyatollahShojaee/Tazkiyeh/081/081_غيرت نسبت به همسر و اولاد _ بحث تزکیه.srt cues=633
+[start] 082 Tue Sep 15 00:25:09 PDT 2026
+[FAIL] 080 Tue Sep 15 00:25:16 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/080/080_عصبيت و غيرت _ بحث تزکیه.partial.txt
+  preparing audio (080_عصبيت و غيرت _ بحث تزکیه.mp3)...
+  32:52 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/080/080_عصبيت و غيرت _ بحث تزکیه.partial.txt
+  [1/1] 0:00–32:52 (11554 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"2cb0afc21f851582e464210bf5713f6e","param":"file"}}
+[skip] have txt 083
+[srt] Audios/AyatollahShojaee/Tazkiyeh/083/083_تواضع صفت ضد کبر وراه معالجه کبر _ بحث تزکیه.srt cues=427
+[start] 084 Tue Sep 15 00:25:16 PDT 2026
+[FAIL] 082 Tue Sep 15 00:25:17 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/082/082_کبر و لطمات آن _ بحث تزکیه.partial.txt
+  preparing audio (082_کبر و لطمات آن _ بحث تزکیه.mp3)...
+  33:23 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/082/082_کبر و لطمات آن _ بحث تزکیه.partial.txt
+  [1/1] 0:00–33:23 (11739 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"36771f1f8d2140a91c67f69a60edae38","param":"file"}}
+[start] 085 Tue Sep 15 00:25:17 PDT 2026
+[FAIL] 084 Tue Sep 15 00:25:25 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/084/084_تواضع و حلاوت عبادت _ بحث تزکیه.partial.txt
+  preparing audio (084_تواضع و حلاوت عبادت _ بحث تزکیه.mp3)...
+  32:44 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/084/084_تواضع و حلاوت عبادت _ بحث تزکیه.partial.txt
+  [1/1] 0:00–32:44 (11506 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"54b15305a9a6084849653db7ebac17ff","param":"file"}}
+[start] 086 Tue Sep 15 00:25:25 PDT 2026
+[FAIL] 085 Tue Sep 15 00:25:27 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/085/085_رذيله مهلکه جهل 1 _ بحث تزکیه.partial.txt
+  preparing audio (085_رذيله مهلکه جهل 1 _ بحث تزکیه.mp3)...
+  45:15 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/085/085_رذيله مهلکه جهل 1 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–45:15 (15911 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"c5270dee22ba907aa5599038c018e4ee","param":"file"}}
+[start] 087 Tue Sep 15 00:25:27 PDT 2026
+[FAIL] 087 Tue Sep 15 00:25:35 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/087/087_فضيلت علم آگاهي سالک در طريق سلوک1_ بحث تزکیه.partial.txt
+  preparing audio (087_فضيلت علم آگاهي سالک در طريق سلوک1_ بحث تزکیه.mp3)...
+  25:47 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/087/087_فضيلت علم آگاهي سالک در طريق سلوک1_ بحث تزکیه.partial.txt
+  [1/1] 0:00–25:47 (9062 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"fc1962fe5a4427dcd20b94260aa6e90f","param":"file"}}
+[start] 088 Tue Sep 15 00:25:35 PDT 2026
+[FAIL] 086 Tue Sep 15 00:25:35 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/086/086_رذيله مهلکه جهل 2 _ بحث تزکیه.partial.txt
+  preparing audio (086_رذيله مهلکه جهل 2 _ بحث تزکیه.mp3)...
+  43:09 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/086/086_رذيله مهلکه جهل 2 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–43:09 (15172 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"19589e63745fd0cecb194030a5b5dcdf","param":"file"}}
+[start] 089 Tue Sep 15 00:25:35 PDT 2026
+[FAIL] 088 Tue Sep 15 00:25:42 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/088/088_فضيلت علم آگاهي سالک در طريق سلوک2_ بحث تزکیه.partial.txt
+  preparing audio (088_فضيلت علم آگاهي سالک در طريق سلوک2_ بحث تزکیه.mp3)...
+  21:50 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/088/088_فضيلت علم آگاهي سالک در طريق سلوک2_ بحث تزکیه.partial.txt
+  [1/1] 0:00–21:50 (7676 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"759c1db5d7926ebe7281d957f4693438","param":"file"}}
+[start] 090 Tue Sep 15 00:25:42 PDT 2026
+[FAIL] 089 Tue Sep 15 00:25:42 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/089/089_مراتب يقين _ بحث تزکیه.partial.txt
+  preparing audio (089_مراتب يقين _ بحث تزکیه.mp3)...
+  25:03 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/089/089_مراتب يقين _ بحث تزکیه.partial.txt
+  [1/1] 0:00–25:03 (8810 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"db7a9337d940ae4b4f41332006700f1e","param":"file"}}
+[start] 091 Tue Sep 15 00:25:42 PDT 2026
+[ok] 068 Tue Sep 15 00:25:43 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/068/068_طول امل 2 _ بحث تزکیه.srt cues=418
+Billed duration : 1438 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.087820 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/068/068_طول امل 2 _ بحث تزکیه.txt
+============================================================
+[start] 092 Tue Sep 15 00:25:43 PDT 2026
+[FAIL] 091 Tue Sep 15 00:25:51 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/091/091_مرتبه عالی یقین - حق الیقین _ بحث تزکیه.partial.txt
+  preparing audio (091_مرتبه عالی یقین - حق الیقین _ بحث تزکیه.mp3)...
+  34:45 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/091/091_مرتبه عالی یقین - حق الیقین _ بحث تزکیه.partial.txt
+  [1/1] 0:00–34:45 (12218 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"1fc5f771a38834b56dfc31db23b2e90f","param":"file"}}
+[start] 093 Tue Sep 15 00:25:51 PDT 2026
+[FAIL] 092 Tue Sep 15 00:25:53 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/092/092_آثاريقين1 _ بحث تزکیه.partial.txt
+  preparing audio (092_آثاريقين1 _ بحث تزکیه.mp3)...
+  40:41 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/092/092_آثاريقين1 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–40:41 (14301 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"6f1ee0ef7cd1960a96c6d0b5c619a6f2","param":"file"}}
+[start] 094 Tue Sep 15 00:25:53 PDT 2026
+[FAIL] 093 Tue Sep 15 00:25:59 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/093/093_آثاريقين 2 _ بحث تزکیه.partial.txt
+  preparing audio (093_آثاريقين 2 _ بحث تزکیه.mp3)...
+  32:33 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/093/093_آثاريقين 2 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–32:33 (11442 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"3a0ba326893fab20369e6b7e29854db0","param":"file"}}
+[start] 095 Tue Sep 15 00:25:59 PDT 2026
+[ok] 074 Tue Sep 15 00:25:59 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/074/074_انتقام _ بحث تزکیه.srt cues=395
+Billed duration : 1337 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.081695 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/074/074_انتقام _ بحث تزکیه.txt
+============================================================
+[start] 096 Tue Sep 15 00:25:59 PDT 2026
+[FAIL] 094 Tue Sep 15 00:26:00 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/094/094_رذیله شرک جلی و خفی _ بحث تزکیه.partial.txt
+  preparing audio (094_رذیله شرک جلی و خفی _ بحث تزکیه.mp3)...
+  31:47 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/094/094_رذیله شرک جلی و خفی _ بحث تزکیه.partial.txt
+  [1/1] 0:00–31:47 (11173 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"b687552bed060fc06fb35f328dd51081","param":"file"}}
+[start] 097 Tue Sep 15 00:26:00 PDT 2026
+[FAIL] 096 Tue Sep 15 00:26:07 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/096/096_مضرات شرک خفي _ بحث تزکیه.partial.txt
+  preparing audio (096_مضرات شرک خفي _ بحث تزکیه.mp3)...
+  29:20 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/096/096_مضرات شرک خفي _ بحث تزکیه.partial.txt
+  [1/1] 0:00–29:20 (10314 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"d261ca00a1f71a22aeb85c81afd95631","param":"file"}}
+[start] 098 Tue Sep 15 00:26:07 PDT 2026
+[FAIL] 097 Tue Sep 15 00:26:10 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/097/097_معني صحيح عبوديت وشرح معني نفس و خودیت _ بحث تزکیه.partial.txt
+  preparing audio (097_معني صحيح عبوديت وشرح معني نفس و خودیت _ بحث تزکیه.mp3)...
+  40:03 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/097/097_معني صحيح عبوديت وشرح معني نفس و خودیت _ بحث تزکیه.partial.txt
+  [1/1] 0:00–40:03 (14082 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"ae0f4417dfab3b825c3d75bca59ea8ea","param":"file"}}
+[start] 099 Tue Sep 15 00:26:10 PDT 2026
+[FAIL] 099 Tue Sep 15 00:26:17 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/099/099_شرک در محبت و طريقه نجات از آن _ بحث تزکیه.partial.txt
+  preparing audio (099_شرک در محبت و طريقه نجات از آن _ بحث تزکیه.mp3)...
+  24:49 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/099/099_شرک در محبت و طريقه نجات از آن _ بحث تزکیه.partial.txt
+  [1/1] 0:00–24:49 (8724 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"967492ed9afb96dc144315cb0c50d19a","param":"file"}}
+[start] 100 Tue Sep 15 00:26:17 PDT 2026
+[FAIL] 098 Tue Sep 15 00:26:18 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/098/098_مراتب شرک وراه نجات آن _ بحث تزکیه.partial.txt
+  preparing audio (098_مراتب شرک وراه نجات آن _ بحث تزکیه.mp3)...
+  43:57 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/098/098_مراتب شرک وراه نجات آن _ بحث تزکیه.partial.txt
+  [1/1] 0:00–43:57 (15452 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"ef419bd762877707654a7150c7888330","param":"file"}}
+[start] 101 Tue Sep 15 00:26:18 PDT 2026
+[FAIL] 100 Tue Sep 15 00:26:24 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/100/100_شرک در ذات 1 _ بحث تزکیه.partial.txt
+  preparing audio (100_شرک در ذات 1 _ بحث تزکیه.mp3)...
+  24:54 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/100/100_شرک در ذات 1 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–24:54 (8756 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"f8808642660252d2f3a0ec5dc2fdb197","param":"file"}}
+[start] 102 Tue Sep 15 00:26:24 PDT 2026
+[ok] 075 Tue Sep 15 00:26:46 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/075/075_سوء خلق _ بحث تزکیه.srt cues=783
+Billed duration : 2628 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.160541 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/075/075_سوء خلق _ بحث تزکیه.txt
+============================================================
+[start] 103 Tue Sep 15 00:26:46 PDT 2026
+[FAIL] 103 Tue Sep 15 00:26:54 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/103/103_خواطر نفساني _ بحث تزکیه.partial.txt
+  preparing audio (103_خواطر نفساني _ بحث تزکیه.mp3)...
+  30:02 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/103/103_خواطر نفساني _ بحث تزکیه.partial.txt
+  [1/1] 0:00–30:02 (10559 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"fb4e42ccefee5ccdcb758f3692373e27","param":"file"}}
+[start] 104 Tue Sep 15 00:26:54 PDT 2026
+[ok] 077 Tue Sep 15 00:26:58 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/077/077_عجب ومعالجه آن _ بحث تزکیه.srt cues=863
+Billed duration : 3004 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.183542 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/077/077_عجب ومعالجه آن _ بحث تزکیه.txt
+============================================================
+[start] 105 Tue Sep 15 00:26:58 PDT 2026
+[FAIL] 104 Tue Sep 15 00:27:02 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/104/104_حديث نفس1 _ بحث تزکیه.partial.txt
+  preparing audio (104_حديث نفس1 _ بحث تزکیه.mp3)...
+  32:42 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/104/104_حديث نفس1 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–32:42 (11497 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"72f4fc05eecabd31115cc20f381462ce","param":"file"}}
+[start] 106 Tue Sep 15 00:27:02 PDT 2026
+[FAIL] 105 Tue Sep 15 00:27:07 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/105/105_حديث نفس 2 _ بحث تزکیه.partial.txt
+  preparing audio (105_حديث نفس 2 _ بحث تزکیه.mp3)...
+  32:41 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/105/105_حديث نفس 2 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–32:41 (11490 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"91b1f3e37399a98851cc7aaf04d0b530","param":"file"}}
+[start] 107 Tue Sep 15 00:27:07 PDT 2026
+[ok] 090 Tue Sep 15 00:27:07 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/090/090_مراتب يقين2 _ بحث تزکیه.srt cues=593
+Billed duration : 2069 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.126394 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/090/090_مراتب يقين2 _ بحث تزکیه.txt
+============================================================
+[start] 108 Tue Sep 15 00:27:07 PDT 2026
+[FAIL] 107 Tue Sep 15 00:27:15 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/107/107_خطورات شيطاني 2 _ بحث تزکیه.partial.txt
+  preparing audio (107_خطورات شيطاني 2 _ بحث تزکیه.mp3)...
+  32:35 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/107/107_خطورات شيطاني 2 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–32:35 (11453 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"d71a95968f06659bbd9e3f1a5edf4414","param":"file"}}
+[start] 109 Tue Sep 15 00:27:15 PDT 2026
+[FAIL] 108 Tue Sep 15 00:27:16 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/108/108_ادامه خطورات شيطان3 _ بحث تزکیه.partial.txt
+  preparing audio (108_ادامه خطورات شيطان3 _ بحث تزکیه.mp3)...
+  29:19 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/108/108_ادامه خطورات شيطان3 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–29:19 (10307 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"45ff73a7cb8b36d894fb0f5655998c10","param":"file"}}
+[start] 110 Tue Sep 15 00:27:16 PDT 2026
+[FAIL] 109 Tue Sep 15 00:27:22 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/109/109_خطورات شيطاني4 _ بحث تزکیه.partial.txt
+  preparing audio (109_خطورات شيطاني4 _ بحث تزکیه.mp3)...
+  23:47 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/109/109_خطورات شيطاني4 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–23:47 (8364 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"3a92ebaf59d0ab0c640a28616142155b","param":"file"}}
+[start] 111 Tue Sep 15 00:27:22 PDT 2026
+[FAIL] 110 Tue Sep 15 00:27:23 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/110/110_راه حل رهايي از خواطر شيطاني _ بحث تزکیه.partial.txt
+  preparing audio (110_راه حل رهايي از خواطر شيطاني _ بحث تزکیه.mp3)...
+  30:40 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/110/110_راه حل رهايي از خواطر شيطاني _ بحث تزکیه.partial.txt
+  [1/1] 0:00–30:40 (10781 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"9faa3eb3a518b4c122c6bd384881b838","param":"file"}}
+[start] 112 Tue Sep 15 00:27:23 PDT 2026
+[FAIL] 111 Tue Sep 15 00:27:29 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/111/111_راه حل رهايي از خواطر شيطاني2 _ بحث تزکیه.partial.txt
+  preparing audio (111_راه حل رهايي از خواطر شيطاني2 _ بحث تزکیه.mp3)...
+  25:22 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/111/111_راه حل رهايي از خواطر شيطاني2 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–25:22 (8917 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"524483bcc76d49d6cca3b6f4557d9e52","param":"file"}}
+[start] 113 Tue Sep 15 00:27:29 PDT 2026
+[FAIL] 112 Tue Sep 15 00:27:31 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/112/112_شرح در طریق سلوک حالت سالک و تجلیاتی که بر او رخ میدهد _ بحث تزکیه.partial.txt
+  preparing audio (112_شرح در طریق سلوک حالت سالک و تجلیاتی که بر او رخ میدهد _ بحث تزکیه.mp3)...
+  28:39 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/112/112_شرح در طریق سلوک حالت سالک و تجلیاتی که بر او رخ میدهد _ بحث تزکیه.partial.txt
+  [1/1] 0:00–28:39 (10075 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"8833c865f460d0132eef4c9b59deca31","param":"file"}}
+[start] 114 Tue Sep 15 00:27:31 PDT 2026
+[ok] 095 Tue Sep 15 00:27:34 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/095/095_رذيله شرک خفي مرحله 4 _ بحث تزکیه.srt cues=553
+Billed duration : 1779 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.108665 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/095/095_رذيله شرک خفي مرحله 4 _ بحث تزکیه.txt
+============================================================
+[start] 115 Tue Sep 15 00:27:34 PDT 2026
+[FAIL] 113 Tue Sep 15 00:27:35 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/113/113_ربوبیت حق چگونه با اسماء جلال برای سالک تجلی میگردد _ بحث تزکیه.partial.txt
+  preparing audio (113_ربوبیت حق چگونه با اسماء جلال برای سالک تجلی میگردد _ بحث تزکیه.mp3)...
+  20:45 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/113/113_ربوبیت حق چگونه با اسماء جلال برای سالک تجلی میگردد _ بحث تزکیه.partial.txt
+  [1/1] 0:00–20:45 (7297 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"ccc455e8d5381ba0ead9ca01f6fae52d","param":"file"}}
+[start] 116 Tue Sep 15 00:27:35 PDT 2026
+[FAIL] 115 Tue Sep 15 00:27:42 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/115/115_تجلي اسم عفو در سالک _ بحث تزکیه.partial.txt
+  preparing audio (115_تجلي اسم عفو در سالک _ بحث تزکیه.mp3)...
+  28:59 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/115/115_تجلي اسم عفو در سالک _ بحث تزکیه.partial.txt
+  [1/1] 0:00–28:59 (10191 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"02636ade319e808606abd775ad6fc9a1","param":"file"}}
+[start] 117 Tue Sep 15 00:27:42 PDT 2026
+[FAIL] 116 Tue Sep 15 00:27:42 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/116/116_تجلی اسم غفور در سالک و اثر تجلی اسم غفور _ بحث تزکیه.partial.txt
+  preparing audio (116_تجلی اسم غفور در سالک و اثر تجلی اسم غفور _ بحث تزکیه.mp3)...
+  23:21 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/116/116_تجلی اسم غفور در سالک و اثر تجلی اسم غفور _ بحث تزکیه.partial.txt
+  [1/1] 0:00–23:21 (8208 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"61d7ebd073fe3d59eca08583b2942ab7","param":"file"}}
+[start] 118 Tue Sep 15 00:27:42 PDT 2026
+[FAIL] 117 Tue Sep 15 00:27:48 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/117/117_ادامه اثرات تجلی اسم غفور _ بحث تزکیه.partial.txt
+  preparing audio (117_ادامه اثرات تجلی اسم غفور _ بحث تزکیه.mp3)...
+  21:42 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/117/117_ادامه اثرات تجلی اسم غفور _ بحث تزکیه.partial.txt
+  [1/1] 0:00–21:42 (7627 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"2eee7b1b019c97a3272994f71bde4cec","param":"file"}}
+[start] 119 Tue Sep 15 00:27:48 PDT 2026
+[FAIL] 118 Tue Sep 15 00:27:48 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/118/118_تجليات اسماء جمال بر سالک _ بحث تزکیه.partial.txt
+  preparing audio (118_تجليات اسماء جمال بر سالک _ بحث تزکیه.mp3)...
+  17:21 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/118/118_تجليات اسماء جمال بر سالک _ بحث تزکیه.partial.txt
+  [1/1] 0:00–17:21 (6101 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"582549f7b3d1a173b7d46dd06f58e850","param":"file"}}
+[start] 120 Tue Sep 15 00:27:48 PDT 2026
+[FAIL] 119 Tue Sep 15 00:27:53 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/119/119_تجلی اسم غفور در عالم هستی _ بحث تزکیه.partial.txt
+  preparing audio (119_تجلی اسم غفور در عالم هستی _ بحث تزکیه.mp3)...
+  14:33 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/119/119_تجلی اسم غفور در عالم هستی _ بحث تزکیه.partial.txt
+  [1/1] 0:00–14:33 (5113 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"2ed99b40223cf77bef8af4292c0b5b67","param":"file"}}
+[start] 121 Tue Sep 15 00:27:53 PDT 2026
+[ok] 101 Tue Sep 15 00:27:54 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/101/101_شرک در ذات 2 _ بحث تزکیه.srt cues=540
+Billed duration : 1785 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.109039 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/101/101_شرک در ذات 2 _ بحث تزکیه.txt
+============================================================
+[start] 122 Tue Sep 15 00:27:54 PDT 2026
+[ok] 102 Tue Sep 15 00:27:59 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/102/102_شرک در ذات 3 (توحيد صفاتی) _ بحث تزکیه.srt cues=655
+Billed duration : 2189 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.133716 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/102/102_شرک در ذات 3 (توحيد صفاتی) _ بحث تزکیه.txt
+============================================================
+[start] 123 Tue Sep 15 00:27:59 PDT 2026
+[FAIL] 121 Tue Sep 15 00:27:59 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/121/121_تجلي انوار ربوبي در قلب سالک _ بحث تزکیه.partial.txt
+  preparing audio (121_تجلي انوار ربوبي در قلب سالک _ بحث تزکیه.mp3)...
+  21:54 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/121/121_تجلي انوار ربوبي در قلب سالک _ بحث تزکیه.partial.txt
+  [1/1] 0:00–21:54 (7698 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"4c2c431682891287aed822909a20c056","param":"file"}}
+[start] 124 Tue Sep 15 00:27:59 PDT 2026
+[FAIL] 124 Tue Sep 15 00:28:06 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/124/124_تجليات اسماءوصفات حق در وجود سالک به تناسب برطرف شدن حجاب _ بحث تزکیه.partial.txt
+  preparing audio (124_تجليات اسماءوصفات حق در وجود سالک به تناسب برطرف شدن حجاب _ بحث تزکیه.mp3)...
+  21:59 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/124/124_تجليات اسماءوصفات حق در وجود سالک به تناسب برطرف شدن حجاب _ بحث تزکیه.partial.txt
+  [1/1] 0:00–21:59 (7731 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"4d968741a39b3b885523e5210332fd3b","param":"file"}}
+[start] 125 Tue Sep 15 00:28:06 PDT 2026
+[FAIL] 123 Tue Sep 15 00:28:08 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/123/123_تجليات اسماء در انبياء _ بحث تزکیه.partial.txt
+  preparing audio (123_تجليات اسماء در انبياء _ بحث تزکیه.mp3)...
+  34:41 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/123/123_تجليات اسماء در انبياء _ بحث تزکیه.partial.txt
+  [1/1] 0:00–34:41 (12196 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"3fd9c91f5326703f8f14d936c52257aa","param":"file"}}
+[start] 126 Tue Sep 15 00:28:08 PDT 2026
+[FAIL] 125 Tue Sep 15 00:28:12 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/125/125_مراحل ديگري از کشف ابصاري _ بحث تزکیه.partial.txt
+  preparing audio (125_مراحل ديگري از کشف ابصاري _ بحث تزکیه.mp3)...
+  19:33 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/125/125_مراحل ديگري از کشف ابصاري _ بحث تزکیه.partial.txt
+  [1/1] 0:00–19:33 (6875 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"9076654ec8b577ae7f8b1ef065e77f94","param":"file"}}
+[start] 127 Tue Sep 15 00:28:12 PDT 2026
+[FAIL] 126 Tue Sep 15 00:28:15 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/126/126_مراحل ديگري از کشف ابصاري 2 _ بحث تزکیه.partial.txt
+  preparing audio (126_مراحل ديگري از کشف ابصاري 2 _ بحث تزکیه.mp3)...
+  31:25 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/126/126_مراحل ديگري از کشف ابصاري 2 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–31:25 (11046 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"2dd380d4a991e29f96289d9136bef0d1","param":"file"}}
+[start] 128 Tue Sep 15 00:28:15 PDT 2026
+[FAIL] 127 Tue Sep 15 00:28:18 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/127/127_مراحل ديگري از کشف ابصاري3 _ بحث تزکیه.partial.txt
+  preparing audio (127_مراحل ديگري از کشف ابصاري3 _ بحث تزکیه.mp3)...
+  23:03 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/127/127_مراحل ديگري از کشف ابصاري3 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–23:03 (8101 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"9ee0d2dbc1e97f63ed06f935c7bf6f17","param":"file"}}
+[start] 129 Tue Sep 15 00:28:18 PDT 2026
+[FAIL] 128 Tue Sep 15 00:28:22 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/128/128_تجلیات ربوبیت با اسماء و صفات در وجود سالک - جایگاه انسان _ بحث تزکیه.partial.txt
+  preparing audio (128_تجلیات ربوبیت با اسماء و صفات در وجود سالک - جایگاه انسان _ بحث تزکیه.mp3)...
+  24:36 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/128/128_تجلیات ربوبیت با اسماء و صفات در وجود سالک - جایگاه انسان _ بحث تزکیه.partial.txt
+  [1/1] 0:00–24:36 (8648 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"da17d70b52279bf232bdfba7974fd9bb","param":"file"}}
+[start] 130 Tue Sep 15 00:28:22 PDT 2026
+[FAIL] 129 Tue Sep 15 00:28:25 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/129/129_مراحل ديگري از کشف ابصاري-کشف ابصاري براي برخي از سالکين _ بحث تزکیه.partial.txt
+  preparing audio (129_مراحل ديگري از کشف ابصاري-کشف ابصاري براي برخي از سالکين _ بحث تزکیه.mp3)...
+  24:21 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/129/129_مراحل ديگري از کشف ابصاري-کشف ابصاري براي برخي از سالکين _ بحث تزکیه.partial.txt
+  [1/1] 0:00–24:21 (8562 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"b09c12f4541d854362b0c6a3f6406828","param":"file"}}
+[start] 131 Tue Sep 15 00:28:25 PDT 2026
+[FAIL] 130 Tue Sep 15 00:28:28 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/130/130_اشتباهات وضلالتها در کشف ابصاري _ بحث تزکیه.partial.txt
+  preparing audio (130_اشتباهات وضلالتها در کشف ابصاري _ بحث تزکیه.mp3)...
+  19:17 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/130/130_اشتباهات وضلالتها در کشف ابصاري _ بحث تزکیه.partial.txt
+  [1/1] 0:00–19:17 (6779 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"e24e8d1648a1fc7c6a99e685b578c51e","param":"file"}}
+[start] 132 Tue Sep 15 00:28:28 PDT 2026
+[FAIL] 131 Tue Sep 15 00:28:30 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/131/131_نقش خيال و وهم در خطاهاي کشف ابصاري _ بحث تزکیه.partial.txt
+  preparing audio (131_نقش خيال و وهم در خطاهاي کشف ابصاري _ بحث تزکیه.mp3)...
+  13:56 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/131/131_نقش خيال و وهم در خطاهاي کشف ابصاري _ بحث تزکیه.partial.txt
+  [1/1] 0:00–13:56 (4897 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"d5e26115de71843d2d7cff7f38d358f6","param":"file"}}
+[start] 133 Tue Sep 15 00:28:30 PDT 2026
+[FAIL] 132 Tue Sep 15 00:28:33 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/132/132_نقش وسیع دخالتهای شیطان و اغوائات آن در بعضی مکاشفات در مورد احضار روح _ بحث تزکیه.partial.txt
+  preparing audio (132_نقش وسیع دخالتهای شیطان و اغوائات آن در بعضی مکاشفات در مورد احضار روح _ بحث تزکیه.mp3)...
+  16:57 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/132/132_نقش وسیع دخالتهای شیطان و اغوائات آن در بعضی مکاشفات در مورد احضار روح _ بحث تزکیه.partial.txt
+  [1/1] 0:00–16:57 (5957 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"aa42c2e273529cce6e3eda754415a377","param":"file"}}
+[start] 134 Tue Sep 15 00:28:33 PDT 2026
+[FAIL] 133 Tue Sep 15 00:28:36 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/133/133_کشف ابصاري(ميثم تمار)در مورد اسرار کشف ابصاري _ بحث تزکیه.partial.txt
+  preparing audio (133_کشف ابصاري(ميثم تمار)در مورد اسرار کشف ابصاري _ بحث تزکیه.mp3)...
+  17:33 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/133/133_کشف ابصاري(ميثم تمار)در مورد اسرار کشف ابصاري _ بحث تزکیه.partial.txt
+  [1/1] 0:00–17:33 (6168 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"09c97a027234d87fe333035246b581b2","param":"file"}}
+[start] 135 Tue Sep 15 00:28:36 PDT 2026
+[ok] 106 Tue Sep 15 00:28:36 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/106/106_خطورات شيطاني1 _ بحث تزکیه.srt cues=590
+Billed duration : 1993 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.121757 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/106/106_خطورات شيطاني1 _ بحث تزکیه.txt
+============================================================
+[start] 136 Tue Sep 15 00:28:36 PDT 2026
+[FAIL] 136 Tue Sep 15 00:28:42 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/136/136_مراحل بالاي کشف سمائي کشف از عالم برزخ وقيامت _ بحث تزکیه.partial.txt
+  preparing audio (136_مراحل بالاي کشف سمائي کشف از عالم برزخ وقيامت _ بحث تزکیه.mp3)...
+  17:56 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/136/136_مراحل بالاي کشف سمائي کشف از عالم برزخ وقيامت _ بحث تزکیه.partial.txt
+  [1/1] 0:00–17:56 (6304 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"4482dca86b95d52545ab6e52705e2295","param":"file"}}
+[start] 137 Tue Sep 15 00:28:42 PDT 2026
+[FAIL] 135 Tue Sep 15 00:28:45 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/135/135_کشف سمائي _ بحث تزکیه.partial.txt
+  preparing audio (135_کشف سمائي _ بحث تزکیه.mp3)...
+  24:57 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/135/135_کشف سمائي _ بحث تزکیه.partial.txt
+  [1/1] 0:00–24:57 (8771 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"5f9286c2d362c6b3eb6621b6f7025722","param":"file"}}
+[start] 138 Tue Sep 15 00:28:45 PDT 2026
+[FAIL] 137 Tue Sep 15 00:28:50 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/137/137_كشف ذوقي _ بحث تزکیه.partial.txt
+  preparing audio (137_كشف ذوقي _ بحث تزکیه.mp3)...
+  28:01 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/137/137_كشف ذوقي _ بحث تزکیه.partial.txt
+  [1/1] 0:00–28:01 (9848 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"a69de46139e9a0a4e8d90f3d42b9663a","param":"file"}}
+[start] 139 Tue Sep 15 00:28:50 PDT 2026
+[ok] 122 Tue Sep 15 00:28:51 PDT 2026
+[FAIL] 138 Tue Sep 15 00:28:51 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/138/138_کشف شمي ولمسي _ بحث تزکیه.partial.txt
+  preparing audio (138_کشف شمي ولمسي _ بحث تزکیه.mp3)...
+  20:59 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/138/138_کشف شمي ولمسي _ بحث تزکیه.partial.txt
+  [1/1] 0:00–20:59 (7376 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"d5c103d2352b3ae0acc74f0e4d73964d","param":"file"}}
+[srt] Audios/AyatollahShojaee/Tazkiyeh/122/122_تجلي انوار ربوبي در قلب سالک2 _ بحث تزکیه.srt cues=323
+Billed duration : 1101 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.067276 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/122/122_تجلي انوار ربوبي در قلب سالک2 _ بحث تزکیه.txt
+============================================================
+[start] 140 Tue Sep 15 00:28:51 PDT 2026
+[start] 141 Tue Sep 15 00:28:51 PDT 2026
+[FAIL] 139 Tue Sep 15 00:28:55 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/139/139_کشف شمي2 _ بحث تزکیه.partial.txt
+  preparing audio (139_کشف شمي2 _ بحث تزکیه.mp3)...
+  16:51 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/139/139_کشف شمي2 _ بحث تزکیه.partial.txt
+  [1/1] 0:00–16:51 (5924 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"97dc6873903332a7525bba1c708e7941","param":"file"}}
+[FAIL] 140 Tue Sep 15 00:28:58 PDT 2026
+Provider: ElevenLabs Scribe (scribe_v2)
+Progress file (updated after each chunk): Audios/AyatollahShojaee/Tazkiyeh/140/140_کشف لمسي-يکي از کشفهاي اصحاب ائمه _ بحث تزکیه.partial.txt
+  preparing audio (140_کشف لمسي-يکي از کشفهاي اصحاب ائمه _ بحث تزکیه.mp3)...
+  29:26 → 1 request(s)
+  progress file: Audios/AyatollahShojaee/Tazkiyeh/140/140_کشف لمسي-يکي از کشفهاي اصحاب ائمه _ بحث تزکیه.partial.txt
+  [1/1] 0:00–29:26 (10350 KB)...
+Transcription failed: ElevenLabs Scribe: HTTP 400: {"detail":{"type":"invalid_request","code":"bad_request","message":"The uploaded file is empty or corrupted.","status":"empty_file","request_id":"7e474b60933d3ca0c6d06db24d5d1d68","param":"file"}}
+[ok] 120 Tue Sep 15 00:29:12 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/120/120_مسئله اول در باب تجليات تجلي نور در قلب _ بحث تزکیه.srt cues=494
+Billed duration : 1735 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.106025 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/120/120_مسئله اول در باب تجليات تجلي نور در قلب _ بحث تزکیه.txt
+============================================================
+[ok] 114 Tue Sep 15 00:29:12 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/114/114_تجلي اسم يا تواب _ بحث تزکیه.srt cues=541
+Billed duration : 1987 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.121392 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/114/114_تجلي اسم يا تواب _ بحث تزکیه.txt
+============================================================
+[ok] 141 Tue Sep 15 00:29:15 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/141/141_قسمت پایانی _ بحث تزکیه.srt cues=61
+Billed duration : 213 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.012995 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/141/141_قسمت پایانی _ بحث تزکیه.txt
+============================================================
+[ok] 134 Tue Sep 15 00:30:12 PDT 2026
+[srt] Audios/AyatollahShojaee/Tazkiyeh/134/134_ادامه کشف ابصاری4 _ بحث تزکیه.srt cues=602
+Billed duration : 1980 s (rounded up to nearest second)
+Rate            : $0.22 / audio hour
+Estimated cost  : $0.120974 USD
+Transcript saved: Audios/AyatollahShojaee/Tazkiyeh/134/134_ادامه کشف ابصاری4 _ بحث تزکیه.txt
+============================================================

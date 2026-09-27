@@ -1,0 +1,3202 @@
+{
+ "version": 1,
+ "sessionId": "011",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 1453.01,
+ "alignment": {
+  "exact": 2903,
+  "total": 2903,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "اعوذ بالله السمیع العلیم من الشیطان الرجیم. بسم الله الرحمن الرحیم.",
+   "start": 0.1,
+   "end": 54.74
+  },
+  {
+   "index": 1,
+   "title": "## اول: اصلاح و جبران مافات",
+   "start": 54.74,
+   "end": 81.73
+  },
+  {
+   "index": 2,
+   "title": "### نشانۀ منفی: ادعا بدون جبران",
+   "start": 81.73,
+   "end": 421.17
+  },
+  {
+   "index": 3,
+   "title": "## دوم: وفا به عهد توبه",
+   "start": 421.17,
+   "end": 494.09
+  },
+  {
+   "index": 4,
+   "title": "### گوشه‌های وفا",
+   "start": 494.09,
+   "end": 973.25
+  },
+  {
+   "index": 5,
+   "title": "### قطعه‌ای از دعای علی علیه‌السلام",
+   "start": 973.25,
+   "end": 1159.77
+  },
+  {
+   "index": 6,
+   "title": "### اضطرار خاص بدون اتکا به عمل",
+   "start": 1159.77,
+   "end": 1287.63
+  },
+  {
+   "index": 7,
+   "title": "## جمع‌بندی سه خاصیت",
+   "start": 1287.63,
+   "end": 1329.21
+  },
+  {
+   "index": 8,
+   "title": "سوم: در حال اجابت باشد.",
+   "start": 1329.21,
+   "end": 1352.89
+  },
+  {
+   "index": 9,
+   "title": "حال اجابت را اشتباه نخوانید. دو انحراف رایج است.",
+   "start": 1352.89,
+   "end": 1453.01
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 0.1,
+   "end": 3.16,
+   "text": "اعوذ بالله السميع العليم من الشيطان الرجيم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 3.16,
+   "end": 6.3,
+   "text": "بسم الله الرحمن الرحيم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 6.3,
+   "end": 9.44,
+   "text": "حالا اگر تو با در مقام بیان عنابه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 9.44,
+   "end": 14.44,
+   "text": "مسائل دارد. خارج از مقام بیان عنابه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 14.44,
+   "end": 21.96,
+   "text": "من تو برنامه که اینجا پیش آمد دو تا بیاناتش خیلی واضح هست و تشریح که من خودم تو روبرداشتم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 21.96,
+   "end": 24.62,
+   "text": "تشریح می‌کنم، تشریح شما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 24.62,
+   "end": 28.24,
+   "text": "و تشریحش از این مسئله فرق می‌کاسه از خود خواجه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 28.24,
+   "end": 30.48,
+   "text": "تا من خودم دو، سه تشریح کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 30.48,
+   "end": 32.48,
+   "text": "سه تا از اون تشریحات در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 32.48,
+   "end": 36.86,
+   "text": "جریان بکنم. خارج می‌گوید که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 36.86,
+   "end": 42.7,
+   "text": "در عنابه سه چیز به صورت سه مسئله اساسی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 42.7,
+   "end": 47.56,
+   "text": "مطرح است. اولین مورد از این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 47.56,
+   "end": 54.74,
+   "text": "سه چیز، سه مسئله، سه مسئله اساسی که مؤلف برای این سه مسئله بیان می‌کنند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 54.74,
+   "end": 60.8,
+   "text": "اولین مسئله از این سه مسئله اساسی که در منزل عنابه هست این است که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 60.8,
+   "end": 66.38,
+   "text": "شخص سابق قبل از آنکه توبه کرد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 66.38,
+   "end": 68.86,
+   "text": "و عذر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 68.86,
+   "end": 72.82,
+   "text": "را برد از اون داهی که قبلاً در پیش داشت و به اون منزل رو برد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 72.82,
+   "end": 77.3,
+   "text": "در آنجا توبه کرد و معتذر بود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 77.3,
+   "end": 81.73,
+   "text": "و عذر را برد از اون داه اشتباهی که قبلاً داشت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 81.73,
+   "end": 87.54,
+   "text": "در عنابه باید به بعد از عذر آوردن با توبه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 87.54,
+   "end": 92.38,
+   "text": "که توبه قبل از عذر آوردن اتفاق نمی‌افتاد و هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 92.38,
+   "end": 96.38,
+   "text": "تا حد بلد بود بعد از اینکه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 96.38,
+   "end": 98.76,
+   "text": "عذر آوردن. توبه‌ای که کرد که اعتذار کرد در عنابه باید چی بکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 98.76,
+   "end": 102.56,
+   "text": "کسی که مؤلف است، مؤلف گفتیم بعد از چی عنابه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 102.56,
+   "end": 105.28,
+   "text": "بعد از منزل توبه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 105.28,
+   "end": 112.8,
+   "text": "کسی که مؤلف چون بعد از توبه عنابه کرده توبه باید از، از عذرهایی که معتذر بودن از آن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 112.8,
+   "end": 115.28,
+   "text": "می‌رفتند طرف بوده. در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 115.28,
+   "end": 121.86,
+   "text": "عنابه باید با اون اعتذار از گذشته اصلاح گذشته هم باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 121.86,
+   "end": 124.0,
+   "text": "یک مسئله اساسی در عنابه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 124.0,
+   "end": 128.5,
+   "text": "مؤلف باید اصلاح کلاً گذشته‌اش هم باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 128.5,
+   "end": 133.06,
+   "text": "یعنی چه؟ به بیان روشن‌تر به این بیان که میگم بفهمید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 133.06,
+   "end": 145.12,
+   "text": "یعنی یکی از خاصیت‌های عنابه که اگر در وجود انسان درست کرد معلوم می‌شود انسان را واست در منزل عنابه قدم می‌گذارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 145.12,
+   "end": 152.12,
+   "text": "این است که انسان بیابد خودش را ملزم بدابد برای اصلاح",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 152.12,
+   "end": 154.67,
+   "text": "گذشته از باطش رها بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 154.67,
+   "end": 157.32,
+   "text": "دیگه جا نمی‌کنه، پس نداره نشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 157.32,
+   "end": 159.1,
+   "text": "از باطش رها داده بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 159.1,
+   "end": 162.96,
+   "text": "آرام نشود این داه گذشته را چی بکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 162.96,
+   "end": 166.58,
+   "text": "به هر صورت به نوعی که می‌توانم ذکر می‌کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 166.58,
+   "end": 172.16,
+   "text": "و این به این صورت می‌شود که در بیان علی سلام الله علیه هم بود و خواجه هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 172.16,
+   "end": 177.34,
+   "text": "همین بیان را می‌کند. به این صورت می‌شود که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 177.34,
+   "end": 180.62,
+   "text": "از گذشتن گذشته،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 180.62,
+   "end": 185.3,
+   "text": "در گذشته اگر مثلاً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 185.3,
+   "end": 190.06,
+   "text": "ما گفتیم اینها را، یعنی گفتیم در خارج بحث گفتیم در گذشته اگر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 190.06,
+   "end": 192.86,
+   "text": "نمازی فایق بوده قضا بکند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 192.86,
+   "end": 199.82,
+   "text": "روزه‌ای فایق بوده قضا بکند غیر از اینکه علی معذرت می‌آد و گریه‌ها می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 199.82,
+   "end": 204.44,
+   "text": "و اگر حق کسی را تجاوز کرده دیه بخواهد جبران می‌کند غیر از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 204.44,
+   "end": 206.78,
+   "text": "اینکه گریه‌ها می‌کند و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 206.78,
+   "end": 214.48,
+   "text": "توبه می‌کند. اگر حق انسانیش جبران می‌کند، حق خداست، قضایی دارد جبران می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 214.48,
+   "end": 217.73,
+   "text": "باید انسان با حالش گریه‌ها بکند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 217.73,
+   "end": 223.9,
+   "text": "گریه‌هایی می‌کند که تا آخر عمرش تو این حالت با خدا باشد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 223.9,
+   "end": 227.92,
+   "text": "و این جبران به این صورت باید باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 227.92,
+   "end": 233.04,
+   "text": "در کل جبران که فرمودم گفتم جبران حق خدا،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 233.04,
+   "end": 237.04,
+   "text": "قضاء فایقات، قضاء فایقات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 237.04,
+   "end": 239.58,
+   "text": "و رد مظالم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 239.58,
+   "end": 243.96,
+   "text": "یعنی اون ظلوم‌ها که به بندگان خدا کرده اونها را پرداخت بکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 243.96,
+   "end": 249.98,
+   "text": "دیه بخواهد حق مادی‌ست، دیه خاصه هرچی هست و بعد هم گریه‌ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 249.98,
+   "end": 254.66,
+   "text": "این جبران مافات خودش یکی از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 254.66,
+   "end": 257.94,
+   "text": "خواص و خاصیت‌های عنابه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 257.94,
+   "end": 261.16,
+   "text": "جبران نکنه انسان واقعاً جبران نشه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 261.16,
+   "end": 263.5,
+   "text": "معلوم می‌شود که عنابه همه جا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 263.5,
+   "end": 267.68,
+   "text": "شروع نشده. حالا می‌خواهم بگویم که دو مورد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 267.68,
+   "end": 271.82,
+   "text": "از خود این طرف‌ها مثال بزنیم روشنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 271.82,
+   "end": 275.68,
+   "text": "ولی در این طرف منفی‌ش ما خوب مثال هستیم برای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 275.68,
+   "end": 277.74,
+   "text": "طرف من، طرف منفی‌ش هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 277.74,
+   "end": 280.6,
+   "text": "که عرض کردم. سوء و منکی زیر است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 280.6,
+   "end": 288.02,
+   "text": "سوء را نمی‌دانم. ولی ما اگر وقتی فاز توبه کردیم و خواستیم مثلاً اینکه خواستیم بیاییم رو به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 288.02,
+   "end": 292.38,
+   "text": "خدا، نیستیم که دیگه حالا اصلاً خبری نداریم گذشته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 292.38,
+   "end": 299.38,
+   "text": "خیلی‌ها هستند از اینا که مدعی هستند در اینها مدعی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 299.38,
+   "end": 302.68,
+   "text": "می‌بینید که می‌گویند بیدار شدم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 302.68,
+   "end": 304.78,
+   "text": "می‌گویند توبه کردم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 304.78,
+   "end": 308.68,
+   "text": "اما توبه که کرد مثلاً باید به منزل عنابه قدم بگذارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 308.68,
+   "end": 315.9,
+   "text": "هیچ ملزمی نمی‌بیند خودش را برای جبران گذشته که دیه خواستن، اذیت‌هان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 315.9,
+   "end": 320.64,
+   "text": "کرده، غیبت‌هان کرده، گروه‌های که نمازها فایچ شده،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 320.64,
+   "end": 324.86,
+   "text": "روزه‌ها فایچ شده، جبران مافات را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 324.86,
+   "end": 327.2,
+   "text": "نمی‌کند. آرا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 327.2,
+   "end": 329.36,
+   "text": "جبران مافات را نمی‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 329.36,
+   "end": 336.04,
+   "text": "چرا نمی‌کند؟ برای اینکه در درون سوداده نمی‌شود به جبران.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 336.04,
+   "end": 343.4,
+   "text": "اگر در درون سوداده نشد معلوم است در حال عنابه یک اتفاقات از سمت گذشته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 343.4,
+   "end": 346.84,
+   "text": "درونم ناراحتی‌ست، سوء و چیز جبران.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 346.84,
+   "end": 350.9,
+   "text": "خب این دو مسئله اساسی بود که باز شما گفتم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 350.9,
+   "end": 353.22,
+   "text": "و به اجماع خود شما فهمیدید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 353.22,
+   "end": 355.98,
+   "text": "که چه می‌شود. آرام نمی‌شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 355.98,
+   "end": 361.11,
+   "text": "شما اگر وقتی دیدید که این افراد نمازها به جا شدند نمی‌توانید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 361.11,
+   "end": 363.01,
+   "text": "این روزه را انجام می‌دهید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 363.01,
+   "end": 365.57,
+   "text": "حالا فرض می‌کنید سه روز کردید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 365.57,
+   "end": 368.05,
+   "text": "روزه‌های گذشته‌ام نمی‌توانی روزه کار",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 368.05,
+   "end": 374.25,
+   "text": "کنی آرام نیستی. آرام نیستی که کسی اذیتت کرده باید بشی دیدت بخواهی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 374.25,
+   "end": 378.71,
+   "text": "آرام نیستی به اصطلاح توهین کرده باید بیایی دیدگاه بخواهی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 378.71,
+   "end": 380.22,
+   "text": "سه روز کرده به هر حال.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 380.22,
+   "end": 387.83,
+   "text": "اگر که آرام نیستی و بالاخره سه روزها کشیده می‌شوی، یک شرمندگی خاصی داری،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 387.83,
+   "end": 399.07,
+   "text": "یک نوع عطفی داری، یک نوع عطفی شما را درگیر می‌کند که داری که این خاصیت عنابه با، با داخل این ولایت‌ها نه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 399.07,
+   "end": 402.63,
+   "text": "اولین خاصیت از خاصیت‌های عنابه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 402.63,
+   "end": 404.63,
+   "text": "یعنی اولین ظهور از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 404.63,
+   "end": 407.59,
+   "text": "انسان برای، برای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 94,
+   "start": 407.59,
+   "end": 410.7,
+   "text": "داشتن حالت عنابه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 95,
+   "start": 410.7,
+   "end": 415.43,
+   "text": "خب از سه مسئله اساسی عنابه که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 96,
+   "start": 415.43,
+   "end": 420.77,
+   "text": "سالک اولین مسئله حضور باید داشت، معلوم است که حالت عنابه پیدا می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 97,
+   "start": 420.77,
+   "end": 424.07,
+   "text": "یعنی خاصیت دوم از خواص عنابه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 98,
+   "start": 424.07,
+   "end": 429.09,
+   "text": "خاصیت دوم از خواص عنابه این است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 99,
+   "start": 429.09,
+   "end": 434.13,
+   "text": "که خب وفا در مقام عبودیت از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 100,
+   "start": 434.13,
+   "end": 436.59,
+   "text": "جمله خواص",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 101,
+   "start": 436.59,
+   "end": 439.77,
+   "text": "یا خاصیت عنابه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 102,
+   "start": 439.77,
+   "end": 443.13,
+   "text": "است. حال این می‌گوید که آیا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 103,
+   "start": 443.13,
+   "end": 450.29,
+   "text": "این عهدی که در تو به استقامت شود باید به دنبالش وفا هم داشته باشد یا نه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 104,
+   "start": 450.29,
+   "end": 454.03,
+   "text": "باید دنبالش وفا هم داشته باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 105,
+   "start": 454.03,
+   "end": 457.07,
+   "text": "اگر وفا بود به عهد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 106,
+   "start": 457.07,
+   "end": 462.43,
+   "text": "این وفا خودش به اصطلاح دلیل بر این است که آن وفا عنابه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 107,
+   "start": 462.43,
+   "end": 464.95,
+   "text": "عنابه یکی از خاصیت‌هایش،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 108,
+   "start": 464.95,
+   "end": 467.91,
+   "text": "یکی از آثارش وفا داشتنش است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 109,
+   "start": 467.91,
+   "end": 476.05,
+   "text": "وفا کردن است به عهدی که در توبه با خدا بسته که خدایا از غیر تو برگشتم به سوی تو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 110,
+   "start": 476.05,
+   "end": 477.95,
+   "text": "این عهد اینجا بسته شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 111,
+   "start": 477.95,
+   "end": 480.88,
+   "text": "دیگه عهد در عنابه باید وفاش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 112,
+   "start": 480.88,
+   "end": 483.04,
+   "text": "وفای عنابه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 113,
+   "start": 483.04,
+   "end": 487.93,
+   "text": "عهد در توبه است. منظورش این عهد در توبه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 114,
+   "start": 487.93,
+   "end": 493.9,
+   "text": "با خدا و وفای به عهد باید در عنابه باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 115,
+   "start": 493.9,
+   "end": 496.63,
+   "text": "وفا یعنی چه؟ این وفا را که عرض می‌کنم خوب دقت کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 116,
+   "start": 496.63,
+   "end": 499.79,
+   "text": "حالا وفا یه مسئله خاصیت عجیب از ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 117,
+   "start": 499.79,
+   "end": 507.43,
+   "text": "یعنی خاصیت‌های عنابه یا یک مسئله عجیب از مسائل عنابه همین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 118,
+   "start": 507.43,
+   "end": 512.37,
+   "text": "مسئله عهد که مویدها اینجوری باید باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 119,
+   "start": 512.37,
+   "end": 515.43,
+   "text": "یکی از آثار وفا است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 120,
+   "start": 515.43,
+   "end": 517.63,
+   "text": "عهد بستن در توبه با خدا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 121,
+   "start": 517.63,
+   "end": 520.37,
+   "text": "از غیر تو به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 122,
+   "start": 520.37,
+   "end": 522.13,
+   "text": "سوی تو آوردن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 123,
+   "start": 522.13,
+   "end": 526.13,
+   "text": "این عهد، وفای به عهد به این است که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 124,
+   "start": 526.13,
+   "end": 530.95,
+   "text": "دیگه اولا لذت از گناه نداشته باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 125,
+   "start": 530.95,
+   "end": 536.43,
+   "text": "وقتی گناه می‌کارده سمتش لذت نداشته باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 126,
+   "start": 536.43,
+   "end": 542.91,
+   "text": "فهمیدی؟ وقتی کارش با گناه، گناه از آن لذت نداشته باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 127,
+   "start": 542.91,
+   "end": 546.49,
+   "text": "این یک. که خیلی سخت است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 128,
+   "start": 546.49,
+   "end": 549.65,
+   "text": "و از آثار وفای به عهد است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 129,
+   "start": 549.65,
+   "end": 553.83,
+   "text": "toen انسان در پیشگاه خدا واقعا وفا به عهد می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 130,
+   "start": 553.83,
+   "end": 556.89,
+   "text": "اون عهدی که با خدا بسته خدایا دیگه بعد از این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 131,
+   "start": 556.89,
+   "end": 559.75,
+   "text": "نمی‌خواهم به سمت گناهم بروم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 132,
+   "start": 559.75,
+   "end": 567.49,
+   "text": "حالا این وفا را когда به حالش باشد یعنی اینکه وقتی خواست کردنش را که به سمت گناه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 133,
+   "start": 567.49,
+   "end": 570.21,
+   "text": "این جوان به سمتش لذت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 134,
+   "start": 570.21,
+   "end": 573.03,
+   "text": "نداشته باشد. این یک. یکی از،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 135,
+   "start": 573.03,
+   "end": 574.75,
+   "text": "یعنی یکی از گوشه‌های وفا به عهد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 136,
+   "start": 574.75,
+   "end": 577.43,
+   "text": "گوشه دیگر وفا به عهد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 137,
+   "start": 577.43,
+   "end": 580.13,
+   "text": "چیست؟ گوشه دیگر وفا به عهد این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 138,
+   "start": 580.13,
+   "end": 584.33,
+   "text": "است که وقتی اهل گناه و اهل قتلت را،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 139,
+   "start": 584.33,
+   "end": 586.67,
+   "text": "اهل قتلت را می‌بینند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 140,
+   "start": 586.67,
+   "end": 590.15,
+   "text": "آنها را کوچک نشمارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 141,
+   "start": 590.15,
+   "end": 593.05,
+   "text": "فهمیدی؟ آنها را تحقیر نکند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 142,
+   "start": 593.05,
+   "end": 596.53,
+   "text": "آنها را کوچک در نظر خود نبیند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 143,
+   "start": 596.53,
+   "end": 606.87,
+   "text": "وفایی که به عهد در انسان باشد، اگر انسان اهل وفا باشد در پیشگاه خدا، آن کسانی را که هنوز در بحر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 144,
+   "start": 606.87,
+   "end": 611.49,
+   "text": "هلاک است کوچک نمی‌بیند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 145,
+   "start": 611.49,
+   "end": 615.13,
+   "text": "فهمیدی؟ این، این قبلاً شده این مسئله صحبت شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 146,
+   "start": 615.13,
+   "end": 619.98,
+   "text": "کوچک نمی‌بیند. این استهانت به آنها ندارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 147,
+   "start": 619.98,
+   "end": 625.15,
+   "text": "این استهانت نداشته باشد. چی داشته باشد؟ دلسوزی از سر محبت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 148,
+   "start": 625.15,
+   "end": 633.17,
+   "text": "استهانت نه. حالت عنابه دلسوزی می‌آورد نه حالت استهانت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 149,
+   "start": 633.17,
+   "end": 634.76,
+   "text": "استهانت بر می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 150,
+   "start": 634.76,
+   "end": 637.71,
+   "text": "یک دلسوزی خاص. یعنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 151,
+   "start": 637.71,
+   "end": 641.41,
+   "text": "دلسوزی خاص و ترسیدن از اینکه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 152,
+   "start": 641.41,
+   "end": 644.93,
+   "text": "نکند داز ولی خدایی وقتی عنابه‌اش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 153,
+   "start": 644.93,
+   "end": 647.11,
+   "text": "را از بین ببرد، این که این باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 154,
+   "start": 647.11,
+   "end": 652.17,
+   "text": "این حالت است. استهانت نباشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 155,
+   "start": 652.17,
+   "end": 658.39,
+   "text": "خب از جمله آثار وفا این است که اهل وفا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 156,
+   "start": 658.39,
+   "end": 662.25,
+   "text": "خوب هوشیار است که چه چیز",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 157,
+   "start": 662.25,
+   "end": 667.03,
+   "text": "به اصطلاح عبودی در هر لحظه وارد می‌کند که خلاف",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 158,
+   "start": 667.03,
+   "end": 671.28,
+   "text": "پیمان است. پیمان در توبه با خدا بسته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 159,
+   "start": 671.28,
+   "end": 674.59,
+   "text": "اگر اهل وفا به این پیمان باشد باید لحظه به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 160,
+   "start": 674.59,
+   "end": 680.35,
+   "text": "لحظه هوشیار باشد که چه چیز باعث پیمانش را قطع کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 161,
+   "start": 680.35,
+   "end": 683.25,
+   "text": "کدام حرکت؟ کدام عمل؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 162,
+   "start": 683.25,
+   "end": 684.95,
+   "text": "کدام نگاه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 163,
+   "start": 684.95,
+   "end": 688.32,
+   "text": "کدام فکر؟ کدام محبت؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 164,
+   "start": 688.32,
+   "end": 693.43,
+   "text": "الی آخر. عین وقتی انسان در خودش می‌داند که کاملاً مراقب است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 165,
+   "start": 693.43,
+   "end": 697.87,
+   "text": "پیمان با خدا بسته. کاملاً مراقب است وفای پیمان بکند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 166,
+   "start": 697.87,
+   "end": 704.47,
+   "text": "و چیزی را که این پیمانش را می‌شکند کاملاً گناه، گوشه و زویا و زویاها را پیش نیارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 167,
+   "start": 704.47,
+   "end": 707.5,
+   "text": "باید این حالت در ذهن وفا است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 168,
+   "start": 707.5,
+   "end": 711.91,
+   "text": "این یک مسئله. خب از این مسئله گذشت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 169,
+   "start": 711.91,
+   "end": 716.21,
+   "text": "بنابراین وفا داشتن هم البته اینها شرح طولانی دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 170,
+   "start": 716.21,
+   "end": 721.03,
+   "text": "من اگر شرح طولانی‌اش منظورم برای شما خیلی بحث‌ها طولانی می‌شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 171,
+   "start": 721.03,
+   "end": 727.89,
+   "text": "خوب تو فکر کنید این حالت خواهد بود در دوران سالک و سالک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 172,
+   "start": 727.89,
+   "end": 730.11,
+   "text": "صالح لونی فارغا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 173,
+   "start": 730.11,
+   "end": 732.27,
+   "text": "می‌شود. فارغا می‌شود یعنی چه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 174,
+   "start": 732.27,
+   "end": 736.81,
+   "text": "دوباره می‌شمارم که یعنی در این حالت است که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 175,
+   "start": 736.81,
+   "end": 740.19,
+   "text": "فارغا می‌شود. دیگه از لذت گناه نمی‌برد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 176,
+   "start": 740.19,
+   "end": 743.13,
+   "text": "دیگه اهل بدبخت را کوچیک نمی‌بینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 177,
+   "start": 743.13,
+   "end": 746.35,
+   "text": "این بدبخت که علاقه بهش داره دلش می‌سوزه و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 178,
+   "start": 746.35,
+   "end": 750.17,
+   "text": "دیگه این آدم غافل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 179,
+   "start": 750.17,
+   "end": 753.55,
+   "text": "نیست و خطرات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 180,
+   "start": 753.55,
+   "end": 759.79,
+   "text": "راه را همیشه دوشا از او دور. از اثرات اهل بدبخت است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 181,
+   "start": 759.79,
+   "end": 768.59,
+   "text": "خب مسئله سوم که در اینابه مسئله سوم غیر از بخارا که هست در اینابه حالتش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 182,
+   "start": 768.59,
+   "end": 771.39,
+   "text": "حالت اجابت کننده دعوت خدا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 183,
+   "start": 771.39,
+   "end": 776.77,
+   "text": "باشد. مرید باید حالت اجابت را داشته باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 184,
+   "start": 776.77,
+   "end": 781.23,
+   "text": "نه تنها خود اجابت را صورتا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 185,
+   "start": 781.23,
+   "end": 783.99,
+   "text": "مرید کسی‌ست که دعوت خدا را اجابت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 186,
+   "start": 783.99,
+   "end": 787.57,
+   "text": "کرده باید حالت اجابت هم داشته باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 187,
+   "start": 787.57,
+   "end": 790.15,
+   "text": "حالت اجابت داشتن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 188,
+   "start": 790.15,
+   "end": 795.55,
+   "text": "خودش یک از مصادیق اساسی انابه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 189,
+   "start": 795.55,
+   "end": 799.76,
+   "text": "است. یعنی چه حالت اجابت داشته باشد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 190,
+   "start": 799.76,
+   "end": 807.01,
+   "text": "حالت اجابت داشته باشد این معنا. خب بعد از اینجا دیگه خوب دقت کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 191,
+   "start": 807.01,
+   "end": 810.07,
+   "text": "قبلا یه اشاری داشتیم. مرید م-",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 192,
+   "start": 810.07,
+   "end": 813.57,
+   "text": "اجابت کرده است دعوت خدا را.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 193,
+   "start": 813.57,
+   "end": 819.43,
+   "text": "یعنی اون جذبی و دعوتی که از خدا همیشه هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 194,
+   "start": 819.43,
+   "end": 823.67,
+   "text": "مرید کسی است که اون دعوت را اجابت کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 195,
+   "start": 823.67,
+   "end": 826.55,
+   "text": "دعوت از کی بود اول؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 196,
+   "start": 826.55,
+   "end": 829.61,
+   "text": "دعوت از خدا بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 197,
+   "start": 829.61,
+   "end": 831.83,
+   "text": "جذب از کی بود در اصل؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 198,
+   "start": 831.83,
+   "end": 835.97,
+   "text": "از خدا بود. و ما چه کردیم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 199,
+   "start": 835.97,
+   "end": 838.57,
+   "text": "ما اجابت کردیم دعوت او را.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 200,
+   "start": 838.57,
+   "end": 840.25,
+   "text": "نه اینکه ناشکر بودیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 201,
+   "start": 840.25,
+   "end": 842.95,
+   "text": "ما اجابت کردیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 202,
+   "start": 842.95,
+   "end": 846.63,
+   "text": "صالح اجابت کرده دعوت او را.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 203,
+   "start": 846.63,
+   "end": 850.38,
+   "text": "اجابت کننده معنیش این است که اول جذب از اوست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 204,
+   "start": 850.38,
+   "end": 853.71,
+   "text": "اول دعوت از اوست. ما باید جواب دادیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 205,
+   "start": 853.71,
+   "end": 858.43,
+   "text": "اگر انسان حالت مناسب این را نداشته باشد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 206,
+   "start": 858.43,
+   "end": 862.79,
+   "text": "در آن انابه‌اش تضمین نیست و بر آن або نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 207,
+   "start": 862.79,
+   "end": 870.05,
+   "text": "اگر واقعیتی است که او خوانده است و من جواب داده‌ام، او جذب کرده است و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 208,
+   "start": 870.05,
+   "end": 875.57,
+   "text": "من مجیب هستم، بنابراین باید حالتم هم متناسب با این باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 209,
+   "start": 875.57,
+   "end": 879.05,
+   "text": "حالتم متناسب با این باشد یعنی چه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 210,
+   "start": 879.05,
+   "end": 884.59,
+   "text": "یعنی آیا باید به عمل خودم من باید متکی باشم یا نه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 211,
+   "start": 884.59,
+   "end": 886.47,
+   "text": "ها؟ یه نوع باید اتکای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 212,
+   "start": 886.47,
+   "end": 891.83,
+   "text": "عمل باشد. حالت اجابت و مجیبی در انسان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 213,
+   "start": 891.83,
+   "end": 894.37,
+   "text": "این بود به عملش متکی نمی‌شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 214,
+   "start": 894.37,
+   "end": 897.75,
+   "text": "مسئله خیلی حساسه خوب دقت کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 215,
+   "start": 897.75,
+   "end": 900.73,
+   "text": "مرید باید حالت مجیب را داشته باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 216,
+   "start": 900.73,
+   "end": 903.75,
+   "text": "حالت اجابت را داشته باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 217,
+   "start": 903.75,
+   "end": 910.75,
+   "text": "جاهل نباشد وقتی عمل می‌کنه بعد از اینکه عملی کرد باید نتیجه ای عجی ثواب از خدا شروع کنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 218,
+   "start": 910.75,
+   "end": 917.39,
+   "text": "که مرید باید بداند که دعوت خدا را اجابت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 219,
+   "start": 917.39,
+   "end": 920.31,
+   "text": "کرده و حالت اجابت داشته باشد. حالت اجابت این است که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 220,
+   "start": 920.31,
+   "end": 924.33,
+   "text": "حالت ها حالت یک مجیب را داشته باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 221,
+   "start": 924.33,
+   "end": 927.03,
+   "text": "حالت مجیب چیه؟ حالت مجیب این است که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 222,
+   "start": 927.03,
+   "end": 929.05,
+   "text": "او خواست من جواب دادم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 223,
+   "start": 929.05,
+   "end": 932.19,
+   "text": "بنابراین او باید بخواهد من چیکار بکنم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 224,
+   "start": 932.19,
+   "end": 934.05,
+   "text": "من جواب دهم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 225,
+   "start": 934.05,
+   "end": 937.27,
+   "text": "او باید بخواهد من جواب دهم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 226,
+   "start": 937.27,
+   "end": 944.99,
+   "text": "همیشه در یک حالت خاصی که این باید بخواهد، خدا را بخواهد، اتکای عمل نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 227,
+   "start": 944.99,
+   "end": 947.81,
+   "text": "فقط چشم دوختن است بر چه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 228,
+   "start": 947.81,
+   "end": 951.73,
+   "text": "بر خواست خدا و دعوت بیشتر خدا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 229,
+   "start": 951.73,
+   "end": 954.63,
+   "text": "و جایگاه بالاتر صالح متصل.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 230,
+   "start": 954.63,
+   "end": 956.31,
+   "text": "اینجوریه حالا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 231,
+   "start": 956.31,
+   "end": 959.63,
+   "text": "حالا یعنی چه؟ یعنی عمل نکند یا عمل بکند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 232,
+   "start": 959.63,
+   "end": 964.93,
+   "text": "عمل بکند، تلاش هم بکند اما متکی بر تلاشش نباشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 233,
+   "start": 964.93,
+   "end": 967.33,
+   "text": "حالت مجیب را داشته باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 234,
+   "start": 967.33,
+   "end": 970.09,
+   "text": "همیشه مانند دو مرده، مانند یک گدا،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 235,
+   "start": 970.09,
+   "end": 973.25,
+   "text": "گدایی باشد که چشم گدایی داشته باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 236,
+   "start": 973.25,
+   "end": 975.37,
+   "text": "در اینجا دعای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 237,
+   "start": 975.37,
+   "end": 978.55,
+   "text": "ثعلب علیه السلام را به یادمون میاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 238,
+   "start": 978.55,
+   "end": 982.21,
+   "text": "قطعه‌ای از اون دعاها به یادمون میاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 239,
+   "start": 982.21,
+   "end": 988.17,
+   "text": "الهی ان لم تبتدئ من رحمتک این که بحسن توحید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 240,
+   "start": 988.17,
+   "end": 992.07,
+   "text": "املص صالحی الیک فی واظ الطریق و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 241,
+   "start": 992.07,
+   "end": 995.87,
+   "text": "ان اسلمت خلاف تلقاء بالعمل والمنى",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 242,
+   "start": 995.87,
+   "end": 1006.89,
+   "text": "فملکنی اثرات این کلمات الحان و ان خذلنی نصر الیک و محاربة النفس و الشيطان فبدلنی سزای اخلق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 243,
+   "start": 1006.89,
+   "end": 1011.53,
+   "text": "ما صنعته ما. این حال علی علیه السلام و حال هر مریدی است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 244,
+   "start": 1011.53,
+   "end": 1014.19,
+   "text": "حال اجابت است. یعنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 245,
+   "start": 1014.19,
+   "end": 1016.55,
+   "text": "ای God پرورگار ان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 246,
+   "start": 1016.55,
+   "end": 1028.59,
+   "text": "لم تبتدئ من رحمتک این که بحسن توحید اگر اون جذب خاص تو که از ناحیه تو باید شروع شود ابتداء ان لم تبتدئ.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 247,
+   "start": 1028.59,
+   "end": 1031.03,
+   "text": "اگر اون نباشد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 248,
+   "start": 1031.03,
+   "end": 1033.41,
+   "text": "چیزی که مرا به راهی که راه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 249,
+   "start": 1033.41,
+   "end": 1037.63,
+   "text": "روشن است در راه روشن به سوی تو ببرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 250,
+   "start": 1037.63,
+   "end": 1039.41,
+   "text": "راضی هستید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 251,
+   "start": 1039.41,
+   "end": 1042.85,
+   "text": "خیلی تو را به خودت قسم راه روشن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 252,
+   "start": 1042.85,
+   "end": 1045.01,
+   "text": "ما می‌گیم که راه روشن یعنی باید این،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 253,
+   "start": 1045.01,
+   "end": 1051.09,
+   "text": "این واجب، اون حرام، این مستحب، اون مکروه رو می‌کنیم و می‌رویم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 254,
+   "start": 1051.09,
+   "end": 1053.45,
+   "text": "آره دیگه نمی‌تواند به درک برسد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 255,
+   "start": 1053.45,
+   "end": 1056.19,
+   "text": "هیچ. راه روشن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 256,
+   "start": 1056.19,
+   "end": 1058.45,
+   "text": "می‌کنیم و راه را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 257,
+   "start": 1058.45,
+   "end": 1066.37,
+   "text": "واجب رو انجام می‌دهیم، ترک حرام می‌کنیم، مستحب رو انجام می‌دهیم، مکروه را اجتناب می‌کنیم و اینجوری می‌کنیم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 258,
+   "start": 1066.37,
+   "end": 1068.27,
+   "text": "آنجوری می‌کنیم. راه روشن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 259,
+   "start": 1068.27,
+   "end": 1071.09,
+   "text": "واضح الطریق می‌بریم به سوی خدا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 260,
+   "start": 1071.09,
+   "end": 1073.47,
+   "text": "این راه رو نمی‌تواند ببندد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 261,
+   "start": 1073.47,
+   "end": 1077.77,
+   "text": "این صالح در راه خواهد ماند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 262,
+   "start": 1077.77,
+   "end": 1080.81,
+   "text": "خدا این می‌فرماید هر بار که من عرض",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 263,
+   "start": 1080.81,
+   "end": 1087.83,
+   "text": "می‌کنم این رو هر بار که ان لم تبتدئ من رحمتک این که این حالت انابه‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 264,
+   "start": 1087.83,
+   "end": 1093.59,
+   "text": "اگر رحمت ابتدا از ناحیه تو به سوی من نیاید املص صالحی الیک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 265,
+   "start": 1093.59,
+   "end": 1099.29,
+   "text": "که فی واظ الطریق چه راهی خواهم داد و در این راه روشن به سوی تو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 266,
+   "start": 1099.29,
+   "end": 1102.59,
+   "text": "می‌دانیم راه روشن است اما چه فایده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 267,
+   "start": 1102.59,
+   "end": 1106.05,
+   "text": "اونچه باید باشد از تو باید باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 268,
+   "start": 1106.05,
+   "end": 1109.67,
+   "text": "راضی هستید؟ البته من بسیار دیگری از بیان علی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 269,
+   "start": 1109.67,
+   "end": 1112.29,
+   "text": "سلام الله علیه را نقل کرده است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 270,
+   "start": 1112.29,
+   "end": 1115.43,
+   "text": "«جدم ففقه موهبته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 271,
+   "start": 1115.43,
+   "end": 1124.49,
+   "text": "یکه به توفیق من این سال فدیه به یک حق واضح خلیفه و یک اسلمت به اذن خدا که لقاء دل عمل بالمنا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 272,
+   "start": 1124.49,
+   "end": 1129.89,
+   "text": "فمن مقیم از خلافی این شب و روز پروا» این کلمه اگر به حال خودم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 273,
+   "start": 1129.89,
+   "end": 1134.65,
+   "text": "واگذار بکنی و من به هوی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 274,
+   "start": 1134.65,
+   "end": 1138.81,
+   "text": "و فمن مقیم از خلافی این شب و روز. پس چه کسی مرا از ورطة هوی و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 275,
+   "start": 1138.81,
+   "end": 1140.75,
+   "text": "هوس نجات خواهد داد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 276,
+   "start": 1140.75,
+   "end": 1143.25,
+   "text": "یعنی انسان در حال عنابه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 277,
+   "start": 1143.25,
+   "end": 1145.96,
+   "text": "حتی اینکه این هوی را ترک کنم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 278,
+   "start": 1145.96,
+   "end": 1149.77,
+   "text": "این گناه را ترک کنم، این بد را ترک کنم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 279,
+   "start": 1149.77,
+   "end": 1153.13,
+   "text": "که اگر این بد ترک می کنم به بوده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 280,
+   "start": 1153.13,
+   "end": 1158.85,
+   "text": "انجام داده‌ام و دوری می‌جوییم به بوده از این هوی که خود مبتنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 281,
+   "start": 1158.85,
+   "end": 1162.55,
+   "text": "باشد در حال اجابت نباشد مفال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 282,
+   "start": 1162.55,
+   "end": 1166.62,
+   "text": "فقط. او که از نعمت عبادت انجام نخواهد یافت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 283,
+   "start": 1166.62,
+   "end": 1168.83,
+   "text": "این آخر همه کز روز",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 284,
+   "start": 1168.83,
+   "end": 1176.95,
+   "text": "رحمت است. حالا اجابت بخشید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 285,
+   "start": 1176.95,
+   "end": 1181.99,
+   "text": "و این حضر من نصر فعند مخالفت نفس و شیطان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 286,
+   "start": 1181.99,
+   "end": 1185.39,
+   "text": "اگر فزلان بکنی و اون موهبت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 287,
+   "start": 1185.39,
+   "end": 1193.17,
+   "text": "به مثله شیطان نشود، منو فزلان بکنی به حال خودم واگذار بکنی و این حضر من نصر فعند مخالفت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 288,
+   "start": 1193.17,
+   "end": 1199.49,
+   "text": "در صورت شیطان اگر بگذرم علیه فزلان که لا غیر الله تبارک و تعالی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 289,
+   "start": 1199.49,
+   "end": 1201.45,
+   "text": "دیگه رفتن میشه که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 290,
+   "start": 1201.45,
+   "end": 1204.29,
+   "text": "قابل دیدنه. بنابراین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 291,
+   "start": 1204.29,
+   "end": 1206.95,
+   "text": "پنجره مصائر سه گانه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 292,
+   "start": 1206.95,
+   "end": 1211.31,
+   "text": "اساسی عنابه حالت اجابت داشتن است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 293,
+   "start": 1211.31,
+   "end": 1215.91,
+   "text": "نه حال مبتلی بودن و من نمی‌توانم، من نمی‌توانم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 294,
+   "start": 1215.91,
+   "end": 1219.95,
+   "text": "حال اجابت داشتن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 295,
+   "start": 1219.95,
+   "end": 1226.77,
+   "text": "خب در حالی شما به اون مرزی که بیان شد می‌دانید که انسان در حال اجابت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 296,
+   "start": 1226.77,
+   "end": 1231.59,
+   "text": "چگونه خواهد بود؟ در حال اجابت به عملش، به سرش،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 297,
+   "start": 1231.59,
+   "end": 1234.85,
+   "text": "به نیروش، به تسلیمش، به ارادش،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 298,
+   "start": 1234.85,
+   "end": 1237.71,
+   "text": "به خواستش، به عزمش،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 299,
+   "start": 1237.71,
+   "end": 1240.85,
+   "text": "به تلاشش مبتنی می‌شود یا نه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 300,
+   "start": 1240.85,
+   "end": 1244.51,
+   "text": "نه. این که نمی‌شود هیچ.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 301,
+   "start": 1244.51,
+   "end": 1249.15,
+   "text": "در یک حالت مستعد خاص قرار می‌گیرد یا نه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 302,
+   "start": 1249.15,
+   "end": 1252.39,
+   "text": "در یک حالت اضطرار خاص. مستعد است اما.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 303,
+   "start": 1252.39,
+   "end": 1259.83,
+   "text": "این نکته‌ای که گفتانی به تلاش خود و به خود به تصمیم و عزم خود یک اضطرار خاصی باید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 304,
+   "start": 1259.83,
+   "end": 1266.35,
+   "text": "به حالت اجابت انسان را به یک حالت اضطرار خاص انداخته و به عمل مبتنی نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 305,
+   "start": 1266.35,
+   "end": 1276.35,
+   "text": "مستعد است و فقط چشم به در که در درست به حق الهی حاجة الله باشد بررفته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 306,
+   "start": 1276.35,
+   "end": 1279.35,
+   "text": "و این یادتون باشد که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 307,
+   "start": 1279.35,
+   "end": 1286.13,
+   "text": "عنابه یک مسئله و همان عنوان مسئله از مسائل سه گانه به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 308,
+   "start": 1286.13,
+   "end": 1293.63,
+   "text": "اصطلاح اساسی عنابه است. پس عنابه سه تا مسئله اساسی دارد یا سه خاصیت اساسی دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 309,
+   "start": 1293.63,
+   "end": 1299.63,
+   "text": "اولیش این است که اصلاح بکند و جبران بکند مافات را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 310,
+   "start": 1299.63,
+   "end": 1304.23,
+   "text": "و صعود داده شود به سوی جبران مافات.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 311,
+   "start": 1304.23,
+   "end": 1307.8,
+   "text": "این خاصیت اول از عنابه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 312,
+   "start": 1307.8,
+   "end": 1310.07,
+   "text": "است. از باطن صعود داده شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 313,
+   "start": 1310.07,
+   "end": 1315.87,
+   "text": "دومی این است که دارا به دعای مافان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 314,
+   "start": 1315.87,
+   "end": 1319.43,
+   "text": "سوم این است که در حال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 315,
+   "start": 1319.43,
+   "end": 1323.29,
+   "text": "اجابت باشد. این سه مسئله از مسائل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 316,
+   "start": 1323.29,
+   "end": 1329.21,
+   "text": "اساسی عنابه و انسان باید اینکه باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 317,
+   "start": 1329.21,
+   "end": 1333.2,
+   "text": "حال اجابت را ما خیلی به افتخار داریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 318,
+   "start": 1333.2,
+   "end": 1337.17,
+   "text": "من این بحث را تمام می‌کنم. ما خب خیلی به افتخار هستیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 319,
+   "start": 1337.17,
+   "end": 1339.47,
+   "text": "از اتفاقی که از اول تا به این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 320,
+   "start": 1339.47,
+   "end": 1345.91,
+   "text": "سمت خواندند که انسان و خواندند به راست هم خواندند اما یک جانبه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 321,
+   "start": 1345.91,
+   "end": 1348.93,
+   "text": "خواندند و خواندند که انسان باید فقط خودش عمل بکند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 322,
+   "start": 1348.93,
+   "end": 1351.17,
+   "text": "انسان نجاتش با چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 323,
+   "start": 1351.17,
+   "end": 1353.79,
+   "text": "با عمل است. این حرف درست است ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 324,
+   "start": 1353.79,
+   "end": 1357.42,
+   "text": "اما او به عنوان یک یک جانبه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 325,
+   "start": 1357.42,
+   "end": 1363.71,
+   "text": "انسان مربوط تلاش خود و اراده خود و عزم خود و گذشت خود است پس تمام.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 326,
+   "start": 1363.71,
+   "end": 1367.57,
+   "text": "گوش انسان که خدا باید جذب هم بکند، این هم درست نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 327,
+   "start": 1367.57,
+   "end": 1369.53,
+   "text": "ولی اگر عارض مبتنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 328,
+   "start": 1369.53,
+   "end": 1372.85,
+   "text": "بر عمل بود، این هم درست نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 329,
+   "start": 1372.85,
+   "end": 1375.75,
+   "text": "باید تلاش بکند جدا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 330,
+   "start": 1375.75,
+   "end": 1380.39,
+   "text": "دلیل باج را ببینید. باید هرچه می‌تواند تلاش بکند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 331,
+   "start": 1380.39,
+   "end": 1383.65,
+   "text": "فکر بکند که کار به دست اوست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 332,
+   "start": 1383.65,
+   "end": 1390.83,
+   "text": "فکر بکند انسان حیاتش، نجاتش، حرکتش، توجهش مربوط خاص خود اوست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 333,
+   "start": 1390.83,
+   "end": 1400.65,
+   "text": "از این طرف اینطور فکر کند، اینطور تصور بکند، اینطور بداند و لذا خود را مربوط مربوط تلاش خود بداند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 334,
+   "start": 1400.65,
+   "end": 1403.79,
+   "text": "لیس челове الا ما سعیی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 335,
+   "start": 1403.79,
+   "end": 1406.43,
+   "text": "از این طرف باید این توجه داشته باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 336,
+   "start": 1406.43,
+   "end": 1412.67,
+   "text": "اما از آن طرف هم باید بداند که خدا نخد ما تشاؤم الا ان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 337,
+   "start": 1412.67,
+   "end": 1417.51,
+   "text": "يشاء. این دو همواره همراهمان است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 338,
+   "start": 1417.51,
+   "end": 1423.07,
+   "text": "و نخواد اشتباه بکند چون من خیلی شده گاهی با بعضی از بچه‌ها صحبت می‌کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 339,
+   "start": 1423.07,
+   "end": 1427.11,
+   "text": "می‌بینیم که مثلا این مثال را گفت که اسب تلاش می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 340,
+   "start": 1427.11,
+   "end": 1430.03,
+   "text": "در واقع نمی‌تواند بارها را جمع کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 341,
+   "start": 1430.03,
+   "end": 1434.25,
+   "text": "گفته می‌شود که اسبی که از بارش رو باید بخواهد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 342,
+   "start": 1434.25,
+   "end": 1440.43,
+   "text": "بعد می‌بینید که می‌شیند دست به دست می‌زند و تلاش شروع می‌کند که باید این جا از این نمیخواهد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 343,
+   "start": 1440.43,
+   "end": 1443.67,
+   "text": "این نشد. تعجب کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 344,
+   "start": 1443.67,
+   "end": 1445.65,
+   "text": "باید فکر کنیم که کار به دست ماست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 345,
+   "start": 1445.65,
+   "end": 1449.21,
+   "text": "لیس челове الا ما سعى. که باید بکند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 346,
+   "start": 1449.21,
+   "end": 1453.01,
+   "text": "اما باید بداند که کار به دست خداست و ما تشاؤم الا ان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

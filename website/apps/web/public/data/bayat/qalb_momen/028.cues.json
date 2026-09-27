@@ -1,0 +1,4390 @@
+{
+ "version": 1,
+ "sessionId": "028",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 1926.18,
+ "alignment": {
+  "exact": 3780,
+  "total": 3780,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## شکر و تسبیح در زندگی مؤمن",
+   "start": 0.68,
+   "end": 21.9
+  },
+  {
+   "index": 1,
+   "title": "## معنای شکرگزاری",
+   "start": 21.9,
+   "end": 330.44
+  },
+  {
+   "index": 2,
+   "title": "## قلب مؤمن و یاد خدا",
+   "start": 330.44,
+   "end": 482.32
+  },
+  {
+   "index": 3,
+   "title": "## صبح و شام مؤمن",
+   "start": 482.32,
+   "end": 637.56
+  },
+  {
+   "index": 4,
+   "title": "## توحید در رفتار روزانه",
+   "start": 637.56,
+   "end": 766.52
+  },
+  {
+   "index": 5,
+   "title": "## آثار نعمت و مسئولیت",
+   "start": 766.52,
+   "end": 920.7
+  },
+  {
+   "index": 6,
+   "title": "## ذکر و حضور قلب",
+   "start": 920.7,
+   "end": 1083.26
+  },
+  {
+   "index": 7,
+   "title": "## مقایسهٔ مؤمن و غافل",
+   "start": 1083.26,
+   "end": 1235.41
+  },
+  {
+   "index": 8,
+   "title": "## روایت و نتیجهٔ آن",
+   "start": 1235.41,
+   "end": 1380.11
+  },
+  {
+   "index": 9,
+   "title": "## روایت و نتیجهٔ آن",
+   "start": 1380.11,
+   "end": 1526.24
+  },
+  {
+   "index": 10,
+   "title": "## روایت و نتیجهٔ آن",
+   "start": 1526.24,
+   "end": 1675.8
+  },
+  {
+   "index": 11,
+   "title": "## روایت و نتیجهٔ آن",
+   "start": 1675.8,
+   "end": 1819.32
+  },
+  {
+   "index": 12,
+   "title": "## روایت و نتیجهٔ آن",
+   "start": 1819.32,
+   "end": 1926.18
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 0.68,
+   "end": 5.14,
+   "text": "بسم الله الرحمن الرحيم و به نستعين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 5.14,
+   "end": 9.0,
+   "text": "والسلام علیک یا داعی الله و ربانی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 9.0,
+   "end": 13.16,
+   "text": "آیه. سلام علیکم و رحمة الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 13.16,
+   "end": 16.92,
+   "text": "بخش پایانی روایت مولا است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 16.92,
+   "end": 21.9,
+   "text": "پیرامون مؤمن، صفات مؤمن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 21.9,
+   "end": 29.58,
+   "text": "و قلب مؤمن. دیروز عرض کردیم یمسی و همه ش شکر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 29.58,
+   "end": 33.08,
+   "text": "مؤمن کسیه که شب میکنه در حالی که همش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 33.08,
+   "end": 37.02,
+   "text": "شکر. در خصوص شکر کمی صحبت کردیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 37.02,
+   "end": 39.68,
+   "text": "که امیدوارم در خودمم تاثیر کرده باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 39.68,
+   "end": 42.36,
+   "text": "امیدوارم شاکر نعمت‌ها باشم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 42.36,
+   "end": 46.06,
+   "text": "و بلافاصله میفرماید و یسبح اونجا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 46.06,
+   "end": 48.6,
+   "text": "یمسی شب میکنه همش شکر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 48.6,
+   "end": 53.12,
+   "text": "اینجا یسبح. صبح میکنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 53.12,
+   "end": 57.66,
+   "text": "و شغل هل؟ حالا شغلش چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 57.66,
+   "end": 60.26,
+   "text": "ما شغلمون چیه؟ به چی اهتمام داریم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 60.26,
+   "end": 63.26,
+   "text": "به چی مشغولیم، مشغولیت داریم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 63.26,
+   "end": 65.84,
+   "text": "مولا میفرماید مؤمن کسیه که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 65.84,
+   "end": 70.72,
+   "text": "وقتی صبح کرد شغل هل فکر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 70.72,
+   "end": 74.58,
+   "text": "فکر شغلش. افکار نه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 74.58,
+   "end": 77.6,
+   "text": "فکر. اینجا باید فکر معنی بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 77.6,
+   "end": 83.68,
+   "text": "به همین یه وقت به صورت متعارف میگیم دارم فکر می‌کنم یا داری فکر میکنی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 83.68,
+   "end": 87.98,
+   "text": "یا فکر، فکر میکنیم که اوهام و تخیلات و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 87.98,
+   "end": 92.62,
+   "text": "که عموماً هم بی‌فایده و بی‌اساس‌اند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 92.62,
+   "end": 96.4,
+   "text": "موهوم‌اند دیگه، وهم‌اند. مداعبات نفس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 96.4,
+   "end": 98.38,
+   "text": "نفس بازیگری و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 98.38,
+   "end": 101.78,
+   "text": "حالا بازیگوشی قوه خیال و این‌ها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 101.78,
+   "end": 104.16,
+   "text": "گرفته و باعث شده که این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 104.16,
+   "end": 112.08,
+   "text": "صور و اشکال بیخود و به قول علما تخیلات فاسده بیاد تو قوه خیال و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 112.08,
+   "end": 114.86,
+   "text": "ما فکر کنیم که داریم فکر می‌کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 114.86,
+   "end": 117.8,
+   "text": "یا الله. در صورتی که این فکر نیست که.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 117.8,
+   "end": 122.22,
+   "text": "اصلاً اساس منطقی‌ش فکر کردن حرکته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 122.22,
+   "end": 125.44,
+   "text": "فکر کردن حرکته از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 125.44,
+   "end": 128.72,
+   "text": "حرکت نفس از معلوم به مجهوله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 128.72,
+   "end": 135.04,
+   "text": "قبلاً هم عرض کردیم دیگه. حرکت میکنه از مبادی تا به مطلوبش برسه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 135.04,
+   "end": 138.58,
+   "text": "به این میگن از جهت منطقی فکر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 138.58,
+   "end": 141.66,
+   "text": "یعنی فکر کردن هم باید روشمند باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 141.66,
+   "end": 145.84,
+   "text": "اینطوری نیست که انسان همینطوری تو خواب و خیالش باشه و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 145.84,
+   "end": 149.28,
+   "text": "تو اوهامش باشه بگیم داره فکر میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 149.28,
+   "end": 155.7,
+   "text": "یا متمرکز شده داره به چیزای بیخودی فکر میکنه بگه خب فکره دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 155.7,
+   "end": 159.86,
+   "text": "اگر فکر بود که تو رو به ذکر میرسوند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 159.86,
+   "end": 162.72,
+   "text": "قبلاً بر اساس آیات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 162.72,
+   "end": 168.28,
+   "text": "صد و نود و صد و نود و یک آل عمرانه، اینطور که تو خاطرم هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 168.28,
+   "end": 173.5,
+   "text": "اونجایی که میفرماید ان فی خلق السماوات والارض واختلاف الليل والنهار",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 173.5,
+   "end": 176.28,
+   "text": "لآيات لأولي الابصار",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 176.28,
+   "end": 179.5,
+   "text": "لأولی الاب-- الالباب ببخشید لأولی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 179.5,
+   "end": 187.16,
+   "text": "الالباب لأولی الالباب یعنی اون‌هایی که لب دارن، مغز دارن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 187.16,
+   "end": 191.22,
+   "text": "این‌ها که صاحبان لب و مغزن، عقلاً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 191.22,
+   "end": 198.72,
+   "text": "توجه می‌کنند که به رفت و آمد شبانه روز و خلقت آسمان و زمین که این‌ها آیات الهین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 198.72,
+   "end": 201.68,
+   "text": "حرف از چی داره میزنه؟ مغز،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 201.68,
+   "end": 204.56,
+   "text": "عقل، لب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 204.56,
+   "end": 207.3,
+   "text": "بلافاصله میاد ذکر رو مطرح میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 207.3,
+   "end": 213.66,
+   "text": "حالا اینا کیان؟ کیا اهل ذکر و عقلاً تدبر و تأمل و تعقلاً.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 213.66,
+   "end": 218.96,
+   "text": "میفرمود الذین یذکرون الله قياما وقعودا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 218.96,
+   "end": 225.98,
+   "text": "وعلی جنوبهم. ایستاده، نشسته، خوابیده، لمیده اصطلاحاً دائماً یذکرون الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 225.98,
+   "end": 229.44,
+   "text": "اینا دائماً مشغول ذکر الله‌اند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 229.44,
+   "end": 234.66,
+   "text": "بعد میفرمود و يتفكرون دقت کنید و يتفكرون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 234.66,
+   "end": 236.9,
+   "text": "في خلق السماوات والأرض",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 236.9,
+   "end": 239.94,
+   "text": "ربنا ما خلقت هذا باطلا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 239.94,
+   "end": 243.94,
+   "text": "سبحانك فقنا عذاب النار.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 243.94,
+   "end": 249.4,
+   "text": "خدا رحمت کنه حضرت علامه علیه الرحمة والرضوان رو اشاره به همین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 249.4,
+   "end": 258.36,
+   "text": "سه تا آیه می‌کردن همیشه و می‌فرمودن که دقت کنید که ذکر اومده بین دو تا فکر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 258.36,
+   "end": 261.74,
+   "text": "اولی الالباب. بعد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 261.74,
+   "end": 267.86,
+   "text": "الذین یذکرون الله بعد و يتفكرون دو تا فکر اون اول",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 267.86,
+   "end": 271.34,
+   "text": "اهل لب، مغز، تعقل، تفکر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 271.34,
+   "end": 275.66,
+   "text": "حالا اهل ذکر‌اند و يتفكرون في خلق السماوات.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 275.66,
+   "end": 279.14,
+   "text": "لذا ایشون همیشه می‌فرمودن تو اهل فکر باش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 279.14,
+   "end": 282.1,
+   "text": "خود به خود خدا تو رو اهل ذکر می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 282.1,
+   "end": 285.48,
+   "text": "انقدر فکر، فکر کردن اهمیت داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 285.48,
+   "end": 288.34,
+   "text": "منتهی این فکری که ما الان داریم میگیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 288.34,
+   "end": 292.1,
+   "text": "نه اون فکر متعارف وهم و خیال،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 292.1,
+   "end": 298.3,
+   "text": "مداعبات نفس نه، بازیگری، بازیگوشی نفس و قوه خیال نه، اون نه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 298.3,
+   "end": 300.96,
+   "text": "که غالب مردم گرفتار اونن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 300.96,
+   "end": 304.02,
+   "text": "این همش تو خودشه. کجایی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 304.02,
+   "end": 305.92,
+   "text": "کجا سیر میکنی؟ دارم فکر می‌کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 305.92,
+   "end": 311.3,
+   "text": "این فکر نیست که. این خیاله، اوهامه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 311.3,
+   "end": 313.7,
+   "text": "خی-- فکری فکره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 313.7,
+   "end": 316.46,
+   "text": "که اولاً پایه‌ش عقله،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 316.46,
+   "end": 320.62,
+   "text": "تعقله. ثانیاً تو رو به ذکر بکشونه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 320.62,
+   "end": 325.04,
+   "text": "یعنی به همراه با تبر-- تو-- در حقیقت تمرکز،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 325.04,
+   "end": 330.44,
+   "text": "توجه، تأمل باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 330.44,
+   "end": 338.76,
+   "text": "تأمل با الف که تو رو به عمل با عین بکشه یعنی به عمل بکشون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 338.76,
+   "end": 342.64,
+   "text": "و الا هر چیزی که فکر نمیشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 342.64,
+   "end": 347.54,
+   "text": "حالا اینجا سؤال پیش میاد که این فکر رو همه دارن؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 347.54,
+   "end": 353.68,
+   "text": "یعنی آدم وقتی خیلی قوی میشه خیلی خیلی خیلی رشد میکنه باز اهل تفکر هست؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 353.68,
+   "end": 364.7,
+   "text": "بله. اما استثنائاً انبیا و اهل بیت علیهم الصلاة والسلام نه، اون‌ها اصلاً نیازی به فکر ندارن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 364.7,
+   "end": 368.92,
+   "text": "این فکر مال غیر معصومین،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 368.92,
+   "end": 372.14,
+   "text": "غیر انبیائه. که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 372.14,
+   "end": 378.42,
+   "text": "مجهولاتی دارن میخوان از معلوماتشون به عنوان مبادی استفاده کنن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 378.42,
+   "end": 380.6,
+   "text": "به مطلوب خاطرشون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 380.6,
+   "end": 385.32,
+   "text": "برسن که مجهولات براشون معلوم بشه، نفسشون حرکت کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 385.32,
+   "end": 388.36,
+   "text": "ولی اهل بیت که کاملاً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 388.36,
+   "end": 390.98,
+   "text": "اصلاً نیازی به ت-- حرکت نفسه دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 390.98,
+   "end": 393.7,
+   "text": "نیازی به حرکت نفسه، نفسشون کاملاً.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 393.7,
+   "end": 396.8,
+   "text": "مجهولی اصلاً مجهولی براشون نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 94,
+   "start": 396.8,
+   "end": 400.14,
+   "text": "اذا علموا، علموا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 95,
+   "start": 400.14,
+   "end": 403.58,
+   "text": "توی درس هشتاد و هفت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 96,
+   "start": 403.58,
+   "end": 406.32,
+   "text": "اسفار، شرح",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 97,
+   "start": 406.32,
+   "end": 409.1,
+   "text": "اسفار ملاصدرا از طرف استاد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 98,
+   "start": 409.1,
+   "end": 411.48,
+   "text": "در جلسه چند؟ هشتاد و هفت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 99,
+   "start": 411.48,
+   "end": 414.28,
+   "text": "خیلی جلسه شیرینیه اون جلسه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 100,
+   "start": 414.28,
+   "end": 417.84,
+   "text": "پیرامون توحید صمدی قرآنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 101,
+   "start": 417.84,
+   "end": 423.4,
+   "text": "می‌فرمایند که سه جور اومده هر سه جورش هم درسته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 102,
+   "start": 423.4,
+   "end": 426.08,
+   "text": "اذا علموا، علموا. اذا علموا،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 103,
+   "start": 426.08,
+   "end": 429.46,
+   "text": "علموا. اذا علموا، اعلموا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 104,
+   "start": 429.46,
+   "end": 433.32,
+   "text": "در هر حال بخوان چیزی رو بدانند، می‌دانند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 105,
+   "start": 433.32,
+   "end": 436.16,
+   "text": "یا بهشون این دانسته ای،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 106,
+   "start": 436.16,
+   "end": 439.88,
+   "text": "این دانسته ها، این علوم القا می‌شه، بهشون داده می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 107,
+   "start": 439.88,
+   "end": 443.86,
+   "text": "خود حضرت فرمودن که یک ستونی از نور",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 108,
+   "start": 443.86,
+   "end": 450.38,
+   "text": "پیشاپیش ماست. این نور، نور علمه که هر وقت ما اراده کنیم چیزی رو بدونیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 109,
+   "start": 450.38,
+   "end": 454.54,
+   "text": "به اون ستون از نور نگاه می‌کنیم و می‌دانیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 110,
+   "start": 454.54,
+   "end": 457.12,
+   "text": "اصلاً علم در محضر اون‌هاست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 111,
+   "start": 457.12,
+   "end": 459.1,
+   "text": "اون‌ها نیازی به فکر ندارن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 112,
+   "start": 459.1,
+   "end": 460.72,
+   "text": "انبیا نیازی به فکر ندارن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 113,
+   "start": 460.72,
+   "end": 465.66,
+   "text": "ما بیچاره‌ها مجبوریم فکر کنیم از معلوم به مجهول برسیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 114,
+   "start": 465.66,
+   "end": 469.3,
+   "text": "این رو هم نکته‌ش رو توجه داشته باشید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 115,
+   "start": 469.3,
+   "end": 474.68,
+   "text": "اما در هر حال، یادمون نره اینو که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 116,
+   "start": 474.68,
+   "end": 478.0,
+   "text": "فکری، فکر که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 117,
+   "start": 478.0,
+   "end": 480.86,
+   "text": "اولاً از عقل برمی‌خیزه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 118,
+   "start": 480.86,
+   "end": 487.68,
+   "text": "بر اساس عقله. ثانیاً ما رو به ذکر بکشونه، به یاد خدا بکشه که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 119,
+   "start": 487.68,
+   "end": 490.98,
+   "text": "انسان فکور در نهایت به جایی می‌رسه که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 120,
+   "start": 490.98,
+   "end": 495.04,
+   "text": "همون که ان فی خلق السماوات والأرض واختلاف ال--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 121,
+   "start": 495.04,
+   "end": 497.08,
+   "text": "واختلاف الليل والنهار لآيات.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 122,
+   "start": 497.08,
+   "end": 501.1,
+   "text": "همه چی رو آیات الهی می‌بینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 123,
+   "start": 501.1,
+   "end": 503.64,
+   "text": "که البته عرض کردیم هندسه این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 124,
+   "start": 503.64,
+   "end": 507.8,
+   "text": "بالا به پایینه یا پایین به بالاست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 125,
+   "start": 507.8,
+   "end": 511.56,
+   "text": "توحیدی که ما دنبالشیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 126,
+   "start": 511.56,
+   "end": 517.66,
+   "text": "و حکمت متعالی جلوی پیش روی ما می‌گذاره، این صحف عرفانیه و نوریه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 127,
+   "start": 517.66,
+   "end": 525.82,
+   "text": "و حکمیه جلوی پای ما می‌ذارن یا خود اهل بیت علیهم السلام رد پاشو در ادعیه‌شون جلوی پای ما گذاشتن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 128,
+   "start": 525.82,
+   "end": 529.34,
+   "text": "شناخت اشیا رو،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 129,
+   "start": 529.34,
+   "end": 539.58,
+   "text": "ای الاسما رو یا به عبارتی خلائق و کثرات رو، این آیات رو، این مجالی و این کلمات وجودی نظام اصلی رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 130,
+   "start": 539.58,
+   "end": 549.54,
+   "text": "از الله به این کلمات به ما یاد دادن یا بالعکس یعنی به این، از این کلمات پی به وجود خدا ببریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 131,
+   "start": 549.54,
+   "end": 552.02,
+   "text": "مصطلح هستش که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 132,
+   "start": 552.02,
+   "end": 555.58,
+   "text": "به صورت متعارف که به این‌ها نگاه کن که به خدا پی ببری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 133,
+   "start": 555.58,
+   "end": 560.84,
+   "text": "اما این برای انسان‌های ضعیف النفسه، برای انسان‌های مبتدیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 134,
+   "start": 560.84,
+   "end": 569.06,
+   "text": "در دعای عرفه قبلاً عرض کردیم که ابا عبدالله فرمود-- عرض کردم به خدا که الهی ترددی في الآثار.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 135,
+   "start": 569.06,
+   "end": 575.14,
+   "text": "این رفت و آمد من در آثار تو که همه آیات و کلمات وجودی نظام اصلی هستن، چه از حیث",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 136,
+   "start": 575.14,
+   "end": 580.28,
+   "text": "نظام انفسی، چه نظام آفاقی، چه داخل، چه خارج از خودم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 137,
+   "start": 580.28,
+   "end": 585.06,
+   "text": "چه اتفاقی می‌افته؟ این ترددم-- حضرت حسین ابن علی داره عرض می‌کنه به خدا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 138,
+   "start": 585.06,
+   "end": 587.86,
+   "text": "الهی ترددی في الآثار",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 139,
+   "start": 587.86,
+   "end": 590.5,
+   "text": "یوجب بعد المزار.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 140,
+   "start": 590.5,
+   "end": 594.82,
+   "text": "باعث می‌شه منو از زیارتتو دور کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 141,
+   "start": 594.82,
+   "end": 597.16,
+   "text": "ببین برای یک انسان جامع",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 142,
+   "start": 597.16,
+   "end": 601.14,
+   "text": "این طری-- رضا پیغمبر فرمود من خدا رو دیدم و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 143,
+   "start": 601.14,
+   "end": 605.3,
+   "text": "آیات الهی رو دیدم. از خدا به آیات رسیدم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 144,
+   "start": 605.3,
+   "end": 611.38,
+   "text": "هندسه‌ش بالا به پایینه. یعنی درستش این‌چنینه ولی خب برای انسان‌هایی که ضعیف النفسن مثل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 145,
+   "start": 611.38,
+   "end": 616.26,
+   "text": "من و این‌ها نباید بالاخره از آیات توجه کرد به-- و الا اصلش اونه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 146,
+   "start": 616.26,
+   "end": 622.2,
+   "text": "بک عرفتک انت دللتنی علیک.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 147,
+   "start": 622.2,
+   "end": 623.8,
+   "text": "درسته؟ اشتباه نمیگم که.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 148,
+   "start": 623.8,
+   "end": 625.6,
+   "text": "دلّ على ذاته بذاته. احسن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 149,
+   "start": 625.6,
+   "end": 629.22,
+   "text": "یا من دلّ على ذاته بذاته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 150,
+   "start": 629.22,
+   "end": 633.06,
+   "text": "خودش از ذات خودش به ذات خودش دلالت می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 151,
+   "start": 633.06,
+   "end": 637.56,
+   "text": "این‌چنینه که به ما عنایت می‌شه، افاضه می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 152,
+   "start": 637.56,
+   "end": 640.9,
+   "text": "مثل اشراقات نوریه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 153,
+   "start": 640.9,
+   "end": 646.46,
+   "text": "اضافه نوریه، این تلألؤ نور حضرت حق می‌تابه در وجود ما.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 154,
+   "start": 646.46,
+   "end": 650.44,
+   "text": "نور حضرت حق الله نور السماوات والأرض.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 155,
+   "start": 650.44,
+   "end": 656.34,
+   "text": "این نور الله که تابیده می‌شه در وجود ما، در تار و پود ما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 156,
+   "start": 656.34,
+   "end": 659.0,
+   "text": "که ما به شناخت آیات الهی می‌رسیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 157,
+   "start": 659.0,
+   "end": 662.6,
+   "text": "باز خدا توجه می‌کنه، خدا تفضل می‌کنه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 158,
+   "start": 662.6,
+   "end": 667.06,
+   "text": "خدا تلألؤ می‌کنه. پرتو نوری حضرت حق به ما اضافه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 159,
+   "start": 667.06,
+   "end": 671.72,
+   "text": "اشراقیه رو تو بحث حکمت متعالیه داریم دیگه، اضافه اشراقیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 160,
+   "start": 671.72,
+   "end": 677.22,
+   "text": "اون نور صمدی الله نور السماوات والأرض، همه اشیا، کثر،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 161,
+   "start": 677.22,
+   "end": 681.16,
+   "text": "کثرات، خلائق، اینا همه چی اضافه اشراقیه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 162,
+   "start": 681.16,
+   "end": 684.9,
+   "text": "عین الربط به حضرت حق‌اند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 163,
+   "start": 684.9,
+   "end": 687.8,
+   "text": "اصلاً نمی‌تونی این ربط رو برداری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 164,
+   "start": 687.8,
+   "end": 691.32,
+   "text": "عین الربطن. عینا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 165,
+   "start": 691.32,
+   "end": 696.46,
+   "text": "پرتو نور اون جمال و جلال الهی‌اند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 166,
+   "start": 696.46,
+   "end": 703.0,
+   "text": "تو چگونه می‌تونی بین پرتو خورشید و خود خورشید جدایی قرار بدی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 167,
+   "start": 703.0,
+   "end": 704.58,
+   "text": "بگی این یه چیزه، اون یه چیزه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 168,
+   "start": 704.58,
+   "end": 708.18,
+   "text": "اصلاً نمی‌تونی. این پرتو همونه، کشیده شده همونه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 169,
+   "start": 708.18,
+   "end": 710.88,
+   "text": "إن من شيء إلا عندنا خزائنه دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 170,
+   "start": 710.88,
+   "end": 713.52,
+   "text": "و ما نزلناه إلا بقدر معلوم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 171,
+   "start": 713.52,
+   "end": 718.68,
+   "text": "نسبت به صاع وجودی‌شون شدت و حدتی که از اسماء الهی درشون پیاده شده،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 172,
+   "start": 718.68,
+   "end": 721.56,
+   "text": "شدت نوریه دارن. این تا اینجا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 173,
+   "start": 721.56,
+   "end": 725.48,
+   "text": "حالا به عنوان مقدمه عرض کردیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 174,
+   "start": 725.48,
+   "end": 729.16,
+   "text": "اجازه بدید که برای اینکه بحث انشاالله دقیق‌تر بشه نکته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 175,
+   "start": 729.16,
+   "end": 735.1,
+   "text": "نهصد و پنجاه و چهار حضرت استاد رو در کتاب هزار و یک نکته بخونیم با هم که در خصوص فکره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 176,
+   "start": 735.1,
+   "end": 738.4,
+   "text": "نکته خیلی عالی رو اینجا بیان می‌کنن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 177,
+   "start": 738.4,
+   "end": 740.8,
+   "text": "قابل توجه همه دوستان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 178,
+   "start": 740.8,
+   "end": 749.4,
+   "text": "حضرت استاد روح‌الشد می‌فرمایند اگر کسی بگوید در صورتی که فکر و استنباط از خواص نفس ناطقه باشد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 179,
+   "start": 749.4,
+   "end": 751.66,
+   "text": "ها؟ اگه فکر و استنباط",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 180,
+   "start": 751.66,
+   "end": 755.32,
+   "text": "از خواص نفس ناطقه است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 181,
+   "start": 755.32,
+   "end": 762.74,
+   "text": "بعد از مفارقت از بدن نیز دارای فکر و استنباط خواهد بود یا نه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 182,
+   "start": 762.74,
+   "end": 766.52,
+   "text": "حالا نفس رو بگیرید، مرحله تعلق روح به بدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 183,
+   "start": 766.52,
+   "end": 770.12,
+   "text": "می‌فرماید اگر فکر و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 184,
+   "start": 770.12,
+   "end": 774.66,
+   "text": "خواصش کلاً فکر و استنباط اینا،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 185,
+   "start": 774.66,
+   "end": 779.28,
+   "text": "اگر متعلق به نفس ناطقه است،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 186,
+   "start": 779.28,
+   "end": 781.98,
+   "text": "از خواص نفس ناطقه است،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 187,
+   "start": 781.98,
+   "end": 790.5,
+   "text": "خب وقتی که این نفس اعلام انصراف از بدن داد و ال-- اصطلاحاً می‌گیم موت حاصل شد، اینجا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 188,
+   "start": 790.5,
+   "end": 793.14,
+   "text": "چه اتفاقی می‌افته؟ آیا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 189,
+   "start": 793.14,
+   "end": 799.6,
+   "text": "فکر وجود داره هنوز؟ یعنی مردگان فکر می‌کنند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 190,
+   "start": 799.6,
+   "end": 803.7,
+   "text": "اگر از خواص نفس ناطقه است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 191,
+   "start": 803.7,
+   "end": 806.48,
+   "text": "یعنی باید مرده با خودش اینو ببره دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 192,
+   "start": 806.48,
+   "end": 812.74,
+   "text": "چون نفس از بدن جدا میشه، بدن منصرف میشه اینجا رها میشه و برمی‌گرده چرخه طبیعت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 193,
+   "start": 812.74,
+   "end": 814.52,
+   "text": "روح- فکر product نفس بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 194,
+   "start": 814.52,
+   "end": 821.44,
+   "text": "خب همینو داره میگه. میگه- جدا میشه با مونه دوباره اگر با نفسه پس مرده‌ها فکر می‌کنند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 195,
+   "start": 821.44,
+   "end": 827.04,
+   "text": "این یه سواله دیگه. حالا حضرت استاد می‌فرمایند که اگر کسی اینو بپرسه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 196,
+   "start": 827.04,
+   "end": 829.16,
+   "text": "جواب میده خود حضرت استاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 197,
+   "start": 829.16,
+   "end": 832.58,
+   "text": "در جواب می‌گوییم فکر حرکت است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 198,
+   "start": 832.58,
+   "end": 835.78,
+   "text": "همون چیزی که اول گفتیم دیگه باید زیرک باشید دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 199,
+   "start": 835.78,
+   "end": 839.76,
+   "text": "فکر حرکت است. حالا شما بفرمایید حرکت مال کجاست؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 200,
+   "start": 839.76,
+   "end": 842.1,
+   "text": "استعداد. یعنی بعد از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 201,
+   "start": 842.1,
+   "end": 845.82,
+   "text": "چی؟ نه اصلاً حرکت مال کجاست؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 202,
+   "start": 845.82,
+   "end": 848.76,
+   "text": "مال عالم استعداده. مال قوه و منه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 203,
+   "start": 848.76,
+   "end": 853.3,
+   "text": "استعداد مال اینجاست. اونور که استعدادی نیست، اونجا فعلیته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 204,
+   "start": 853.3,
+   "end": 857.8,
+   "text": "فعالیت محض است. پس اگر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 205,
+   "start": 857.8,
+   "end": 861.5,
+   "text": "فکر گفتیم که از جهت منطقی فکر یعنی حرکته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 206,
+   "start": 861.5,
+   "end": 864.16,
+   "text": "نفس از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 207,
+   "start": 864.16,
+   "end": 867.5,
+   "text": "مبادی به اون مطلوبش یا از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 208,
+   "start": 867.5,
+   "end": 869.74,
+   "text": "معلوم به مجهول. خب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 209,
+   "start": 869.74,
+   "end": 873.0,
+   "text": "حرکت از کجا میاد؟ حرکت مال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 210,
+   "start": 873.0,
+   "end": 875.46,
+   "text": "قوه و منه و استعداده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 211,
+   "start": 875.46,
+   "end": 878.14,
+   "text": "اگر این چنینه، خب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 212,
+   "start": 878.14,
+   "end": 883.54,
+   "text": "وقتی ما از این دنیا می‌ریم دیگه استعداد برداشته میشه پس باید فکر برداشته بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 213,
+   "start": 883.54,
+   "end": 886.62,
+   "text": "ببینید حضرت استاد از اینجا شروع می‌کنند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 214,
+   "start": 886.62,
+   "end": 889.5,
+   "text": "در جواب می‌گوییم فکر حرکت است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 215,
+   "start": 889.5,
+   "end": 892.56,
+   "text": "و حرکت از خواص جسم است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 216,
+   "start": 892.56,
+   "end": 897.9,
+   "text": "ملاحظه کنید که چطور انسان در فکر احساس خستگی می‌کند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 217,
+   "start": 897.9,
+   "end": 902.74,
+   "text": "چقدر قشنگ فرمودن. اصلاً خستگی مال نفسه یا جسمه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 218,
+   "start": 902.74,
+   "end": 905.42,
+   "text": "جسم. مال جسمه دیگه نفس که خسته نمیشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 219,
+   "start": 905.42,
+   "end": 910.18,
+   "text": "نفس خواب برنمی‌داره که. شما خوابیدی نفست بیداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 220,
+   "start": 910.18,
+   "end": 912.12,
+   "text": "لذا خیلی چیزا رو در عالم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 221,
+   "start": 912.12,
+   "end": 914.92,
+   "text": "رتبه مثال متصل خودت می‌بینی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 222,
+   "start": 914.92,
+   "end": 919.12,
+   "text": "در خواب. پس این که خسته میشی بدن خسته میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 223,
+   "start": 919.12,
+   "end": 921.78,
+   "text": "چرا خسته میشی؟ چون داری فکر می‌کنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 224,
+   "start": 921.78,
+   "end": 925.72,
+   "text": "پس فکر متعلق به بدنه. تعلق به بدن داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 225,
+   "start": 925.72,
+   "end": 928.34,
+   "text": "اگر امر روحانی بود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 226,
+   "start": 928.34,
+   "end": 931.6,
+   "text": "کشمکش و مصادمه و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 227,
+   "start": 931.6,
+   "end": 936.44,
+   "text": "این‌ها صدمه رسوندن. کشمکش که یعنی دعوا، نزاع، صدمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 228,
+   "start": 936.44,
+   "end": 943.18,
+   "text": "اگر امر روحانی بود کشمکش و مصادمه که موجب خستگی‌ست پیدا نمی‌شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 229,
+   "start": 943.18,
+   "end": 951.44,
+   "text": "همین طور که انسان از کثرت معلومات خسته نمی‌شود، کسیو پیدا می‌کنید از کثرت دانسته های خودش خسته بشه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 230,
+   "start": 951.44,
+   "end": 955.32,
+   "text": "نه. کیف می‌کنه، انبساط و ابتهاج پیدا می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 231,
+   "start": 955.32,
+   "end": 958.16,
+   "text": "بلکه فهمش بهتر می‌شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 232,
+   "start": 958.16,
+   "end": 962.72,
+   "text": "ولکن نفس ناطقه قوه مفکره را که از دماغ است،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 233,
+   "start": 962.72,
+   "end": 965.16,
+   "text": "آلت برای کار خود قرار می‌دهد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 234,
+   "start": 965.16,
+   "end": 969.54,
+   "text": "نفس ناطقه از طریق آلت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 235,
+   "start": 969.54,
+   "end": 972.98,
+   "text": "که قوه مفکره است در دماغ",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 236,
+   "start": 972.98,
+   "end": 975.4,
+   "text": "استفاده می‌کنه برای کار خودش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 237,
+   "start": 975.4,
+   "end": 977.2,
+   "text": "تا مطلوب خودش برسه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 238,
+   "start": 977.2,
+   "end": 981.4,
+   "text": "دماغ چیه؟ مغز بگیر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 239,
+   "start": 981.4,
+   "end": 987.44,
+   "text": "و چون خودش مدرک کلیات است به مقصود نائل می‌شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 240,
+   "start": 987.44,
+   "end": 991.7,
+   "text": "نفس مدرک کلیاته دیگه به مقصود نائل میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 241,
+   "start": 991.7,
+   "end": 997.86,
+   "text": "و بعد از مفارقت بدن دیگر تکمیل و تحصیل علوم ممکن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 242,
+   "start": 997.86,
+   "end": 1001.28,
+   "text": "نیست. این اثباتش کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 243,
+   "start": 1001.28,
+   "end": 1003.72,
+   "text": "حالا اینجا باز یه سؤال پیش میاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 244,
+   "start": 1003.72,
+   "end": 1009.48,
+   "text": "پس چگونه است که کسانی که از این دنیا میرن روایت داریم ملکی میاد اونا رو تعلیم میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 245,
+   "start": 1009.48,
+   "end": 1012.52,
+   "text": "عند ربهم یرزقون چیه که؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 246,
+   "start": 1012.52,
+   "end": 1015.92,
+   "text": "احسنت. اون روزی که می‌خورن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 247,
+   "start": 1015.92,
+   "end": 1019.62,
+   "text": "سید بحر العلوم تو این رساله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 248,
+   "start": 1019.62,
+   "end": 1022.64,
+   "text": "سید اومده که ایشون می‌فرمود اون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 249,
+   "start": 1022.64,
+   "end": 1030.8,
+   "text": "رزقی که می‌خورن عند ربهم یرزقون یا خورانده می‌شن چون فعل مج-مع-مجهول اومده، یرزقون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 250,
+   "start": 1030.8,
+   "end": 1034.26,
+   "text": "اون علم و معرفته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 251,
+   "start": 1034.26,
+   "end": 1038.08,
+   "text": "علم و معرفت بهشون میدن. حقوق طوسی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 252,
+   "start": 1038.08,
+   "end": 1040.74,
+   "text": "احسنت. اونجا، اونجا بحثش فرق می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 253,
+   "start": 1040.74,
+   "end": 1049.48,
+   "text": "یعنی اونجا اصلاً این چیزی نیست که ما تو دنیا درباره‌ش فکر می‌کنیم که باید حرکت نفس باشه از معلوم به مجهول.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 254,
+   "start": 1049.48,
+   "end": 1052.14,
+   "text": "اونجا افاضه است. افاضه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 255,
+   "start": 1052.14,
+   "end": 1055.38,
+   "text": "مستقیم بلاواسطه و، و،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 256,
+   "start": 1055.38,
+   "end": 1060.86,
+   "text": "و. حالا بخوایم بریم اون سمت از بحث خارج می‌شیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 257,
+   "start": 1060.86,
+   "end": 1064.26,
+   "text": "پس این رو اگر خواستید ببینید نکته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 258,
+   "start": 1064.26,
+   "end": 1067.7,
+   "text": "نهصد و پنجاه و چهار",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 259,
+   "start": 1067.7,
+   "end": 1072.24,
+   "text": "که برید ببینید خیلی زیبا حضرت استاد اینجا جواب دادن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 260,
+   "start": 1072.24,
+   "end": 1075.08,
+   "text": "پس- بعد از مرگ فکر دیگه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 261,
+   "start": 1075.08,
+   "end": 1078.6,
+   "text": "نقشی نداره. احسنت. بله دیگه برداشته میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 262,
+   "start": 1078.6,
+   "end": 1081.46,
+   "text": "این فکر برداشته میشه. حالا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 263,
+   "start": 1081.46,
+   "end": 1089.0,
+   "text": "چی باقی می‌مونه؟ امتداد ناطقه یعنی می‌گیم با",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 264,
+   "start": 1089.0,
+   "end": 1093.22,
+   "text": "باقیات الصالحات. فکر؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 265,
+   "start": 1093.22,
+   "end": 1097.77,
+   "text": "امتداد آسان. که آثارش در امتداد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 266,
+   "start": 1097.77,
+   "end": 1100.79,
+   "text": "ظهور داره. یعنی شما- عالم برزخ.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 267,
+   "start": 1100.79,
+   "end": 1105.61,
+   "text": "به اصطلاح بعضیا مثلا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 268,
+   "start": 1105.61,
+   "end": 1108.27,
+   "text": "عه باقیات الصالحات، باقیات الصالحات چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 269,
+   "start": 1108.27,
+   "end": 1112.03,
+   "text": "یعنی عملی انجام دادی که این عمل باقیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 270,
+   "start": 1112.03,
+   "end": 1114.81,
+   "text": "آفرین. چجوری باقی می‌مونه که امتداد داره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 271,
+   "start": 1114.81,
+   "end": 1119.53,
+   "text": "امتداد اعمال. یعنی مادام که- آثار اعمال.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 272,
+   "start": 1119.53,
+   "end": 1121.35,
+   "text": "به اصطلاح این قنات آب می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 273,
+   "start": 1121.35,
+   "end": 1125.87,
+   "text": "اثرات اون کار. اثرات و اثری- حالا اون اسم علمیش چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 274,
+   "start": 1125.87,
+   "end": 1128.55,
+   "text": "همون که حضرت آقا دارن می‌فرماین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 275,
+   "start": 1128.55,
+   "end": 1134.45,
+   "text": "ببینید ما اینو خوبه بدونید توی مسیر سیر و سلوک می‌دونید اتفاق می‌افته من و شما بیه--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 276,
+   "start": 1134.45,
+   "end": 1137.13,
+   "text": "یه روزی گفتم من برای شما اثبات می‌کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 277,
+   "start": 1137.13,
+   "end": 1140.69,
+   "text": "ما هم بعضا کشفی، شهودی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 278,
+   "start": 1140.69,
+   "end": 1146.79,
+   "text": "انتقالی، القایی، الهامی اینا برامون رخ داده ما خبر نداریم چون از جهت علمی علمشو نداریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 279,
+   "start": 1146.79,
+   "end": 1149.43,
+   "text": "نمی‌دونیم چه اتفاقی رخ داده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 280,
+   "start": 1149.43,
+   "end": 1151.21,
+   "text": "حالا هنوز من وارد اون نمی‌خوام بشم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 281,
+   "start": 1151.21,
+   "end": 1152.75,
+   "text": "یه جلسه قول دادم باهاتون صحبت کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 282,
+   "start": 1152.75,
+   "end": 1154.79,
+   "text": "آیه آل عمران چندم بود؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 283,
+   "start": 1154.79,
+   "end": 1158.51,
+   "text": "صد و نود و صد و نود و یک آل عمران بود آیات.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 284,
+   "start": 1158.51,
+   "end": 1162.59,
+   "text": "حالا non دقت بفرمایید در مسیر سیر و سلوک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 285,
+   "start": 1162.59,
+   "end": 1166.49,
+   "text": "از حیث منطقی، از حیث",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 286,
+   "start": 1166.49,
+   "end": 1171.61,
+   "text": "در حقیقت حکمت، کار فلسفی، برهان، منطق، خب؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 287,
+   "start": 1171.61,
+   "end": 1178.43,
+   "text": "وقتی که کسی شروع می‌کنه به فکر کردن که حرکت از م-معلوم به مجهوله، نفسش حرکت می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 288,
+   "start": 1178.43,
+   "end": 1180.85,
+   "text": "وقتی قدرت پیدا کرد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 289,
+   "start": 1180.85,
+   "end": 1188.75,
+   "text": "نفس قوی شد دیگه نیاز به این حرکت به این تدریجی نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 290,
+   "start": 1188.75,
+   "end": 1191.11,
+   "text": "توجه بفرمایید چی عرض می‌کنم. این حرک--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 291,
+   "start": 1191.11,
+   "end": 1195.43,
+   "text": "نفس که قوی شد فکر حرکت تدریجیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 292,
+   "start": 1195.43,
+   "end": 1199.87,
+   "text": "تدریجا از معلوم به مجهول نفس حرکت می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 293,
+   "start": 1199.87,
+   "end": 1206.69,
+   "text": "مقدمات می‌چینه، صغرا، کبرا می‌چینه، قضیه درست می‌کنه تا به مطلوبش برسه از مبادی، درسته؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 294,
+   "start": 1206.69,
+   "end": 1209.85,
+   "text": "وقتی نفس قوی شد دیگه به این حرکت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 295,
+   "start": 1209.85,
+   "end": 1212.27,
+   "text": "تدریجی نیاز نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 296,
+   "start": 1212.27,
+   "end": 1223.47,
+   "text": "دفعه‌تا براش حقیقت منکشف می‌شه و اون در مسیر فکری و برهان و منطق و حکمت و فلسفه بهش میگن حدس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 297,
+   "start": 1223.47,
+   "end": 1228.67,
+   "text": "این یادتون باشه، حدس. میگه من حدس می‌زنم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 298,
+   "start": 1228.67,
+   "end": 1232.15,
+   "text": "این اتفاق رو. دقیقا هم همون اتفاق می‌افته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 299,
+   "start": 1232.15,
+   "end": 1235.41,
+   "text": "همون حدسش این شده. این اصلاً فکرشو به کار ننداخته که.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 300,
+   "start": 1235.41,
+   "end": 1237.15,
+   "text": "نشسته دو تا چهار تا کنه که.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 301,
+   "start": 1237.15,
+   "end": 1241.97,
+   "text": "این حدس از کجا میاد؟ این یه بارقه است، بارقه الهیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 302,
+   "start": 1241.97,
+   "end": 1246.15,
+   "text": "این اون ور هست، این در مسیر منطقش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 303,
+   "start": 1246.15,
+   "end": 1248.99,
+   "text": "حالا بحث برهانیش. حالا ب--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 304,
+   "start": 1248.99,
+   "end": 1252.75,
+   "text": "برو سمت عرفان چی؟ عرفان هم شبیه به این رو داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 305,
+   "start": 1252.75,
+   "end": 1257.21,
+   "text": "شما می‌خوای بری به معرفت برسی، به عرفان برسی، به باطن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 306,
+   "start": 1257.21,
+   "end": 1260.59,
+   "text": "حقایق عالم برسی، سیر و سلوک باید بکنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 307,
+   "start": 1260.59,
+   "end": 1265.57,
+   "text": "این رساله سیر و سلوک سید بحر العلوم که جلوی منه، این رساله سیر و سلوک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 308,
+   "start": 1265.57,
+   "end": 1267.31,
+   "text": "Allame Tabatabaei که جلوی منه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 309,
+   "start": 1267.31,
+   "end": 1269.13,
+   "text": "اینا چی کار می‌کنن با شما؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 310,
+   "start": 1269.13,
+   "end": 1271.53,
+   "text": "اسمش رو خودشه دیگه. سیر،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 311,
+   "start": 1271.53,
+   "end": 1275.11,
+   "text": "سلوک، سُلاکه الی الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 312,
+   "start": 1275.11,
+   "end": 1283.09,
+   "text": "میان بر اساس یک تقدم و تأخرات و یک برنامه‌هایی شروع می‌کنن حرکت کردن، سیر می‌کنن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 313,
+   "start": 1283.09,
+   "end": 1285.69,
+   "text": "منتها این خیلی عمیق‌تره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 314,
+   "start": 1285.69,
+   "end": 1288.63,
+   "text": "از فکر. درست شد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 315,
+   "start": 1288.63,
+   "end": 1290.67,
+   "text": "این اگر این برا-- باز برای کیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 316,
+   "start": 1290.67,
+   "end": 1293.93,
+   "text": "سیر و سلوک برای نفس ضعیفه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 317,
+   "start": 1293.93,
+   "end": 1297.37,
+   "text": "وقتی نفس قوی شد میره به چ-- کجا میرسه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 318,
+   "start": 1297.37,
+   "end": 1300.81,
+   "text": "میرسه به جذبه. جذبه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 319,
+   "start": 1300.81,
+   "end": 1304.37,
+   "text": "دقت بفرمایید. در عرفان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 320,
+   "start": 1304.37,
+   "end": 1307.79,
+   "text": "معادل حدس است در حکمت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 321,
+   "start": 1307.79,
+   "end": 1311.07,
+   "text": "جذبه رو حالا بن-- بر اساس صحبت‌های",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 322,
+   "start": 1311.07,
+   "end": 1314.03,
+   "text": "همون کشکول نور، عنوان کشکول نور پیرامون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 323,
+   "start": 1314.03,
+   "end": 1317.63,
+   "text": "توحید، توحید افعالی و اینا داریم صحبت می‌کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 324,
+   "start": 1317.63,
+   "end": 1319.71,
+   "text": "حرف-- دقت بفرمایید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 325,
+   "start": 1319.71,
+   "end": 1323.57,
+   "text": "فکرتون پراکنده نشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 326,
+   "start": 1323.57,
+   "end": 1327.07,
+   "text": "اونجا بحث توحید کج-- از کجا رسیدیم به توحید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 327,
+   "start": 1327.07,
+   "end": 1329.23,
+   "text": "تجلیات الهیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 328,
+   "start": 1329.23,
+   "end": 1336.35,
+   "text": "این جذبه، این جذبه که می‌گیم که آناً دیگه تدریج‌بردار نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 329,
+   "start": 1336.35,
+   "end": 1341.65,
+   "text": "دفعه‌تا انسان به یه جایی می‌رسه، به یه حقیقتی دسترسی پیدا می‌کنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 330,
+   "start": 1341.65,
+   "end": 1346.31,
+   "text": "بهش میگن جذبه. دیگه نیاز به سیر و سلوک نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 331,
+   "start": 1346.31,
+   "end": 1350.83,
+   "text": "نفس قوی می‌شه آناً براش حقایق منکشف می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 332,
+   "start": 1350.83,
+   "end": 1354.41,
+   "text": "خب؟ پرده براش می‌رشه، به شهود و کشف می‌افته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 333,
+   "start": 1354.41,
+   "end": 1356.67,
+   "text": "به اون تو عرفان میگن جذبه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 334,
+   "start": 1356.67,
+   "end": 1360.67,
+   "text": "اون رَشْ حیث از تجلیات الهیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 335,
+   "start": 1360.67,
+   "end": 1367.29,
+   "text": "حالا برگردید به اون روایت شریفی که امام حسین در کربلا برای اصحابش تجلی کرد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 336,
+   "start": 1367.29,
+   "end": 1373.11,
+   "text": "برای شهدا تجلی کرد که اون‌طوری جان‌فشانی کردن، این‌چنان جان‌فشانی کردن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 337,
+   "start": 1373.11,
+   "end": 1375.25,
+   "text": "یعنی چی؟ یعنی جذب-- دچار",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 338,
+   "start": 1375.25,
+   "end": 1378.05,
+   "text": "جذبات حسینیه شدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 339,
+   "start": 1378.05,
+   "end": 1380.11,
+   "text": "امام حسین براشون جذبه‌ای کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 340,
+   "start": 1380.11,
+   "end": 1383.77,
+   "text": "جذب، گرفتار، مجذوب شدن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 341,
+   "start": 1383.77,
+   "end": 1389.71,
+   "text": "جذب آقا شدن. اینا اصطلاحاتیه که شما می‌تونید تو سیر بحث- اتصالی کردن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 342,
+   "start": 1389.71,
+   "end": 1393.29,
+   "text": "حالا خودمونیش می‌شه اتصالی کردن، برخورد کردن، به حضرت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 343,
+   "start": 1393.29,
+   "end": 1394.87,
+   "text": "رسیدن. اتصال شدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 344,
+   "start": 1394.87,
+   "end": 1396.57,
+   "text": "رسیدن، چشیدن آقا رو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 345,
+   "start": 1396.57,
+   "end": 1401.87,
+   "text": "اتصالی شدن. این تا اینجا حالا فرصت ما هم تموم شده وقتمون فقط دیگه توضیح نمی‌دم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 346,
+   "start": 1401.87,
+   "end": 1404.59,
+   "text": "یه بخشی رو از رساله سیر و سلوک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 347,
+   "start": 1404.59,
+   "end": 1407.51,
+   "text": "Allame Tabatabaei هم براتون بخونم روحشون شاد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 348,
+   "start": 1407.51,
+   "end": 1409.99,
+   "text": "که ایشون نفی خواطر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 349,
+   "start": 1409.99,
+   "end": 1414.63,
+   "text": "و فکر و ذکر رو با هم توأمان میاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 350,
+   "start": 1414.63,
+   "end": 1417.53,
+   "text": "دقت بفرمایید. می‌فرماید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 351,
+   "start": 1417.53,
+   "end": 1420.01,
+   "text": "حالا مراحل سیر و سلوک رو داره می‌شماره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 352,
+   "start": 1420.01,
+   "end": 1424.89,
+   "text": "رسیده به بیست و سوم، بیست و چهارم و بیست و پنجم از مرحله سیر و سلوک.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 353,
+   "start": 1424.89,
+   "end": 1430.19,
+   "text": "عبارت از است نفی خواطر و فکر و ذکر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 354,
+   "start": 1430.19,
+   "end": 1433.01,
+   "text": "برای اینکه ما بریم به سمت فکر،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 355,
+   "start": 1433.01,
+   "end": 1436.11,
+   "text": "حالا توضیح میده من اینا رو نمی‌خوام دیگه توضیح بدم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 356,
+   "start": 1436.11,
+   "end": 1439.91,
+   "text": "وقتم گذشته. خلاصه‌شو به شما عرض می‌کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 357,
+   "start": 1439.91,
+   "end": 1443.11,
+   "text": "برای اینکه بخوایم بریم برسیم به فکر، بحث ما چی بود؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 358,
+   "start": 1443.11,
+   "end": 1447.27,
+   "text": "عزیزانی که دیر اومدن فرمایش مولا علی چی، چی بود؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 359,
+   "start": 1447.27,
+   "end": 1449.41,
+   "text": "در اوصاف مؤمن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 360,
+   "start": 1449.41,
+   "end": 1452.79,
+   "text": "فرمود و یسبحوا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 361,
+   "start": 1452.79,
+   "end": 1457.85,
+   "text": "اینا سب می‌کنن در حالی که و شغلهه الفکر شغل‌شون،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 362,
+   "start": 1457.85,
+   "end": 1460.74,
+   "text": "اون که دائم بهش مشغولن فکره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 363,
+   "start": 1460.74,
+   "end": 1463.88,
+   "text": "حالا اینجا حضرت استاد علامه طباطبایی علیه الرحمه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 364,
+   "start": 1463.88,
+   "end": 1469.08,
+   "text": "و الرضوان می‌فرماید اگر می‌خوای به فکر برسی راهش نفی خواطر است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 365,
+   "start": 1469.08,
+   "end": 1471.78,
+   "text": "باید با هم باشن اینا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 366,
+   "start": 1471.78,
+   "end": 1475.0,
+   "text": "بعد می‌فرماید نفی خواطر، فکر و ذکر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 367,
+   "start": 1475.0,
+   "end": 1480.1,
+   "text": "اینا رو با هم میاره. چرا؟ اصلاً نمی‌تونی یکیشو ورداری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 368,
+   "start": 1480.1,
+   "end": 1489.68,
+   "text": "نفی خواطر یعنی- یعنی قوه خیالت رو پاک‌سازی کنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 369,
+   "start": 1489.68,
+   "end": 1493.12,
+   "text": "خاطرات وجودی. اون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 370,
+   "start": 1493.12,
+   "end": 1496.66,
+   "text": "انتهاش می‌شه انقطاع. شما رو می‌رسونه به انقطاع.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 371,
+   "start": 1496.66,
+   "end": 1501.28,
+   "text": "ولی از پاک‌سازی قوه خیال شروع می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 372,
+   "start": 1501.28,
+   "end": 1506.76,
+   "text": "نفی خواطر. باید متخیلات فاسده پاک بشن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 373,
+   "start": 1506.76,
+   "end": 1511.74,
+   "text": "اصلاً. ببینم اینطوری بگم که برسونیم به صحبت حضرت عالی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 374,
+   "start": 1511.74,
+   "end": 1515.04,
+   "text": "که کندن از همه چی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 375,
+   "start": 1515.04,
+   "end": 1517.94,
+   "text": "کندن از تعلقات چجوری حاصل می‌شه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 376,
+   "start": 1517.94,
+   "end": 1521.74,
+   "text": "اصلاً اونچه که در قوه خیال صورت و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 377,
+   "start": 1521.74,
+   "end": 1524.28,
+   "text": "شکل ایجاد میشه، این‌ها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 378,
+   "start": 1524.28,
+   "end": 1529.32,
+   "text": "فعل چی‌ان؟ صورتی که در قوه خیال ایجاد میشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 379,
+   "start": 1529.32,
+   "end": 1531.1,
+   "text": "درست می‌شه فعل چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 380,
+   "start": 1531.1,
+   "end": 1534.72,
+   "text": "فعل کیه؟ فعل نفسته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 381,
+   "start": 1534.72,
+   "end": 1541.1,
+   "text": "نفس داره ایجاد می‌کنه. یعنی قوه خیال یه رتبه از نفسه، یک شأن از شؤون نفسه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 382,
+   "start": 1541.1,
+   "end": 1545.3,
+   "text": "نفس داره ایجاد می‌کنه قوه خیال این صورت رو ایجاد کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 383,
+   "start": 1545.3,
+   "end": 1548.34,
+   "text": "لذا علامه فرمود مطلقاً اونچه که در قوه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 384,
+   "start": 1548.34,
+   "end": 1554.82,
+   "text": "خیال رخ می‌ده، چه در مثال متصل، چه منفصل، در-- چه در خواب، چه در بیداری، تمسلات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 385,
+   "start": 1554.82,
+   "end": 1557.04,
+   "text": "اینا همه رخ میده ایجاد نفسه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 386,
+   "start": 1557.04,
+   "end": 1562.02,
+   "text": "جدای از تو نیست. ایجاد نفس ناطق است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 387,
+   "start": 1562.02,
+   "end": 1563.92,
+   "text": "نفست این رو ایجاد کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 388,
+   "start": 1563.92,
+   "end": 1566.68,
+   "text": "درسته؟ اینا رو که متوجه میشیم دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 389,
+   "start": 1566.68,
+   "end": 1570.06,
+   "text": "خب اگر این چنینه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 390,
+   "start": 1570.06,
+   "end": 1574.2,
+   "text": "خب ما قراره اون طرف با چی محشور باشیم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 391,
+   "start": 1574.2,
+   "end": 1579.42,
+   "text": "با همون صور و اشکال. اونا توسط نفس ایجاد می‌شن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 392,
+   "start": 1579.42,
+   "end": 1583.96,
+   "text": "تا وقتی که نفس از تعلقاتش نکنده،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 393,
+   "start": 1583.96,
+   "end": 1589.48,
+   "text": "صور و اشکالی که ایجاد می‌کنه موهشه و وحشتناک و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 394,
+   "start": 1589.48,
+   "end": 1593.4,
+   "text": "خبیثه و ترسناک و پست و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 395,
+   "start": 1593.4,
+   "end": 1596.18,
+   "text": "این چیزاست. بیچاره کننده‌ست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 396,
+   "start": 1596.18,
+   "end": 1599.98,
+   "text": "آقا برق رو خاموش می‌کنه میره توی اتاق درو می‌بنده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 397,
+   "start": 1599.98,
+   "end": 1604.38,
+   "text": "تلویزیون رو خاموش می‌کنه. هیچ-- «بچه ساکت باش می‌خوام نماز بخونم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 398,
+   "start": 1604.38,
+   "end": 1607.24,
+   "text": "اون پنجره رو ببند صدای قارقار کلاغ نیاد»",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 399,
+   "start": 1607.24,
+   "end": 1610.88,
+   "text": "ولی همین که شروع می‌کنه تو خلوتش رفته همه جا هم تاریکه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 400,
+   "start": 1610.88,
+   "end": 1613.9,
+   "text": "درسته؟ اما چه کنه با",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 401,
+   "start": 1613.9,
+   "end": 1617.12,
+   "text": "توهماتش، با تخیلاتش؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 402,
+   "start": 1617.12,
+   "end": 1619.98,
+   "text": "از درون غوغاست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 403,
+   "start": 1619.98,
+   "end": 1626.64,
+   "text": "به هزار چیز فکر می‌کنه. اصلاً به هزار و یک چیز باز فکر نمی‌کنه بهتره به اصطلاح رو درست استفاده کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 404,
+   "start": 1626.64,
+   "end": 1629.32,
+   "text": "تخیلشه، توهمشه، فکر نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 405,
+   "start": 1629.32,
+   "end": 1632.88,
+   "text": "فکر به این معنای منطقی نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 406,
+   "start": 1632.88,
+   "end": 1636.72,
+   "text": "این پیش-- این تا این رو، این نفی خواطر نکنه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 407,
+   "start": 1636.72,
+   "end": 1640.26,
+   "text": "اون خاطره‌های بیخود رو از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 408,
+   "start": 1640.26,
+   "end": 1644.34,
+   "text": "قوه خیالش پاک‌سازی نکنه، نمی‌تونه فکر کنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 409,
+   "start": 1644.34,
+   "end": 1647.86,
+   "text": "و کسی هم که فکر نکنه نمی‌رسه به ذکر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 410,
+   "start": 1647.86,
+   "end": 1652.0,
+   "text": "که اول عرض کردیم آیه‌شم که گفتیم آیه صد و نود و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 411,
+   "start": 1652.0,
+   "end": 1654.92,
+   "text": "ص-صد و نود و یک سوره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 412,
+   "start": 1654.92,
+   "end": 1660.2,
+   "text": "آل عمران. یکی از شاگردان حضرت استاد این چنین می‌فرماید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 413,
+   "start": 1660.2,
+   "end": 1662.96,
+   "text": "چون این-- حضرت علامه طباطبایی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 414,
+   "start": 1662.96,
+   "end": 1665.06,
+   "text": "«چون این سه تا یک نوع",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 415,
+   "start": 1665.06,
+   "end": 1673.42,
+   "text": "درهم آمیختگی توأمانی با هم دارند و هر کدام بدون دیگری تحقق واقعی پیدا نمی‌کنند لذا یکجا و با هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 416,
+   "start": 1673.42,
+   "end": 1676.68,
+   "text": "مطرح فرموده است». یعنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 417,
+   "start": 1676.68,
+   "end": 1679.52,
+   "text": "نفی خواطر رو آورده کنار",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 418,
+   "start": 1679.52,
+   "end": 1685.42,
+   "text": "فکر و ذکر. چون این سه تا، اینو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 419,
+   "start": 1685.42,
+   "end": 1691.38,
+   "text": "فرمایش شاگردشه. «چون این سه تا یک نوع درهم آمیختگی توأمانی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 420,
+   "start": 1691.38,
+   "end": 1701.12,
+   "text": "با هم دارند و هر کدام بدون دیگری تحقق واقعی پیدا نمی‌کند لذا یکجا و با هم مطرح شده است، مطرح فرموده است».",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 421,
+   "start": 1701.12,
+   "end": 1704.46,
+   "text": "اینو حضرت آیت الله جعفری",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 422,
+   "start": 1704.46,
+   "end": 1708.76,
+   "text": "فرمودن که از شاگردان برجسته علامه طباطبایی بودند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 423,
+   "start": 1708.76,
+   "end": 1712.5,
+   "text": "حالا این جمله علامه طباطبایی رو من کامل کنم و شما رو به خدا بسپارم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 424,
+   "start": 1712.5,
+   "end": 1717.86,
+   "text": "پس یه بار دیگه بخونم. بیست و سومین، بیست و چهارمین و بیست و پنجمین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 425,
+   "start": 1717.86,
+   "end": 1720.38,
+   "text": "مراحل سیر و سلوک رو ایشون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 426,
+   "start": 1720.38,
+   "end": 1724.4,
+   "text": "می‌شمردن. نفی خواطر و فکر و ذکر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 427,
+   "start": 1724.4,
+   "end": 1731.86,
+   "text": "بعد می‌فرماید و این سه مرحله از مهمات وسایل وصول است به مقصد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 428,
+   "start": 1731.86,
+   "end": 1739.38,
+   "text": "و اکثر کسانی که از راه باز مانده و نتوانسته‌اند به منزل مقصود دست یابند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 429,
+   "start": 1739.38,
+   "end": 1743.82,
+   "text": "در همین مراحل سه‌گانه به هلاکت رسیدند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 430,
+   "start": 1743.82,
+   "end": 1746.52,
+   "text": "متوقف، متوقف نکردند، هلاک شدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 431,
+   "start": 1746.52,
+   "end": 1753.3,
+   "text": "هلاک شدن آفرین. چه خطرات این مناز-- منازل عبارت است از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 432,
+   "start": 1753.3,
+   "end": 1759.26,
+   "text": "عبادت اسنام و اوثان و کواکب و آتش و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 433,
+   "start": 1759.26,
+   "end": 1765.28,
+   "text": "حیوانات و زنده دگ و دعوای حلول و اتحاد و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 434,
+   "start": 1765.28,
+   "end": 1770.5,
+   "text": "به همگی آنها بعداً اشاره خواهد شد ان شاء الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 435,
+   "start": 1770.5,
+   "end": 1775.68,
+   "text": "حضرت استاد می‌گن همه اینا حتی بت پرستی و مش-- شرک و اینا مظاهرش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 436,
+   "start": 1775.68,
+   "end": 1782.78,
+   "text": "دعوای دعوای حلول و اتحاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 437,
+   "start": 1782.78,
+   "end": 1785.9,
+   "text": "حلول و اتحاد. که مثلاً یه سری میگن حلولی میشن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 438,
+   "start": 1785.9,
+   "end": 1792.7,
+   "text": "میگن خدا حلول کرده مثلاً در این نباتات، در این جمادات، در-- خدا حلول کرده در انسان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 439,
+   "start": 1792.7,
+   "end": 1797.06,
+   "text": "یه سری می‌زنن تو سر اونا میگن خجالت بکشید مشرکین بالله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 440,
+   "start": 1797.06,
+   "end": 1801.4,
+   "text": "اتفاقاً خدا اتحاد وجودی با اینا برقرار کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 441,
+   "start": 1801.4,
+   "end": 1806.32,
+   "text": "دعوا می‌کنن با هم. میگن خدا با اینا متج-- باز هر دو بوی دوییّت میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 442,
+   "start": 1806.32,
+   "end": 1809.06,
+   "text": "اونکه حلول کرده یعنی خدای جدا،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 443,
+   "start": 1809.06,
+   "end": 1810.94,
+   "text": "خلق جدا. حالا خدا اومد حلول کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 444,
+   "start": 1810.94,
+   "end": 1813.92,
+   "text": "اونکه میگه اتحاد باز خدا جدا، خلق جدا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 445,
+   "start": 1813.92,
+   "end": 1816.26,
+   "text": "اومد با خدا، با بنده‌ش متحد شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 446,
+   "start": 1816.26,
+   "end": 1819.32,
+   "text": "این چه حرفای گزافیه شما، بیخودی شما می‌زنید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 447,
+   "start": 1819.32,
+   "end": 1825.46,
+   "text": "«و ما معکم ain ما کنتم» اصلاً جدایی وجود نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 448,
+   "start": 1825.46,
+   "end": 1828.32,
+   "text": "کثرت عین وحدت، وحدت عین کثرت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 449,
+   "start": 1828.32,
+   "end": 1829.9,
+   "text": "مثل نفس و قوای نفس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 450,
+   "start": 1829.9,
+   "end": 1834.58,
+   "text": "«ان النفس».",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 451,
+   "start": 1834.58,
+   "end": 1838.42,
+   "text": "نفس. «في وحدته کل القوی».",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 452,
+   "start": 1838.42,
+   "end": 1840.4,
+   "text": "«ان النفس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 453,
+   "start": 1840.4,
+   "end": 1842.94,
+   "text": "فی وحدته کل القوی».",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 454,
+   "start": 1842.94,
+   "end": 1846.74,
+   "text": "یک وجود واحد اما همه قوای خودش رو داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 455,
+   "start": 1846.74,
+   "end": 1850.26,
+   "text": "شما وقتی میگی نفس یعنی قوه باصره‌شم دیدی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 456,
+   "start": 1850.26,
+   "end": 1853.22,
+   "text": "سامعه‌شم دیدی، ذائقه‌شم دیدی، چشاییشو،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 457,
+   "start": 1853.22,
+   "end": 1856.5,
+   "text": "تخیلشو دیدی، توهمشو دیدی، تعقلشو دیدی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 458,
+   "start": 1856.5,
+   "end": 1858.76,
+   "text": "قلبشو دیدی، روحشو دیدی، سرشو دیدی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 459,
+   "start": 1858.76,
+   "end": 1861.36,
+   "text": "همه این‌ها بهش میگی نفس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 460,
+   "start": 1861.36,
+   "end": 1863.94,
+   "text": "درسته؟ حالا میگی حضرت حق،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 461,
+   "start": 1863.94,
+   "end": 1866.54,
+   "text": "حضرت حق رو از ک--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 462,
+   "start": 1866.54,
+   "end": 1869.94,
+   "text": "وحدت محضه که مرتبه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 463,
+   "start": 1869.94,
+   "end": 1878.78,
+   "text": "اهدیته که همه حقایق مندمج‌اند در او بگیر بیار تا مرتبه کثرات، یک وجود واحد عالم میشه اطوار وجودی حق.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 464,
+   "start": 1878.78,
+   "end": 1885.38,
+   "text": "همه شؤون ظهور، شؤون حقن، ظهور حقن، اطوار وجودی حقن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 465,
+   "start": 1885.38,
+   "end": 1888.7,
+   "text": "برای همین فرمود \"من عرف نفسه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 466,
+   "start": 1888.7,
+   "end": 1892.96,
+   "text": "فقد عرف ربه\". کسی که نفسش رو شناخت پروردگارشو می‌شناسه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 467,
+   "start": 1892.96,
+   "end": 1896.64,
+   "text": "اصلاً به جز از طریق معرفت نفس قربونتون برم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 468,
+   "start": 1896.64,
+   "end": 1900.28,
+   "text": "نمیشه خدا رو شناخت. خب قرار بود دعامون چی باشه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 469,
+   "start": 1900.28,
+   "end": 1907.06,
+   "text": "انتهای بحث. دیگه باید ادامه میدن توضیحشو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 470,
+   "start": 1907.06,
+   "end": 1908.72,
+   "text": "ایشون ادامه میدن بحث رو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 471,
+   "start": 1908.72,
+   "end": 1911.2,
+   "text": "میگه انشاالله در آینده میگیم و میگن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 472,
+   "start": 1911.2,
+   "end": 1915.18,
+   "text": "اما دیگه فرصتمون چون تموم شده ادامه ندادیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 473,
+   "start": 1915.18,
+   "end": 1919.0,
+   "text": "اللهم بارک لمولانا صاحب الزمان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 474,
+   "start": 1919.0,
+   "end": 1921.0,
+   "text": "والحمد لله رب العالمين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 475,
+   "start": 1921.0,
+   "end": 1923.72,
+   "text": "صلوات. اللهم صل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 476,
+   "start": 1923.72,
+   "end": 1926.18,
+   "text": "علی محمد و آل محمد و عجل فرجهم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

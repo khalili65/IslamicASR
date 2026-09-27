@@ -1,0 +1,60 @@
+{
+ "id": "003",
+ "index": 3,
+ "lecturer": "bayat",
+ "course": "qalb_monharef",
+ "title": "یادآوری شک دو و سه و قاعدهٔ پایهٔ دو",
+ "topic": null,
+ "summary": "شک دو و سه و قاعدهٔ پایهٔ دو یادآوری می‌شود. انحراف قلب با ظلم به‌ویژه تبعیت هوا پیوند می‌خورد. داستان جوان هفده‌سالهٔ شهید حجتی بر ضد توجیه گناه به بهانهٔ محیط است.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/qalb_monharef/003/003_play.m4a",
+  "filename": "003_play.m4a",
+  "size": 7120110,
+  "display": "6.8 MB",
+  "duration": 582.06,
+  "durationText": "9:42"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "003.vtt",
+   "cues": "003.cues.json",
+   "words": "003.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## یادآوری شک دو و سه و قاعدهٔ پایهٔ دو",
+   "start": 13.42,
+   "end": 324.16
+  },
+  {
+   "index": 1,
+   "title": "## داستان جوان هفده‌ساله و مخالفت نفس",
+   "start": 324.16,
+   "end": 348.72
+  },
+  {
+   "index": 2,
+   "title": "## حجت بر اهل توجیه",
+   "start": 348.72,
+   "end": 582.06
+  }
+ ],
+ "recordedAt": 1769551208,
+ "sourceName": "قلب منحرف3_ ج54.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "002",
+ "next": "004"
+}

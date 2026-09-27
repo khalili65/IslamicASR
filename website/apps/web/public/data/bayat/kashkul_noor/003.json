@@ -1,0 +1,66 @@
+{
+ "id": "003",
+ "index": 3,
+ "lecturer": "bayat",
+ "course": "kashkul_noor",
+ "title": "نمازِ شب و ظرفیتِ دنیا",
+ "topic": null,
+ "summary": "نمازِ شب جزایی دارد که دنیا گنجایشش را ندارد؛ نورِ چهره اثرِ وضعیِ خلوتِ سحر است، نه مقامِ محمود. دنیا برای حسنات و سیّئاتِ بزرگ کوچک است؛ «حسبهم جهنّم» نشانِ عظمتِ نشئهٔ دیگر است و نمازشب‌خوان باید چشم به قیامت داشته باشد.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/kashkul_noor/003/003_play.m4a",
+  "filename": "003_play.m4a",
+  "size": 5148742,
+  "display": "4.9 MB",
+  "duration": 411.0,
+  "durationText": "6:51"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "003.vtt",
+   "cues": "003.cues.json",
+   "words": "003.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "یکی از اموری که دنیا ظرفیّتِ جزای کاملِ آن را ندارد، نمازِ شب است. از همین‌رو آمده است:",
+   "start": 0.76,
+   "end": 45.02
+  },
+  {
+   "index": 1,
+   "title": "## اثرِ وضعیِ نورِ سحر",
+   "start": 45.02,
+   "end": 105.58
+  },
+  {
+   "index": 2,
+   "title": "## دنیا گنجایشِ جزای کامل ندارد",
+   "start": 105.58,
+   "end": 349.62
+  },
+  {
+   "index": 3,
+   "title": "## حسبهم جهنّم",
+   "start": 349.62,
+   "end": 411.0
+  }
+ ],
+ "recordedAt": 1763692882,
+ "sourceName": "#کشکول_نور ۳۰-۱۱-۴۰۳.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "002",
+ "next": "004"
+}

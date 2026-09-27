@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { ListIcon, SearchIcon } from "@/components/Icons";
+import { AskIcon, ListIcon, SearchIcon } from "@/components/Icons";
 
 type Props = {
   brandName: string;
@@ -10,6 +10,7 @@ type Props = {
 };
 
 const LINKS = [
+  { href: "/ask/", label: "پرسش", Icon: AskIcon },
   { href: "/search/", label: "جستجو", Icon: SearchIcon },
   { href: "/my-list/", label: "فهرست من", Icon: ListIcon },
 ];
@@ -19,7 +20,7 @@ export function SiteHeader({ brandName }: Props) {
 
   return (
     <header className="sticky top-0 z-40 border-b border-white/50 bg-bg/70 backdrop-blur-lg">
-      <div className="mx-auto flex h-16 max-w-3xl items-center justify-between gap-3 px-4">
+      <div className="mx-auto flex h-16 max-w-5xl items-center justify-between gap-3 px-4">
         <Link href="/" className="flex items-center gap-2.5">
           <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-brand-deep text-sm font-black text-white shadow-card">
             {brandName.trim().charAt(0) || "د"}

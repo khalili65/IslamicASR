@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>نقشهٔ مادر — معرفت نفس (علامه حسن‌زاده آملی)</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic:wght@400;500;600;700&family=Noto+Sans+Arabic:wght@300;400;500;600;700&display=swap');
+
+  :root {
+    --ink: #1c1914;
+    --muted: #5a5348;
+    --line: #c4b8a4;
+    --paper: #f7f1e6;
+    --panel: #efe6d6;
+    --accent: #7a4e2d;
+    --accent-soft: #d9c4a8;
+    --nature: #3d5a45;
+    --mithal: #4a5f7a;
+    --aql: #6b4a6e;
+    --ilahi: #8b3a2f;
+  }
+
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: #ddd6c8;
+    color: var(--ink);
+    font-family: 'Noto Sans Arabic', 'Noto Naskh Arabic', sans-serif;
+  }
+
+  .sheet {
+    width: 420mm;
+    min-height: 297mm;
+    margin: 12mm auto;
+    padding: 14mm 16mm 12mm;
+    background: var(--paper);
+    border: 1px solid var(--line);
+    position: relative;
+  }
+
+  .eyebrow {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 12px;
+    border-bottom: 1.5px solid var(--ink);
+    padding-bottom: 6mm;
+    margin-bottom: 8mm;
+  }
+  .eyebrow .brand {
+    font-family: 'Noto Naskh Arabic', serif;
+    font-size: 28pt;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .eyebrow .meta {
+    text-align: left;
+    font-size: 9pt;
+    color: var(--muted);
+    line-height: 1.55;
+    max-width: 95mm;
+  }
+
+  .lead {
+    font-family: 'Noto Naskh Arabic', serif;
+    font-size: 13pt;
+    line-height: 1.7;
+    margin: 0 0 8mm;
+    max-width: 280mm;
+  }
+  .lead strong { color: var(--accent); font-weight: 700; }
+
+  .grid {
+    display: grid;
+    grid-template-columns: 1.15fr 0.95fr;
+    gap: 8mm;
+    align-items: start;
+  }
+
+  .map {
+    border: 1.5px solid var(--ink);
+    padding: 6mm;
+    background: linear-gradient(180deg, #fbf7ef 0%, #f0e6d4 100%);
+  }
+  .map h2 {
+    margin: 0 0 4mm;
+    font-size: 11pt;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+  }
+
+  .ladder {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+  .rung {
+    border: 1px solid var(--ink);
+    padding: 3.5mm 4mm;
+    position: relative;
+    background: #fffdf8;
+  }
+  .rung + .rung { margin-top: 5mm; }
+  .rung::after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: -5.2mm;
+    width: 1.5px;
+    height: 5.2mm;
+    background: var(--ink);
+    transform: translateX(-50%);
+  }
+  .rung:last-child::after { display: none; }
+
+  .rung .tag {
+    display: inline-block;
+    font-size: 8pt;
+    font-weight: 600;
+    padding: 1px 7px;
+    border: 1px solid currentColor;
+    margin-bottom: 1.5mm;
+  }
+  .rung h3 {
+    margin: 0 0 1mm;
+    font-family: 'Noto Naskh Arabic', serif;
+    font-size: 15pt;
+    font-weight: 700;
+    line-height: 1.25;
+  }
+  .rung p {
+    margin: 0;
+    font-size: 9.5pt;
+    line-height: 1.55;
+    color: var(--muted);
+  }
+  .rung.ilahi { border-color: var(--ilahi); color: var(--ilahi); }
+  .rung.aql { border-color: var(--aql); color: var(--aql); }
+  .rung.mithal { border-color: var(--mithal); color: var(--mithal); }
+  .rung.nature { border-color: var(--nature); color: var(--nature); }
+  .rung h3, .rung p { color: var(--ink); }
+
+  .side {
+    display: flex;
+    flex-direction: column;
+    gap: 5mm;
+  }
+  .card {
+    border: 1px solid var(--line);
+    background: var(--panel);
+    padding: 4.5mm 5mm;
+  }
+  .card h2 {
+    margin: 0 0 2.5mm;
+    font-size: 10.5pt;
+    font-weight: 700;
+    color: var(--accent);
+  }
+  .card ul {
+    margin: 0;
+    padding: 0 4.5mm 0 0;
+    font-size: 9.5pt;
+    line-height: 1.65;
+  }
+  .card li + li { margin-top: 1mm; }
+
+  .arcs {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3mm;
+  }
+  .arc {
+    border: 1px solid var(--ink);
+    padding: 3.5mm;
+    background: #fffdf8;
+    text-align: center;
+  }
+  .arc .label {
+    font-size: 8pt;
+    color: var(--muted);
+    margin-bottom: 1mm;
+  }
+  .arc .title {
+    font-family: 'Noto Naskh Arabic', serif;
+    font-size: 13pt;
+    font-weight: 700;
+  }
+  .arc .desc {
+    font-size: 8.5pt;
+    color: var(--muted);
+    margin-top: 1mm;
+    line-height: 1.45;
+  }
+
+  .human-cut {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2mm;
+    margin-top: 2mm;
+  }
+  .human-cut div {
+    border: 1px solid var(--ink);
+    background: #fffdf8;
+    padding: 2.5mm;
+    text-align: center;
+  }
+  .human-cut strong {
+    display: block;
+    font-family: 'Noto Naskh Arabic', serif;
+    font-size: 11pt;
+  }
+  .human-cut span {
+    display: block;
+    font-size: 8pt;
+    color: var(--muted);
+    margin-top: 1mm;
+    line-height: 1.4;
+  }
+
+  .footer {
+    margin-top: 7mm;
+    padding-top: 4mm;
+    border-top: 1px solid var(--line);
+    display: grid;
+    grid-template-columns: 1.4fr 1fr;
+    gap: 6mm;
+    font-size: 8.5pt;
+    color: var(--muted);
+    line-height: 1.55;
+  }
+  .footer b { color: var(--ink); }
+
+  @media print {
+    @page { size: A3 landscape; margin: 8mm; }
+    html, body { background: white; }
+    .sheet {
+      margin: 0;
+      width: auto;
+      min-height: auto;
+      border: none;
+      page-break-inside: avoid;
+    }
+  }
+</style>
+</head>
+<body>
+  <article class="sheet">
+    <header class="eyebrow">
+      <div class="brand">نقشهٔ مادرِ معرفت نفس</div>
+      <div class="meta">
+        بر پایهٔ بیان علامه حسن‌زاده آملی<br />
+        دروس معرفت نفس · عیون مسائل النفس<br />
+        برای دورهٔ شرح کلاس‌ها — چاپ A3 افقی
+      </div>
+    </header>
+
+    <p class="lead">
+      «<strong>وجود است که مشهود ماست</strong>» — درس اول.
+      روح انسان را مراتب <strong>تجرد برزخی، عقلانی و فوق تجرد عقلانی</strong> است که حدّ یقف ندارد؛
+      بدن روح متجسّد است. طفره محال است.
+    </p>
+
+    <div class="grid">
+      <section class="map" aria-label="نردبان نشئات">
+        <h2>اصول ۳ تا ۶ علامه — از بالا در کمال، از پایین در سلوک</h2>
+        <div class="ladder">
+          <div class="rung ilahi">
+            <span class="tag">اصل ۵ · فوق تجرد عقلانی · الهی / قلبی / اسمائی</span>
+            <h3>فوق تجرد</h3>
+            <p>مجرد از ماده و از ماهیت؛ او را حدّ یقف نیست؛ سرِّ سرّ و نسبت با ربّ وجودی.</p>
+          </div>
+          <div class="rung aql">
+            <span class="tag">اصل ۴ · تجرد عقلانی · جبروتی / روحانی</span>
+            <h3>عقلی</h3>
+            <p>گوهر بسیط ماورای طبیعت؛ فساد نمی‌پذیرد؛ عقل هیولانی ← بالملکه ← بالفعل ← مستفاد؛ اتحاد با عقل فعال.</p>
+          </div>
+          <div class="rung mithal">
+            <span class="tag">اصل ۳ · تجرد برزخی · خیال / مثال متصل / ملکوت</span>
+            <h3>مثالی / برزخی</h3>
+            <p>مقام خیال نفس و مثال متصل؛ صورت دارد، مادهٔ دنیایی ندارد؛ دستگاه عکاسی و صورت‌گری نفس؛ بدون آن طفره به عقل محال است.</p>
+          </div>
+          <div class="rung nature">
+            <span class="tag">اصل ۶ · جسمانیة الحدوث · نشئهٔ طبیعت</span>
+            <h3>طبیعی / حسی</h3>
+            <p>بدن = روح متجسّد؛ مرتبهٔ نازلهٔ همان حقیقت؛ حدوث نفس در دل جسم؛ روحانیة البقاء.</p>
+          </div>
+        </div>
+      </section>
+
+      <aside class="side">
+        <div class="card">
+          <h2>یک حقیقت ممتد — نه چند «من»</h2>
+          <div class="human-cut">
+            <div>
+              <strong>روح</strong>
+              <span>مرتبهٔ عالی‌تر همان حقیقت</span>
+            </div>
+            <div>
+              <strong>نفس</strong>
+              <span>مدبّر بدن · برزخِ انسان</span>
+            </div>
+            <div>
+              <strong>بدن</strong>
+              <span>روح متجسّم · شأن نازل</span>
+            </div>
+          </div>
+          <ul style="margin-top:3mm">
+            <li>النفس فی وحدتها کلّ القوی — همهٔ قوا شئون یک نفس‌اند.</li>
+            <li>بدن شأنی از شئون نفس است، نه بیگانهٔ الصاق‌شده.</li>
+            <li>اصل ۷: نفس عین مدرکات خویش است — انسان همان می‌شود که ادراک کرده.</li>
+          </ul>
+        </div>
+
+        <div class="arcs">
+          <div class="arc">
+            <div class="label">تنزّل فیض</div>
+            <div class="title">قوس نزول</div>
+            <div class="desc">از وحدت و اطلاق به تعیّن و کثرت</div>
+          </div>
+          <div class="arc">
+            <div class="label">بازگشت استکمالی</div>
+            <div class="title">قوس صعود</div>
+            <div class="desc">از ماده به مثال به عقل به فوق عقل</div>
+          </div>
+        </div>
+
+        <div class="card">
+          <h2>سه حکمِ راه — همیشه روی نقشه بمان</h2>
+          <ul>
+            <li><b>طفره محال است:</b> بدون عبور از مثال به عقل نمی‌رسی.</li>
+            <li><b>معرفت نفس مرقات معرفت رب است:</b> خودشناسی شاهراه توحید و معاد.</li>
+            <li><b>علم باید دارایی شود:</b> ملکات از تکرار عمل ساخته می‌شوند و صورت برزخی می‌سازند.</li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <h2>قوای ادراک (از ظاهر به باطن)</h2>
+          <ul>
+            <li>حس ظاهر → حس مشترک → خیال → واهمه / متخیله → عقل → قلب / فوق تجرد</li>
+            <li>خیال: «دستگاه عکاسی و صورت‌گری نفس ناطقه»؛ تا پاک نشود، راه عقل باز نمی‌شود.</li>
+          </ul>
+        </div>
+      </aside>
+    </div>
+
+    <footer class="footer">
+      <div>
+        <b>منبع‌محوری این پوستر:</b>
+        اصول ۳–۷ دروس معرفت نفس به‌نقل مستقیم در متن‌های کتابی جلسات
+        (از جمله ۰۰۷، ۰۱۱، ۰۳۸، ۰۴۳، ۰۵۵، ۰۵۷، ۰۶۱).
+        تعبیر «الهی / قلبی / اسمائی» نام‌های همان فوق تجرد در شرح کلاس است، نه رتبه‌ای جدا.
+      </div>
+      <div>
+        <b>چگونه استفاده شود:</b>
+        هر جلسه فقط یک «اتاق» را رنگ کنید.
+        ابتدا بپرسید: امروز در کدام نشئه‌ایم؟ کدام تجرد؟ کدام قوه؟
+        سپس متن درس را بخوانید.
+      </div>
+    </footer>
+  </article>
+</body>
+</html>

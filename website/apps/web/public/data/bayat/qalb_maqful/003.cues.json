@@ -1,0 +1,934 @@
+{
+ "version": 1,
+ "sessionId": "003",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 416.1,
+ "alignment": {
+  "exact": 901,
+  "total": 901,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## قفلِ قلب و مانعِ تدبّر",
+   "start": 0.84,
+   "end": 79.1
+  },
+  {
+   "index": 1,
+   "title": "## دو گونه سوءِ عاقبت؛ از اسرار الصلاة",
+   "start": 79.1,
+   "end": 259.42
+  },
+  {
+   "index": 2,
+   "title": "## اصرار بر گناه و قبضِ روح رو به دنیا",
+   "start": 259.42,
+   "end": 296.48
+  },
+  {
+   "index": 3,
+   "title": "## محبّتِ گناه؛ نهیبِ عملی",
+   "start": 296.48,
+   "end": 416.1
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 0.84,
+   "end": 4.32,
+   "text": "بسم الله الرحمن الرحيم و به نستعين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 4.32,
+   "end": 8.36,
+   "text": "السلام عليك يا داعي الله و رباني آياته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 8.36,
+   "end": 11.36,
+   "text": "السلام عليكم ورحمة الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 11.36,
+   "end": 13.92,
+   "text": "افلا يتدبرون القرآن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 13.92,
+   "end": 19.8,
+   "text": "یا في القرآن؟ یا شما اهل تدبر در قرآن نیستید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 19.8,
+   "end": 22.68,
+   "text": "ام على قلوب اقفال.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 22.68,
+   "end": 25.82,
+   "text": "یا اینکه قلبتون قفل شده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 25.82,
+   "end": 31.72,
+   "text": "و حقایق قرآن و نظام هستی در قلب شما وارد نمی‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 31.72,
+   "end": 37.1,
+   "text": "دیروز عرض کردیم که آنچه که سبب می‌شود ما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 37.1,
+   "end": 43.64,
+   "text": "تدبر در قرآن برامون سخت باشه و سنگین لذا طرفش نریم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 43.64,
+   "end": 45.98,
+   "text": "خباثت و نجاست نفس است؛",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 45.98,
+   "end": 48.08,
+   "text": "یعنی به گناه افتادن و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 48.08,
+   "end": 51.2,
+   "text": "بیرون کردن نفس از طهارت است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 51.2,
+   "end": 58.4,
+   "text": "و آنچه هم که سبب قفل شدن نفس می‌شود، قل قفل شدن قلب می‌شود به روی حقایق هم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 58.4,
+   "end": 63.66,
+   "text": "اون هم خبیث شدن و نجس شدن قلب است بر اثر قضارات و آلودگی‌ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 63.66,
+   "end": 71.96,
+   "text": "در حقیقت به سمت خباثات رفتن و از طهارت بیرون رفتن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 71.96,
+   "end": 78.5,
+   "text": "لکن اون چیزی که بعد از قفل شدن قلب رخ می‌ده رو میخوام امروز عرض کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 78.5,
+   "end": 83.52,
+   "text": "به قول خدا رحمت کنه امیرجواد آقا ملکی تبریزی علیه الرحمه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 83.52,
+   "end": 87.1,
+   "text": "در کتاب اسرار الصلاة‌ش که بسیار",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 87.1,
+   "end": 89.64,
+   "text": "کتاب پر رمز و رازیه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 89.64,
+   "end": 95.36,
+   "text": "می‌فرماید که اولاً عاقبت، عاقبت سوئی خواهد بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 95.36,
+   "end": 98.98,
+   "text": "یعنی میگی خدایا ما رو عاقبت‌مون رو به خیر کن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 98.98,
+   "end": 103.24,
+   "text": "کسی که قلبش قفل شده باشه بر حقایق و اسرار،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 103.24,
+   "end": 107.86,
+   "text": "نمی‌فهمه، درک نمی‌کنه، نور و رحمت الهی وارد قلبش نمی‌شه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 107.86,
+   "end": 111.0,
+   "text": "قلب-- قطعاً همچین کسی عاقبت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 111.0,
+   "end": 114.32,
+   "text": "خوبی نخواهد داشت. عاقبتش سوئه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 114.32,
+   "end": 117.42,
+   "text": "لکن همین عاقبت سوء، امیرجواد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 117.42,
+   "end": 119.7,
+   "text": "آقا می‌فرماید دو گونه است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 119.7,
+   "end": 123.44,
+   "text": "یا اینکه با انکار و شک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 123.44,
+   "end": 130.46,
+   "text": "از دنیا می‌رود که خیلی کارش دشواره و چنین کسی خلود در آتش دارد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 130.46,
+   "end": 137.2,
+   "text": "یا اینکه به جهت کثرت گناه و فسق و فجورش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 137.2,
+   "end": 143.06,
+   "text": "رو به دنیا کرده و از دنیا می‌رود و پشت به آخرت که دچار عذاب می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 143.06,
+   "end": 148.66,
+   "text": "ولی امید هست که چنین کسی بعد از مدتی از عذاب بیرون بیاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 148.66,
+   "end": 156.92,
+   "text": "حالا این دو دسته رو اجازه بفرمایید من به قلم خود حضرت آمیرجواد آقا براتون بگم، برای خودمم حدیث نفس بخونم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 156.92,
+   "end": 161.36,
+   "text": "که در خصوص با کفر و انکار حق رفتن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 161.36,
+   "end": 164.4,
+   "text": "از دنیا رفتن، در پس چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 164.4,
+   "end": 169.26,
+   "text": "قفل شدن قلب. می‌فرماید این قلم خود آمیرجواد آقا است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 169.26,
+   "end": 172.8,
+   "text": "\"این در صورتی‌ست که در سکرات مرگ",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 172.8,
+   "end": 180.12,
+   "text": "که به واسطه‌ی اضطراب روح، بعضی از احوالات آخرت برای انسان مشهود می‌گردد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 180.12,
+   "end": 183.2,
+   "text": "و پرده‌ها اندکی کنار می‌رود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 183.2,
+   "end": 188.48,
+   "text": "انسان به واسطه‌ی عقاید نادرست و ملکات ناپسند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 188.48,
+   "end": 193.14,
+   "text": "و یا بر اثر اعمال گذشته\" اول دست می‌ذاره رو عقاید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 193.14,
+   "end": 200.86,
+   "text": "یعنی اون چیزی که باعث این می‌شه انسان با انکار و شک و تردید و ریب از این دنیا برود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 200.86,
+   "end": 203.4,
+   "text": "چیه؟ عقاید ناصحیحه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 203.4,
+   "end": 205.56,
+   "text": "اون علوم و معارفی که کسب کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 205.56,
+   "end": 209.56,
+   "text": "این خیلی مهمه. غذای در حقیقت غذای عقلی و روحی که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 209.56,
+   "end": 214.94,
+   "text": "می‌خورده. \"و یا بر اثر اعمال گذشته برایش حالتی پدید می‌آید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 214.94,
+   "end": 217.96,
+   "text": "که موجب شک و یا انکار او شود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 217.96,
+   "end": 221.82,
+   "text": "و این شک و انکار بر قلب او غلبه کند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 221.82,
+   "end": 225.74,
+   "text": "و پرونده کار او در همین حالت بسته می‌شود.\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 225.74,
+   "end": 233.48,
+   "text": "در حال انکار و شک. \"که این سبب خلود و جاودانگی او در آتش خواهد شد.\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 233.48,
+   "end": 237.1,
+   "text": "یعنی این فني الروح الانسان الا طعامه که،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 237.1,
+   "end": 242.58,
+   "text": "الا طعامه که چند روز پیش از آیه قرآن آوردیم اینو دقت نداشته که امام باقر، امام",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 242.58,
+   "end": 246.46,
+   "text": "صادق علیهم السلام فرمودن این طعام منظور علومه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 246.46,
+   "end": 250.92,
+   "text": "دانش. از کجا این علم و دانش و این اعتقادات رو داری اخذ می‌کنی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 250.92,
+   "end": 254.54,
+   "text": "این آقا هر غذایی رو خورده و الان داره بالا میاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 254.54,
+   "end": 257.38,
+   "text": "ببخشید. پس می‌زنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 257.38,
+   "end": 260.64,
+   "text": "خب. اما بخش دوم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 260.64,
+   "end": 265.54,
+   "text": "یعنی اون کسی که به گونه-- اون هم سوء عاقبت داره اما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 265.54,
+   "end": 271.0,
+   "text": "فسق و فجور نامه عملش سبب سوء عاقبتش شده، نه اعتقادات غلطش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 271.0,
+   "end": 274.04,
+   "text": "اعتقاداتش درست بوده اما عمل نکرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 274.04,
+   "end": 278.22,
+   "text": "خب اینم خطر بزرگیه. اینم به قلم خودشون بخونم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 278.22,
+   "end": 283.96,
+   "text": "\"این در صورتی‌ست که انسان بر انجام بعضی از گناهان اصرار داشته باشد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 283.96,
+   "end": 289.08,
+   "text": "و بر اثر اصرار بر آن گناه و تکرار آن معصیت،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 289.08,
+   "end": 293.04,
+   "text": "محبت آن گناه در دل او ریشه دوانیده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 293.04,
+   "end": 295.18,
+   "text": "و یا\" می‌گه آن گناه، نه گناهان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 295.18,
+   "end": 297.86,
+   "text": "یعنی یک گناه می‌تونه این بلا رو سر آدم بیاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 297.86,
+   "end": 299.7,
+   "text": "اما چی؟ محبت به اون گناه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 299.7,
+   "end": 304.08,
+   "text": "\"و یاد آن گناه.\" قلم امیرجواد آقاست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 304.08,
+   "end": 308.26,
+   "text": "\"و یاد آن گناه بر قلب او غلبه کرده باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 308.26,
+   "end": 310.62,
+   "text": "چون هنگام مرگ رسید،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 310.62,
+   "end": 314.16,
+   "text": "صورت آن گناه در نظرش مجسم شود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 314.16,
+   "end": 321.44,
+   "text": "و میل به انجام آن در او پیدا شود.\" میل پیدا می‌کنه که این گناه رو چون هب داشته دوباره انجام بده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 321.44,
+   "end": 325.4,
+   "text": "\"و در همان حال که وجه روحش\" یعنی صورتش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 325.4,
+   "end": 328.9,
+   "text": "\"وجه روحش به عالم طبیعت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 328.9,
+   "end": 334.02,
+   "text": "و روی دلش به سمت دنیاست، جانش گرفته شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 334.02,
+   "end": 339.44,
+   "text": "چنین کسی که سرش را به طرف دنیا برگردانیده و قبض روح شده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 339.44,
+   "end": 345.36,
+   "text": "است، از لقاء پروردگار محجوب خواهد بود.\" مثل اون قلبی که قفل شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 345.36,
+   "end": 348.88,
+   "text": "اینم چی؟ حقیقت وجودیش قفل شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 348.88,
+   "end": 351.04,
+   "text": "محجوب. خدا براش محجوبه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 351.04,
+   "end": 353.08,
+   "text": "اصلاً نمی‌تونه خدا رو ببینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 353.08,
+   "end": 357.16,
+   "text": "\"و آنگاه که انسان از خدایش محجوب گشت،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 357.16,
+   "end": 359.3,
+   "text": "عذاب بر او نازل می‌شود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 359.3,
+   "end": 362.96,
+   "text": "و آثار گناهش ظاهر می‌گردد.\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 362.96,
+   "end": 365.84,
+   "text": "اینم یه نقطه ترس و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 365.84,
+   "end": 369.92,
+   "text": "در حقیقت نهیب که آدم به گناه محبت داشته باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 369.92,
+   "end": 374.36,
+   "text": "گاهی اوقات می‌بینی اینایی که تو لباس دینن خدا نیاره اون روزو برا ما.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 374.36,
+   "end": 377.3,
+   "text": "یه دفعه که چپ می‌کنن بدجور چپ می‌کنن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 377.3,
+   "end": 379.74,
+   "text": "یعنی دست همه خلافکارها رو از پشت می‌بندن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 379.74,
+   "end": 385.58,
+   "text": "چرا؟ وقتی که گناه نمی‌کردن دندون رو جیگر گذاشته بودن گناه نمی‌کردن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 385.58,
+   "end": 387.48,
+   "text": "یعنی هبه به گناه داشتن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 387.48,
+   "end": 393.08,
+   "text": "دوست داشتن این گناه رو. ولی می‌گفتن حیف که این دین دست ما رو بسته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 393.08,
+   "end": 395.9,
+   "text": "و اینور. بعد وقتی که اون لحظه‌ای که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 395.9,
+   "end": 401.34,
+   "text": "دیگه دین میره کنار دستش باز می‌شه، دیگه دست همه رو از پشت خودش بسته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 94,
+   "start": 401.34,
+   "end": 403.52,
+   "text": "این خطر بزرگیه قفل شدن قلب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 95,
+   "start": 403.52,
+   "end": 405.92,
+   "text": "ببین چه عاقبتی در پی داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 96,
+   "start": 405.92,
+   "end": 408.4,
+   "text": "انشاالله خدا عاقبت هممون رو ختم به خیر کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 97,
+   "start": 408.4,
+   "end": 411.66,
+   "text": "به برکت صلوات بر محمد و آل محمد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 98,
+   "start": 411.66,
+   "end": 416.1,
+   "text": "اللهم صل على محمد و آل محمد و عجل فرجهم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

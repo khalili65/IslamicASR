@@ -1,0 +1,24 @@
+# Snippet: proxy RAG API under /rag/ on the VPS (HTTP).
+# Include from nginx default server, or merge into sites-available.
+#
+# Public base: http://<VPS_IP>/rag
+# Portal build: NEXT_PUBLIC_RAG_API_URL=http://<VPS_IP>/rag
+
+location /rag/ {
+    proxy_pass http://127.0.0.1:8001/;
+    proxy_http_version 1.1;
+    proxy_set_header Host $host;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header X-Forwarded-Proto $scheme;
+    proxy_set_header Connection "";
+    proxy_buffering off;
+    proxy_cache off;
+    proxy_read_timeout 600s;
+    proxy_send_timeout 600s;
+    chunked_transfer_encoding on;
+}
+
+location = /rag {
+    return 301 /rag/;
+}

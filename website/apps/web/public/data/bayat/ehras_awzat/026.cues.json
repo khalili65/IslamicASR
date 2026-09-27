@@ -1,0 +1,823 @@
+{
+ "version": 1,
+ "sessionId": "026",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 355.5,
+ "alignment": {
+  "exact": 589,
+  "total": 589,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## لزوم دعای پیش از مطالعه",
+   "start": 1.5,
+   "end": 22.42
+  },
+  {
+   "index": 1,
+   "title": "## متن دعا؛ بسم الله جزو دعاست",
+   "start": 22.42,
+   "end": 101.26
+  },
+  {
+   "index": 2,
+   "title": "## درون‌مایهٔ دعا: رهزن فهم، وهم است نه عقل",
+   "start": 101.26,
+   "end": 168.9
+  },
+  {
+   "index": 3,
+   "title": "## احکام عقل و پیاده‌سازی نفس",
+   "start": 168.9,
+   "end": 189.82
+  },
+  {
+   "index": 4,
+   "title": "## ضعف نفس از نشناختن نفس",
+   "start": 189.82,
+   "end": 226.02
+  },
+  {
+   "index": 5,
+   "title": "## وهم و قوهٔ خیال",
+   "start": 226.02,
+   "end": 256.5
+  },
+  {
+   "index": 6,
+   "title": "## کرامت فهم؛ فهم نور است و از درون می‌جوشد",
+   "start": 256.5,
+   "end": 319.15
+  },
+  {
+   "index": 7,
+   "title": "## مخزن نور: الله",
+   "start": 319.15,
+   "end": 355.5
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 1.5,
+   "end": 7.1,
+   "text": "شما که به فضل الهی خدا لطف کرده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 7.1,
+   "end": 11.92,
+   "text": "بر سر سفره‌ی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 11.92,
+   "end": 14.76,
+   "text": "حکمت و عرفان زانو می‌زنید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 14.76,
+   "end": 18.66,
+   "text": "لازمه که حتماً و حتماً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 18.66,
+   "end": 24.96,
+   "text": "قبل از شروع هر مطالعه‌ای این دعا رو قرائت کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 24.96,
+   "end": 26.68,
+   "text": "من آهسته می‌خونم بنویسید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 26.68,
+   "end": 33.7,
+   "text": "البته در مفاتیح شیخ عباس علیه الرحمه اومده به عنوان دعای پیش از مطالعه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 33.7,
+   "end": 38.36,
+   "text": "آقای بهجت به ما سفارش کردن ما هم به شما می‌کنیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 38.36,
+   "end": 40.7,
+   "text": "که بسم الله الرحمن الرحیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 40.7,
+   "end": 45.34,
+   "text": "بسم الله جزو دعاست اینجا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 45.34,
+   "end": 52.02,
+   "text": "اللهم أخرجني من ظلمات الوهم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 52.02,
+   "end": 56.44,
+   "text": "اللهم أخرجني من ظلمات الوهم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 56.44,
+   "end": 63.46,
+   "text": "وأكرمني بنور الفهم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 63.46,
+   "end": 67.1,
+   "text": "وأكرمني بنور الفهم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 67.1,
+   "end": 70.5,
+   "text": "اللهم افتح علينا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 70.5,
+   "end": 73.92,
+   "text": "أبواب رحمتك.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 73.92,
+   "end": 78.46,
+   "text": "اللهم افتح علينا أبواب رحمتك.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 78.46,
+   "end": 83.06,
+   "text": "وانشر علينا خزائن علومك.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 83.06,
+   "end": 91.22,
+   "text": "به به، به به. وانشر علينا خزائن علومك.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 91.22,
+   "end": 93.48,
+   "text": "به رحمتك يا أرحم الراحمين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 93.48,
+   "end": 99.44,
+   "text": "صلوات بفرستید. اللهم صل على محمد وآل محمد وعجل فرجهم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 99.44,
+   "end": 104.12,
+   "text": "خب خود دعا حاکی از درون مایه شه دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 104.12,
+   "end": 111.68,
+   "text": "چون اونچه که در مسیر فهم عزیزان رهزن میشه وهمه، خیاله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 111.68,
+   "end": 120.34,
+   "text": "اینکه می‌فرماید از ظلمت‌های وهم ما رو خارج کن پیداست اونچه که مانع و سد فهم ماست،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 120.34,
+   "end": 122.88,
+   "text": "وهم ماست نه عقل.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 122.88,
+   "end": 125.24,
+   "text": "عقل اصلاً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 125.24,
+   "end": 127.5,
+   "text": "اگر نبود ما چیزی رو نمی‌فهمیدیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 127.5,
+   "end": 130.76,
+   "text": "هرچه انسان عاقلانه‌تر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 130.76,
+   "end": 135.08,
+   "text": "زندگی کنه موفق‌تره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 135.08,
+   "end": 138.78,
+   "text": "که ما چون مسیر بحثمون هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 138.78,
+   "end": 144.08,
+   "text": "البته فعلاً در مقدمه هستیم معرفت نفس هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 144.08,
+   "end": 148.14,
+   "text": "خب اونچه که نفس می‌خواد پیاده کنه از کجا استیضاح می‌کنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 148.14,
+   "end": 150.1,
+   "text": "از کجا اخذ می‌کنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 150.1,
+   "end": 154.88,
+   "text": "اون امر رو، اون کلی رو از کجا می‌گیره نفس؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 154.88,
+   "end": 158.12,
+   "text": "از عقل. عقل مافوق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 158.12,
+   "end": 163.1,
+   "text": "نفسه. اصلاً نفس مرتبه مادونه یا به عبارتی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 163.1,
+   "end": 165.58,
+   "text": "رتبه تعلقي",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 165.58,
+   "end": 168.9,
+   "text": "عقل به مادونه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 168.9,
+   "end": 175.66,
+   "text": "یعنی عقل وقتی تدبیرش رو می‌خواد پیاده‌سازی کنه که آقا اینجا رو نگاه کن یا نکن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 175.66,
+   "end": 177.78,
+   "text": "اینجا رو-- اینو گوش بده یا نده،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 177.78,
+   "end": 180.99,
+   "text": "اینو بخور یا نخور، اینو بگو یا نگو،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 180.99,
+   "end": 184.02,
+   "text": "اینو لمس کن یا نکن، این رو ببو یا نه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 184.02,
+   "end": 189.82,
+   "text": "فلان جا برو یا نرو، این اندیشه رو داشته باش یا نداشته باش،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 189.82,
+   "end": 193.62,
+   "text": "اینجا غضب کن یا گذشت کن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 193.62,
+   "end": 197.08,
+   "text": "اینجا بخند یا گریه کن، اینجا بخواب یا بیدار باش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 197.08,
+   "end": 199.42,
+   "text": "به هر حال به سل أهذا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 199.42,
+   "end": 202.4,
+   "text": "اینا احکام عقلن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 202.4,
+   "end": 204.5,
+   "text": "حکمی‌ست که عقل داره صادر می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 204.5,
+   "end": 208.46,
+   "text": "کی اینا رو باید پیاده کنه؟ نفس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 208.46,
+   "end": 213.82,
+   "text": "متوجه شدید؟ این نفس اگر ضعیف باشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 213.82,
+   "end": 220.6,
+   "text": "ضعف نفس، انسان دچار ضعف نفس بشه که ضعف نفس گفتیم قبلاً از چی ناشی میشه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 220.6,
+   "end": 223.76,
+   "text": "از نشناختن نفس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 223.76,
+   "end": 229.04,
+   "text": "یعنی کسی که معرفت نفس نداره دچار ضعف نفس میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 229.04,
+   "end": 233.62,
+   "text": "مذهبی‌ها و شیعه‌ها بگم راحت باشیم با هم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 233.62,
+   "end": 236.64,
+   "text": "تازه بقیه رو که کاری نداریم اصلاً.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 236.64,
+   "end": 243.04,
+   "text": "دینمون وهمیه. خدایی که می‌شناسیم وهمیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 243.04,
+   "end": 245.02,
+   "text": "نمازی که می‌خونیم وهمیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 245.02,
+   "end": 248.04,
+   "text": "لذا اون لذتی هم که باید ببریم نمی‌بریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 248.04,
+   "end": 252.5,
+   "text": "چرا؟ چون مرتبه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 252.5,
+   "end": 256.34,
+   "text": "سفلی، سفلی این پایین پایین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 256.34,
+   "end": 258.92,
+   "text": "با مرتبه علوی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 258.92,
+   "end": 264.06,
+   "text": "اون بالا ارتباطشون به حداقل رسیده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 264.06,
+   "end": 266.6,
+   "text": "چی باعث شده؟ مانع چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 266.6,
+   "end": 272.18,
+   "text": "سد چیه؟ وهم. حالا بعضیا وهم رو هم قوّ خیال گرفتن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 272.18,
+   "end": 274.76,
+   "text": "کاری نداریم از یه جهت هم درسته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 274.76,
+   "end": 280.6,
+   "text": "چون مرتبه میشه دامنه خ-- وهم میشه خیال یا مادون وهم میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 280.6,
+   "end": 282.74,
+   "text": "حالا اینا رو غصه نخورید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 282.74,
+   "end": 284.46,
+   "text": "درباره‌شون قراره حرف بزنیم دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 284.46,
+   "end": 287.86,
+   "text": "انشاالله ما تازه شروع هم نکردیم که تو مقدمه‌ایم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 287.86,
+   "end": 292.12,
+   "text": "می‌خوام اهمیتش رو برای شما بگم تو این مقدمات.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 292.12,
+   "end": 300.62,
+   "text": "پس تو این دعا اللهم أخرجني من ظلمات الوهم ارزش و اهمیت این دعا داره مشخص میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 300.62,
+   "end": 305.86,
+   "text": "درست شد؟ وأكرمني بنور الفهم آقا یه کرامت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 305.86,
+   "end": 310.2,
+   "text": "فهمیدن بنور الفهم به خودش یک نوره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 310.2,
+   "end": 314.1,
+   "text": "فهمیدن از بیرون نمیره داخل شما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 314.1,
+   "end": 318.94,
+   "text": "از درون شما می‌جوشد چون نوره دیگه بنور الفهم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 318.94,
+   "end": 321.74,
+   "text": "حالا این نور رو کجا پیداش کنیم آقا؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 321.74,
+   "end": 323.96,
+   "text": "قرآنی بگیم نور رو کجا پیدا کنیم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 323.96,
+   "end": 327.42,
+   "text": "کجاست نور؟ الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 327.42,
+   "end": 330.3,
+   "text": "آفرین. نور السماوات والأرض.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 330.3,
+   "end": 334.04,
+   "text": "هرچی نوره مخزنش الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 334.04,
+   "end": 337.04,
+   "text": "اگه کسی الهی زندگی کنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 337.04,
+   "end": 339.7,
+   "text": "فهمش همراه با نور میشه و درست میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 339.7,
+   "end": 345.98,
+   "text": "حالا اینا همه راهکار داره، روش داره، روشمند انشاالله میریم جلو اینا رو میگیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 345.98,
+   "end": 355.5,
+   "text": "من دارم یه مقدار مقدمت-- مقدمه رو می‌پزم که انشاالله استخوان‌بندی بحث کامل بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

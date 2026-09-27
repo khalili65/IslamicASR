@@ -1,0 +1,54 @@
+{
+ "id": "012",
+ "index": 12,
+ "lecturer": "bayat",
+ "course": "qalb_monib",
+ "title": "شک در نمازهای مستحب",
+ "topic": null,
+ "summary": "جلسه شک در نماز مستحب را بی‌اعتنا می‌شمارد و زنجیرهٔ تقوا، توکل و انابه را با آیهٔ طلاق و داستان نانوا و انگشتر برای رسیدن به قلب منیب تبیین می‌کند.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/qalb_monib/012/012_play.m4a",
+  "filename": "012_play.m4a",
+  "size": 7225735,
+  "display": "6.9 MB",
+  "duration": 588.54,
+  "durationText": "9:49"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "012.vtt",
+   "cues": "012.cues.json",
+   "words": "012.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## شک در نمازهای مستحب",
+   "start": 12.82,
+   "end": 372.36
+  },
+  {
+   "index": 1,
+   "title": "## داستان نانوا و انگشتر پادشاه",
+   "start": 372.36,
+   "end": 588.54
+  }
+ ],
+ "recordedAt": 1767735773,
+ "sourceName": "قلب منیب12_ ج44.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "011",
+ "next": "013"
+}

@@ -1,0 +1,54 @@
+{
+ "id": "016",
+ "index": 16,
+ "lecturer": "bayat",
+ "course": "qalb_monafeq",
+ "title": "مسافتِ شرعی و مسیرِ فرعی",
+ "topic": null,
+ "summary": "مسیرِ فرعی در میانهٔ سفر ملاکِ مسافتِ شرعی نیست. نماز با کسالت از خللِ نفاق است؛ و اهل بیت پیش از گره‌هایِ سخت نماز می‌خواندند.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/qalb_monafeq/016/016_play.m4a",
+  "filename": "016_play.m4a",
+  "size": 5341197,
+  "display": "5.1 MB",
+  "duration": 441.54,
+  "durationText": "7:22"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "016.vtt",
+   "cues": "016.cues.json",
+   "words": "016.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "بسم الله الرحمن الرحیم و به نستعین. درود بر داعیِ خدا و ربّانیِ آیاتش.",
+   "start": 13.34,
+   "end": 312.92
+  },
+  {
+   "index": 1,
+   "title": "## نمازِ امام حسین پیش از گرهٔ سخت",
+   "start": 312.92,
+   "end": 441.54
+  }
+ ],
+ "recordedAt": 1785846821,
+ "sourceName": "قلب منافق16_ج186.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "015",
+ "next": "017"
+}

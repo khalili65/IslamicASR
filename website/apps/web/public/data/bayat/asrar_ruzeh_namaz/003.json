@@ -1,0 +1,72 @@
+{
+ "id": "003",
+ "index": 3,
+ "lecturer": "bayat",
+ "course": "asrar_ruzeh_namaz",
+ "title": "آداب نماز جماعت",
+ "topic": null,
+ "summary": "این جلسه در امتداد بحث‌های معرفتی و سیر عملی، از مفاهیم و مثال‌های مطرح‌شده در گفتار آغاز می‌شود و پیوند میان مراتب وجود، تهذیب، عبادت و معرفت را دنبال می‌کند. شرح آیات، روایت‌ها، حکایت‌ها و اصطلاحات تخصصی در ترتیب طبیعی سخن آمده است.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/asrar_ruzeh_namaz/003/003_play.m4a",
+  "filename": "003_play.m4a",
+  "size": 30621317,
+  "display": "29.2 MB",
+  "duration": 2552.83,
+  "durationText": "42:33"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "003.vtt",
+   "cues": "003.cues.json",
+   "words": "003.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## آداب نماز جماعت",
+   "start": 0.06,
+   "end": 484.4
+  },
+  {
+   "index": 1,
+   "title": "## قرآن کریم و بخشندگی",
+   "start": 484.4,
+   "end": 975.8
+  },
+  {
+   "index": 2,
+   "title": "## امامت و اصول دین",
+   "start": 975.8,
+   "end": 1509.58
+  },
+  {
+   "index": 3,
+   "title": "## ولایت کلیه الهیه",
+   "start": 1509.58,
+   "end": 1981.97
+  },
+  {
+   "index": 4,
+   "title": "## زیارت، قصد و حجت خدا",
+   "start": 1981.97,
+   "end": 2552.83
+  }
+ ],
+ "recordedAt": null,
+ "sourceName": null,
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "002",
+ "next": "004"
+}

@@ -3,6 +3,7 @@ import Link from "next/link";
 import { getCourse, getSiteIndex, toPersianDigits } from "@/lib/data";
 import {
   ArrowRightIcon,
+  BookIcon,
   PlayIcon,
   SearchIcon,
   TextIcon,
@@ -23,6 +24,7 @@ export function generateStaticParams() {
 export default async function CoursePage({ params }: Props) {
   const { lecturer, course } = await params;
   const data = getCourse(lecturer, course);
+  const textOnly = data.format === "text";
 
   return (
     <main className="space-y-6">
@@ -42,11 +44,11 @@ export default async function CoursePage({ params }: Props) {
 
       <section className="animate-rise card p-6">
         <Link
-          href="/"
+          href={`/${lecturer}/`}
           className="inline-flex items-center gap-1.5 text-xs font-medium text-ink/50 transition hover:text-brand-deep"
         >
           <ArrowRightIcon className="h-3.5 w-3.5" />
-          خانه
+          {textOnly ? "کتاب‌های مدرس" : "دوره‌های مدرس"}
         </Link>
         <h1 className="mt-2 text-2xl font-black leading-9 tracking-tight">
           {data.title}
@@ -56,26 +58,47 @@ export default async function CoursePage({ params }: Props) {
         ) : null}
         <div className="mt-4 flex flex-wrap gap-2">
           <span className="chip">
-            <WaveIcon className="h-3.5 w-3.5" />
-            {toPersianDigits(data.sessionCount)} جلسه
+            {textOnly ? (
+              <BookIcon className="h-3.5 w-3.5" />
+            ) : (
+              <WaveIcon className="h-3.5 w-3.5" />
+            )}
+            {toPersianDigits(data.sessionCount)}{" "}
+            {textOnly ? "فصل" : "جلسه"}
           </span>
           <span className="chip">
             <TextIcon className="h-3.5 w-3.5" />
-            {toPersianDigits(data.transcribedCount)} دارای متن
+            {textOnly
+              ? "فقط متن"
+              : `${toPersianDigits(data.transcribedCount)} دارای متن`}
           </span>
-          <span className="chip tabular-nums">
-            {toPersianDigits(data.totalDurationText)}
-          </span>
+          {!textOnly ? (
+            <span className="chip tabular-nums">
+              {toPersianDigits(data.totalDurationText)}
+            </span>
+          ) : null}
         </div>
         <div className="mt-5 flex flex-wrap gap-2">
           <Link
             href={`/${lecturer}/${course}/${data.sessions[0]?.id || "001"}/`}
             className="btn-primary"
           >
-            <PlayIcon className="h-4 w-4" />
-            شروع دوره
+            {textOnly ? (
+              <>
+                <BookIcon className="h-4 w-4" />
+                شروع مطالعه
+              </>
+            ) : (
+              <>
+                <PlayIcon className="h-4 w-4" />
+                شروع دوره
+              </>
+            )}
           </Link>
-          <Link href="/search/" className="btn-soft">
+          <Link
+            href={`/search/?lecturer=${lecturer}&course=${course}`}
+            className="btn-soft"
+          >
             <SearchIcon className="h-4 w-4" />
             جستجو در متن
           </Link>
@@ -83,7 +106,9 @@ export default async function CoursePage({ params }: Props) {
       </section>
 
       <section>
-        <h2 className="section-title mb-3">جلسات</h2>
+        <h2 className="section-title mb-3">
+          {textOnly ? "فصول" : "جلسات"}
+        </h2>
         <ul className="space-y-2">
           {data.sessions.map((s) => (
             <li key={s.id}>
@@ -93,7 +118,7 @@ export default async function CoursePage({ params }: Props) {
               >
                 <span
                   className={`flex h-11 w-11 shrink-0 items-center justify-center rounded-2xl text-sm font-black tabular-nums transition ${
-                    s.hasTranscript
+                    s.hasTranscript || s.hasFullText || textOnly
                       ? "bg-brand/45 text-brand-deep group-hover:bg-brand-deep group-hover:text-white"
                       : "bg-ink/[0.05] text-ink/40"
                   }`}
@@ -106,17 +131,27 @@ export default async function CoursePage({ params }: Props) {
                     {s.title}
                   </h3>
                   <div className="mt-1 flex items-center gap-2 text-xs text-ink/45">
-                    <span className="tabular-nums">
-                      {s.durationText ? toPersianDigits(s.durationText) : "—"}
-                    </span>
-                    <span>·</span>
-                    <span
-                      className={
-                        s.hasTranscript ? "text-brand-deep" : "text-ink/40"
-                      }
-                    >
-                      {s.hasTranscript ? "متن همگام" : "فقط صوت"}
-                    </span>
+                    {textOnly ? (
+                      <span>متن‌خوانی</span>
+                    ) : (
+                      <>
+                        <span className="tabular-nums">
+                          {s.durationText
+                            ? toPersianDigits(s.durationText)
+                            : "—"}
+                        </span>
+                        <span>·</span>
+                        <span
+                          className={
+                            s.hasTranscript
+                              ? "text-brand-deep"
+                              : "text-ink/40"
+                          }
+                        >
+                          {s.hasTranscript ? "متن همگام" : "فقط صوت"}
+                        </span>
+                      </>
+                    )}
                   </div>
                   {s.topic ? (
                     <p className="mt-1 line-clamp-1 text-xs text-ink/45">
@@ -126,7 +161,11 @@ export default async function CoursePage({ params }: Props) {
                 </div>
 
                 <span className="shrink-0 text-ink/20 transition group-hover:text-brand-deep">
-                  <PlayIcon className="h-5 w-5" />
+                  {textOnly ? (
+                    <BookIcon className="h-5 w-5" />
+                  ) : (
+                    <PlayIcon className="h-5 w-5" />
+                  )}
                 </span>
               </Link>
             </li>

@@ -5,6 +5,7 @@ import {
   articleClassName,
   loadSessionMarkdown,
   markdownToHtml,
+  plainTextToHtml,
   stripEditorialNoise,
 } from "@/lib/markdown";
 
@@ -32,11 +33,20 @@ export function generateStaticParams() {
 export default async function TextPage({ params }: Props) {
   const { lecturer, course, session } = await params;
   const payload = getSession(lecturer, course, session);
-  const md = loadSessionMarkdown(lecturer, course, session, "corrected");
+  // Prefer raw ASR for «متن کامل»; fall back to legacy corrected.md.
+  const useRaw = Boolean(payload.hasRawTranscript) || payload.subtitleSource === "raw";
+  const md = loadSessionMarkdown(
+    lecturer,
+    course,
+    session,
+    useRaw ? "raw" : "corrected",
+  );
   const body = md
-    ? stripEditorialNoise(md)
+    ? useRaw
+      ? md.trim()
+      : stripEditorialNoise(md)
     : "متن کامل این جلسه هنوز آماده نیست.";
-  const html = markdownToHtml(body);
+  const html = useRaw ? plainTextToHtml(body) : markdownToHtml(body);
 
   return (
     <main className="space-y-4">

@@ -1,0 +1,961 @@
+{
+ "version": 1,
+ "sessionId": "003",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 411.0,
+ "alignment": {
+  "exact": 835,
+  "total": 835,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "یکی از اموری که دنیا ظرفیّتِ جزای کاملِ آن را ندارد، نمازِ شب است. از همین‌رو آمده است:",
+   "start": 0.76,
+   "end": 45.02
+  },
+  {
+   "index": 1,
+   "title": "## اثرِ وضعیِ نورِ سحر",
+   "start": 45.02,
+   "end": 105.58
+  },
+  {
+   "index": 2,
+   "title": "## دنیا گنجایشِ جزای کامل ندارد",
+   "start": 105.58,
+   "end": 349.62
+  },
+  {
+   "index": 3,
+   "title": "## حسبهم جهنّم",
+   "start": 349.62,
+   "end": 411.0
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 0.76,
+   "end": 4.32,
+   "text": "بسم الله الرحمن الرحيم و بهين استعين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 4.32,
+   "end": 9.58,
+   "text": "السلام عليك يا داعي الله و رباني يا آياته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 9.58,
+   "end": 12.86,
+   "text": "سلام عليكم ورحمة الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 12.86,
+   "end": 16.1,
+   "text": "چنانچه خاطرتون باشه دیروز ما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 16.1,
+   "end": 20.78,
+   "text": "پیرامون اینکه یکی از چیزهایی که دنیا ظرفیتش رو نداره،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 20.78,
+   "end": 24.32,
+   "text": "جزشو خدا در اینجا بده نماز شبه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 24.32,
+   "end": 27.7,
+   "text": "لذا می‌فرماید عسى ان يبعدك",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 27.7,
+   "end": 30.0,
+   "text": "ربك مقاما محمودا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 30.0,
+   "end": 35.06,
+   "text": "باشه که در قیامت مفسرین فرمودن اینجا منظور روز قیامته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 35.06,
+   "end": 37.7,
+   "text": "ما تو رو به مقام محمود برسوند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 37.7,
+   "end": 40.22,
+   "text": "حالا اینکه مقام محمود چیه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 40.22,
+   "end": 44.88,
+   "text": "مفسرین نظرات متعددی دادن که انشاالله بعداً بحث می‌کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 44.88,
+   "end": 50.92,
+   "text": "ولی این سؤال پیش میاد که مگر شما نگفتید که کسی که نماز شب می‌خونه چهره‌ش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 50.92,
+   "end": 57.32,
+   "text": "مثل مح-- محمد بن اسحاق جد اعلای مثلاً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 57.32,
+   "end": 59.5,
+   "text": "ببخشید شاید سید بن طاووس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 59.5,
+   "end": 63.16,
+   "text": "چرا بهش گفتن طاووس؟ گفتیم به جهت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 63.16,
+   "end": 66.96,
+   "text": "نماز شب زیاد می‌خوند، چهره‌ش خیلی زیبا بود و این چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 66.96,
+   "end": 71.08,
+   "text": "این جزاینی؟ می‌گیم این یک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 71.08,
+   "end": 74.72,
+   "text": "اثر وضعیه که عبادت در شخص می‌گذاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 74.72,
+   "end": 77.84,
+   "text": "نماز شب روی روایت دیدم که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 77.84,
+   "end": 80.38,
+   "text": "اصلاً از معصوم سؤال شد که چرا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 80.38,
+   "end": 82.88,
+   "text": "کسی که نماز شب می‌خونه چهره‌ش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 82.88,
+   "end": 85.72,
+   "text": "خاص میشه، زیبا میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 85.72,
+   "end": 90.08,
+   "text": "فرمودن به جهت که اون موقع یه وقت خاصیه که همه در خوابن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 90.08,
+   "end": 96.5,
+   "text": "وقتی بنده با خدا خلوت می‌کنه، خدا او رو، اون بنده متجدد رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 96.5,
+   "end": 100.18,
+   "text": "به نور خودش می‌پوشونه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 100.18,
+   "end": 104.38,
+   "text": "و اون نور و بها در روز دیده میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 104.38,
+   "end": 111.3,
+   "text": "یعنی الان از چهره تک تک ما با یه نگاه میشه تشخیص داد که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 111.3,
+   "end": 114.2,
+   "text": "کی چهره‌ش نور سحر داره کی نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 114.2,
+   "end": 118.26,
+   "text": "خیلی هم سخت نیست. یعنی چشم برزخی هم نمی‌خواد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 118.26,
+   "end": 122.1,
+   "text": "انقدر واضح میشه. البته وقتی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 122.1,
+   "end": 127.44,
+   "text": "طولانی میشه م-مثل طول عمر امام هست که بعد بهش میگن طاووس اهل جنة.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 127.44,
+   "end": 130.24,
+   "text": "طولانی میشه خب خیلی اثر دیگه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 130.24,
+   "end": 133.84,
+   "text": "بسیار زیاد میشه. مثل مثلاً شما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 133.84,
+   "end": 136.8,
+   "text": "جوونی‌های آقا رو، حضرت آقا رو ببینید با الان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 136.8,
+   "end": 138.84,
+   "text": "اصلاً قابل قیاس نیست چهره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 138.84,
+   "end": 142.44,
+   "text": "این نور شبه، سحر تهجده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 142.44,
+   "end": 144.82,
+   "text": "این جزای اصلی که نیست که.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 144.82,
+   "end": 148.16,
+   "text": "اون مقام محمود کجا این نور کجا؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 148.16,
+   "end": 154.62,
+   "text": "اصلاً این‌ها قابل قیاس-- ولی بله یه رشه‌ای در این دنیا ظهور می‌کنه، بروز می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 154.62,
+   "end": 157.66,
+   "text": "و اصلاً شما دقت کنین خیلی چیزا هست که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 157.66,
+   "end": 165.98,
+   "text": "میشه این رو ازش متوجه شد که این دنیا خیلی زیاده، خیلی کوچیکه که بخواد جزای حتی در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 165.98,
+   "end": 171.32,
+   "text": "ظلم و ستم . چه در ظلم و ستم، چه در حسنات.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 171.32,
+   "end": 175.48,
+   "text": "مثلاً شهدای کربلا وقتی شهید شدن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 175.48,
+   "end": 179.28,
+   "text": "خب همون موقع که شهید شدن اجرشون چی شد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 179.28,
+   "end": 181.44,
+   "text": "کوشن که خدا بخواد اجرشون بده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 181.44,
+   "end": 187.26,
+   "text": "شهید شدن. در حالی که سید الشهدا فرمود من مثل شما ندیدم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 187.26,
+   "end": 190.0,
+   "text": "با معرفت مثل شما ندیدم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 190.0,
+   "end": 193.7,
+   "text": "خب اجرشون چی شد؟ اون دنیا دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 193.7,
+   "end": 199.54,
+   "text": "یعنی اینجا اصلاً ظرفیت و گنجایش اینو نداره که مثال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 199.54,
+   "end": 204.46,
+   "text": "گفتگوی مرحوم مجلسی رو با سید نعمت‌الله جزایری گفتیم که مکاش--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 204.46,
+   "end": 210.08,
+   "text": "از برزخش مرحوم مجلسی به ایشون گفت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 210.08,
+   "end": 215.18,
+   "text": "و تو قرآن هم داریم مثلاً آیه‌ای که می‌فرماید ان نفس بنفس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 215.18,
+   "end": 218.64,
+   "text": "نفس رو با نفس. یکی زده یکی رو کشت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 218.64,
+   "end": 220.52,
+   "text": "چیکارش کنیم؟ شکنجه‌ش بدیم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 220.52,
+   "end": 223.8,
+   "text": "نخیر حق نداریم. ان نفس بنفس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 223.8,
+   "end": 227.1,
+   "text": "دارش بزن. صدام چند نفر رو کشت؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 227.1,
+   "end": 230.66,
+   "text": "دارش زدن. جزش این بود؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 230.66,
+   "end": 233.72,
+   "text": "هیتلر سیزده میلیون نفر رو می‌کشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 233.72,
+   "end": 236.36,
+   "text": "یعنی سیزده میلیون بار باید قصاص بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 236.36,
+   "end": 239.38,
+   "text": "نمیشه که. دنیا کوچیکه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 239.38,
+   "end": 247.08,
+   "text": "استالین، یه کتابی دفتردارش نوشته به نام مرگ استالین .",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 247.08,
+   "end": 249.8,
+   "text": "کتاب عجیبیه اگه خونده باشید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 249.8,
+   "end": 253.5,
+   "text": "اون تو می‌نویسه که تا اونجایی که ما متوجه شدیم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 253.5,
+   "end": 259.08,
+   "text": "اون مدتی که ایشون حکومت شوروی سابق رو در دست داشت،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 259.08,
+   "end": 264.42,
+   "text": "تا اونجایی که ما فهمیدیم بیست میلیون نفر رو کشت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 264.42,
+   "end": 267.02,
+   "text": "خب جزش تو این دنیا چی می‌خواد باشه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 267.02,
+   "end": 271.2,
+   "text": "فرهاد میرزا مثلاً عموی ناصرالدین شاه بود دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 271.2,
+   "end": 274.54,
+   "text": "که یادمه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 274.54,
+   "end": 278.86,
+   "text": "تو خاطراتش نوشته بود که استاندار کردستان و شیراز بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 278.86,
+   "end": 281.36,
+   "text": "نوشته بود اون مدتی که من استاندار",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 281.36,
+   "end": 284.88,
+   "text": "کردستان و فارس بودم هفتصد نفر رو کشتم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 284.88,
+   "end": 287.32,
+   "text": "با پررویی تمام میگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 287.32,
+   "end": 297.42,
+   "text": "الان ترامپ ملعون با خباثت تمام به نتانیاهو ملعون میگه که هر کاری دوست داری بکن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 297.42,
+   "end": 302.9,
+   "text": "ما هم پشتتی. خب قریبه به پنجاه هزار نفر آدم رو بکشن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 302.9,
+   "end": 307.02,
+   "text": "قشنگ خیلی مشخصه دیگه که این دنیا ظرفیت اینو نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 307.02,
+   "end": 312.66,
+   "text": "یه بچه هم اینو می‌فهمه. بعد فکر می‌کنن که ما آخوندا این‌ها رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 312.66,
+   "end": 316.76,
+   "text": "از تو آستینمون درآوردیم و این حرفا رو داریم می‌گیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 316.76,
+   "end": 319.82,
+   "text": "در صورتیکه ان الله ليس بظلام للعبید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 319.82,
+   "end": 325.0,
+   "text": "قرآن میگه خدا به بندگانش ظلم نمی‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 325.0,
+   "end": 326.84,
+   "text": "ان الله لا يخلف المیعاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 326.84,
+   "end": 329.04,
+   "text": "وعده داده که حساب کشی کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 329.04,
+   "end": 332.58,
+   "text": "یه آیه دیگه هم خیلی برام جالب بود، توجه نکرده بودم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 332.58,
+   "end": 335.6,
+   "text": "این بحث باعث شد به این آیه توجه کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 335.6,
+   "end": 339.26,
+   "text": "شما هم توجه کنید دیگه بحث برای امروز کفایت می‌کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 339.26,
+   "end": 342.16,
+   "text": "می‌فرماید حسبهم جهنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 342.16,
+   "end": 345.88,
+   "text": "چه جالب. یسلونها بعسل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 345.88,
+   "end": 349.62,
+   "text": "وبعسل مسیر. چه بد جایگاهی دارن جهنمی‌ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 349.62,
+   "end": 354.32,
+   "text": "حسبهم جهنم. جهنم براشون بسه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 354.32,
+   "end": 356.82,
+   "text": "دنیا براشون بس نیستا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 356.82,
+   "end": 360.06,
+   "text": "برای صدام دنیا-- ولی جهنم براشون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 360.06,
+   "end": 363.16,
+   "text": "ببین اونور چه خبره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 363.16,
+   "end": 369.98,
+   "text": "که به نتانیاهو که مثلاً پنجاه هزار نفر آدم رو کشته در عرض یک سال و نیم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 369.98,
+   "end": 372.1,
+   "text": "اون جهنم براش بسه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 94,
+   "start": 372.1,
+   "end": 375.64,
+   "text": "ببین اونجا خدا چی براش قرار داده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 95,
+   "start": 375.64,
+   "end": 384.06,
+   "text": "یا شهدای کربلا ببین اون طرف از تجلیات سید الشهدا که حرف زدیم چه تجلیاتی سید الشهدا براشون ذخیره کرده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 96,
+   "start": 384.06,
+   "end": 389.32,
+   "text": "که اون براشون بسه. همونو می‌خوان که به جز اون هم راضی به هیچ‌چی نمیشن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 97,
+   "start": 389.32,
+   "end": 396.44,
+   "text": "اصلاً بهشت نمی‌خوان. نشون میده که حتی برزخ هم عزیزان کوچیکه برای بسیاری از اعمال.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 98,
+   "start": 396.44,
+   "end": 402.1,
+   "text": "یکیش نماز شبه. یعنی کسی که نماز شب می‌خونه منتظر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 99,
+   "start": 402.1,
+   "end": 405.8,
+   "text": "قیامت و دیدار خدا باشه، نه حتی برزخ.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 100,
+   "start": 405.8,
+   "end": 409.1,
+   "text": "عجیب چیزیه نماز شب. خدا به هممون توفیقش رو عطا کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 101,
+   "start": 409.1,
+   "end": 411.0,
+   "text": "صلوات خد کنه. سلام.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

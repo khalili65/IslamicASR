@@ -1,0 +1,66 @@
+{
+ "id": "012",
+ "index": 12,
+ "lecturer": "bayat",
+ "course": "qalb_qasi",
+ "title": "بنای کر بودن آب",
+ "topic": null,
+ "summary": "جلسه بنای کر بودن آب را می‌گوید و قساوت را به ترک تضرع و تزیین شیطان پیوند می‌زند؛ با قصهٔ یوسف، هشدار ریاست و علم، و داستان شاگرد عیسی، خطر تسویل را می‌نمایاند.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/qalb_qasi/012/012_play.m4a",
+  "filename": "012_play.m4a",
+  "size": 7832621,
+  "display": "7.5 MB",
+  "duration": 644.31,
+  "durationText": "10:44"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "012.vtt",
+   "cues": "012.cues.json",
+   "words": "012.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## بنای کر بودن آب",
+   "start": 0.34,
+   "end": 315.12
+  },
+  {
+   "index": 1,
+   "title": "## قساوت و تزیین شیطان",
+   "start": 315.12,
+   "end": 368.0
+  },
+  {
+   "index": 2,
+   "title": "## رفع حجب نه جمع کتب",
+   "start": 368.0,
+   "end": 469.37
+  },
+  {
+   "index": 3,
+   "title": "## شاگرد عیسی روی آب",
+   "start": 469.37,
+   "end": 644.31
+  }
+ ],
+ "recordedAt": 1785845707,
+ "sourceName": "قلب قسی12_ج150.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "011",
+ "next": "013"
+}

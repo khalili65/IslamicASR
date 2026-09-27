@@ -1,0 +1,1813 @@
+{
+ "version": 1,
+ "sessionId": "010",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 698.21,
+ "alignment": {
+  "exact": 1451,
+  "total": 1451,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## روایت چهارم کتاب الموت",
+   "start": 11.08,
+   "end": 84.7
+  },
+  {
+   "index": 1,
+   "title": "## اکل و شرب و حواس با عناصر",
+   "start": 84.7,
+   "end": 166.08
+  },
+  {
+   "index": 2,
+   "title": "## شأن دنیا و شأن آخرت",
+   "start": 166.08,
+   "end": 220.98
+  },
+  {
+   "index": 3,
+   "title": "## موت جدایی دو شأن",
+   "start": 220.98,
+   "end": 316.52
+  },
+  {
+   "index": 4,
+   "title": "## حیات در زمین و موت در آسمان",
+   "start": 316.52,
+   "end": 436.89
+  },
+  {
+   "index": 5,
+   "title": "## فساد جسد و باد و آب",
+   "start": 436.89,
+   "end": 576.45
+  },
+  {
+   "index": 6,
+   "title": "## حرکت روح با باد و صورت نور و نار",
+   "start": 576.45,
+   "end": 625.13
+  },
+  {
+   "index": 7,
+   "title": "## موت رحمت یا نقمت",
+   "start": 625.13,
+   "end": 698.21
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 0.06,
+   "end": 2.72,
+   "text": "بسم الله الرحمن الرحیم و به نستعین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 2.72,
+   "end": 7.26,
+   "text": "السلام علیک یا داعی الله و ربانی آیاته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 7.26,
+   "end": 10.4,
+   "text": "سلام علیکم و رحمة الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 10.4,
+   "end": 13.7,
+   "text": "میریم سراغ روایت چهارم از باب اول",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 13.7,
+   "end": 17.14,
+   "text": "کتاب الموت بهار مرحوم مجلسی علیه الرحمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 17.14,
+   "end": 19.96,
+   "text": "یه روایت مبسوطی‌ست البته خود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 19.96,
+   "end": 22.82,
+   "text": "مرحوم مجلسی هم همه روایت رو نیاورده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 22.82,
+   "end": 26.1,
+   "text": "بخشیش رو آورده و اتفاقاً انتهای روایت،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 26.1,
+   "end": 29.88,
+   "text": "زحمت نکشید [سخنگوی 1] ، انتهای روایت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 29.88,
+   "end": 35.38,
+   "text": "ایشون نقل می‌کنه که \"سیعت الخبر بتمامه وأسناده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 35.38,
+   "end": 38.6,
+   "text": "وشرحه في كتاب السماء والعالم\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 38.6,
+   "end": 41.42,
+   "text": "که این کتاب طبیعیاته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 41.42,
+   "end": 45.26,
+   "text": "بهاره که جدا کرده روایاتی که مربوطه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 45.26,
+   "end": 48.48,
+   "text": "به طبیعیاته و افلاک.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 48.48,
+   "end": 51.68,
+   "text": "اِمم و عرض شود طبیعیات،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 51.68,
+   "end": 55.78,
+   "text": "جسم بدن این‌ها، جسمیت بدن این‌ها جدا کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 55.78,
+   "end": 59.36,
+   "text": "این رو اونجا به صورت مبسوط آورده اما اینجا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 59.36,
+   "end": 61.72,
+   "text": "ازش رد می‌شه. روایت رو کامل نمیاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 61.72,
+   "end": 70.28,
+   "text": "ما هم همون اِاِاِ روایت رو بیان می‌کنیم که به صورت کامل نیومده چون فقط بحثی که ما اینجا داریم پیرامون موته،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 70.28,
+   "end": 73.94,
+   "text": "این قسمتشو می‌خوایم بررسی کنیم که در این قسمت اومده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 73.94,
+   "end": 77.86,
+   "text": "حالا این کتاب الموت هم می‌دونید جلد شش بهاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 77.86,
+   "end": 80.36,
+   "text": "این روایت تو صفحه صد و هجده آمده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 80.36,
+   "end": 83.12,
+   "text": "عل-- از علل الشرایع",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 83.12,
+   "end": 86.48,
+   "text": "مرحوم مجلسی میاره از امام صادق که فرمود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 86.48,
+   "end": 91.36,
+   "text": "\"انما صار الانسان يأكل ويشرب بالنار\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 91.36,
+   "end": 93.82,
+   "text": "این روایت از جهتی هم به درد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 93.82,
+   "end": 96.04,
+   "text": "طبیب‌ها می‌خوره. آدمایی که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 96.04,
+   "end": 99.62,
+   "text": "سراغ علم تجربی و این‌ها میرن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 99.62,
+   "end": 106.36,
+   "text": "امام صادق صلی الله علیه فرمود قطعاً انسان \"يأكل ويشرب بالنار\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 106.36,
+   "end": 109.4,
+   "text": "می‌خوره و می‌آشامه با آتش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 109.4,
+   "end": 113.24,
+   "text": "حالا اینو باید ببینیم فرصت می‌کنیم دربارش حرف بزنیم یا نه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 113.24,
+   "end": 116.12,
+   "text": "حکما اینجا خیلی حرفا پیاده کردن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 116.12,
+   "end": 119.48,
+   "text": "\"ويبصر ويعمل بالنور\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 119.48,
+   "end": 125.78,
+   "text": "می‌بینه و عمل می‌کنه با نور \"ويسمع ويشم بالريح\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 125.78,
+   "end": 128.52,
+   "text": "می‌شنوه و می‌بویه با باد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 128.52,
+   "end": 132.42,
+   "text": "با نسیم \"ويجد الطعام والشراب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 132.42,
+   "end": 135.68,
+   "text": "بالماء\" می‌یابه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 135.68,
+   "end": 137.94,
+   "text": "غذا و آب رو با آب،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 137.94,
+   "end": 144.78,
+   "text": "با مایعات \"ويتحرك بالروح\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 144.78,
+   "end": 147.38,
+   "text": "با روح حرکت می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 147.38,
+   "end": 152.04,
+   "text": "یعنی این که حرکت داره می‌کنه روح توست، نفستوست نه این بدن و جسم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 152.04,
+   "end": 154.72,
+   "text": "\"ويجد الطعام",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 154.72,
+   "end": 161.0,
+   "text": "و-- وصغ الحديث إلى أن قال\" همینطوری حدیث رو ادامه داد تا اینکه دو مرتبه فرمود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 161.0,
+   "end": 164.48,
+   "text": "اینجا یعنی همه حدیث رو نیاورده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 164.48,
+   "end": 166.08,
+   "text": "گلچین کرده مرحوم مجلسی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 166.08,
+   "end": 169.3,
+   "text": "\"فهاکذا الانسان\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 169.3,
+   "end": 171.9,
+   "text": "همچنین، چنین امام صادق ادامه داد که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 171.9,
+   "end": 175.54,
+   "text": "\"خلق من شأن الدنيا وشأن الآخرة\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 175.54,
+   "end": 179.92,
+   "text": "خداوند خلق کرد انسان رو شأنی از آخرت و شأنی از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 179.92,
+   "end": 182.46,
+   "text": "دنیا. جمع کرده بین این دو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 182.46,
+   "end": 185.36,
+   "text": "\"فإذا جمع الله بينهما\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 185.36,
+   "end": 191.96,
+   "text": "وقتی خدا بین این دو تا رو جمع کرد شأنی از آخرت و شأنی از دنیا رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 191.96,
+   "end": 195.98,
+   "text": "فرمود که \"صارت حياته في الأرض\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 195.98,
+   "end": 198.58,
+   "text": "حیاتش رو تو زمین قرار داد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 198.58,
+   "end": 203.18,
+   "text": "وقتی این دو تا رو با هم جمع کرد شأنی از آخرت شأنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 203.18,
+   "end": 209.36,
+   "text": "از دنیا. این دو تا رو که با هم جمع کرد حیاتش رو در زمین قرار داد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 209.36,
+   "end": 214.1,
+   "text": "\"لأنه نزل من شأن السماء إلى الدنيا\" همونطور که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 214.1,
+   "end": 220.98,
+   "text": "اصلاً اون حقیقت کلیش که روحشه نفس 나طقشه از آسمان نازل شد به اینجا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 220.98,
+   "end": 225.24,
+   "text": "\"فإذا فرق الله بينهما\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 225.24,
+   "end": 228.06,
+   "text": "خب اون جمعش بود که حیات ایجاد شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 228.06,
+   "end": 230.36,
+   "text": "حالا فرقشه، جداییش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 230.36,
+   "end": 235.1,
+   "text": "\"فرق الله بينهما صارت تلك الفرقة الموت\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 235.1,
+   "end": 238.78,
+   "text": "وقتی که بین این دو تا جدایی انداخت، بین چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 238.78,
+   "end": 241.24,
+   "text": "شأن آخرت و شأن دنیا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 241.24,
+   "end": 244.26,
+   "text": "وقتی این دو تا رو از هم جدا کرد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 244.26,
+   "end": 247.2,
+   "text": "اسمش می‌شه الموت. چیز عجیبی نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 247.2,
+   "end": 250.4,
+   "text": "جدا شدن شأن دنیا از آخرت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 250.4,
+   "end": 252.7,
+   "text": "حالا نشانه‌ش چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 252.7,
+   "end": 255.12,
+   "text": "اونکه شأن آخرتی داره روحه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 255.12,
+   "end": 259.56,
+   "text": "اونکه شأن دنیوی داره بدن ماست، این جسمیت ماست البته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 259.56,
+   "end": 262.46,
+   "text": "جسم بگیم اینجا بهتره چون بدن همیشه--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 262.46,
+   "end": 267.28,
+   "text": "روح همیشه همراه با بدنه، بدن برزخی هست، قیامتیه و این‌ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 267.28,
+   "end": 271.42,
+   "text": "اما خب این اینجا نکات خیلی زیبایی بزرگان حکما پیاده کردن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 271.42,
+   "end": 276.24,
+   "text": "نمی‌دونم فرصت اینجا که نمی‌شه تو این جلسه، جلسات بعد ببینیم خدا چی می‌خواد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 276.24,
+   "end": 279.86,
+   "text": "که این موت می‌شه جدایی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 279.86,
+   "end": 283.84,
+   "text": "فرق، تفرق بین شأن آخرت و دنیا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 283.84,
+   "end": 290.06,
+   "text": "یعنی اونجا وقتی شما جدا شد رفتید دنیا بن کل از آخرت جدا شد، تمام.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 290.06,
+   "end": 293.24,
+   "text": "اصلاً دیگه اینجا هرچی بود مال اینجا موند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 293.24,
+   "end": 295.9,
+   "text": "هرچی که شأن دنیایی داره می‌مونه اینجا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 295.9,
+   "end": 299.78,
+   "text": "ما متأسفانه اونچه که داریم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 299.78,
+   "end": 301.76,
+   "text": "غالباً شأن دنیامونه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 301.76,
+   "end": 304.66,
+   "text": "فکر می‌کنیم اینو با خودمون می‌بریم به آخرت درصورتی که اینطوری نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 304.66,
+   "end": 310.5,
+   "text": "وقت موت همه رو می‌ذاریم، هرچه شأن آ-- دنیوی داریم اینجا باقی می‌ذاریم میریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 310.5,
+   "end": 315.4,
+   "text": "اعتباریات اینا همه گذاشته می‌شه میره که حالا انواع اقسام داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 315.4,
+   "end": 318.86,
+   "text": "بعد \"ترد شأن الآخرة--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 318.86,
+   "end": 320.94,
+   "text": "شأن الأخرى إلى السماء\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 320.94,
+   "end": 323.54,
+   "text": "وقتی موت حاصل شد، شأن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 323.54,
+   "end": 327.26,
+   "text": "آخرتی \"ترد إلى السماء\" میره به آسمون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 327.26,
+   "end": 331.22,
+   "text": "\"فالحياة في الأرض والموت في السماء\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 331.22,
+   "end": 334.22,
+   "text": "خب مشخصه که حیات در زمینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 334.22,
+   "end": 337.34,
+   "text": "موت کجاست؟ آسمون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 337.34,
+   "end": 340.46,
+   "text": "یه بار دیگه میگم \"فالحياة في الأرض\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 340.46,
+   "end": 344.08,
+   "text": "حیات چی بود؟ تجمع بین شأن آخرت و دنیا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 344.08,
+   "end": 347.1,
+   "text": "تو زمینه. \"والموت\" چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 94,
+   "start": 347.1,
+   "end": 349.72,
+   "text": "\"في السماء\" چرا گفته؟ چون موت چی بود؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 95,
+   "start": 349.72,
+   "end": 353.32,
+   "text": "تفرق بین شأن آخرت و-- اون میره تو آسمون دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 96,
+   "start": 353.32,
+   "end": 357.34,
+   "text": "یعنی آسمونی می‌شی \"وفي السماء رزقكم وما توعدون\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 97,
+   "start": 357.34,
+   "end": 360.62,
+   "text": "اونچه هم که به تو تا-- وعده داده شده تو آسمونه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 98,
+   "start": 360.62,
+   "end": 364.06,
+   "text": "ما متأسفانه تو زمین دنبال همه چی داریم می‌گردیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 99,
+   "start": 364.06,
+   "end": 368.68,
+   "text": "\"وذلك أنه يفرق بين الأرواح والجسد\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 100,
+   "start": 368.68,
+   "end": 373.69,
+   "text": "و این همونه که فرق می‌افته، تفرق، جدایی می‌افته بین روح و جسد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 101,
+   "start": 373.69,
+   "end": 377.85,
+   "text": "فردت الروح و النور الی القدرة الاولى.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 102,
+   "start": 377.85,
+   "end": 382.07,
+   "text": "یه منبع دیگه می‌فرماید الی القدس الاولى.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 103,
+   "start": 382.07,
+   "end": 384.73,
+   "text": "دو تاش از یک حقیقت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 104,
+   "start": 384.73,
+   "end": 387.35,
+   "text": "منتج-- ناشی شده، انتشا پیدا کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 105,
+   "start": 387.35,
+   "end": 390.17,
+   "text": "میگه روح فردت الروح، روح",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 106,
+   "start": 390.17,
+   "end": 392.53,
+   "text": "رد میشه میره به کجا؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 107,
+   "start": 392.53,
+   "end": 395.07,
+   "text": "که جنسش از نوره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 108,
+   "start": 395.07,
+   "end": 398.23,
+   "text": "میره به سمت قدس یا قدرت الاولى.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 109,
+   "start": 398.23,
+   "end": 400.69,
+   "text": "اون اولین حالا مبدعه‌ش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 110,
+   "start": 400.69,
+   "end": 405.35,
+   "text": "میره به مبدعه‌ش که ان من شيء الا عندنا خزائنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 111,
+   "start": 405.35,
+   "end": 408.25,
+   "text": "میره به خز-- نزدیک میشه به سمت خزینه‌ش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 112,
+   "start": 408.25,
+   "end": 412.21,
+   "text": "که اون خزینه اصلی هر چیزی بر اساس اون آیه‌ای که گفتیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 113,
+   "start": 412.21,
+   "end": 417.97,
+   "text": "میشه ذات حضرت حق. یعنی میره به سمت ذات حضرت حق و انا الیه راجعون اتفاق میفته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 114,
+   "start": 417.97,
+   "end": 421.33,
+   "text": "و ترك الجسد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 115,
+   "start": 421.33,
+   "end": 423.49,
+   "text": "لانه من شأن الدنيا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 116,
+   "start": 423.49,
+   "end": 426.09,
+   "text": "ترک میکنه جسد رو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 117,
+   "start": 426.09,
+   "end": 429.61,
+   "text": "دن-- کلاً جسد و روح از هم جدا میشن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 118,
+   "start": 429.61,
+   "end": 432.31,
+   "text": "چرا؟ چون لانه من شأن الدنيا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 119,
+   "start": 432.31,
+   "end": 433.85,
+   "text": "چون جسد از شأن دنیاست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 120,
+   "start": 433.85,
+   "end": 436.89,
+   "text": "اصلاً نمیشه بره به آسمون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 121,
+   "start": 436.89,
+   "end": 439.65,
+   "text": "و انما فسد الجسد في الدنيا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 122,
+   "start": 439.65,
+   "end": 441.75,
+   "text": "بعد جسد چی میشه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 123,
+   "start": 441.75,
+   "end": 443.67,
+   "text": "فاسد میشه. لان الريح.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 124,
+   "start": 443.67,
+   "end": 445.85,
+   "text": "چرا حالا جسد و اینا خیلی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 125,
+   "start": 445.85,
+   "end": 450.47,
+   "text": "بحثای طبیعت اینجا حضرت خیلی غوغا کرده‌ها تو علم طب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 126,
+   "start": 450.47,
+   "end": 454.61,
+   "text": "حتی زمین شناسی، بدن شناسی اینها علوم تجربی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 127,
+   "start": 454.61,
+   "end": 457.81,
+   "text": "لان الريح حضرت داره میفرماید چرا بس--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 128,
+   "start": 457.81,
+   "end": 460.55,
+   "text": "جسم فاسد میشه؟ چون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 129,
+   "start": 460.55,
+   "end": 462.97,
+   "text": "ريح باده. لان الريح",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 130,
+   "start": 462.97,
+   "end": 465.49,
+   "text": "تنشف الماء.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 131,
+   "start": 465.49,
+   "end": 467.75,
+   "text": "خشک میکنه آبو. باد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 132,
+   "start": 467.75,
+   "end": 471.33,
+   "text": "آب رو خشک میکنه. این بدنم اکثرش از چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 133,
+   "start": 471.33,
+   "end": 475.39,
+   "text": "آبه. وقتی باد خورد به بدن خشکش میکنه بدن رو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 134,
+   "start": 475.39,
+   "end": 478.91,
+   "text": "اون آب رو خشک میکنه. فيبش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 135,
+   "start": 478.91,
+   "end": 484.17,
+   "text": "اینجا چی میشه؟ این جسد، جسد آدم که خشک شد مثل یک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 136,
+   "start": 484.17,
+   "end": 486.93,
+   "text": "خاک نرم میشه، بدل میشه به یک خاک نرمی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 137,
+   "start": 486.93,
+   "end": 490.41,
+   "text": "فيبق تينا فيسير رفاة.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 138,
+   "start": 490.41,
+   "end": 493.51,
+   "text": "این میپوسه. میره به سمت پوسیدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 139,
+   "start": 493.51,
+   "end": 497.99,
+   "text": "حالا این پوسیدن همون معنای تبدل امثال درشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 140,
+   "start": 497.99,
+   "end": 500.49,
+   "text": "تجدد صور.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 141,
+   "start": 500.49,
+   "end": 503.67,
+   "text": "صورتش عوض میشه. این‌ها بدن‌ها، این بدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 142,
+   "start": 503.67,
+   "end": 505.87,
+   "text": "ببینید میشه عاقبت خاک گل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 143,
+   "start": 505.87,
+   "end": 508.23,
+   "text": "کوزه گرام. خب یه کوزه شدی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 144,
+   "start": 508.23,
+   "end": 510.63,
+   "text": "یه عصایی شدی در دست یک کسی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 145,
+   "start": 510.63,
+   "end": 515.55,
+   "text": "همین بدن یهو یه حیوونی میاد موریانه چیزی آدمو میخوره اصلاً میشی موریانه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 146,
+   "start": 515.55,
+   "end": 518.83,
+   "text": "بدنت‌ها اشتباه نشه. شأن دنیایی‌ت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 147,
+   "start": 518.83,
+   "end": 523.17,
+   "text": "یعنی این بدن ما چه بلاهای بدها میخواد سرش بیاد خدا میدونه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 148,
+   "start": 523.17,
+   "end": 526.41,
+   "text": "این بدن میخواد بشه چه حیوانی، چه جمادی، چه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 149,
+   "start": 526.41,
+   "end": 530.77,
+   "text": "نباتی. که تو ریشه کدوم درخت بره، تو دل کدوم حیوان بره،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 150,
+   "start": 530.77,
+   "end": 534.37,
+   "text": "باد ببرش کجا‌ها بشه دیوار و خشت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 151,
+   "start": 534.37,
+   "end": 540.33,
+   "text": "حرم یه ولی از اولیای خدا یا بشه سنگ معذرت میخوام توالت یکی از سلاطین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 152,
+   "start": 540.33,
+   "end": 543.41,
+   "text": "اینا از ط-- اینام همش حرفه درش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 153,
+   "start": 543.41,
+   "end": 548.33,
+   "text": "اینا ظاهرش خنده داره برای بعضیا اما الطیبات للطيبين",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 154,
+   "start": 548.33,
+   "end": 550.99,
+   "text": "الخبيثات للخبيث. این آیه قرآنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 155,
+   "start": 550.99,
+   "end": 555.81,
+   "text": "خبيث با خبيث جمع میشه بسته به اینکه این بدن از چه چیزی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 156,
+   "start": 555.81,
+   "end": 558.63,
+   "text": "جون گرفت. با مال حرام یا مال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 157,
+   "start": 558.63,
+   "end": 562.81,
+   "text": "حلال. این‌ها همش توش حرف حالا نکاتیه که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 158,
+   "start": 562.81,
+   "end": 570.81,
+   "text": "فرصت نیست و يب-- ويبلع همینطوری میره وقتی پوسید و يرجع كل الی جوهره الاول.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 159,
+   "start": 570.81,
+   "end": 573.21,
+   "text": "هر کدوم از اینا برمی‌گردن به اون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 160,
+   "start": 573.21,
+   "end": 575.41,
+   "text": "عنصر اولیشون. چه روح،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 161,
+   "start": 575.41,
+   "end": 580.39,
+   "text": "چه بدن. و تحرك الروح بالنفس حركتها من الريح.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 162,
+   "start": 580.39,
+   "end": 585.13,
+   "text": "چه جالب! می‌فرماید این روح از اونجا به بعد دیگه با باد حرکت میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 163,
+   "start": 585.13,
+   "end": 587.13,
+   "text": "حرکت روح با باده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 164,
+   "start": 587.13,
+   "end": 590.49,
+   "text": "به فرمایش امیرالمؤمنین در خصوص حقیقت موت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 165,
+   "start": 590.49,
+   "end": 594.15,
+   "text": "می‌فرماید که باد حتی وقتی ما می‌خوابیم، وقتی می‌خوابیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 166,
+   "start": 594.15,
+   "end": 596.53,
+   "text": "حضرت فرمود نفس ناطقتو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 167,
+   "start": 596.53,
+   "end": 601.01,
+   "text": "باد میبره اینور اونور. حالا این حرف خیلی شریفیه که چرا باد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 168,
+   "start": 601.01,
+   "end": 605.51,
+   "text": "که قرآن می‌فرماید این مژده دهنده است، باد مژده دهنده است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 169,
+   "start": 605.51,
+   "end": 612.39,
+   "text": "چرا اینور؟ حالا بماند اگر حالش رو داشتید رو این حدیث می‌تونیم توقف بیشتری کنیم بعدها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 170,
+   "start": 612.39,
+   "end": 615.25,
+   "text": "فما كان من نفس المؤمن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 171,
+   "start": 615.25,
+   "end": 617.55,
+   "text": "فهو نور مؤيد بالعقل.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 172,
+   "start": 617.55,
+   "end": 621.69,
+   "text": "نفس مؤمن وقتی روح جدا شد چیزی نیست جز یک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 173,
+   "start": 621.69,
+   "end": 625.13,
+   "text": "تأیید شده با عقل. نوری‌ست که تأیید شده با عقل.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 174,
+   "start": 625.13,
+   "end": 629.19,
+   "text": "و ما كان من نفس الكافر فهو نار مؤيد بالنكر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 175,
+   "start": 629.19,
+   "end": 635.99,
+   "text": "نفس کافر هم چیزی نیست جز اینکه با شیطنت و بدی تأیید شده و آ-- از آتشه جنسش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 176,
+   "start": 635.99,
+   "end": 638.09,
+   "text": "فهاذه صورة نار.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 177,
+   "start": 638.09,
+   "end": 642.35,
+   "text": "این نفس کافر که جدا شد روحش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 178,
+   "start": 642.35,
+   "end": 645.45,
+   "text": "صورت آتش میشه و هاذه صورة نور",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 179,
+   "start": 645.45,
+   "end": 647.43,
+   "text": "و این صورت می--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 180,
+   "start": 647.43,
+   "end": 649.13,
+   "text": "میت مؤمن میشه نور.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 181,
+   "start": 649.13,
+   "end": 651.35,
+   "text": "یعنی صورت تو میشه نور.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 182,
+   "start": 651.35,
+   "end": 656.69,
+   "text": "ان شاء الله صورتت. و الم-- و ر-- بعد فرمود رحمت من الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 183,
+   "start": 656.69,
+   "end": 659.87,
+   "text": "حالا موت. موت که حالا جمله آخر رو ببینید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 184,
+   "start": 659.87,
+   "end": 663.05,
+   "text": "والموت رحمة من الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 185,
+   "start": 663.05,
+   "end": 666.29,
+   "text": "موت رحمتی‌ست از خدا برای همه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 186,
+   "start": 666.29,
+   "end": 667.99,
+   "text": "نه. لعباده المؤمنين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 187,
+   "start": 667.99,
+   "end": 670.61,
+   "text": "برای اهل ایمان رحمته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 188,
+   "start": 670.61,
+   "end": 675.49,
+   "text": "والنقمة هو یا والنقمة علی الكافرين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 189,
+   "start": 675.49,
+   "end": 677.93,
+   "text": "نقمتی‌ست برای کافرین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 190,
+   "start": 677.93,
+   "end": 687.55,
+   "text": "یعنی موت کسی که کارش درسته براش رحمته موت و الا برای کافر نقمة و بدبختی و اول فلاکت و بیچاره‌گی‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 191,
+   "start": 687.55,
+   "end": 692.19,
+   "text": "ان شاء الله عاقبت بخیر باشه و برکت صلوات بر محمد و آل محمد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 192,
+   "start": 692.19,
+   "end": 695.15,
+   "text": "اللهم صل علی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 193,
+   "start": 695.15,
+   "end": 698.21,
+   "text": "محمد و آل محمد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

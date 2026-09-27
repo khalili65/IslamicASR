@@ -1,0 +1,41 @@
+{
+ "id": "020",
+ "index": 20,
+ "lecturer": "shojai",
+ "course": "mabohas_mozui",
+ "title": "جلسه ۲۰",
+ "topic": null,
+ "summary": null,
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/shojai/mabohas_mozui/020/020_play.m4a",
+  "filename": "020_play.m4a",
+  "size": 20337504,
+  "display": "19.4 MB",
+  "duration": 1616.85,
+  "durationText": "26:57"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "020.vtt",
+   "cues": "020.cues.json",
+   "words": "020.words.json"
+  }
+ },
+ "chapters": [],
+ "recordedAt": null,
+ "sourceName": null,
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": false,
+ "hasBook": false,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": null,
+ "previous": "019",
+ "next": "021"
+}

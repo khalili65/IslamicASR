@@ -1,0 +1,78 @@
+{
+ "id": "011",
+ "index": 11,
+ "lecturer": "bayat",
+ "course": "qalb_aghlad",
+ "title": "قلبِ أغلف و شکاف در تعریفِ منطقیِ انسان",
+ "topic": null,
+ "summary": "قلبِ أغلف مدعایِ نشنیدن است و تعریفِ حیوانِ ناطق را می‌شکند. حشر به صورتِ حیوان و داستان‌های یعقوب و حسین و سجاد نشان می‌دهد تمایزِ حقیقی عقل و قرائتِ حقایق است نه نطقِ صوری.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/qalb_aghlad/011/011_play.m4a",
+  "filename": "011_play.m4a",
+  "size": 9238339,
+  "display": "8.8 MB",
+  "duration": 743.26,
+  "durationText": "12:23"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "011.vtt",
+   "cues": "011.cues.json",
+   "words": "011.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## قلبِ أغلف و شکاف در تعریفِ منطقیِ انسان",
+   "start": 14.84,
+   "end": 34.88
+  },
+  {
+   "index": 1,
+   "title": "## جماد و نبات و حیوان و دعویِ نطق",
+   "start": 34.88,
+   "end": 54.9
+  },
+  {
+   "index": 2,
+   "title": "## پرسشِ بی‌پاسخ از منطقی",
+   "start": 54.9,
+   "end": 327.72
+  },
+  {
+   "index": 3,
+   "title": "## محشور شدن به صورتِ حیوانات",
+   "start": 327.72,
+   "end": 399.64
+  },
+  {
+   "index": 4,
+   "title": "## گرگ در سخنِ یعقوب و خطبهٔ حسین و انگشتانِ سجاد",
+   "start": 399.64,
+   "end": 521.3
+  },
+  {
+   "index": 5,
+   "title": "## نسیان یا انس؛ و خطرِ غلافِ غفلت",
+   "start": 521.3,
+   "end": 743.26
+  }
+ ],
+ "recordedAt": 1785942320,
+ "sourceName": "قلب اغلف12_ج302.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "010",
+ "next": "012"
+}

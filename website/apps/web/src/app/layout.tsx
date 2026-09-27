@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { getSiteIndex } from "@/lib/data";
+import { AiDisclaimerModal } from "@/components/AiDisclaimerModal";
 import { SiteHeader } from "@/components/SiteHeader";
 import { themeToCssVars } from "@/lib/theme";
 
@@ -23,12 +24,13 @@ export default function RootLayout({
           <style dangerouslySetInnerHTML={{ __html: `:root{${cssVars}}` }} />
         ) : null}
         <SiteHeader brandName={brandName} mode={site.mode} />
-        <div className="mx-auto min-h-screen w-full max-w-3xl px-4 pb-24 pt-6">
+        <div className="mx-auto min-h-screen w-full max-w-6xl px-4 pb-24 pt-6">
           {children}
         </div>
         <footer className="pb-10 text-center text-xs text-ink/40">
           {brandName}
         </footer>
+        <AiDisclaimerModal />
       </body>
     </html>
   );

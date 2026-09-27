@@ -119,6 +119,12 @@ def _classify(chunk: str) -> Optional[Block]:
         kind = "translation" if any(h in body for h in _TRANSLATION_HINTS) else "note"
         return Block(kind=kind, text=body)
 
+    if stripped.startswith("یادداشت:"):
+        return Block(kind="meta", text=stripped)
+
+    if stripped.startswith("ترجمه") and any(h in stripped for h in _TRANSLATION_HINTS):
+        return Block(kind="translation", text=stripped)
+
     if "ayah-ar" in stripped or stripped.startswith("<p"):
         body = _strip_annotations(_TAG_RE.sub("", stripped))
         if not body:

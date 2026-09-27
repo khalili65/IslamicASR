@@ -1,0 +1,3661 @@
+{
+ "version": 1,
+ "sessionId": "007",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 1629.12,
+ "alignment": {
+  "exact": 3339,
+  "total": 3339,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "بسم الله الرحمن الرحیم.",
+   "start": 9.3,
+   "end": 29.82
+  },
+  {
+   "index": 1,
+   "title": "## ذات در هر اسم، و بطونِ صفات در بطنِ همان اسم",
+   "start": 29.82,
+   "end": 82.42
+  },
+  {
+   "index": 2,
+   "title": "## اسم خالق و معنای خلق",
+   "start": 82.42,
+   "end": 468.54
+  },
+  {
+   "index": 3,
+   "title": "## دو دانه و ظهور عیب در مقام درخت",
+   "start": 468.54,
+   "end": 932.63
+  },
+  {
+   "index": 4,
+   "title": "آیه اشاره می‌کند؛ دقت کنید سورهٔ لقمان.",
+   "start": 932.63,
+   "end": 965.05
+  },
+  {
+   "index": 5,
+   "title": "## دعای «یا لطیف» و دعای صباح",
+   "start": 965.05,
+   "end": 1008.21
+  },
+  {
+   "index": 6,
+   "title": "## جمع‌بندی جلسه: بطون اسماء در کارِ خلق",
+   "start": 1008.21,
+   "end": 1629.12
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 9.3,
+   "end": 23.28,
+   "text": "مباحث عرفانی آیت الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 23.28,
+   "end": 23.9,
+   "text": "محمد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 23.9,
+   "end": 27.98,
+   "text": "شجاعی در باب اسماء الهی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 27.98,
+   "end": 29.82,
+   "text": "لله الأسماء الحسنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 29.82,
+   "end": 33.38,
+   "text": "هر اسمی که این آیه از کمال می‌کنه اسم خداست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 33.38,
+   "end": 42.84,
+   "text": "أسماء",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 42.84,
+   "end": 62.84,
+   "text": "الحسنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 82.42,
+   "end": 86.12,
+   "text": "بسم الله الرحمن الرحیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 86.12,
+   "end": 93.16,
+   "text": "به نام حضرت قدیر که له الأسماء الحسنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 93.16,
+   "end": 96.36,
+   "text": "شنوندگان فرهیخته سلام.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 96.36,
+   "end": 99.6,
+   "text": "برنامه اسماء الحسنی را می‌شنوید که در آن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 99.6,
+   "end": 103.72,
+   "text": "سلسله مباحث عرفانی آیت الله محمد شجاعی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 103.72,
+   "end": 110.34,
+   "text": "تقدیم شما می‌شود در باب موضوع اسماء الهی و این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 110.34,
+   "end": 113.12,
+   "text": "هفتمین برنامه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 113.12,
+   "end": 117.56,
+   "text": "پس شما دعوت می‌کنیم بحث جلسه هفتم را بشنوید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 117.56,
+   "end": 125.14,
+   "text": "که در تاریخ سوم مرداد ماه 1360 ایران شده است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 125.14,
+   "end": 127.22,
+   "text": "بسم الله الرحمن الرحیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 127.22,
+   "end": 131.84,
+   "text": "خلاصه اون مطالب مشروحی که گفته شده بود این بود که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 131.84,
+   "end": 134.0,
+   "text": "به اصطلاح",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 134.0,
+   "end": 136.02,
+   "text": "ظهور ذات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 136.02,
+   "end": 139.24,
+   "text": "در اسماء یا با اسماء",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 139.24,
+   "end": 144.36,
+   "text": "در عالم اسماء یا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 144.36,
+   "end": 147.7,
+   "text": "جلوه ذات در مجراهای مختلف",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 147.7,
+   "end": 150.92,
+   "text": "که گفتیم عالم اسماء نامیده می‌شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 150.92,
+   "end": 154.62,
+   "text": "این جلوه، جلوه در جلوه گاه‌ها،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 154.62,
+   "end": 157.62,
+   "text": "تعیون با تعیون‌ها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 157.62,
+   "end": 162.29,
+   "text": "و جلوه ذات در اسماء این‌ها همون عالم اسماء.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 162.29,
+   "end": 165.46,
+   "text": "این عالم اسماء خودش مراتب دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 165.46,
+   "end": 174.2,
+   "text": "گفتیم که اونجا که می‌گیم در مقام ذات حق هیچ خبری از صفات نیست،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 174.2,
+   "end": 177.98,
+   "text": "اون وقت در عوارض از آن صحبت می‌کردیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 177.98,
+   "end": 186.88,
+   "text": "در مقام ذات، در متن ذات حق و در مقام ذات غیب الغیوب که اون حقیقت مطلق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 186.88,
+   "end": 189.44,
+   "text": "و وجود مطلق و نور مطلق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 189.44,
+   "end": 193.12,
+   "text": "همون الله. در مقام ذات گفتیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 193.12,
+   "end": 195.88,
+   "text": "خبری از اوصاف به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 195.88,
+   "end": 198.52,
+   "text": "عنوان اوصاف نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 198.52,
+   "end": 206.52,
+   "text": "خبری از اسماء به عنوان اسماء مشخص نبود و از علی سلام الله علیه هم اون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 206.52,
+   "end": 209.78,
+   "text": "نفی صفات را خوندم یادتون هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 209.78,
+   "end": 217.1,
+   "text": "اونجا که توضیح می‌دادم اگر فراموش نکرده باشید گفتم که معنی‌ش این نیست که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 217.1,
+   "end": 224.68,
+   "text": "ذات مقدس حق صفت‌ها را یعنی مثلاً علم ندارد یا قدرت ندارد یا سمع ندارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 224.68,
+   "end": 234.44,
+   "text": "معنی‌ش این بود که ذات علم با رنگ علم را ندارد که دیگه علم باشد چیز دیگه نباشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 234.44,
+   "end": 237.1,
+   "text": "سمع را با رنگ سمع ندارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 237.1,
+   "end": 242.46,
+   "text": "بصیر را به عنوان بصیر ندارد و همه صفات دیگر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 242.46,
+   "end": 251.52,
+   "text": "اونجا که ذات جلوه کرده در عالم اسماء با اسماء مختلف، شبهه‌ای نیست که اسماء مختلف هست، مختلف یعنی متنوع.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 251.52,
+   "end": 258.98,
+   "text": "اما در هر اسم که شما حساب بکنید به سراغ هر اسمی برید که ظهور خاصی است غیر از اون ظهور دیگر،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 258.98,
+   "end": 261.06,
+   "text": "به سراغ هر اسمی برید،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 261.06,
+   "end": 264.32,
+   "text": "به سراغ هر ظهوری برید، به سراغ هر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 264.32,
+   "end": 267.44,
+   "text": "جلوه‌ای برید، جلوه اون ذات هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 267.44,
+   "end": 271.72,
+   "text": "ذاتی که درش همه صفات به صورت مشخص",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 271.72,
+   "end": 273.64,
+   "text": "نه، ولی همه صفات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 273.64,
+   "end": 275.3,
+   "text": "هست. درش قدرت است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 275.3,
+   "end": 278.46,
+   "text": "الان این جلوه‌ای که علیم است الان اینجا قدرت چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 278.46,
+   "end": 281.94,
+   "text": "هست. این قدرت است. این علیم قدرت است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 281.94,
+   "end": 284.3,
+   "text": "این علیم شمی هم هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 284.3,
+   "end": 286.83,
+   "text": "این علیم جمیل است. این علیم افو است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 286.83,
+   "end": 288.62,
+   "text": "این علیم بدیع است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 288.62,
+   "end": 292.72,
+   "text": "الی آخر دیگه به شما ربطی ندارد هرچه اسماء خدا هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 292.72,
+   "end": 295.24,
+   "text": "شما مثلاً شنیده‌اید که خدا قهر می‌کند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 295.24,
+   "end": 298.64,
+   "text": "می‌دانید در باطن قهرش چه هست؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 298.64,
+   "end": 301.82,
+   "text": "نه گفتی رحمت هست و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 301.82,
+   "end": 305.66,
+   "text": "لطف هست. میگن که قهر که در باطنش چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 305.66,
+   "end": 310.42,
+   "text": "لطف است. یا لطفی که در باطنش چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 310.42,
+   "end": 316.94,
+   "text": "قهر است. یا فرضاً که احیایی есть در باطن، باطنش چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 316.94,
+   "end": 320.26,
+   "text": "اماته است. اماته есть در باطنش چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 320.26,
+   "end": 326.29,
+   "text": "احیا است و البته این‌ها که متقابلاً با همدیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 326.29,
+   "end": 330.06,
+   "text": "این‌ها همه این قبیل مطالب پیچیده‌ای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 330.06,
+   "end": 335.14,
+   "text": "فرار از خدا می‌کند انسان به‌سوی که فرار می‌کند به‌سوی خدا فرار می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 335.14,
+   "end": 338.4,
+   "text": "از رحمان فرار می‌کند به‌سوی قهار فرار می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 338.4,
+   "end": 341.69,
+   "text": "از قهار فرار می‌کند به‌سوی چه فرار می‌کند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 341.69,
+   "end": 346.38,
+   "text": "به‌سوی رحمان فرار می‌کند. این اوصاف متقابل‌اند که با هم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 346.38,
+   "end": 348.2,
+   "text": "منظورم این که این نمونه‌ها را بگم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 348.2,
+   "end": 352.7,
+   "text": "این قبیل چیزها همه مسائل به اضافه که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 352.7,
+   "end": 357.54,
+   "text": "اونی که من خودم می‌خواهم روی آن بپردازم در همین نکته نکته است که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 357.54,
+   "end": 360.3,
+   "text": "ذات حق همه چیز است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 360.3,
+   "end": 364.48,
+   "text": "و وقتی جلوه می‌کند با یک صفتی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 364.48,
+   "end": 368.9,
+   "text": "صفات دیگر در بطن این صفت چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 368.9,
+   "end": 377.6,
+   "text": "هست. خب ما یک از اسماء خدا را حساب میکنیم ببینیم که چجوری این صفاتی که در باطنس کارش را میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 377.6,
+   "end": 380.5,
+   "text": "دقت بکنید. یکی از اسماء خدا خالقه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 380.5,
+   "end": 385.58,
+   "text": "خالق. خالق البته از اسماء فعلی هم حساب کرده کار نداریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 385.58,
+   "end": 388.44,
+   "text": "ولی خالق از اسماء خداست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 388.44,
+   "end": 391.24,
+   "text": "به این معنا که به اصطلاح",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 391.24,
+   "end": 396.84,
+   "text": "معنی خلق این است که همین که مثلا خاک را مثلا به صورت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 396.84,
+   "end": 399.8,
+   "text": "نبات میاره نبات را مثلا به صورت گوشت و پو میاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 399.8,
+   "end": 409.7,
+   "text": "میگن خلق یعنی اطوار روی یک چیز آوردن و تحولات را روی یک چیز آوردن و جمع کردن و صورت دادن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 409.7,
+   "end": 419.8,
+   "text": "خلاصه خلق عبارت است از جمع کردن و یعنی اجزا را جمع کردن و اینور اونور کردن و جابجا کردن و صورت دادن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 419.8,
+   "end": 422.86,
+   "text": "هیچ نکھو نیست خلق عبارت است از یهو ایجاد کردن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 422.86,
+   "end": 424.94,
+   "text": "اون نه، اون معنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 424.94,
+   "end": 426.57,
+   "text": "خلق اون نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 426.57,
+   "end": 432.7,
+   "text": "کلمه خلق. اونی که خاک را نبات میکنه اون خالقه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 432.7,
+   "end": 435.18,
+   "text": "اونی که نبات را گوشت و پو میکنه چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 435.18,
+   "end": 439.1,
+   "text": "خالق. این خالقه. خب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 439.1,
+   "end": 441.74,
+   "text": "معنی خلق اول تعبدی چیه؟ خلق از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 441.74,
+   "end": 443.46,
+   "text": "عدم آوردن نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 443.46,
+   "end": 447.62,
+   "text": "اشیا و متفرقات و اجزا و ذرات را با چه کار بکنم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 447.62,
+   "end": 452.24,
+   "text": "جمع کردن، جابجا کردن البته با تناسب، با حساب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 94,
+   "start": 452.24,
+   "end": 455.88,
+   "text": "و صورت دادن و به صورت موجودی درآوردن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 95,
+   "start": 455.88,
+   "end": 464.4,
+   "text": "این نامش خلق. این کاری که خدا در این عالم ماده علی الاصول دارد میکند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 96,
+   "start": 464.4,
+   "end": 468.54,
+   "text": "صحبت اینجاست. ساده میخوایم حساب بکنیم اینجا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 97,
+   "start": 468.54,
+   "end": 471.0,
+   "text": "خالقی که میاد خاک را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 98,
+   "start": 471.0,
+   "end": 475.4,
+   "text": "میاره نبات میکنه. اگر در اون خاک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 99,
+   "start": 475.4,
+   "end": 478.76,
+   "text": "دقت بکنید، اگر در اون خاک یه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 100,
+   "start": 478.76,
+   "end": 481.46,
+   "text": "چیزی، یه مثالی بود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 101,
+   "start": 481.46,
+   "end": 485.24,
+   "text": "دو تا خاک حساب بکنید که دو تا خاک را خدا میاره هر دو را چی میکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 102,
+   "start": 485.24,
+   "end": 493.93,
+   "text": "نبات میکنه. اون خالق خدا، اون ذات با صفت خالق میاد این دو تا خاک را هر دو را نبات میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 103,
+   "start": 493.93,
+   "end": 497.3,
+   "text": "ولی در یکی از این خاک‌ها اشکالی هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 104,
+   "start": 497.3,
+   "end": 500.34,
+   "text": "یه اشکال در اون خاک چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 105,
+   "start": 500.34,
+   "end": 503.42,
+   "text": "در خودش هست. این خالق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 106,
+   "start": 503.42,
+   "end": 506.0,
+   "text": "میخواد خاک را بیاره چی بکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 107,
+   "start": 506.0,
+   "end": 508.84,
+   "text": "نبات بکنه. یا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 108,
+   "start": 508.84,
+   "end": 510.76,
+   "text": "ن-- چیز حساب نکنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 109,
+   "start": 510.76,
+   "end": 514.9,
+   "text": "چیه؟ خاک حساب نکنید برای شما روشن‌تر بشه مثال دیگه بزنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 110,
+   "start": 514.9,
+   "end": 518.98,
+   "text": "دو تا دانه حساب بکنید. یه دانه یه خورده اشکال درش هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 111,
+   "start": 518.98,
+   "end": 521.58,
+   "text": "دو تا دانه که سالم و کاملاً.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 112,
+   "start": 521.58,
+   "end": 524.07,
+   "text": "یکی هم سالم نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 113,
+   "start": 524.07,
+   "end": 529.68,
+   "text": "این دو تا دانه را روی دو تا دانه اسم خالق در نظام وجود میخواد چی کار بکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 114,
+   "start": 529.68,
+   "end": 533.76,
+   "text": "کار بکنه. دانه را برگرداند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 115,
+   "start": 533.76,
+   "end": 537.54,
+   "text": "و چی بکنه؟ مثلا فرض درخت بکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 116,
+   "start": 537.54,
+   "end": 539.95,
+   "text": "اون وقت خالق روی این دو تا دانه کار کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 117,
+   "start": 539.95,
+   "end": 542.76,
+   "text": "یکی از این دانه‌ها یه ذره درش ایراد بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 118,
+   "start": 542.76,
+   "end": 546.7,
+   "text": "دقت بکنید ایراد بود. این خالق وقتی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 119,
+   "start": 546.7,
+   "end": 550.64,
+   "text": "کارش این است این دانه را برگرداند چی بکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 120,
+   "start": 550.64,
+   "end": 553.42,
+   "text": "درخت بکنه. کار خالق اینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 121,
+   "start": 553.42,
+   "end": 558.42,
+   "text": "کار خالق هم این است که بشکافد دانه را ازش درخت بیرون بیاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 122,
+   "start": 558.42,
+   "end": 561.84,
+   "text": "کار مصور هم این بود که به این دانه صورت بده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 123,
+   "start": 561.84,
+   "end": 564.62,
+   "text": "اینا اس-- اوصافی است که کار میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 124,
+   "start": 564.62,
+   "end": 568.04,
+   "text": "من فعلا روی خالق صحبت میکنم ولی فرق نمیکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 125,
+   "start": 568.04,
+   "end": 572.82,
+   "text": "خب اینجا اون ذره اشکالی که بود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 126,
+   "start": 572.82,
+   "end": 577.14,
+   "text": "دقت کنید اشکالی که بود در اون دانه اشکال‌دار،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 127,
+   "start": 577.14,
+   "end": 584.18,
+   "text": "وقتی که خالق، خالق، مصور هر سه، مثلا هر سه من سه تا مثال میزنم نمیگم غیر از این‌ها نیست‌ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 128,
+   "start": 584.18,
+   "end": 589.94,
+   "text": "اسماء زیادی که کار میکنه ولی فعلا برای اینکه ذهن شما در حد یکیش بره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 129,
+   "start": 589.94,
+   "end": 593.07,
+   "text": "اینا که کاراشو میکنه خب اینا مصور کارشو میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 130,
+   "start": 593.07,
+   "end": 594.78,
+   "text": "اینم کار روی دانه میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 131,
+   "start": 594.78,
+   "end": 601.0,
+   "text": "اما در این دانه اشکال‌دار وقتی آمد درخت شد میدونید که این درخت با آن درخت یه خورده چه شد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 132,
+   "start": 601.0,
+   "end": 605.78,
+   "text": "فرق کرد. این ب-- برگ‌هاشون یه خورده عرض کنم که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 133,
+   "start": 605.78,
+   "end": 610.42,
+   "text": "بله پریشان شد. حالا اون یکی اینطور شد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 134,
+   "start": 610.42,
+   "end": 615.36,
+   "text": "و اون یکی مثلا به یک ساقه‌اش مانند کمر من درد گرفت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 135,
+   "start": 615.36,
+   "end": 617.46,
+   "text": "خب این چه شد؟ دقت بکنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 136,
+   "start": 617.46,
+   "end": 619.34,
+   "text": "این خالق و مصور داره کار میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 137,
+   "start": 619.34,
+   "end": 622.0,
+   "text": "یا مثلا انسان‌ها یواش یواش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 138,
+   "start": 622.0,
+   "end": 627.1,
+   "text": "آخر این مثالو که من آیه قرآن رو باز کردم به شما بخونم بس کنن که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 139,
+   "start": 627.1,
+   "end": 630.0,
+   "text": "خب این سه تا کارشو میکنن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 140,
+   "start": 630.0,
+   "end": 633.42,
+   "text": "اون خالق چیکار دارد؟ می‌شکافد دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 141,
+   "start": 633.42,
+   "end": 635.84,
+   "text": "می‌شکافد. مصور هم چیکار دارد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 142,
+   "start": 635.84,
+   "end": 639.9,
+   "text": "تصویر میکنه. خالق هم باز اون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 143,
+   "start": 639.9,
+   "end": 642.38,
+   "text": "چیزی بود اشیا را جمع و صورتی...",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 144,
+   "start": 642.38,
+   "end": 645.62,
+   "text": "اشکال چرا معلوم بشه در این درخت؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 145,
+   "start": 645.62,
+   "end": 647.7,
+   "text": "خالق کارش این بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 146,
+   "start": 647.7,
+   "end": 652.1,
+   "text": "خود خالق به عنوان اینکه خالق است کارش این بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 147,
+   "start": 652.1,
+   "end": 656.44,
+   "text": "مصور به عنوان اینکه مصورش کارش این بود تو این اشکال اینو مدار بکنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 148,
+   "start": 656.44,
+   "end": 665.2,
+   "text": "یا خالق به عنوان شکافنده کارش این بود که اون وقتی می‌شکافد دانه را میکنه درخت، اون عیب را هم بیاره اینجا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 149,
+   "start": 665.2,
+   "end": 667.76,
+   "text": "بکشه بیاره در این درخت هم چه بکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 150,
+   "start": 667.76,
+   "end": 670.18,
+   "text": "معلوم. مصور صورت میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 151,
+   "start": 670.18,
+   "end": 674.66,
+   "text": "فقط صورتو سعی میکنه که صورت به بهترین صورت چه بکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 152,
+   "start": 674.66,
+   "end": 676.94,
+   "text": "بده. خالق هم بهتر می‌شکافد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 153,
+   "start": 676.94,
+   "end": 679.9,
+   "text": "خالق هم با اون صورت در میاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 154,
+   "start": 679.9,
+   "end": 685.34,
+   "text": "هیچکس نمیگه خدای لطیف و خبیر آمد اینجا چی کرد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 155,
+   "start": 685.34,
+   "end": 686.98,
+   "text": "دانه را درخت...",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 156,
+   "start": 686.98,
+   "end": 692.52,
+   "text": "هیچکسی میگه این حرف را؟ میگه خدای خالق و خالق و مصور آمد اینجا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 157,
+   "start": 692.52,
+   "end": 696.5,
+   "text": "این کار را کرد. بله آمد اما چه چیزها با خودش آورد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 158,
+   "start": 696.5,
+   "end": 699.42,
+   "text": "اونی که آمد لطیف هم بود یا نبود؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 159,
+   "start": 699.42,
+   "end": 701.75,
+   "text": "بود دیگه. خبیر هم بود یا نبود؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 160,
+   "start": 701.75,
+   "end": 705.98,
+   "text": "اون آمده بود. خا-- با وصف خالق آمده بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 161,
+   "start": 705.98,
+   "end": 708.66,
+   "text": "با چهره خالق آمده بود اما لطیف هم بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 162,
+   "start": 708.66,
+   "end": 715.66,
+   "text": "خبیر هم بود. چ-- گرچه خالق بود، گرچه خالق بود، گرچه مصور بود اما لطیف هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 163,
+   "start": 715.66,
+   "end": 719.0,
+   "text": "بود. نمیتونست از لطافت خود چی بکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 164,
+   "start": 719.0,
+   "end": 720.8,
+   "text": "صرف‌نظر کنه لطیف نباشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 165,
+   "start": 720.8,
+   "end": 729.55,
+   "text": "نه، هست. چون لطیف است بالاخره اون چرا که و خبیر هم هست، خبیر است و لطیف",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 166,
+   "start": 729.55,
+   "end": 731.15,
+   "text": "چون لطیف و خبیر است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 167,
+   "start": 731.15,
+   "end": 734.35,
+   "text": "لطیف و خبیر مصور است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 168,
+   "start": 734.35,
+   "end": 738.9,
+   "text": "دقت کنیدا. لطیف و خبیر خالق است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 169,
+   "start": 738.9,
+   "end": 741.21,
+   "text": "اون لطیف می‌شکافد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 170,
+   "start": 741.21,
+   "end": 744.77,
+   "text": "وقتی لطیف می‌شکافد عیب را هم می‌زنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 171,
+   "start": 744.77,
+   "end": 749.15,
+   "text": "بیرون. دقت بکنید وقتی لطیف می‌شکافد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 172,
+   "start": 749.15,
+   "end": 751.19,
+   "text": "عیب را هم جلوه میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 173,
+   "start": 751.19,
+   "end": 758.19,
+   "text": "لطیف تصویر می‌کند در تصویر عیب را هم با لطفش چی میکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 174,
+   "start": 758.19,
+   "end": 760.87,
+   "text": "جلوه میده. توجه کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 175,
+   "start": 760.87,
+   "end": 763.07,
+   "text": "اینو خوب دقت کنیدا. چه گفتم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 176,
+   "start": 763.07,
+   "end": 765.71,
+   "text": "لطیف خالق است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 177,
+   "start": 765.71,
+   "end": 768.55,
+   "text": "و خبیر خالق است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 178,
+   "start": 768.55,
+   "end": 771.59,
+   "text": "لطیف خبیر مصور است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 179,
+   "start": 771.59,
+   "end": 774.51,
+   "text": "لطیف خبیر خالق است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 180,
+   "start": 774.51,
+   "end": 778.19,
+   "text": "خوب دقت کردی؟ همه چیزی که گفتم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 181,
+   "start": 778.19,
+   "end": 780.63,
+   "text": "اونی که در باطن خالق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 182,
+   "start": 780.63,
+   "end": 784.55,
+   "text": "بود که لطیف و خبیر بود، خبر، اسمی از او نبود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 183,
+   "start": 784.55,
+   "end": 786.99,
+   "text": "نامی از او نبود. نام و نشانی نبود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 184,
+   "start": 786.99,
+   "end": 790.33,
+   "text": "می‌گفتند خدای خالق دانه را چه کرد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 185,
+   "start": 790.33,
+   "end": 795.13,
+   "text": "خدای خالق دانه را درخت را خلق کرد به صورت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 186,
+   "start": 795.13,
+   "end": 798.43,
+   "text": "درخت آورد. نطفه را خلق کرد به صورت انسان آورد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 187,
+   "start": 798.43,
+   "end": 800.79,
+   "text": "بله خالق است. شکی نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 188,
+   "start": 800.79,
+   "end": 804.87,
+   "text": "اون ذات با جلوه خلق، با تأیید خلق، با",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 189,
+   "start": 804.87,
+   "end": 807.47,
+   "text": "اسم خلقش کرد. با اسم مصورش کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 190,
+   "start": 807.47,
+   "end": 810.41,
+   "text": "با این اسم‌های ظاهره. با اسم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 191,
+   "start": 810.41,
+   "end": 812.81,
+   "text": "خالقش کرد. اما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 192,
+   "start": 812.81,
+   "end": 816.87,
+   "text": "این خالق چه بود؟ اون ذات بود که لطیف است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 193,
+   "start": 816.87,
+   "end": 820.53,
+   "text": "همه چیز را دارد. اون ذات بود که خبیر است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 194,
+   "start": 820.53,
+   "end": 824.71,
+   "text": "اون لطیف خمیر و خبیر همه چیزو بشمار دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 195,
+   "start": 824.71,
+   "end": 827.33,
+   "text": "علیم، سمع، بصیر،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 196,
+   "start": 827.33,
+   "end": 829.37,
+   "text": "چه. کار خالق چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 197,
+   "start": 829.37,
+   "end": 831.83,
+   "text": "خالق لطیفه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 198,
+   "start": 831.83,
+   "end": 835.29,
+   "text": "دقت بکنید کار خالقی است که لطیفه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 199,
+   "start": 835.29,
+   "end": 840.85,
+   "text": "بله خالق میکنه اما خالق اگر تنها خالق بود نمی‌کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 200,
+   "start": 840.85,
+   "end": 845.05,
+   "text": "خالقی است که در عین اینکه اون خالق اونجا لطیف هم هست،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 201,
+   "start": 845.05,
+   "end": 847.41,
+   "text": "هم اون خالق اونجا خبیر هم هست،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 202,
+   "start": 847.41,
+   "end": 850.17,
+   "text": "هم اون خالق اونجا حسیب هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 203,
+   "start": 850.17,
+   "end": 852.91,
+   "text": "هست. حسیب هم هست که ایشون اول گفتن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 204,
+   "start": 852.91,
+   "end": 856.37,
+   "text": "اما اونجا مسئله زیاد به لغت مربوطه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 205,
+   "start": 856.37,
+   "end": 861.96,
+   "text": "چون حالا من باز زیاد نمی‌خوام بحثو طولانی کنم خصوصا حسیب بودن از اشاعات لطیفه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 206,
+   "start": 861.96,
+   "end": 865.39,
+   "text": "ولی به هر صورت حسیب هم هست بر حساب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 207,
+   "start": 865.39,
+   "end": 868.51,
+   "text": "اون خالقی که حسیب است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 208,
+   "start": 868.51,
+   "end": 871.91,
+   "text": "تنها نمیاد خلق بکنه. با حسابگریش میاد چی میکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 209,
+   "start": 871.91,
+   "end": 875.05,
+   "text": "خالقی هم میکنه. خالقیت هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 210,
+   "start": 875.05,
+   "end": 877.75,
+   "text": "میکنه. میاد میگه که من میخوام اینجا خلق کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 211,
+   "start": 877.75,
+   "end": 879.97,
+   "text": "خب با چه ابزاری آمده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 212,
+   "start": 879.97,
+   "end": 883.45,
+   "text": "میگه با حساب و کتاب و همه چیز آمده‌م",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 213,
+   "start": 883.45,
+   "end": 885.95,
+   "text": "میگه مثلا با همه چیز آمده دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 214,
+   "start": 885.95,
+   "end": 888.89,
+   "text": "ذات هست آمده. ذات با صفات خالق.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 215,
+   "start": 888.89,
+   "end": 891.17,
+   "text": "اون ذات همه چیز است. با همه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 216,
+   "start": 891.17,
+   "end": 894.75,
+   "text": "اوصافش آمده می‌خواد خلق بکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 217,
+   "start": 894.75,
+   "end": 898.15,
+   "text": "با همه اوصافش آمده می‌خواد چی بکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 218,
+   "start": 898.15,
+   "end": 899.87,
+   "text": "می‌خواد تصویر بکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 219,
+   "start": 899.87,
+   "end": 906.83,
+   "text": "می‌خواد اشرافه. خب اینجا میگه که آیه اشاره میکنه که دقت کنید سوره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 220,
+   "start": 906.83,
+   "end": 912.61,
+   "text": "لقمان. یا بنیا إنها إن تك مثقال حبة من خردل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 221,
+   "start": 912.61,
+   "end": 917.63,
+   "text": "فتكن في صخرة أو في السماوات أو في الأرض",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 222,
+   "start": 917.63,
+   "end": 920.89,
+   "text": "يأت به الله إن الله لطيف",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 223,
+   "start": 920.89,
+   "end": 925.21,
+   "text": "خبير. به چی بهش گفت که پسرش گفت لقمان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 224,
+   "start": 925.21,
+   "end": 929.41,
+   "text": "حالا این ما یه تو موقعیت خوندیم آیه رو دقت کردین چی میگه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 225,
+   "start": 929.41,
+   "end": 931.93,
+   "text": "میگه که به-- اصلاً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 226,
+   "start": 931.93,
+   "end": 933.69,
+   "text": "به لقمان، لقمان به پسرش میگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 227,
+   "start": 933.69,
+   "end": 939.65,
+   "text": "میگه پسر من. بله قبلاً گفت که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 228,
+   "start": 939.65,
+   "end": 941.95,
+   "text": "چنین بکن، چنین نکن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 229,
+   "start": 941.95,
+   "end": 943.81,
+   "text": "و مشرک نباش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 230,
+   "start": 943.81,
+   "end": 946.9,
+   "text": "برگشت همه به سوی خداست. خب خدا همه چیز خبر میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 231,
+   "start": 946.9,
+   "end": 948.69,
+   "text": "الان خدا همه چیزو خبر میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 232,
+   "start": 948.69,
+   "end": 955.91,
+   "text": "باز اینجا برای شما میگم فکر کنم بعضی‌ها یه مقدار معنی بیشتر پیدا بکنن که میگه برگشت به سوی خداست و خدا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 233,
+   "start": 955.91,
+   "end": 958.14,
+   "text": "اینو نب بده، اون نب بده، اون نب بده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 234,
+   "start": 958.14,
+   "end": 963.71,
+   "text": "هرچی که... حالا دانه که میاد یه مشت درخت میدن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 235,
+   "start": 963.71,
+   "end": 967.17,
+   "text": "درخت میشه. اگر اونی که در باطنش هست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 236,
+   "start": 967.17,
+   "end": 970.21,
+   "text": "یه مشت zur-- خدا بهش خبر میده یا نمیده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 237,
+   "start": 970.21,
+   "end": 972.86,
+   "text": "خدا بهش خبر میده که چیکار، چه داشته در دست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 238,
+   "start": 972.86,
+   "end": 975.17,
+   "text": "اون خبر دادنا. یادتون-- حالا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 239,
+   "start": 975.17,
+   "end": 978.15,
+   "text": "به هر صورت لقمان به پسرش میگه که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 240,
+   "start": 978.15,
+   "end": 981.55,
+   "text": "يا بني این اعمالی که داره پسر من",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 241,
+   "start": 981.55,
+   "end": 987.47,
+   "text": "اعمالی که داری تمام ذرات اعمالت هرچی در حرکته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 242,
+   "start": 987.47,
+   "end": 992.68,
+   "text": "دنیوی داری از اعمال و حرکات و اوصاف کلش یک کلمه میگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 243,
+   "start": 992.68,
+   "end": 996.21,
+   "text": "إنها یعنی اعمال تو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 244,
+   "start": 996.21,
+   "end": 998.79,
+   "text": "شرف باشه، ترشی باشه هرچی باشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 245,
+   "start": 998.79,
+   "end": 1001.11,
+   "text": "هرچی کلا اعمال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 246,
+   "start": 1001.11,
+   "end": 1005.27,
+   "text": "و روش‌های تو إن تك مثقال حبة",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 247,
+   "start": 1005.27,
+   "end": 1012.19,
+   "text": "من خردل اگر به اندازه‌ی ذرهای باشه، ذره خرده‌ای باشد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 248,
+   "start": 1012.19,
+   "end": 1014.93,
+   "text": "فتكن في صخرة مرا در گوشه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 249,
+   "start": 1014.93,
+   "end": 1021.51,
+   "text": "روی گوشه سنگ هم باشد، یه گوشه‌ای باشد في صخرة یا در یه گوشه آسمان‌ها باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 250,
+   "start": 1021.51,
+   "end": 1028.05,
+   "text": "هر کجا هر کاری کردی، هر جا مونده، هر جا کردی این کارو روی اون صخرة، توی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 251,
+   "start": 1028.05,
+   "end": 1033.79,
+   "text": "اون سماوات هر کجا اونی که به شما ارتباط دارد سرش رو میاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 252,
+   "start": 1033.79,
+   "end": 1037.39,
+   "text": "اونی که به تو ارتباط دارد در رابطه با توست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 253,
+   "start": 1037.39,
+   "end": 1042.45,
+   "text": "یه ذره هرچی، هرچیه در رابطه با توست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 254,
+   "start": 1042.45,
+   "end": 1046.03,
+   "text": "وقتی خدا تو را میاره اون را هم چی میکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 255,
+   "start": 1046.03,
+   "end": 1048.67,
+   "text": "با تو میاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 256,
+   "start": 1048.67,
+   "end": 1058.09,
+   "text": "رو میکنه. تو را وقتی میاره اونجا و به حسابت می‌رسد، اونی که برای به تو مربوط است ذره‌ای در هر کجا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 257,
+   "start": 1058.09,
+   "end": 1063.73,
+   "text": "روی شاخه سنگی باشد، در یه گوشه، در آسمان‌ها باشد، در کلمات باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 258,
+   "start": 1063.73,
+   "end": 1067.95,
+   "text": "اون ذره که به تو مربوطه از خردل هم کوچک باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 259,
+   "start": 1067.95,
+   "end": 1069.79,
+   "text": "گفتم اون دانه را حساب میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 260,
+   "start": 1069.79,
+   "end": 1072.15,
+   "text": "لطیف آورد دیگه امکان نداره شما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 261,
+   "start": 1072.15,
+   "end": 1081.03,
+   "text": "دو تا دانه داشته باشی یکیش ذره‌ای ایراد داشته باشه این ذره ایراد هیچ معلوم نشه مانند اون یکی باشه نمیشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 262,
+   "start": 1081.03,
+   "end": 1083.67,
+   "text": "خدا حسابگر است. خدا لطیف است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 263,
+   "start": 1083.67,
+   "end": 1086.17,
+   "text": "خدا خبیر است. فراموش هم نمیشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 264,
+   "start": 1086.17,
+   "end": 1087.97,
+   "text": "اصلا فراموش نمیشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 265,
+   "start": 1087.97,
+   "end": 1094.33,
+   "text": "خب گفت که بنیا اگر این عمل تو به اندازه‌ی مثقال حبه‌ای از خردل باشد، روی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 266,
+   "start": 1094.33,
+   "end": 1102.66,
+   "text": "سنگی باشد یا در آسمان‌ها باشد یا در زیر زمین باشد هر کجا باشد يأت به الله خدا اون رو میاره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 267,
+   "start": 1102.66,
+   "end": 1106.62,
+   "text": "اول میگه خدا میاره. بعد میگه خدا چرا میاره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 268,
+   "start": 1106.62,
+   "end": 1109.82,
+   "text": "خدا میگه کارش تمام شد بیاد به یه ذره‌ذرات را.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 269,
+   "start": 1109.82,
+   "end": 1113.6,
+   "text": "میگه من چی کار باید کرد؟ خدا لطیف دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 270,
+   "start": 1113.6,
+   "end": 1117.66,
+   "text": "خدا لطیف و خبیر این کارا رو می-- باید که بکنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 271,
+   "start": 1117.66,
+   "end": 1122.25,
+   "text": "و میکنه دیگه. خداست. وقتی تو را میاره کی میاره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 272,
+   "start": 1122.25,
+   "end": 1125.26,
+   "text": "اون خدای لطیف و خبیر میاره دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 273,
+   "start": 1125.26,
+   "end": 1127.46,
+   "text": "همه چیز را میار. ما را هم درون دانه دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 274,
+   "start": 1127.46,
+   "end": 1132.55,
+   "text": "گفتم دانه. اون خالق اونجا لطیف و خبیر است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 275,
+   "start": 1132.55,
+   "end": 1141.72,
+   "text": "اینکه منو اینجا میاره به مرحله‌ی حشر و منو با تمام وجودی‌هاتم میاره، قطعا اون ذره را هم چی میکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 276,
+   "start": 1141.72,
+   "end": 1144.72,
+   "text": "میاره. چون لطیف و خبیر است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 277,
+   "start": 1144.72,
+   "end": 1153.72,
+   "text": "اون آورنده هر ذره و ایرادی را که در باطن است، هر جا گم شده، در زیر زمین است، آسمان است، هر جا هست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 278,
+   "start": 1153.72,
+   "end": 1155.92,
+   "text": "اونو که من مربوط رو میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 279,
+   "start": 1155.92,
+   "end": 1158.2,
+   "text": "لطیف خلاصه رو میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 280,
+   "start": 1158.2,
+   "end": 1162.28,
+   "text": "خبیر چی میکنه؟ رو میکنه اینا رو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 281,
+   "start": 1162.28,
+   "end": 1166.88,
+   "text": "فهمیدید معنی آیه رو خوب؟ البته اینا باید صحبت شه دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 282,
+   "start": 1166.88,
+   "end": 1171.24,
+   "text": "بله من فکر کنم به نظر شما اسم ستار میاد، اسم افو میاد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 283,
+   "start": 1171.24,
+   "end": 1180.02,
+   "text": "اسم افو نه. بله. خدا به عنوان لطیف و خبیر وقتی کار را میکنه فاعل است با لطافت‌ش میکشه بیرون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 284,
+   "start": 1180.02,
+   "end": 1184.1,
+   "text": "با لطافت‌ش میکشه بیرون، با خبیرش میکشه بیرون و بروز میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 285,
+   "start": 1184.1,
+   "end": 1186.86,
+   "text": "مصور است باز مصوریست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 286,
+   "start": 1186.86,
+   "end": 1190.24,
+   "text": "لطیف و خبیر. خالق است همون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 287,
+   "start": 1190.24,
+   "end": 1194.71,
+   "text": "منو زنده میکنه. ام-- یعنی در قیامت زنده میکنه میاره اونجا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 288,
+   "start": 1194.71,
+   "end": 1198.56,
+   "text": "اون آورنده و محی است که باز لطیف و خبیر است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 289,
+   "start": 1198.56,
+   "end": 1201.04,
+   "text": "همه این ذرات رو گل و لقمان چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 290,
+   "start": 1201.04,
+   "end": 1204.92,
+   "text": "خواهد آورد. اما به قول شما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 291,
+   "start": 1204.92,
+   "end": 1208.54,
+   "text": "ستار هم چیه؟ هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 292,
+   "start": 1208.54,
+   "end": 1210.36,
+   "text": "خب افو هم هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 293,
+   "start": 1210.36,
+   "end": 1212.82,
+   "text": "غفور هم هست. اما هست دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 294,
+   "start": 1212.82,
+   "end": 1215.12,
+   "text": "باید چی باید کرد؟ هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 295,
+   "start": 1215.12,
+   "end": 1218.58,
+   "text": "ببینیم که چطور هست. حالا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 296,
+   "start": 1218.58,
+   "end": 1221.78,
+   "text": "ممکنه یه جایی ستار باشد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 297,
+   "start": 1221.78,
+   "end": 1227.68,
+   "text": "و این خرده‌سنگ، خیلی از خرده‌سنگ بزرگترها را هم چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 298,
+   "start": 1227.68,
+   "end": 1230.98,
+   "text": "نیاره. به اندازه‌ی کوه هم باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 299,
+   "start": 1230.98,
+   "end": 1235.02,
+   "text": "به اندازه‌ی کوه مثال به اندازه‌ی آسمان و زمین هم میارن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 300,
+   "start": 1235.02,
+   "end": 1237.68,
+   "text": "نه باز باشد ولی نیارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 301,
+   "start": 1237.68,
+   "end": 1239.76,
+   "text": "چون چیه؟ چون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 302,
+   "start": 1239.76,
+   "end": 1242.56,
+   "text": "افوعه. چون غفوره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 303,
+   "start": 1242.56,
+   "end": 1245.18,
+   "text": "چون ستار العیوبه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 304,
+   "start": 1245.18,
+   "end": 1248.74,
+   "text": "اما وقتی لطیف خبیر است میکنه این کار را میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 305,
+   "start": 1248.74,
+   "end": 1252.86,
+   "text": "وقتی ستاره‌ست چیه؟ اون کار را میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 306,
+   "start": 1252.86,
+   "end": 1259.22,
+   "text": "بله. اگر خدای خالق همون الان مثال نمیزدم همین مثال.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 307,
+   "start": 1259.22,
+   "end": 1264.72,
+   "text": "خدای خالق اگر خدای مصور و خالق روی اون دو تا گاو دانه که کار میکنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 308,
+   "start": 1264.72,
+   "end": 1268.68,
+   "text": "ممکنه طور پیش بیاد که اون دانه‌ای را که ایراد داشت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 309,
+   "start": 1268.68,
+   "end": 1271.66,
+   "text": "همون جوری که اون یکی را میبره این را هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 310,
+   "start": 1271.66,
+   "end": 1274.2,
+   "text": "ببره. هیچ معلوم نیست. از این هم میشه ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 311,
+   "start": 1274.2,
+   "end": 1277.76,
+   "text": "در حقیقت همیشه یه گاه میشه خدا طور دو تا دانه را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 312,
+   "start": 1277.76,
+   "end": 1281.94,
+   "text": "هر دو را که یکی معیوب بود یک ربع هیشکی بره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 313,
+   "start": 1281.94,
+   "end": 1285.5,
+   "text": "گاهی میشه اونی که معیوب بود اونو عیبش رو چی میکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 314,
+   "start": 1285.5,
+   "end": 1288.24,
+   "text": "بالاخره جلوه میده. یعنی بروز میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 315,
+   "start": 1288.24,
+   "end": 1293.68,
+   "text": "این همان جلوه‌ی عفو خداست بر اون دانه و نه در این یکی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 316,
+   "start": 1293.68,
+   "end": 1295.88,
+   "text": "و سطر مغفرت مخصوصاً.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 317,
+   "start": 1295.88,
+   "end": 1298.38,
+   "text": "چون مغفرت هم فکر نکنید به ما مربوط فقط.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 318,
+   "start": 1298.38,
+   "end": 1301.2,
+   "text": "بذار مغفرت کنی سر کل خلقت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 319,
+   "start": 1301.2,
+   "end": 1303.8,
+   "text": "اونجا که زمینه‌اش هست چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 320,
+   "start": 1303.8,
+   "end": 1311.32,
+   "text": "جلوه میکنه. عفو خدا چیزی‌ست که در کل خلقت از جمله انسان اونجا که زمینه‌اش بود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 321,
+   "start": 1311.32,
+   "end": 1315.4,
+   "text": "چی میکنه؟ جلوه میکنه. درست مانند لطیف بودن خدا دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 322,
+   "start": 1315.4,
+   "end": 1319.3,
+   "text": "لطیف است گفتم عیب دانه را بیرون میاره، عیب من و شما رو هم بیرون میاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 323,
+   "start": 1319.3,
+   "end": 1323.12,
+   "text": "که لقمان گفت که هرچی داشته باشی میاره چون لطیف و خبیر است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 324,
+   "start": 1323.12,
+   "end": 1325.04,
+   "text": "البته ببینید من",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 325,
+   "start": 1325.04,
+   "end": 1329.38,
+   "text": "گفتم شر به شما لطیف را معین نکردم که چرا بیرون میاره‌ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 326,
+   "start": 1329.38,
+   "end": 1332.54,
+   "text": "اینجا هم میگه که خدای لطیف و خبیر میاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 327,
+   "start": 1332.54,
+   "end": 1337.52,
+   "text": "صحبت در این است که این عیوب را، ریزه کاری‌ها را چی کسیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 328,
+   "start": 1337.52,
+   "end": 1340.88,
+   "text": "وجود بروزش میشه؟ لطیف خبیر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 329,
+   "start": 1340.88,
+   "end": 1343.44,
+   "text": "قرآن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 330,
+   "start": 1343.44,
+   "end": 1350.26,
+   "text": "میگه. میگه که پسر هر کاری کردی، هر جا باشه ذره‌ای کار خسر کرده هم توش باشه خدا اونو میاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 331,
+   "start": 1350.26,
+   "end": 1354.38,
+   "text": "چرا میاره؟ چرا میاره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 332,
+   "start": 1354.38,
+   "end": 1357.1,
+   "text": "لطیف خبیر است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 333,
+   "start": 1357.1,
+   "end": 1359.82,
+   "text": "پس بروز دهنده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 334,
+   "start": 1359.82,
+   "end": 1362.8,
+   "text": "غیوب یک انسان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 335,
+   "start": 1362.8,
+   "end": 1364.76,
+   "text": "خدای لطیف و خبیر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 336,
+   "start": 1364.76,
+   "end": 1368.12,
+   "text": "بروز دهنده غیوب اون دانه هم چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 337,
+   "start": 1368.12,
+   "end": 1370.42,
+   "text": "خدای لطیف و خبیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 338,
+   "start": 1370.42,
+   "end": 1377.1,
+   "text": "که من اول مثال گفتم. بروز دهنده عیب ما هم خدای لطیف و خبیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 339,
+   "start": 1377.1,
+   "end": 1380.26,
+   "text": "لذا گاهی ما را از خدای خبیر چی میکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 340,
+   "start": 1380.26,
+   "end": 1384.34,
+   "text": "می‌ترساند. از خدای خبیر می‌ترساند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 341,
+   "start": 1384.34,
+   "end": 1391.94,
+   "text": "اون یکی اینکه يا لطيف ارحم عبدك الضعيف، يا لطيف ارحم عبدك الضعيف اگر خوب دقت کنید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 342,
+   "start": 1391.94,
+   "end": 1395.28,
+   "text": "این دعایی‌ست که چندان تناسب نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 343,
+   "start": 1395.28,
+   "end": 1399.2,
+   "text": "يا لطيف ارحم عبدك الضعيف.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 344,
+   "start": 1399.2,
+   "end": 1401.4,
+   "text": "افو فکر میکنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 345,
+   "start": 1401.4,
+   "end": 1405.88,
+   "text": "که يا لطيف، يا لطيف یعنی چون لطف دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 346,
+   "start": 1405.88,
+   "end": 1413.22,
+   "text": "لطیف معنی‌اش اون لطیف که می‌داند در من چه هست تغییر چه عملت باید در برابر او",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 347,
+   "start": 1413.22,
+   "end": 1415.1,
+   "text": "کاملاً متزلزل بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 348,
+   "start": 1415.1,
+   "end": 1417.96,
+   "text": "توجه-- البته طلب رحم کرد اما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 349,
+   "start": 1417.96,
+   "end": 1421.35,
+   "text": "لطیف معنیش-- یعنی گفت که لطف، لطف نیست اصلاً.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 350,
+   "start": 1421.35,
+   "end": 1424.7,
+   "text": "معنی اون لطف نیست. اون معنا نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 351,
+   "start": 1424.7,
+   "end": 1429.58,
+   "text": "توجه کنید. منظوری که من به شما گفتم شما هم قبول کردید و مکتبم همین طوره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 352,
+   "start": 1429.58,
+   "end": 1434.22,
+   "text": "یعنی شنیدید دیگه. ولی یا-- باشه الان یه وقت دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 353,
+   "start": 1434.22,
+   "end": 1437.5,
+   "text": "اگر خدا خواسته وقتی من",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 354,
+   "start": 1437.5,
+   "end": 1443.08,
+   "text": "مناسب بود حوصله بود در جلسه بهتون میگم که چرا لطیف و خبیر میاره غیوب را.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 355,
+   "start": 1443.08,
+   "end": 1445.16,
+   "text": "فعلاً همینقدر با اون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 356,
+   "start": 1445.16,
+   "end": 1451.94,
+   "text": "قاعده و ضوابطی که شروع کردیم با ترتیب پیش آمدیم فقط از راه مثال برای شما گفتم که مسئله چیه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 357,
+   "start": 1451.94,
+   "end": 1456.1,
+   "text": "و اونجا که خالق و مصور و فاعل کار میکنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 358,
+   "start": 1456.1,
+   "end": 1461.79,
+   "text": "این عیبی که از دانه معلوم میشه در مقام درخت این کار خالق نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 359,
+   "start": 1461.79,
+   "end": 1468.72,
+   "text": "کار لطیف و خبیری‌ست که با خالق و در بطن خالق است و این آیه هم شاهد بر این است که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 360,
+   "start": 1468.72,
+   "end": 1471.96,
+   "text": "لطیف و خبیر این کار را میکند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 361,
+   "start": 1471.96,
+   "end": 1478.04,
+   "text": "اصلاً دعای صبا نمی‌دونم دقت کردید به فلقتم به لطفکن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 362,
+   "start": 1478.04,
+   "end": 1486.82,
+   "text": "فلق. اونجاهایی که خدا می‌شکافد اما از نظر بوم می‌شکافد، در بوم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 363,
+   "start": 1486.82,
+   "end": 1489.08,
+   "text": "می‌شکافد. یعنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 364,
+   "start": 1489.08,
+   "end": 1491.02,
+   "text": "مو شکافی می‌کنه. این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 365,
+   "start": 1491.02,
+   "end": 1493.7,
+   "text": "لطیف بودن خداست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 366,
+   "start": 1493.7,
+   "end": 1498.18,
+   "text": "اول از خوی سرچشمه می‌گیرد چون خبیر است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 367,
+   "start": 1498.18,
+   "end": 1501.02,
+   "text": "به دقایق دقت بدار.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 368,
+   "start": 1501.02,
+   "end": 1506.16,
+   "text": "چون خبیر است چون علیم است به دقایق خبیر است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 369,
+   "start": 1506.16,
+   "end": 1508.08,
+   "text": "به دقایق را چی می‌کنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 370,
+   "start": 1508.08,
+   "end": 1513.32,
+   "text": "می‌داند. چون خبیر بر دقایق است چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 371,
+   "start": 1513.32,
+   "end": 1518.71,
+   "text": "لطیف است. یعنی موشکافی‌ها روی دقایق می‌کنه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 372,
+   "start": 1518.71,
+   "end": 1522.6,
+   "text": "می‌کنه. لطیف یه کار خاصی دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 373,
+   "start": 1522.6,
+   "end": 1529.84,
+   "text": "اونی که چیزهای توی دقایق خلاصه یک کارها می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 374,
+   "start": 1529.84,
+   "end": 1532.92,
+   "text": "حالا اون یه تمامیتون بگم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 375,
+   "start": 1532.92,
+   "end": 1538.48,
+   "text": "فایده‌ای ندارد. انشاالله که از خدا می‌ترسیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 376,
+   "start": 1538.48,
+   "end": 1543.52,
+   "text": "در اون دعای صباهم اینه که فلقت بلطفک فلق.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 377,
+   "start": 1543.52,
+   "end": 1547.56,
+   "text": "یعنی چی؟ فلقت بلطفک فلق می‌دونید یعنی چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 378,
+   "start": 1547.56,
+   "end": 1550.18,
+   "text": "خدا می‌گه به فلقت بلطفک فلق.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 379,
+   "start": 1550.18,
+   "end": 1553.3,
+   "text": "تو شکافتی، شکافتی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 380,
+   "start": 1553.3,
+   "end": 1556.04,
+   "text": "با لطف خود فلق را.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 381,
+   "start": 1556.04,
+   "end": 1560.58,
+   "text": "فلق همون صبح. می‌شکافتی با لطف خود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 382,
+   "start": 1560.58,
+   "end": 1562.66,
+   "text": "خود فلق را.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 383,
+   "start": 1562.66,
+   "end": 1565.38,
+   "text": "خدای خالق می‌شکافد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 384,
+   "start": 1565.38,
+   "end": 1570.22,
+   "text": "اما اونجا لطفش هم در شکافتن چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 385,
+   "start": 1570.22,
+   "end": 1572.48,
+   "text": "یه حسابی داره. البته خالق می‌شکافد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 386,
+   "start": 1572.48,
+   "end": 1574.98,
+   "text": "خالق اون اسما. در قرآن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 387,
+   "start": 1574.98,
+   "end": 1578.04,
+   "text": "میگه دیگه اونی که فلق و صبح را می‌شکافد کیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 388,
+   "start": 1578.04,
+   "end": 1582.24,
+   "text": "همون خالقه. اما لطف در شکافتن چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 389,
+   "start": 1582.24,
+   "end": 1585.22,
+   "text": "کارها داره که کارهای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 390,
+   "start": 1585.22,
+   "end": 1588.5,
+   "text": "عظیمی داره. همون کارها که گفتم اون مثال رو گفتم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 391,
+   "start": 1588.5,
+   "end": 1592.34,
+   "text": "یه دفعه می‌بینید که شما در باغ خودتون دو تا گل کاشتید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 392,
+   "start": 1592.34,
+   "end": 1596.18,
+   "text": "بعد از مدتی می‌بینید تنه های که یکیشو مثلاً می‌بینید هرچه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 393,
+   "start": 1596.18,
+   "end": 1601.06,
+   "text": "هرچه آب بده نمیگه بالاخره یه خرده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 394,
+   "start": 1601.06,
+   "end": 1609.44,
+   "text": "می‌شکافد. دوستان ارجمند آنچه شنیدید هفتمین برنامه اسماء الحسنی بود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 395,
+   "start": 1609.44,
+   "end": 1613.32,
+   "text": "با بیان آیت الله محمد شجاعی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 396,
+   "start": 1613.32,
+   "end": 1617.9,
+   "text": "امید که مورد استفاده و پسندتان قرار گرفته باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 397,
+   "start": 1617.9,
+   "end": 1624.4,
+   "text": "تا دیگر برنامه که بخش دیگری از صحبت‌های استاد فرزانه را تقدیم حضورتان می‌کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 398,
+   "start": 1624.4,
+   "end": 1626.82,
+   "text": "شما را به رب العالمین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 399,
+   "start": 1626.82,
+   "end": 1629.12,
+   "text": "می‌سپاریم. خدانگهدار.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

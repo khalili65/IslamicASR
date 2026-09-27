@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Vazirmatn:wght@200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Noto+Nastaliq+Arabic:wght@400;500;600;700&family=Vazirmatn:wght@200;300;400;500;600;700;800;900&display=swap");
 
 @tailwind base;
 @tailwind components;
@@ -23,6 +23,7 @@
   --ink: 26 26 26;
   --font-ui: "Vazirmatn", Tahoma, Arial, sans-serif;
   --font-arabic: "Amiri", "Traditional Arabic", serif;
+  --font-nastaliq: "Noto Nastaliq Arabic", "Amiri", serif;
 }
 
 html {
@@ -68,6 +69,12 @@ button {
   font-family: var(--font-arabic);
   font-size: 1.3em;
   line-height: 2.1;
+}
+
+.font-nastaliq {
+  font-family: var(--font-nastaliq);
+  line-height: 2.1;
+  letter-spacing: 0;
 }
 
 /* Thin scrollbars so the transcript panel doesn't get a heavy grey gutter. */

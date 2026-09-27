@@ -1,0 +1,8854 @@
+{
+ "version": 1,
+ "sessionId": "018",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 4283.28,
+ "alignment": {
+  "exact": 7979,
+  "total": 7979,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "اعوذ بالله من الشیطان الرجیم. بسم الله الرحمن الرحیم.",
+   "start": 53.52,
+   "end": 301.5
+  },
+  {
+   "index": 1,
+   "title": "## فَلَآ أُقْسِمُ بِمَا تُبْصِرُونَ وَمَا لَا تُبْصِرُونَ",
+   "start": 301.5,
+   "end": 496.83
+  },
+  {
+   "index": 2,
+   "title": "و ادامه:",
+   "start": 496.83,
+   "end": 666.23
+  },
+  {
+   "index": 3,
+   "title": "## إِنَّهُۥ لَقَوْلُ رَسُولٍ كَرِيمٍ: قرآن، مرسل، و مصداق آیات پیشین",
+   "start": 666.23,
+   "end": 899.13
+  },
+  {
+   "index": 4,
+   "title": "## رسول کریم: پیامبر یا جبرئیل؟ اتهام شاعر و کاهن",
+   "start": 899.13,
+   "end": 1045.87
+  },
+  {
+   "index": 5,
+   "title": "## وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ ٱلْأَقَاوِيلِ: لو امتناعیه و نقد معنی مشهور",
+   "start": 1045.87,
+   "end": 1833.04
+  },
+  {
+   "index": 6,
+   "title": "## معجزه، تحدی قرآن، و آفتاب آمد دلیل آفتاب",
+   "start": 1833.04,
+   "end": 2107.8
+  },
+  {
+   "index": 7,
+   "title": "## قرائت دیگر از أخذ و وتین؛ سند حقانیت",
+   "start": 2107.8,
+   "end": 3611.12
+  },
+  {
+   "index": 8,
+   "title": "## معنای برگزیدهٔ أخذ بالیمین و قطع وتین",
+   "start": 3611.12,
+   "end": 4025.84
+  },
+  {
+   "index": 9,
+   "title": "## مکذّبان در برابر متقین؛ حق الیقین و تسبیح",
+   "start": 4025.84,
+   "end": 4283.28
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 10.22,
+   "end": 12.36,
+   "text": "اعوذ بالله من الشيطان الرجيم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 12.36,
+   "end": 17.22,
+   "text": "بسم الله الرحمن الرحيم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 17.22,
+   "end": 24.7,
+   "text": "السلام علیک يا أبا عبد الله وعلى الأرواح التي حلت بفنائك.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 24.7,
+   "end": 28.36,
+   "text": "علیک مني سلام الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 28.36,
+   "end": 33.3,
+   "text": "أبدا ما بقیت وبقي الليل والنهار",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 33.3,
+   "end": 38.64,
+   "text": "ولا جعله الله آخر العهد مني لزيارتكم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 38.64,
+   "end": 41.68,
+   "text": "السلام على الحسين",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 41.68,
+   "end": 44.86,
+   "text": "وعلى علي بن الحسين",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 44.86,
+   "end": 47.72,
+   "text": "وعلى أولاد الحسين",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 47.72,
+   "end": 50.36,
+   "text": "وعلى أصحاب الحسين",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 50.36,
+   "end": 53.24,
+   "text": "ورحمة الله وبركاته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 53.24,
+   "end": 56.0,
+   "text": "عرض سلام و ادب و احترام",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 56.0,
+   "end": 60.16,
+   "text": "محضر بزرگواران حاضر در جلسه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 60.16,
+   "end": 64.18,
+   "text": "و همینطور عرض سلام خدمت بزرگوارانی که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 64.18,
+   "end": 66.86,
+   "text": "از طریق پخش زنده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 66.86,
+   "end": 71.56,
+   "text": "با کلاس ما همراهی می‌کنند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 71.56,
+   "end": 78.36,
+   "text": "خدا رو شکر می‌کنیم که توفیق عطا فرموده در پیشگاه مقدس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 78.36,
+   "end": 81.48,
+   "text": "و نورانی قرآن کریم حاضریم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 81.48,
+   "end": 88.36,
+   "text": "و آرزو می‌کنیم خدای بزرگ ما را قدردان این توفیق الهی قرار بده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 88.36,
+   "end": 93.88,
+   "text": "ما را با قرآن زنده بدارد، با قرآن بمیراند و با قرآن محشور فرماید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 93.88,
+   "end": 96.92,
+   "text": "به برکت صلوات بر محمد و آل محمد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 96.92,
+   "end": 99.06,
+   "text": "صلوات الله علی محمد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 99.06,
+   "end": 101.36,
+   "text": "بحث ما تدبر در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 101.36,
+   "end": 106.62,
+   "text": "سوره مبارکه حاقة هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 106.62,
+   "end": 113.56,
+   "text": "مرحله اول تدبر در این سوره یعنی فهم آیات این سوره را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 113.56,
+   "end": 116.0,
+   "text": "داریم دنبال می‌کنیم که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 116.0,
+   "end": 117.6,
+   "text": "یه بخشیش هنوز باقی مونده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 117.6,
+   "end": 124.56,
+   "text": "انشاالله امروز می‌خونیم و رو معناش مباحثه می‌کنیم انشاالله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 124.56,
+   "end": 129.02,
+   "text": "بعد مرحله دوم انشاالله همین امروز تشخیص سیاق‌ها،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 129.02,
+   "end": 138.86,
+   "text": "جمع‌بندی و ارتباط یابی یعنی مرحله سوم و چهارم هم انشاالله انجام میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 138.86,
+   "end": 144.0,
+   "text": "در جلسه گذشته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 144.0,
+   "end": 147.98,
+   "text": "آیات رو تا آیه چند پیش رفتیم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 147.98,
+   "end": 151.26,
+   "text": "سی و هفت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 151.26,
+   "end": 156.04,
+   "text": "سه آیه اول راجع به حاقة",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 156.04,
+   "end": 159.24,
+   "text": "بیان عظمت حاقة بود و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 159.24,
+   "end": 163.58,
+   "text": "بعد از اون از تکذیب قارعه توسط ثمود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 163.58,
+   "end": 165.68,
+   "text": "و عاد صحبت شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 165.68,
+   "end": 169.92,
+   "text": "عاقبت قوم ثمود و عاقبت قوم عاد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 169.92,
+   "end": 174.36,
+   "text": "توضیح داده شد و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 174.36,
+   "end": 182.76,
+   "text": "از رفتار فرعون و طواغیت قبل از فرعون و جوامع منحرف،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 182.76,
+   "end": 188.16,
+   "text": "رفتار مشابه یعنی تکذیب قارعه سخن گفته شد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 188.16,
+   "end": 198.04,
+   "text": "که نتیجه اون عصیان از رسول پروردگاره و همون عذاب الهی رو دم در دنبالش داره در پی خودش داره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 198.04,
+   "end": 204.32,
+   "text": "و اشاره شد به جریان نجات انسان‌ها در ماجرای طغیان آب،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 204.32,
+   "end": 209.68,
+   "text": "یعنی عذاب قوم نوح علیه السلام و اینکه توقع می‌رفت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 209.68,
+   "end": 220.05,
+   "text": "بعد از عذاب مردم در عصر حضرت نوح علیه السلام که زمین یک بار از لوث وجود کافران پاک شد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 220.05,
+   "end": 225.52,
+   "text": "دیگه بعد از اون دو مرتبه راه کفر در پیش گرفته نشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 225.52,
+   "end": 229.6,
+   "text": "ولی متأسفانه قوم عاد، قوم ثمود، فرعونیان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 229.6,
+   "end": 232.72,
+   "text": "و جوامع منحرف همین راه رو رفتن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 232.72,
+   "end": 237.94,
+   "text": "و متأسفانه در زمان معاصر قرآن هم همین اتفاق داره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 237.94,
+   "end": 243.0,
+   "text": "میفته. سپس به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 243.0,
+   "end": 250.54,
+   "text": "مسئله نفخ در صور اشاره شد و وقایعی که با نفخ در صور اتفاق میفته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 250.54,
+   "end": 257.16,
+   "text": "و اینکه پس از نفخ صور انسان‌ها عرضه می‌شن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 257.16,
+   "end": 259.78,
+   "text": "و هیچ امری از انسان‌ها مخفی نمی‌مونه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 259.78,
+   "end": 262.6,
+   "text": "اون وقت انسان‌ها که عرضه شدند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 262.6,
+   "end": 273.36,
+   "text": "یک گروه کسانی هستند که نامه عمل به دست راست اون‌ها داده میشه که اون‌ها چه وضعیتی خواهند داشت این بیان شد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 273.36,
+   "end": 283.26,
+   "text": "و بعد از اون گروه دومی که نامه عمل به دست چپ اون‌ها داده میشه وضعیت اون‌ها هم بیان شد تا آخر آیه سی و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 283.26,
+   "end": 294.26,
+   "text": "هفت. و امروز از اول آیه سی و هشت ما می‌خوایم بحث مفهوم این آیات رو دنبال بکنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 294.26,
+   "end": 297.72,
+   "text": "اعوذ بالله من الشيطان الرجيم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 297.72,
+   "end": 301.5,
+   "text": "بسم الله الرحمن الرحيم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 301.5,
+   "end": 305.22,
+   "text": "فلا اقسم بما تبصرون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 305.22,
+   "end": 310.16,
+   "text": "وما لا تبصرون. پس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 310.16,
+   "end": 313.56,
+   "text": "سوگند یاد نمی‌کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 313.56,
+   "end": 319.84,
+   "text": "لا اقسم یعنی قسم نمی‌خورم، سوگند یاد نمی‌کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 319.84,
+   "end": 325.6,
+   "text": "درسته ظاهرش اینه که سوگند یاد نمی‌کنم ولی هدفش با سوگند خوردن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 325.6,
+   "end": 329.36,
+   "text": "یکیه. سوگند خوردن برای چه هدفیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 329.36,
+   "end": 331.76,
+   "text": "قسم خوردن برای تأکیده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 331.76,
+   "end": 335.0,
+   "text": "این قسم نمی‌خورم هم برای تأکیده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 335.0,
+   "end": 337.7,
+   "text": "تأکیدش از قسم می‌خورم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 337.7,
+   "end": 342.84,
+   "text": "بیشتره. یعنی گویا گوینده می‌خواد بگه اصلاً چه نیازی به سوگند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 342.84,
+   "end": 349.72,
+   "text": "اصلاً چرا قسم؟ خب حالا در این سوگند یاد نمی‌کنم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 349.72,
+   "end": 352.4,
+   "text": "خدا یه توجهی به ما میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 352.4,
+   "end": 357.34,
+   "text": "قرآن تو قسم خوردناش همینجوری مثل ماها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 357.34,
+   "end": 359.94,
+   "text": "کیلویی قسم نمی‌خوره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 359.94,
+   "end": 362.32,
+   "text": "ماها قسم بخوایم بخوریم کیلویه دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 362.32,
+   "end": 364.88,
+   "text": "یه کلمه مقدسی بلدیم اونو میگیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 364.88,
+   "end": 371.09,
+   "text": "حالا اون کلمه چه اینجا جاش بود، نبود، گفتن داشت، نداشت ما با اینا کار نداریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 371.09,
+   "end": 374.95,
+   "text": "میگیم به خدا، به پیغمبر، به جون مادرم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 374.95,
+   "end": 379.45,
+   "text": "خیلی توجه نداریم که به اون چیزی که داریم قسم می‌خوریم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 379.45,
+   "end": 382.55,
+   "text": "آیا اینجا جای قسم خوردن به اون هست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 382.55,
+   "end": 388.89,
+   "text": "یا نیست؟ و اصلا توجه دادن مخاطب به اون مسئله اینجا درسته؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 388.89,
+   "end": 393.73,
+   "text": "غلطه؟ مثلا می‌بینید طرف فرض کنیدا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 393.73,
+   "end": 396.33,
+   "text": "داره با یه غریبه‌ای صحبت می‌کنه هی میگه به جون مادرم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 396.33,
+   "end": 398.67,
+   "text": "خب جون مادر تو برای اون غریبه آخه چیه آخه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 398.67,
+   "end": 402.83,
+   "text": "حالا اون به خاطر جون مادرت باور کنه که تو راست میگی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 402.83,
+   "end": 405.15,
+   "text": "چه میدونه اصلا مادرت کیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 405.15,
+   "end": 407.31,
+   "text": "زنده است؟ مرده است؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 407.31,
+   "end": 411.03,
+   "text": "حالا اگر زنده است اون باید نگران زن-- مردنش باشد، نباشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 411.03,
+   "end": 414.0,
+   "text": "حالا جون مادرم. حالا جون مادرت من چکار کنم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 414.0,
+   "end": 416.65,
+   "text": "به جون خودم. خب به جون خودت اصلا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 416.65,
+   "end": 420.51,
+   "text": "من چکار کنم؟ اما قرآن این شکلی نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 420.51,
+   "end": 425.75,
+   "text": "قرآن وقتی می‌خواد به یه چیزی قسم یاد بکنه یه توجهی داره میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 425.75,
+   "end": 437.07,
+   "text": "الان خدا میگه من سوگند یاد نمی‌کنم به آنچه که تبصرون یعنی می‌بینید و آنچه که ما لا تبصرون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 437.07,
+   "end": 442.4,
+   "text": "آنچه که نمی‌بینید. ما رو به چی داره توجه میده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 442.4,
+   "end": 446.19,
+   "text": "غیب. به چی؟ به غیب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 94,
+   "start": 446.19,
+   "end": 451.21,
+   "text": "به غیب. به اینکه همه چیز در دایره دیدنی‌ها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 95,
+   "start": 451.21,
+   "end": 457.87,
+   "text": "نیست. شما یه چیزایی رو می‌بینید اما یه چیزایی هم هست که نمی‌بینید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 96,
+   "start": 457.87,
+   "end": 461.23,
+   "text": "من به هر دوتاش سوگند یاد نمی‌کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 97,
+   "start": 461.23,
+   "end": 465.67,
+   "text": "هر دوتا را میارم وسط برای تأکید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 98,
+   "start": 465.67,
+   "end": 474.49,
+   "text": "خب اگر وارد محتوای بعد از آیه سی و نه بشیم می‌بینیم داره از چی دفاع می‌کنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 99,
+   "start": 474.49,
+   "end": 479.63,
+   "text": "از چی دفاع می‌کنه؟ از وحیانی بودن قرآن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 100,
+   "start": 479.63,
+   "end": 482.31,
+   "text": "\"إنه لقول رسول كريم\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 101,
+   "start": 482.31,
+   "end": 486.27,
+   "text": "داره از وحیانی بودن قرآن صحبت می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 102,
+   "start": 486.27,
+   "end": 493.73,
+   "text": "\"وما هو بقول شاعر قليلا ما تؤمنون ولا بقول كاهن قليلا ما تذكرون\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 103,
+   "start": 493.73,
+   "end": 496.83,
+   "text": "الی آخر. خب حالا شما بگید ببینم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 104,
+   "start": 496.83,
+   "end": 502.71,
+   "text": "نسبت سوگند به ما تبصرون و ما لا تبصرون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 105,
+   "start": 502.71,
+   "end": 507.89,
+   "text": "با دفاع از وحیانیت قرآن در آیات بعدی چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 106,
+   "start": 507.89,
+   "end": 511.51,
+   "text": "قرآن کریم، وحیانی بودن قرآن کریم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 107,
+   "start": 511.51,
+   "end": 513.99,
+   "text": "امری است که ما به چشم سر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 108,
+   "start": 513.99,
+   "end": 518.13,
+   "text": "نمی‌بینیم. ما خود قرآن را می‌بینیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 109,
+   "start": 518.13,
+   "end": 522.01,
+   "text": "از رو خود قرآن می‌تونیم به یه چیزایی پی ببریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 110,
+   "start": 522.01,
+   "end": 527.71,
+   "text": "اما اون عقبه وحیانی قرآن اصلا امر دیدنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 111,
+   "start": 527.71,
+   "end": 535.03,
+   "text": "نیست. اگر ما می‌تونستیم ببینیم که خب خودمون پیغمبر بودیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 112,
+   "start": 535.03,
+   "end": 537.45,
+   "text": "اگر ما می‌تونستیم اون عقبه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 113,
+   "start": 537.45,
+   "end": 540.81,
+   "text": "غیب و وحیانی قرآن را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 114,
+   "start": 540.81,
+   "end": 547.59,
+   "text": "که یک رسول کریم، یک فرشته گرامی از عالم بالا قرآن رو داره برای پیغمبر اکرم نازل می‌کنه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 115,
+   "start": 547.59,
+   "end": 556.85,
+   "text": "اگر ما همچین ظرفیتی در وجودمون بود که می‌تونستیم این پشتوانه غیبی و پشتوانه وحیانی قرآن را ببینیم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 116,
+   "start": 556.85,
+   "end": 563.03,
+   "text": "خب که این یعنی ما در حد یه پیغمبر رشد شخصیتی و روحی داریم دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 117,
+   "start": 563.03,
+   "end": 569.91,
+   "text": "پیغمبران مبعوث میشن از بین انسان‌ها که عموم بشر را،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 118,
+   "start": 569.91,
+   "end": 575.05,
+   "text": "عموم بشری که ظرفیت وجودیش به حدی نیست که غیب را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 119,
+   "start": 575.05,
+   "end": 582.89,
+   "text": "ببیند. پیغمبران مبعوث میشن که عموم بشر را به عالم بالا وصل کنن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 120,
+   "start": 582.89,
+   "end": 584.97,
+   "text": "به خیلی چیزا داره جواب میده ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 121,
+   "start": 584.97,
+   "end": 589.57,
+   "text": "همین سوگند به \"لا أقسم بما تبصرون و ما لا تبصرون\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 122,
+   "start": 589.57,
+   "end": 593.25,
+   "text": "به خیلی چیزا داره جواب میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 123,
+   "start": 593.25,
+   "end": 596.35,
+   "text": "میگه اولا بدانید همه چیز اونی که می‌بینید نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 124,
+   "start": 596.35,
+   "end": 598.69,
+   "text": "ثانیا بدانید شما همه چیز را،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 125,
+   "start": 598.69,
+   "end": 601.37,
+   "text": "شما کسی نیستید که همه چیز را بتونید ببینید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 126,
+   "start": 601.37,
+   "end": 605.33,
+   "text": "باید یه وحی‌ای باشد که از ما لا تبصرون به شما خبر بده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 127,
+   "start": 605.33,
+   "end": 607.75,
+   "text": "پشتوانه وحیانی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 128,
+   "start": 607.75,
+   "end": 611.21,
+   "text": "پشتوانه غیبی همین وحی را هم باز شما نمی‌بینید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 129,
+   "start": 611.21,
+   "end": 615.29,
+   "text": "شما باید از روی خود قرآن به نتیجه برسید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 130,
+   "start": 615.29,
+   "end": 620.49,
+   "text": "طرف میگه خوب من ندیدم فرشته بیاد تحویل پیغمبر بده قرآن را.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 131,
+   "start": 620.49,
+   "end": 623.15,
+   "text": "خب چون تو ندیدی پس یعنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 132,
+   "start": 623.15,
+   "end": 628.93,
+   "text": "قرآن سخن خدا نیست و از جانب خدا توسط فرشته به پیغمبر داده نشده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 133,
+   "start": 628.93,
+   "end": 634.87,
+   "text": "این چه استدلالیه؟ این استدلالی که تو می‌کنی اساسا بعثت را نفی می‌کنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 134,
+   "start": 634.87,
+   "end": 640.89,
+   "text": "یعنی میگی پس هیچوقت نباید کسی برای هدایت بشر مبعوث بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 135,
+   "start": 640.89,
+   "end": 646.03,
+   "text": "چون ما هیچوقت نمی‌تونیم ببینیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 136,
+   "start": 646.03,
+   "end": 647.71,
+   "text": "هنوز با این بحث کارم داریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 137,
+   "start": 647.71,
+   "end": 651.71,
+   "text": "در دور بعدی تو جمع‌بندی یه بار دیگه به این بحث توجه خواهیم کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 138,
+   "start": 651.71,
+   "end": 660.09,
+   "text": "حالا پیش برم. \"فلا أقسم بما تبصرون و ما لا تبصرون\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 139,
+   "start": 660.09,
+   "end": 662.25,
+   "text": "سوگند یاد نمی‌کنم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 140,
+   "start": 662.25,
+   "end": 665.89,
+   "text": "به آنچه که می‌بینید و آنچه که نمی‌بینید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 141,
+   "start": 665.89,
+   "end": 670.59,
+   "text": "حالا جواب، جواب یعنی همون چیزی که خدا می‌خواد تأکیدش کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 142,
+   "start": 670.59,
+   "end": 673.05,
+   "text": "با اون \"لا أقسم\" چی رو می‌خواست تأکید کنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 143,
+   "start": 673.05,
+   "end": 676.19,
+   "text": "این جمله را. \"إنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 144,
+   "start": 676.19,
+   "end": 678.19,
+   "text": "لقول رسول",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 145,
+   "start": 678.19,
+   "end": 681.51,
+   "text": "كريم\". همانا آن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 146,
+   "start": 681.51,
+   "end": 684.19,
+   "text": "آن اینجا اشاره به چی می‌کنه؟ قرآن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 147,
+   "start": 684.19,
+   "end": 690.15,
+   "text": "اشاره به قرآن می‌کنه. همانا آن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 148,
+   "start": 690.15,
+   "end": 692.79,
+   "text": "\"ل\" لام برای تأکیده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 149,
+   "start": 692.79,
+   "end": 697.59,
+   "text": "همانا آن قطعا \"قول رسول کریم\" سخن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 150,
+   "start": 697.59,
+   "end": 702.25,
+   "text": "رسولی گرامیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 151,
+   "start": 702.25,
+   "end": 706.41,
+   "text": "سخن فرستاده‌ای گرامیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 152,
+   "start": 706.41,
+   "end": 710.81,
+   "text": "دقت کنید من راجع به این جمله یه نکته بگم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 153,
+   "start": 710.81,
+   "end": 714.43,
+   "text": "ضمیر \"هو\" همه‌تون گفتید قرآن، همه هم درسته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 154,
+   "start": 714.43,
+   "end": 720.03,
+   "text": "بله به قرآن برمی‌گرده و اینو ما می‌تونیم از آیات بعدی هم به راحتی بفهمیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 155,
+   "start": 720.03,
+   "end": 723.31,
+   "text": "ببینید \"وما هو بقول شاعر ولا بقول كاهن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 156,
+   "start": 723.31,
+   "end": 725.03,
+   "text": "تنزيل من رب العالمين\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 157,
+   "start": 725.03,
+   "end": 727.89,
+   "text": "دیگه اینجا تصریح میشه که منظور چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 158,
+   "start": 727.89,
+   "end": 734.63,
+   "text": "قرآنه. اما یک تجربه‌ای از سوره‌های قبلی دیگه ما متدبرات داریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 159,
+   "start": 734.63,
+   "end": 738.85,
+   "text": "و اونی که درسته \"إنه\" ضمیرش به کل قرآن برمی‌گرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 160,
+   "start": 738.85,
+   "end": 745.69,
+   "text": "ولی همین آیاتی که تا اینجا تو این سوره گفته شد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 161,
+   "start": 745.69,
+   "end": 753.04,
+   "text": "این مشخص‌ترین مصداق مورد نظر از قرآن تو این آیه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 162,
+   "start": 753.04,
+   "end": 756.09,
+   "text": "\"إنه لقول رسول كريم\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 163,
+   "start": 756.09,
+   "end": 761.07,
+   "text": "یعنی همه حرفایی که از آیه یک تا سی و هفت زدیم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 164,
+   "start": 761.07,
+   "end": 764.57,
+   "text": "همه اون چیزایی که تا اینجای سوره گفتیم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 165,
+   "start": 764.57,
+   "end": 766.71,
+   "text": "الحاقة ملهاقة.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 166,
+   "start": 766.71,
+   "end": 768.85,
+   "text": "وما أدراك ما الهاقة.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 167,
+   "start": 768.85,
+   "end": 771.23,
+   "text": "كذبت ثمود وعاد بالقارعة.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 168,
+   "start": 771.23,
+   "end": 773.77,
+   "text": "فأما ثمود چطور؟ أما عاد چطور؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 169,
+   "start": 773.77,
+   "end": 776.71,
+   "text": "إنا لما تقل ما چطور؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 170,
+   "start": 776.71,
+   "end": 779.25,
+   "text": "بعد اینکه یه روزی در سور فایزان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 171,
+   "start": 779.25,
+   "end": 784.03,
+   "text": "بله. نفخت في الصور درسته؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 172,
+   "start": 784.03,
+   "end": 786.65,
+   "text": "نفخة واحدة و بحثای بعدیش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 173,
+   "start": 786.65,
+   "end": 790.05,
+   "text": "همه اینایی که گفتیم \"لقول",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 174,
+   "start": 790.05,
+   "end": 795.45,
+   "text": "رسول كريم\". اینا سخن رسولی گرامی است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 175,
+   "start": 795.45,
+   "end": 799.27,
+   "text": "خب وقتی میگه سخن رسول",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 176,
+   "start": 799.27,
+   "end": 802.83,
+   "text": "یعنی آیا اینا حرفای خود رسوله؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 177,
+   "start": 802.83,
+   "end": 806.65,
+   "text": "جواب بدید. حرفای کیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 178,
+   "start": 806.65,
+   "end": 809.17,
+   "text": "حرفای کیه؟ قرآن حرفای رسول نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 179,
+   "start": 809.17,
+   "end": 812.11,
+   "text": "حرفای کیه؟ حرفای خداست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 180,
+   "start": 812.11,
+   "end": 814.11,
+   "text": "پس چرا میگه قول رسول؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 181,
+   "start": 814.11,
+   "end": 817.55,
+   "text": "ما خیال می‌کنیم قول خود رسوله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 182,
+   "start": 817.55,
+   "end": 820.17,
+   "text": "چجوری این اشتباه برطرف میشه برای ما؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 183,
+   "start": 820.17,
+   "end": 825.39,
+   "text": "این ظاهرش داره میگه قول رسول، سخن رسول.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 184,
+   "start": 825.39,
+   "end": 831.65,
+   "text": "از کجا من بفهمم قول رسول سخن خود رسول نیست؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 185,
+   "start": 831.65,
+   "end": 836.19,
+   "text": "حالا قبل از اون نکته‌ای داریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 186,
+   "start": 836.19,
+   "end": 840.79,
+   "text": "خود کلمه رسول و معناشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 187,
+   "start": 840.79,
+   "end": 842.99,
+   "text": "رسول فرستاده‌ست. رسول فرستاده‌ست دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 188,
+   "start": 842.99,
+   "end": 845.03,
+   "text": "یعنی اصلاً این رسول",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 189,
+   "start": 845.03,
+   "end": 850.29,
+   "text": "وقتی میگیم این سخن رسول است، یه بار نیست که بگه سخن جبرائیل است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 190,
+   "start": 850.29,
+   "end": 858.03,
+   "text": "یعنی جبرائیل گفته. یه بار هم نیست که بگه سخن محمد بن عبدالله صلی الله علیه و آله و سلم است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 191,
+   "start": 858.03,
+   "end": 863.67,
+   "text": "یعنی ایشون گفته. یه بار میگه سخن فرستاده‌ست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 192,
+   "start": 863.67,
+   "end": 868.41,
+   "text": "یعنی اونی که او را فرستاده به او گفته او اومده داره به ما میگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 193,
+   "start": 868.41,
+   "end": 878.73,
+   "text": "اصلاً این لازمه ترکیب مضاف مضاف الیه قول رسول، قول رسول یه ترکیب مضاف مضاف الیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 194,
+   "start": 878.73,
+   "end": 884.39,
+   "text": "لازمه اضافه شدن قول به رسول اینه که این قول یعنی سخن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 195,
+   "start": 884.39,
+   "end": 887.17,
+   "text": "شخص رسول نیست،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 196,
+   "start": 887.17,
+   "end": 889.45,
+   "text": "سخن مرسل است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 197,
+   "start": 889.45,
+   "end": 895.23,
+   "text": "که او را فرستاده. رسول دارد از طرف مرسل حرف می‌زند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 198,
+   "start": 895.23,
+   "end": 897.41,
+   "text": "مرسل یعنی اون کسی که او را فرستاده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 199,
+   "start": 897.41,
+   "end": 902.67,
+   "text": "خب حالا سؤال بعدی اینه این رسول کی هست؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 200,
+   "start": 902.67,
+   "end": 907.25,
+   "text": "پیامبر است یا جبرائیل است؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 201,
+   "start": 907.25,
+   "end": 909.35,
+   "text": "کی؟ پیامبر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 202,
+   "start": 909.35,
+   "end": 913.89,
+   "text": "دیگه جبرائیل هم قائل داریم اینجا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 203,
+   "start": 913.89,
+   "end": 916.17,
+   "text": "رسول جبرائیل علیه السلام باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 204,
+   "start": 916.17,
+   "end": 922.11,
+   "text": "توی یکی از سوره‌هایی که تلاوت کردیم رسول رو- جبرائیل اصلاً اونجا تصریحه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 205,
+   "start": 922.11,
+   "end": 926.97,
+   "text": "در سوره تکویر اونجا فرمود که \"الجوار الكنس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 206,
+   "start": 926.97,
+   "end": 929.51,
+   "text": "والليل إذا عسعس. والصبح إذا تنفس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 207,
+   "start": 929.51,
+   "end": 933.81,
+   "text": "إنه لقول رسول كريم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 208,
+   "start": 933.81,
+   "end": 936.69,
+   "text": "ذي قوة عند ذي العرش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 209,
+   "start": 936.69,
+   "end": 940.11,
+   "text": "مكين. مطاع ثم أمين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 210,
+   "start": 940.11,
+   "end": 942.79,
+   "text": "وما صاحبكم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 211,
+   "start": 942.79,
+   "end": 947.73,
+   "text": "بمجنون\". اونجا رسول",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 212,
+   "start": 947.73,
+   "end": 951.19,
+   "text": "فرشته وحی است. صاحبکم کیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 213,
+   "start": 951.19,
+   "end": 955.25,
+   "text": "پیغمبر است. خب در اینجا رسول رو چی بگیریم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 214,
+   "start": 955.25,
+   "end": 957.79,
+   "text": "پیغمبر اکرم یا حضرت جبرائیل؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 215,
+   "start": 957.79,
+   "end": 959.8,
+   "text": "الان شما آیه بعدو نگاه کن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 216,
+   "start": 959.8,
+   "end": 964.73,
+   "text": "\"وما هو بقول شاعر\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 217,
+   "start": 964.73,
+   "end": 969.27,
+   "text": "آیه بعدو نگاه کن. \"ولا بقول كاهن\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 218,
+   "start": 969.27,
+   "end": 972.15,
+   "text": "شاعر و کاهن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 219,
+   "start": 972.15,
+   "end": 975.57,
+   "text": "اتهاماتی‌ست که به کی زده میشه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 220,
+   "start": 975.57,
+   "end": 983.75,
+   "text": "به پیغمبر زده میشه. همین باعث شده که خیلی‌ها بگن با توجه به اینکه شاعر و کاهن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 221,
+   "start": 983.75,
+   "end": 988.87,
+   "text": "اتهاماتی‌ست که به پیغمبر زده میشه، پس این رسول منظور کیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 222,
+   "start": 988.87,
+   "end": 992.11,
+   "text": "پیغمبر اکرمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 223,
+   "start": 992.11,
+   "end": 995.59,
+   "text": "من میخوام عرض بکنم یک،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 224,
+   "start": 995.59,
+   "end": 1000.35,
+   "text": "اگر بخواهیم هماهنگی این آیه رو با سوره تکویر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 225,
+   "start": 1000.35,
+   "end": 1007.45,
+   "text": "در نظر بگیریم، تو فضای اثبات وحیانی بودن قرآن وجهی دارد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 226,
+   "start": 1007.45,
+   "end": 1010.75,
+   "text": "که بگیم اینجا رسول منظور حضرت جبرائیله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 227,
+   "start": 1010.75,
+   "end": 1019.13,
+   "text": "اون چیه؟ پیغمبر اکرم را علاوه بر اینکه خودش رو متهم می‌کردن، یه وقتایی به شاعر بودن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 228,
+   "start": 1019.13,
+   "end": 1021.55,
+   "text": "یه وقتایی به کاهن بودن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 229,
+   "start": 1021.55,
+   "end": 1025.77,
+   "text": "ولی این اتهامی بود تو اکثر مواقع جواب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 230,
+   "start": 1025.77,
+   "end": 1031.67,
+   "text": "نمی‌داد چون همه می‌دونستن پیغمبر سابقه شاعری",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 231,
+   "start": 1031.67,
+   "end": 1036.11,
+   "text": "ندارد. هیچ شعری از پیغمبر در تاریخ ثبت نبوده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 232,
+   "start": 1036.11,
+   "end": 1042.05,
+   "text": "همه می‌دونستن پیغمبر هیچ جا کهانت آموزش ندیده است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 233,
+   "start": 1042.05,
+   "end": 1046.65,
+   "text": "برای همین در یه جاهایی از قرآن هم تصریح کرده به این.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 234,
+   "start": 1046.65,
+   "end": 1050.01,
+   "text": "نمی‌گفتن لزوماً خودش شاعره، خودش کاهنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 235,
+   "start": 1050.01,
+   "end": 1053.83,
+   "text": "می‌گفتن از یه شاعری بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 236,
+   "start": 1053.83,
+   "end": 1056.73,
+   "text": "گرفته، از یه کاهنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 237,
+   "start": 1056.73,
+   "end": 1062.77,
+   "text": "گرفته که قرآن یه بار میگه \"لسان الذي يلحدون اليه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 238,
+   "start": 1062.77,
+   "end": 1066.95,
+   "text": "أعجمي. وهذا لسان عربي مبين\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 239,
+   "start": 1066.95,
+   "end": 1071.09,
+   "text": "یعنی اصلاً پیغمبر را متهم می‌کردن که از اشخاص دیگر،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 240,
+   "start": 1071.09,
+   "end": 1077.35,
+   "text": "می‌گفتن این خودش شاعر که نیست، کاهن هم نیست، پیداست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 241,
+   "start": 1077.35,
+   "end": 1080.67,
+   "text": "از طرفی هم نمی‌خوایم قبول کنیم این سخن را از فرشته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 242,
+   "start": 1080.67,
+   "end": 1083.23,
+   "text": "بگید وحی گرفته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 243,
+   "start": 1083.23,
+   "end": 1085.71,
+   "text": "پس این سخن را از کی گرفته؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 244,
+   "start": 1085.71,
+   "end": 1089.43,
+   "text": "از یه شاعری گرفته. این سخن را از کی گرفته؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 245,
+   "start": 1089.43,
+   "end": 1093.53,
+   "text": "از یه کاهنی گرفته. این فضا رو تو ذهنتون تصور بکنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 246,
+   "start": 1093.53,
+   "end": 1097.75,
+   "text": "حالا خدا می‌فرماید \"إنه لقول رسول",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 247,
+   "start": 1097.75,
+   "end": 1103.42,
+   "text": "كريم\". این پیغمبر سخن را از رسول کریم که همان کی باشد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 248,
+   "start": 1103.42,
+   "end": 1106.93,
+   "text": "حضرت جبرائیل باشد گرفته است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 249,
+   "start": 1106.93,
+   "end": 1109.78,
+   "text": "\"وما هو بقول شاعر\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 250,
+   "start": 1109.78,
+   "end": 1111.5,
+   "text": "از شاعری نگرفته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 251,
+   "start": 1111.5,
+   "end": 1115.85,
+   "text": "این سخن شاعر نیست که پیغمبر گرفته برای شما میخونه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 252,
+   "start": 1115.85,
+   "end": 1118.46,
+   "text": "\"ولا بقول كاهن\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 253,
+   "start": 1118.46,
+   "end": 1122.26,
+   "text": "این سخن کاهن نیست که پیغمبر گرفته برای شما میخونه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 254,
+   "start": 1122.26,
+   "end": 1128.22,
+   "text": "یه شاهد دیگه هم برای عرضم دارم که منظور از رسول اینجا میشه حضرت جبرائیل،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 255,
+   "start": 1128.22,
+   "end": 1131.02,
+   "text": "نه پیغمبر اکرم. شاهد دیگه اینه؛",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 256,
+   "start": 1131.02,
+   "end": 1136.32,
+   "text": "معمولاً در جایی که تهمت به خود پیغمبر باشه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 257,
+   "start": 1136.32,
+   "end": 1139.01,
+   "text": "قرآن نمیاد اینجوری جواب بده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 258,
+   "start": 1139.01,
+   "end": 1142.5,
+   "text": "\"ما هو بقول شاعر ولا بقول كاهن\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 259,
+   "start": 1142.5,
+   "end": 1149.82,
+   "text": "میگه \"ما أنت شاعر ما أنت كاهن ما أنت مجنون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 260,
+   "start": 1149.82,
+   "end": 1152.38,
+   "text": "ما علمناه الشعر\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 261,
+   "start": 1152.38,
+   "end": 1157.6,
+   "text": "یعنی کاملاً مشخص میکنه که منظور اینجا رو کی داریم صحبت میکنیم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 262,
+   "start": 1157.6,
+   "end": 1159.92,
+   "text": "رو شخص پیغمبر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 263,
+   "start": 1159.92,
+   "end": 1165.52,
+   "text": "وقتی اینجا فرموده \"ما هو بقول شاعر\" نگفته که پیغمبر شاعر نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 264,
+   "start": 1165.52,
+   "end": 1168.02,
+   "text": "میگه پیغمبر از یه شاعر نگرفته،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 265,
+   "start": 1168.02,
+   "end": 1170.2,
+   "text": "از رسول کریم گرفته،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 266,
+   "start": 1170.2,
+   "end": 1174.08,
+   "text": "نه از شاعر، نه از کاهن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 267,
+   "start": 1174.08,
+   "end": 1178.2,
+   "text": "پس ما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 268,
+   "start": 1178.2,
+   "end": 1181.26,
+   "text": "یک قرآن داریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 269,
+   "start": 1181.26,
+   "end": 1186.48,
+   "text": "قرآن احتمالاتی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 270,
+   "start": 1186.48,
+   "end": 1189.64,
+   "text": "به ذهن مردم میرسد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 271,
+   "start": 1189.64,
+   "end": 1194.62,
+   "text": "که این قرآن را که پیغمبر داره برای این مردم میخوانه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 272,
+   "start": 1194.62,
+   "end": 1198.36,
+   "text": "احتمال اول که ادعای خود پیغمبر است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 273,
+   "start": 1198.36,
+   "end": 1199.95,
+   "text": "از کی گرفتم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 274,
+   "start": 1199.95,
+   "end": 1202.7,
+   "text": "\"قول رسول",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 275,
+   "start": 1202.7,
+   "end": 1211.8,
+   "text": "کریم\". این سخن فرستاده گرامی خدا حضرت بگید جبرائیل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 276,
+   "start": 1211.8,
+   "end": 1215.44,
+   "text": "علیه السلام است. احتمال دوم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 277,
+   "start": 1215.44,
+   "end": 1220.18,
+   "text": "مردم دارن میگن \"قول شاعر\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 278,
+   "start": 1220.18,
+   "end": 1224.34,
+   "text": "احتمال سوم \"قول",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 279,
+   "start": 1224.34,
+   "end": 1233.62,
+   "text": "کاهن\". خدا میفرماید اینی که داره برای شما پیغمبر میخواند \"لقول رسول كريم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 280,
+   "start": 1233.62,
+   "end": 1237.38,
+   "text": "وما هو بقول شاعر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 281,
+   "start": 1237.38,
+   "end": 1239.5,
+   "text": "قليلا ما تؤمنون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 282,
+   "start": 1239.5,
+   "end": 1243.04,
+   "text": "ولا بقول کاهن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 283,
+   "start": 1243.04,
+   "end": 1245.78,
+   "text": "قليلا ما تذكرون\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 284,
+   "start": 1245.78,
+   "end": 1247.86,
+   "text": "چقدر کم ایمان میارید،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 285,
+   "start": 1247.86,
+   "end": 1252.66,
+   "text": "چقدر کم متذکر میشوید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 286,
+   "start": 1252.66,
+   "end": 1257.8,
+   "text": "پس ما با یه شواهدی خواستیم بگیم که منظور از رسول",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 287,
+   "start": 1257.8,
+   "end": 1266.96,
+   "text": "کریم در اینجا شخص پیغمبر نیست و قرآن نمیخواد بگه که پیغمبر مثلاً این قرآن سخن رسول به معنای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 288,
+   "start": 1266.96,
+   "end": 1270.7,
+   "text": "پیغمبر است. میخواد بگه سخنی‌ست که جبرائیل برای پیغمبر آورده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 289,
+   "start": 1270.7,
+   "end": 1274.47,
+   "text": "نه یه شاعری آورده و نه یه کاهنی آورده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 290,
+   "start": 1274.47,
+   "end": 1281.47,
+   "text": "\"قليلا ما تؤمنون\" چقدر کم ایمان میارید، \"قليلا ما تذكرون\" چقدر کم متذکر میشوید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 291,
+   "start": 1281.47,
+   "end": 1286.06,
+   "text": "\"تنزيل من رب العالمين\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 292,
+   "start": 1286.06,
+   "end": 1292.3,
+   "text": "این قول رسول کریم از جانب رب العالمين تنزيل یافته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 293,
+   "start": 1292.3,
+   "end": 1300.44,
+   "text": ". یعنی رب العالمين قول خود را، سخن خود را بار رسول کریم کرده،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 294,
+   "start": 1300.44,
+   "end": 1304.56,
+   "text": "اون رسول کریم سخن خدا را چی کار کرده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 295,
+   "start": 1304.56,
+   "end": 1307.06,
+   "text": "پایین آورده. تنزيل.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 296,
+   "start": 1307.06,
+   "end": 1309.85,
+   "text": "تنزيل یعنی پایین آوردن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 297,
+   "start": 1309.85,
+   "end": 1313.76,
+   "text": "پایین آوردن است، انزال کردن است،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 298,
+   "start": 1313.76,
+   "end": 1319.86,
+   "text": "فرود آوردن است از جانب پروردگار عالميان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 299,
+   "start": 1319.86,
+   "end": 1323.16,
+   "text": "\"تنزيل من رب العالمين\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 300,
+   "start": 1323.16,
+   "end": 1329.7,
+   "text": "خب \"ولو تقوّل علينا بعض الأقاويل\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 301,
+   "start": 1329.7,
+   "end": 1335.94,
+   "text": "حالا دقت کنید این هم شاهد دیگری بر عرض ما در اون آیه هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 302,
+   "start": 1335.94,
+   "end": 1338.08,
+   "text": "\"بعض الأقاويل\" یعنی چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 303,
+   "start": 1338.08,
+   "end": 1342.6,
+   "text": "یعنی قول بگید \"بعض الأقاويل\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 304,
+   "start": 1342.6,
+   "end": 1346.14,
+   "text": "قول شاعر. \"بعض الأقاويل\" یعنی چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 305,
+   "start": 1346.14,
+   "end": 1349.33,
+   "text": "قول کاهن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 306,
+   "start": 1349.33,
+   "end": 1352.52,
+   "text": "\"بعض الأقاويل\" یعنی چی؟ قول،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 307,
+   "start": 1352.52,
+   "end": 1355.18,
+   "text": "قول بشر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 308,
+   "start": 1355.18,
+   "end": 1357.42,
+   "text": "\"بعض الأقاويل\" یعنی چی؟ قول",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 309,
+   "start": 1357.42,
+   "end": 1360.16,
+   "text": "جن. \"بعض الأقاويل\" یعنی چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 310,
+   "start": 1360.16,
+   "end": 1362.63,
+   "text": "قول نفسه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 311,
+   "start": 1362.63,
+   "end": 1365.98,
+   "text": "هر چیزی غیر از خدا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 312,
+   "start": 1365.98,
+   "end": 1371.28,
+   "text": "اینکه قرآن بخواهد قول هر کسی و هر چیزی به غیر از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 313,
+   "start": 1371.28,
+   "end": 1374.92,
+   "text": "خدا باشد، این میشه \"بعض الأقاويل\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 314,
+   "start": 1374.92,
+   "end": 1377.88,
+   "text": "میفرماید \"لو تقوّل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 315,
+   "start": 1377.88,
+   "end": 1380.72,
+   "text": "علينا بعض الأقاويل\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 316,
+   "start": 1380.72,
+   "end": 1390.6,
+   "text": "اگر هر کدام از این قول‌هایی که هیچکدام مال خدا نیست را پیغمبر به خدا نسبت داده بود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 317,
+   "start": 1390.6,
+   "end": 1393.6,
+   "text": "به خدا نسبت داده بود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 318,
+   "start": 1393.6,
+   "end": 1397.36,
+   "text": "چه میشد؟ \"ولو تقوّل\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 319,
+   "start": 1397.36,
+   "end": 1401.2,
+   "text": "تقوّل یعنی قول کسی را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 320,
+   "start": 1401.2,
+   "end": 1406.78,
+   "text": "شما نسبت بدی به کسی دیگر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 321,
+   "start": 1406.78,
+   "end": 1414.5,
+   "text": "با من هستید؟ قول رسول را آیا میشود به مرسل نسبت داد یا نه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 322,
+   "start": 1414.5,
+   "end": 1418.58,
+   "text": "جواب بدید. نه قول رسول را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 323,
+   "start": 1418.58,
+   "end": 1420.82,
+   "text": "آیا میشود به مرسل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 324,
+   "start": 1420.82,
+   "end": 1424.2,
+   "text": "نسبت داد؟ مرسل یعنی فرستنده یا نه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 325,
+   "start": 1424.2,
+   "end": 1427.48,
+   "text": "بله بله. قول رسول را میشود نسبت داد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 326,
+   "start": 1427.48,
+   "end": 1432.92,
+   "text": "پس پیغمبر فقط مجاز است قول رسول را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 327,
+   "start": 1432.92,
+   "end": 1437.58,
+   "text": "به خدا بگید نسبت بدهد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 328,
+   "start": 1437.58,
+   "end": 1441.88,
+   "text": "این جایزه. قول فرستاده را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 329,
+   "start": 1441.88,
+   "end": 1445.34,
+   "text": "میشود به فرستنده نسبت داد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 330,
+   "start": 1445.34,
+   "end": 1451.9,
+   "text": "اما قول جن را میشود به مرسل یا به خدا نسبت داد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 331,
+   "start": 1451.9,
+   "end": 1454.36,
+   "text": "قول شاعر را میشود؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 332,
+   "start": 1454.36,
+   "end": 1456.26,
+   "text": "قول کاهن را میشود؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 333,
+   "start": 1456.26,
+   "end": 1458.06,
+   "text": "قول بشر را میشود؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 334,
+   "start": 1458.06,
+   "end": 1460.14,
+   "text": "قول خود را میشود؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 335,
+   "start": 1460.14,
+   "end": 1464.68,
+   "text": "هیچ رو نمیشه. خدا میگه این قرآن \"لقول",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 336,
+   "start": 1464.68,
+   "end": 1469.86,
+   "text": "رسول كريم ما هو بقول شاعر لا بقول كاهن\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 337,
+   "start": 1469.86,
+   "end": 1475.78,
+   "text": "قول رسول کریم که تنزيل من رب العالمين و لو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 338,
+   "start": 1475.78,
+   "end": 1478.82,
+   "text": "اگر میدونید لو شرطیه چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 339,
+   "start": 1478.82,
+   "end": 1481.74,
+   "text": "بارها گفتیم امتناعية.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 340,
+   "start": 1481.74,
+   "end": 1489.98,
+   "text": "یعنی مثل این میمونه اگر این کار را کرده بود که نکرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 341,
+   "start": 1489.98,
+   "end": 1492.26,
+   "text": "مثالم بخوام براتون بزنم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 342,
+   "start": 1492.26,
+   "end": 1495.7,
+   "text": "کسی از خیابون عبور کرده، ماشین بهش زده مرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 343,
+   "start": 1495.7,
+   "end": 1499.56,
+   "text": "تو خیابون، تو راه مسیر عبور ماشین بهش زده مرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 344,
+   "start": 1499.56,
+   "end": 1502.22,
+   "text": "کار از کار چی شده؟ گذشته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 345,
+   "start": 1502.22,
+   "end": 1507.18,
+   "text": "حالا میگه اگر حواسش را جمع کرده بود الان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 346,
+   "start": 1507.18,
+   "end": 1510.54,
+   "text": "زنده بود. این اگره لو در عربی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 347,
+   "start": 1510.54,
+   "end": 1513.72,
+   "text": "یعنی دیگه الان امکان تحقق نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 348,
+   "start": 1513.72,
+   "end": 1516.66,
+   "text": "تمام شده. وقتش گذشته دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 349,
+   "start": 1516.66,
+   "end": 1519.08,
+   "text": "به این میگن لو امتناعية.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 350,
+   "start": 1519.08,
+   "end": 1526.06,
+   "text": "فرق میکنه با ان. ان هم معنی اگر میده اما ان اینه هنوز از خیابون رد نشده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 351,
+   "start": 1526.06,
+   "end": 1530.7,
+   "text": "میگه اگر حواست را جمع کنی به سلامت عبور میکنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 352,
+   "start": 1530.7,
+   "end": 1534.1,
+   "text": "این اگر هنوز وقتش منتظره یعنی پیش روه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 353,
+   "start": 1534.1,
+   "end": 1538.32,
+   "text": "لو مال اگر یکی دیگه وقتش گذشته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 354,
+   "start": 1538.32,
+   "end": 1545.26,
+   "text": "خدا میگه لو تقوله اگر نسبت داده بود علینا بر ما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 355,
+   "start": 1545.26,
+   "end": 1548.96,
+   "text": "بعض الاقاويل بعض اقاويل را.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 356,
+   "start": 1548.96,
+   "end": 1551.82,
+   "text": "نمیدونم قول شاعر را،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 357,
+   "start": 1551.82,
+   "end": 1554.64,
+   "text": "نمیدونم قول کاهن را،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 358,
+   "start": 1554.64,
+   "end": 1561.16,
+   "text": "نمیدونم قول جن و انس را، قول خود را، هرچه به غیر از قول رسول را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 359,
+   "start": 1561.16,
+   "end": 1564.18,
+   "text": "اگر به ما نسبت داده بود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 360,
+   "start": 1564.18,
+   "end": 1571.9,
+   "text": "لأخذنا منه بالیمین ثم لقطعنا منه الوتين",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 361,
+   "start": 1571.9,
+   "end": 1575.56,
+   "text": "فما منکم من احد عنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 362,
+   "start": 1575.56,
+   "end": 1578.92,
+   "text": "حاجزین. راجع به این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 363,
+   "start": 1578.92,
+   "end": 1582.02,
+   "text": "سه تا آیه یه مقدار باید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 364,
+   "start": 1582.02,
+   "end": 1585.38,
+   "text": "با حوصله بحث کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 365,
+   "start": 1585.38,
+   "end": 1590.64,
+   "text": "معنایی که تو بیشتر ترجمه‌ها و تفسیرها شما میبینید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 366,
+   "start": 1590.64,
+   "end": 1594.76,
+   "text": "به نظر حقیر قابل نقده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 367,
+   "start": 1594.76,
+   "end": 1600.56,
+   "text": "اون معنا رو عرض می‌کنم، نقد اون معنا رو هم عرض می‌کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 368,
+   "start": 1600.56,
+   "end": 1609.28,
+   "text": "بعد معنایی که به ذهن میرسه را و فکر می‌کنم معنای صحیحی برای این آیات باشه هم تقدیم می‌کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 369,
+   "start": 1609.28,
+   "end": 1612.36,
+   "text": "معنایی که در تفاسیر و ترجمه ها میبینید اینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 370,
+   "start": 1612.36,
+   "end": 1619.58,
+   "text": "لو تقوله علينا بعض الاقاويل اگر پیغمبر به خدا نسبت داده بود سخن غیر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 371,
+   "start": 1619.58,
+   "end": 1623.54,
+   "text": "رسول را، سخن کاهن و شاعر و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 372,
+   "start": 1623.54,
+   "end": 1626.88,
+   "text": "جن و بشر و خود و هرچه غیر از خدا را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 373,
+   "start": 1626.88,
+   "end": 1629.74,
+   "text": "اگر پیغمبر به خدا نسبت داده بود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 374,
+   "start": 1629.74,
+   "end": 1633.32,
+   "text": "لأخذنا منه بالیمین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 375,
+   "start": 1633.32,
+   "end": 1640.5,
+   "text": "من خدا أخذنا منه از پیغمبر می‌گرفتم دستش را بالیمین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 376,
+   "start": 1640.5,
+   "end": 1646.1,
+   "text": "بالیمین یعنی دست، دست راست او را می‌گرفتم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 377,
+   "start": 1646.1,
+   "end": 1648.68,
+   "text": "یا بعضیا گفتن بالیمین یعنی قدرت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 378,
+   "start": 1648.68,
+   "end": 1651.18,
+   "text": "با قدرت مثلا دستش رو می‌گرفتیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 379,
+   "start": 1651.18,
+   "end": 1654.16,
+   "text": "البته تو معنی مشهور همین دست راست اومده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 380,
+   "start": 1654.16,
+   "end": 1656.66,
+   "text": "دست راست او را می‌گرفتم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 381,
+   "start": 1656.66,
+   "end": 1664.92,
+   "text": "ثم لقطعنا منه الوتين سپس رگ گردن او را چیکار می‌کردیم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 382,
+   "start": 1664.92,
+   "end": 1667.72,
+   "text": "قطع می‌کردیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 383,
+   "start": 1667.72,
+   "end": 1669.94,
+   "text": "فما منکم من احد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 384,
+   "start": 1669.94,
+   "end": 1673.38,
+   "text": "عنه حاجزین. هیچ کدام از شما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 385,
+   "start": 1673.38,
+   "end": 1678.54,
+   "text": "نمی‌توانستید جلوی این اقدام ما درباره پیغمبر را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 386,
+   "start": 1678.54,
+   "end": 1683.58,
+   "text": "بگیرید. پس معنی مشهور این شد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 387,
+   "start": 1683.58,
+   "end": 1689.6,
+   "text": "اگر پیغمبر بعض الاقاويل را به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 388,
+   "start": 1689.6,
+   "end": 1692.9,
+   "text": "خدا نسبت داده بود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 389,
+   "start": 1692.9,
+   "end": 1695.4,
+   "text": "یک اتفاقی می‌افتاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 390,
+   "start": 1695.4,
+   "end": 1700.58,
+   "text": "اون اتفاق این بود که خدا دست راست او را می‌گرفت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 391,
+   "start": 1700.58,
+   "end": 1703.18,
+   "text": "و رگ گردن او را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 392,
+   "start": 1703.18,
+   "end": 1708.62,
+   "text": "قطع می‌کرد و هیچکس هم نمی‌تونست جلوی خدا را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 393,
+   "start": 1708.62,
+   "end": 1713.74,
+   "text": "بگیرد. خب حالا آیا همچین اتفاقی برای پیغمبر افتاده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 394,
+   "start": 1713.74,
+   "end": 1718.0,
+   "text": "هیچ وقت پیغمبر رگ گردنش قطع شده توسط خدا؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 395,
+   "start": 1718.0,
+   "end": 1719.68,
+   "text": "بله جواب بدید. نه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 396,
+   "start": 1719.68,
+   "end": 1726.32,
+   "text": "پس بفهمید که او هیچ سخنی را از پیش خود به خدا نسبت نداده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 397,
+   "start": 1726.32,
+   "end": 1730.56,
+   "text": "از کجا فهمیدیم؟ از اینجایی که دیدیم رگ گردنش قطع",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 398,
+   "start": 1730.56,
+   "end": 1737.34,
+   "text": "نشده. حالا با توجه به این معنا اشکال رو خودتون متوجه شدید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 399,
+   "start": 1737.34,
+   "end": 1741.98,
+   "text": "اشکال این سخن، مهم‌ترین اشکالش چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 400,
+   "start": 1741.98,
+   "end": 1744.14,
+   "text": "کی می‌تونه توضیح بده؟ توضیح بدید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 401,
+   "start": 1744.14,
+   "end": 1746.18,
+   "text": "این دلیل قانع‌کننده‌ای نمی‌تونه بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 402,
+   "start": 1746.18,
+   "end": 1749.72,
+   "text": "چرا؟ همون حرفم می‌تونه دروغ باشه دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 403,
+   "start": 1749.72,
+   "end": 1752.96,
+   "text": "اگه بنا باشه کشته شدن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 404,
+   "start": 1752.96,
+   "end": 1755.5,
+   "text": "کشته نشدن من",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 405,
+   "start": 1755.5,
+   "end": 1758.54,
+   "text": "دلیل بر راستگویی من باشه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 406,
+   "start": 1758.54,
+   "end": 1760.94,
+   "text": "خب این مثل این میمونه که من دارم به حرف خودم می--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 407,
+   "start": 1760.94,
+   "end": 1770.46,
+   "text": "میگم آقا من هرچی به شما گفتم راست گفتما چون اگر من یه دروغی می‌خواستم به شما بگم رگ گردنم قطع شده بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 408,
+   "start": 1770.46,
+   "end": 1775.28,
+   "text": "همینم تو داری میگی. از کجا من بفهمم آخه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 409,
+   "start": 1775.28,
+   "end": 1777.84,
+   "text": "همین حرفو شاید خودت ساختی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 410,
+   "start": 1777.84,
+   "end": 1780.46,
+   "text": "یعنی با این بیان،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 411,
+   "start": 1780.46,
+   "end": 1783.36,
+   "text": "این مسئله هیچ",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 412,
+   "start": 1783.36,
+   "end": 1786.16,
+   "text": "هدایتی برای ما ایجاد نمی‌کنه، هیچ",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 413,
+   "start": 1786.16,
+   "end": 1788.66,
+   "text": "روشنگری برای ما نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 414,
+   "start": 1788.66,
+   "end": 1792.9,
+   "text": "فقط مثل اینکه از یک عصبانیتی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 415,
+   "start": 1792.9,
+   "end": 1804.8,
+   "text": "آگاه می‌شیم. خدا اونقدر در مسئله نزول قرآن جدی هست، خودش گفته تو قرآن که اگه پیغمبر خطا کرده بود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 416,
+   "start": 1804.8,
+   "end": 1806.74,
+   "text": "گردن او را چیکار کرده بود؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 417,
+   "start": 1806.74,
+   "end": 1810.06,
+   "text": "رگ گردن او را قطع کرده بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 418,
+   "start": 1810.06,
+   "end": 1812.36,
+   "text": "حالا هم که می‌بینید قطع نکرده دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 419,
+   "start": 1812.36,
+   "end": 1815.22,
+   "text": "پس معلومه پیغمبر هم کار خلافی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 420,
+   "start": 1815.22,
+   "end": 1819.92,
+   "text": "نکرده. این مدل استدلال،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 421,
+   "start": 1819.92,
+   "end": 1822.68,
+   "text": "مدل قانع‌کننده‌ای برای مخاطب نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 422,
+   "start": 1822.68,
+   "end": 1826.12,
+   "text": "یعنی ذهن و دل مخاطب رو آروم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 423,
+   "start": 1826.12,
+   "end": 1831.96,
+   "text": "نمی‌کنه. حالا این مطلب رو، انتقاد بنده رو شنیدید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 424,
+   "start": 1831.96,
+   "end": 1837.3,
+   "text": "من می‌خوام یه نکته‌ای خارج از این انتقاد هم به شما بگم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 425,
+   "start": 1837.3,
+   "end": 1848.66,
+   "text": "ما اگر برای اثبات رسالت یک کسی دنبال دلیل باشیم به اون دلیل میگن چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 426,
+   "start": 1848.66,
+   "end": 1852.22,
+   "text": "معجزه. میگن حضرت صالح اومده میگه من پیغمبرم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 427,
+   "start": 1852.22,
+   "end": 1855.52,
+   "text": "میگن یه کاری بکن که هیچکی نتونه بکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 428,
+   "start": 1855.52,
+   "end": 1858.72,
+   "text": "معلوم باشه که این تو از جانب خدایی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 429,
+   "start": 1858.72,
+   "end": 1866.34,
+   "text": "خدا یه قدرتی به تو بده تو بتونی یه کاری انجام بدی که از عهده‌ی بقیه‌ی بشر بر نیاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 430,
+   "start": 1866.34,
+   "end": 1872.0,
+   "text": "وقتی یه پیغمبری برای اثبات رسالت خودش معجزه‌ای بیاورد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 431,
+   "start": 1872.0,
+   "end": 1876.1,
+   "text": "معجزه میشه دلیل حقانیت این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 432,
+   "start": 1876.1,
+   "end": 1886.84,
+   "text": "پیامبر. حالا بیایم به این پیغمبر بگیم ثابت کن اینی که آوردی معجزه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 433,
+   "start": 1886.84,
+   "end": 1895.2,
+   "text": "چی میشه؟ اگه بنا باشه که معجزه ثابت کردنی باشد، دیگه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 434,
+   "start": 1895.2,
+   "end": 1899.02,
+   "text": "معجزه نیست. معجزه را با چی ثابت کنم معجزه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 435,
+   "start": 1899.02,
+   "end": 1904.44,
+   "text": "حالا حضرت صالح معجزه کرده از توی کوه شتر آورده بیرون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 436,
+   "start": 1904.44,
+   "end": 1907.94,
+   "text": "شتره داری میبینی با چشمت دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 437,
+   "start": 1907.94,
+   "end": 1910.0,
+   "text": "داره زندگی میکنه بین شما.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 438,
+   "start": 1910.0,
+   "end": 1913.38,
+   "text": "شیر میده، آب میخوره، راه میره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 439,
+   "start": 1913.38,
+   "end": 1918.12,
+   "text": "اگر تو نخواهی بپذیری که این معجزه است،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 440,
+   "start": 1918.12,
+   "end": 1922.54,
+   "text": "چجوری دیگه میشه تو را قانع کرد که این معجزه است؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 441,
+   "start": 1922.54,
+   "end": 1929.14,
+   "text": "هیچ کسی بخواد معجزه را بگه سحره، بگه جادوعه داره سر خودش چیکار میکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 442,
+   "start": 1929.14,
+   "end": 1932.9,
+   "text": "کلاه میزاره دیگه. اون کسی که سر خودش داره کلاه میزاره کاری براش نمیشه کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 443,
+   "start": 1932.9,
+   "end": 1941.24,
+   "text": "چیکار کنیم دیگه حالا؟ یا مثلا حضرت موسی عصا را زده عصا شده یک مار بزرگی اومده بقیه‌ی نمیدونم نخ و طناب و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 444,
+   "start": 1941.24,
+   "end": 1946.12,
+   "text": "عصای بقیه رو بلعید و دوباره شد عصا رفت تو دست حضرت موسی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 445,
+   "start": 1946.12,
+   "end": 1948.58,
+   "text": "آقا واقعا یه ماری شد اینا رو بلعید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 446,
+   "start": 1948.58,
+   "end": 1956.9,
+   "text": "حالا تو بگو سحره. دیگه معجزه را با چیزی نمیشود بگید ثابت کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 447,
+   "start": 1956.9,
+   "end": 1961.1,
+   "text": "معجزه دیگه خودش برای اثبات رسالت اومده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 448,
+   "start": 1961.1,
+   "end": 1964.26,
+   "text": "حالا فرض بگیریم مثلا معجزه را بشه ثابت کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 449,
+   "start": 1964.26,
+   "end": 1970.48,
+   "text": "باید با یه معجزه‌ی بگید دیگری یا بالاتری ثابت کنی باز همین حرف اونجا هم زده میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 450,
+   "start": 1970.48,
+   "end": 1974.24,
+   "text": "حالا ثابت کن این معجزه است. کجا تمام میشه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 451,
+   "start": 1974.24,
+   "end": 1980.0,
+   "text": "یعنی برای کسی که دنبال بهانه باشه معجزه هم راهگشا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 452,
+   "start": 1980.0,
+   "end": 1984.54,
+   "text": "نیست. مرده‌ی هفتاد ساله رو هم از تو قبر بکشه بیرون زنده کنه با",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 453,
+   "start": 1984.54,
+   "end": 1988.9,
+   "text": "شما حرف بزنه. کسی دنبال بهانه باشه اینم چیکار میکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 454,
+   "start": 1988.9,
+   "end": 1991.46,
+   "text": "اینم انکار میکنه. حالا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 455,
+   "start": 1991.46,
+   "end": 1994.74,
+   "text": "سؤال من اینه .",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 456,
+   "start": 1994.74,
+   "end": 2001.12,
+   "text": "اون معجزه‌ای که ثابت میکنه پیغمبر ما حق است چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 457,
+   "start": 2001.12,
+   "end": 2003.62,
+   "text": "خب همه‌ی ما میدونیم معجزه قرآنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 458,
+   "start": 2003.62,
+   "end": 2009.52,
+   "text": "تو خود قرآن هم چهار بار اقلاً تحدی آمده که آقا هیشکی مثل منو نمیتونه بیاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 459,
+   "start": 2009.52,
+   "end": 2015.44,
+   "text": "من یه کتاب منحصر به فردم فقط امکان داره خدا همچین حرفایی بزنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 460,
+   "start": 2015.44,
+   "end": 2018.48,
+   "text": "به غیر از خدا این حرفا از هیچکی دیگه بر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 461,
+   "start": 2018.48,
+   "end": 2021.78,
+   "text": "نمیاد. یعنی قرآن خودش آمده برای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 462,
+   "start": 2021.78,
+   "end": 2032.8,
+   "text": "اثبات حقانیت پیغمبر به عنوان معجزه‌ی پیغمبر خاتم به عنوان بالاترین و برترین معجزه در میان معجزات انبیا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 463,
+   "start": 2032.8,
+   "end": 2038.86,
+   "text": "حالا اگه کسی بخواد بیاد خود قرآن را ثابت کنه، حقانیت خود قرآن را ثابت کنه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 464,
+   "start": 2038.86,
+   "end": 2043.9,
+   "text": "این مثل اینه که شما میخوای برای معجزه، معجزه بالاتر بیاری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 465,
+   "start": 2043.9,
+   "end": 2053.28,
+   "text": "بارها پیغمبر به خاطر اینکه مردم او را در فشار قرار میدادند از خدا معجزه طلب کرد بعد قرآن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 466,
+   "start": 2053.28,
+   "end": 2058.38,
+   "text": "که خدا به پیغمبر گفت اگه میخوای نردبان بذار از آسمان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 467,
+   "start": 2058.38,
+   "end": 2060.66,
+   "text": "یه معجزه‌ای چیزی پیدا کن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 468,
+   "start": 2060.66,
+   "end": 2065.04,
+   "text": "یا میخوای زمینو بکن از تو زمین دربیار.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 469,
+   "start": 2065.04,
+   "end": 2071.64,
+   "text": "من دیگه بالاتر از قرآن معجزه‌ای برای ارائه کردن به این مردم مطرح ارائه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 470,
+   "start": 2071.64,
+   "end": 2081.46,
+   "text": "نمیکنم. بله، بالاتر از قرآن آیه دارم، نشانه دارم که اگر بخوام اون رو عرضه کنم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 471,
+   "start": 2081.46,
+   "end": 2085.16,
+   "text": "، اونوقت دیگه کار از کار چی میشه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 472,
+   "start": 2085.16,
+   "end": 2090.0,
+   "text": "میگذره. \"إن نشأ نزل عليهم آية من السماء",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 473,
+   "start": 2090.0,
+   "end": 2092.68,
+   "text": "فظلت أعناقهم لها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 474,
+   "start": 2092.68,
+   "end": 2096.12,
+   "text": "خاضعين\" دیگه کار از کار میگذره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 475,
+   "start": 2096.12,
+   "end": 2098.2,
+   "text": "اون دیگه پرده‌ها کنار میره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 476,
+   "start": 2098.2,
+   "end": 2100.64,
+   "text": "حقیقت عالم مکشوف میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 477,
+   "start": 2100.64,
+   "end": 2106.64,
+   "text": "اونو نمیخوایم. ما میخوایم با این آیه و نشانه به حقانیت پیغمبر پی ببرن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 478,
+   "start": 2106.64,
+   "end": 2109.94,
+   "text": "خب با این مقدمه میخوام چی بگم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 479,
+   "start": 2109.94,
+   "end": 2113.0,
+   "text": "میخوام بگم آقا شاهد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 480,
+   "start": 2113.0,
+   "end": 2117.46,
+   "text": "حقانیت پیغمبر قرآنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 481,
+   "start": 2117.46,
+   "end": 2122.5,
+   "text": "شاهد حقانیت قرآن خودشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 482,
+   "start": 2122.5,
+   "end": 2126.16,
+   "text": ". شاهد حقانیت قرآن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 483,
+   "start": 2126.16,
+   "end": 2129.92,
+   "text": "خودش. اگه کسی میخواد ببینه قرآن حقه یا نه، باید خود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 484,
+   "start": 2129.92,
+   "end": 2136.68,
+   "text": "قرآن را بخواند و بفهمد تا وجدان او درباره قرآن به چی برسه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 485,
+   "start": 2136.68,
+   "end": 2140.32,
+   "text": "به قضاوت برسه. یا بپذیره یا نپذیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 486,
+   "start": 2140.32,
+   "end": 2144.52,
+   "text": "راهی به جز مواجهه با خود قرآن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 487,
+   "start": 2144.52,
+   "end": 2147.8,
+   "text": "برای اثبات حقانیت قرآن وجود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 488,
+   "start": 2147.8,
+   "end": 2152.08,
+   "text": "ندارد. دیگه این معجزه‌ی پیغمبر اکرمه .",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 489,
+   "start": 2152.08,
+   "end": 2156.72,
+   "text": "اینو توی لسان شعر بهش میگه آفتاب آمد دلیل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 490,
+   "start": 2156.72,
+   "end": 2159.62,
+   "text": "آفتاب. آفتاب آمد دلیل آفتاب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 491,
+   "start": 2159.62,
+   "end": 2163.02,
+   "text": "دیگه آقا از کجا بدانم قرآن سخن خداست؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 492,
+   "start": 2163.02,
+   "end": 2165.5,
+   "text": "از خودش. خودش را بخوان،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 493,
+   "start": 2165.5,
+   "end": 2167.88,
+   "text": "بفهم، تدبر کن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 494,
+   "start": 2167.88,
+   "end": 2175.68,
+   "text": "اگر دیدی که این سخن در اوج هماهنگی حق و هدایت را داره به تو تقدیم میکنه بفهم سخن خداست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 495,
+   "start": 2175.68,
+   "end": 2183.04,
+   "text": "اگر دیدی توی این سخن اعوجاج وجود داره، ناراستی وجود داره، کجی وجود داره، نقص وجود داره،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 496,
+   "start": 2183.04,
+   "end": 2185.36,
+   "text": "ناهمآهنگی وجود داره،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 497,
+   "start": 2185.36,
+   "end": 2187.24,
+   "text": "اگه همچین چیزهایی دیدی ولش کن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 498,
+   "start": 2187.24,
+   "end": 2197.4,
+   "text": "این سخن خدا نیست. خود خدا در سوره مبارکه نساء فرمود \"أفلا يتدبرون القرآن ولو كان من عند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 499,
+   "start": 2197.4,
+   "end": 2201.2,
+   "text": "غير الله لوجدوا فيه اختلافاً\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 500,
+   "start": 2201.2,
+   "end": 2203.32,
+   "text": "کسی را باید تدبر کنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 501,
+   "start": 2203.32,
+   "end": 2209.12,
+   "text": "آقا راه درک معجزه بودن قرآن تدبر در قرآنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 502,
+   "start": 2209.12,
+   "end": 2211.34,
+   "text": "حالا من راجع به این نکته‌ای خواهم گفت بهتون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 503,
+   "start": 2211.34,
+   "end": 2217.14,
+   "text": "فعلاً می‌خوام از این مقدمه‌ای که گفتم یه بار بیاییم سراغ متن ببینیم این چی داره میگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 504,
+   "start": 2217.14,
+   "end": 2222.12,
+   "text": "خدا میگه ببینید این قرآن قول رسول کریمه، شک توش نکنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 505,
+   "start": 2222.12,
+   "end": 2227.38,
+   "text": "کسی می‌خواد تو خود قرآن شک بکنه ما دیگه حرفی برای زدن به او بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 506,
+   "start": 2227.38,
+   "end": 2233.3,
+   "text": "نداریم. جز اینکه بگیم لقول رسول کریم تنزيل من رب العالمين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 507,
+   "start": 2233.3,
+   "end": 2237.36,
+   "text": "شما شک داری؟ شما میگی این قول شاعره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 508,
+   "start": 2237.36,
+   "end": 2242.58,
+   "text": "قول کاهنه؟ قول دیگرانه که پیغمبر داره به خدا نسبت میده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 509,
+   "start": 2242.58,
+   "end": 2248.22,
+   "text": "اگر پیغمبر بعض الاقاويل یعنی سخن غیر رسول کریم را،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 510,
+   "start": 2248.22,
+   "end": 2254.5,
+   "text": "سخن شاعر و کاهن را به ما نسبت داده بود لأخذنا منه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 511,
+   "start": 2254.5,
+   "end": 2261.4,
+   "text": "باليمين ما با قدرت همین قرآنی را که به او داده بودیم از او چیکار می‌کردیم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 512,
+   "start": 2261.4,
+   "end": 2265.04,
+   "text": "می‌گرفتیم. ما کار دیگه‌ای نمی‌کردیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 513,
+   "start": 2265.04,
+   "end": 2267.36,
+   "text": "کاری که ما انجام میدیم اینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 514,
+   "start": 2267.36,
+   "end": 2273.24,
+   "text": "اگر ایشون بخواد چیزی از سخن غیر مای خدا را،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 515,
+   "start": 2273.24,
+   "end": 2282.32,
+   "text": "چیزی از سخن غیر رسول را بخواد قاطی قرآن کرده باشه، تازه من این که کل قرآن سخن غیر رسول باشه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 516,
+   "start": 2282.32,
+   "end": 2285.52,
+   "text": "بخواد یه چیزی را قاطی قرآن کرده باشه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 517,
+   "start": 2285.52,
+   "end": 2288.46,
+   "text": "اتفاقی که می‌افتاد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 518,
+   "start": 2288.46,
+   "end": 2291.88,
+   "text": "در صورتی که پیغمبر این کارا می‌کرد که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 519,
+   "start": 2291.88,
+   "end": 2299.6,
+   "text": "نکرده، اتفاقی که می‌افتاد این بود که ما با قدرت باليمين یعنی با قدرت،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 520,
+   "start": 2299.6,
+   "end": 2303.0,
+   "text": "با قدرت از او اخذ می‌کردیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 521,
+   "start": 2303.0,
+   "end": 2306.0,
+   "text": "قرآنی را که به او بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 522,
+   "start": 2306.0,
+   "end": 2310.56,
+   "text": "داده بودیم. ثمه لقطعنا منه الوتين",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 523,
+   "start": 2310.56,
+   "end": 2316.26,
+   "text": "سپس شاهراه ارتباطی او با خودمان را هم بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 524,
+   "start": 2316.26,
+   "end": 2321.12,
+   "text": "قطع می‌کردیم. یعنی از رسالت ساقط می‌شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 525,
+   "start": 2321.12,
+   "end": 2327.9,
+   "text": "پیغمبر اگر چیزی از غیر خدا را به قرآن اضافه می‌کرد یا قاطی قرآن می‌کرد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 526,
+   "start": 2327.9,
+   "end": 2329.98,
+   "text": "دیگه پیغمبر نبود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 527,
+   "start": 2329.98,
+   "end": 2332.34,
+   "text": "و وقتی که پیغمبر نباشد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 528,
+   "start": 2332.34,
+   "end": 2335.4,
+   "text": "اونوقت خدا معجزه پیغمبری رو از او چیکار می‌کنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 529,
+   "start": 2335.4,
+   "end": 2342.32,
+   "text": "بگید، از او می‌گرفت و دیگه شاهدی برای اثبات حقانیت خودش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 530,
+   "start": 2342.32,
+   "end": 2346.16,
+   "text": "نداشت. یعنی در واقع خدا استدلال نمی‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 531,
+   "start": 2346.16,
+   "end": 2354.12,
+   "text": "خدا داره به ما این حرفو می‌زنه. میگه آقا خود این که می‌بینید دارد قرآن می‌خواند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 532,
+   "start": 2354.12,
+   "end": 2358.06,
+   "text": "خود این قرآن نشون میده که او چیزی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 533,
+   "start": 2358.06,
+   "end": 2360.68,
+   "text": "به خدا نسبت بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 534,
+   "start": 2360.68,
+   "end": 2362.86,
+   "text": "نداده است. همین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 535,
+   "start": 2362.86,
+   "end": 2373.22,
+   "text": "شما هیچ راهی به جز خود قرآن برای درک حقانیت رسالت او ندارید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 536,
+   "start": 2373.22,
+   "end": 2376.1,
+   "text": "حالا من اینو می‌خوام برگردونم تو معجزات پیغمبران دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 537,
+   "start": 2376.1,
+   "end": 2381.32,
+   "text": "مثل اینکه خدا این حرف رو بخواد در مورد حضرت صالح بزنه، اینجوری بزنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 538,
+   "start": 2381.32,
+   "end": 2386.62,
+   "text": "بگه بابا اگر صالح سحر به کار گرفته بود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 539,
+   "start": 2386.62,
+   "end": 2389.62,
+   "text": "ما این شتر را از او گرفته بودیم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 540,
+   "start": 2389.62,
+   "end": 2392.34,
+   "text": "او را از رسالت ساقط کرده بودیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 541,
+   "start": 2392.34,
+   "end": 2396.66,
+   "text": "و دیگه با هیچ چیز دیگه‌ای نمی‌تونست حقانیت خودش را بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 542,
+   "start": 2396.66,
+   "end": 2404.46,
+   "text": "ثابت بکنه. یعنی بنده خدا دنبال چیزی برای اثبات حقانیت شتر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 543,
+   "start": 2404.46,
+   "end": 2407.84,
+   "text": "نباش. این شتر خود شاهد حقانیته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 544,
+   "start": 2407.84,
+   "end": 2411.38,
+   "text": "دیگه تو چیز بالاتر از اون چی می‌خوای دیگه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 545,
+   "start": 2411.38,
+   "end": 2418.66,
+   "text": "همین که می‌بینی پیغمبر اکرم قرآن دارد و قرآن می‌خواند یعنی رسول است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 546,
+   "start": 2418.66,
+   "end": 2420.94,
+   "text": "یعنی چیزی قاطی اون نکرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 547,
+   "start": 2420.94,
+   "end": 2422.54,
+   "text": "یعنی هنوز خدا او را قبول داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 548,
+   "start": 2422.54,
+   "end": 2426.14,
+   "text": "او را تصدیق می‌کنه که این معجزه را به او داده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 549,
+   "start": 2426.14,
+   "end": 2430.64,
+   "text": "و الا که معجزه را از او گرفته بود دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 550,
+   "start": 2430.64,
+   "end": 2440.46,
+   "text": "خب لو تقوّل علينا بعض الاقاويل لأخذنا منه باليمين از او با قدرت گرفته بودیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 551,
+   "start": 2440.46,
+   "end": 2444.58,
+   "text": "اگر چیزی را به ما نسبت داده بود، از او با قدرت گرفته بودیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 552,
+   "start": 2444.58,
+   "end": 2447.96,
+   "text": "وحی الهی را. سپس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 553,
+   "start": 2447.96,
+   "end": 2452.52,
+   "text": "شاهراه وطين راه ارتباطیه، شاهراه ارتباطی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 554,
+   "start": 2452.52,
+   "end": 2465.42,
+   "text": "سپس شاهراه ارتباطی او با خودمان را قطع کرده بودیم و هیچ کس از شما نمی‌توانست جلوی عزل پیغمبر از رسالت را بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 555,
+   "start": 2465.42,
+   "end": 2468.34,
+   "text": "بگیرد. هیچکی نمی‌تونست مانع بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 556,
+   "start": 2468.34,
+   "end": 2473.4,
+   "text": "چون در نصب ایشون به عنوان رسول ما هستیم که این کارو انجام دادیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 557,
+   "start": 2473.4,
+   "end": 2476.64,
+   "text": "برای عزلش هم هیشکی نمی‌تونست بیاد وسط.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 558,
+   "start": 2476.64,
+   "end": 2485.7,
+   "text": "مسئله اینه. حالا اگر کسی بخواد مثلاً به اینچه که حقیر به عنوان معنای این آیات عرض کردم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 559,
+   "start": 2485.7,
+   "end": 2489.84,
+   "text": "یه شبهه‌ای وارد کنه، اون شبهه می‌تونه این باشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 560,
+   "start": 2489.84,
+   "end": 2495.26,
+   "text": "که بگه آقا ما رفتیم در لغت‌نامه نگاه کردیم وطين یعنی رگ",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 561,
+   "start": 2495.26,
+   "end": 2500.2,
+   "text": "گردن. اگر برید به اصل ماده وطنه نگاه بکنید،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 562,
+   "start": 2500.2,
+   "end": 2506.34,
+   "text": "می‌بینید اصلاً رگ یا رگ بدن بودن جزء ذات معنای وطين",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 563,
+   "start": 2506.34,
+   "end": 2509.36,
+   "text": "بگید نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 564,
+   "start": 2509.36,
+   "end": 2515.28,
+   "text": "اگر به رگ گردن میگن وطين چون یه راهیه که ارتباط",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 565,
+   "start": 2515.28,
+   "end": 2520.36,
+   "text": "نظام در واقع فکری مغز انسان رو داره با قلب انسان چیکار می‌کنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 566,
+   "start": 2520.36,
+   "end": 2524.36,
+   "text": "برقرار می‌کنه. یه رگی‌ست که یه نقش حیاتی داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 567,
+   "start": 2524.36,
+   "end": 2527.44,
+   "text": "یه شاه رگ اصلیه. اگر اون نباشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 568,
+   "start": 2527.44,
+   "end": 2531.66,
+   "text": "دیگه سر به قلب وصل نیست و کار از کار می‌گذره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 569,
+   "start": 2531.66,
+   "end": 2535.86,
+   "text": "چون یک نقش حیاتی دارد بهش گفته میشه وطين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 570,
+   "start": 2535.86,
+   "end": 2542.68,
+   "text": "و الا این نیستش که وطين تو اصل لغت وضع شده باشد برای چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 571,
+   "start": 2542.68,
+   "end": 2545.7,
+   "text": "رگ گردن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 572,
+   "start": 2545.7,
+   "end": 2550.1,
+   "text": "تو استعمال اومده بر رگ گردن اطلاق شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 573,
+   "start": 2550.1,
+   "end": 2552.72,
+   "text": "ما اینجا باید وطين رو با چی بفهمیم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 574,
+   "start": 2552.72,
+   "end": 2555.4,
+   "text": "با سیاق خودش بفهمیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 575,
+   "start": 2555.4,
+   "end": 2559.46,
+   "text": "حالا اینکه آقا اگر ایشون چیزی به ما نسبت داده بود رگ گردنشو زده بودیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 576,
+   "start": 2559.46,
+   "end": 2563.36,
+   "text": "حالا هم که نزدیم پس دیگه پس معلومه چیزی به ما نسبت نداده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 577,
+   "start": 2563.36,
+   "end": 2571.38,
+   "text": "پس ما باید تو این بیان مشهور اینه ما باید حقانیت قرآن را که معجزه پیغمبره با چی بفهمیم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 578,
+   "start": 2571.38,
+   "end": 2573.8,
+   "text": "با کشته نشدن پیغمبر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 579,
+   "start": 2573.8,
+   "end": 2578.94,
+   "text": "خب کشته نشدن پیغمبر شاهد بزرگتریه از خود قرآن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 580,
+   "start": 2578.94,
+   "end": 2582.42,
+   "text": "طرف با خود قرآن به حقانیت قرآن پی نبرده،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 581,
+   "start": 2582.42,
+   "end": 2586.17,
+   "text": "اونوقت با زنده موندن پیغمبر به حقانیت قرآن پی برده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 582,
+   "start": 2586.17,
+   "end": 2590.94,
+   "text": "این شاهد بالاتره، معجزه بالاتره، این آخه چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 583,
+   "start": 2590.94,
+   "end": 2597.84,
+   "text": "عرض بنده تمامه. اگر کسی سوالی داره نسبت به این مطلبی که عرض شد در معنای آیات من در خدمتم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 584,
+   "start": 2597.84,
+   "end": 2600.66,
+   "text": "\"ما ننسخ من آیه أو ننسها\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 585,
+   "start": 2600.66,
+   "end": 2604.96,
+   "text": "خدا اگر بخواد معجزه خودش را از دست پیغمبری بگیره قدرتش رو داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 586,
+   "start": 2604.96,
+   "end": 2608.52,
+   "text": "معجزه امر اعجازین غیبیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 587,
+   "start": 2608.52,
+   "end": 2617.02,
+   "text": "اگر خدا اراده میکرد به اینکه قرآنی دیگه نباشد برای اثبات حقانیت پیغمبر مطمئناً قرآن حذف میشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 588,
+   "start": 2617.02,
+   "end": 2621.56,
+   "text": "حالا چجوری حذف میشد؟ هیچ وقت اتفاق نیفتاده که من بگم چجوری حذف میشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 589,
+   "start": 2621.56,
+   "end": 2623.66,
+   "text": "لؤه، لؤ امتناعیه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 590,
+   "start": 2623.66,
+   "end": 2626.12,
+   "text": "یعنی نشده که همچین چیزی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 591,
+   "start": 2626.12,
+   "end": 2630.62,
+   "text": "میخوام بگم اگر چنین کرده بود، چنین شده بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 592,
+   "start": 2630.62,
+   "end": 2634.12,
+   "text": "نه ایشون چنین کرده و نه چنین شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 593,
+   "start": 2634.12,
+   "end": 2638.06,
+   "text": "اما اینکه من بخوام اینجوری اشکال کنم که آقا اصلاً چطور ممکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 594,
+   "start": 2638.06,
+   "end": 2641.3,
+   "text": "نه ممکنه. ممکن بودنش که کاری نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 595,
+   "start": 2641.3,
+   "end": 2645.12,
+   "text": "خدا تابوت را از بین بنی اسرائیل چطور حذف کرد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 596,
+   "start": 2645.12,
+   "end": 2651.38,
+   "text": "تابوت که باعث آرامش بنی اسرائیل بود، همون صندوقچه که دست موسی در اون گذاشته شده بود و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 597,
+   "start": 2651.38,
+   "end": 2655.12,
+   "text": "در طول تاریخ موارث انبیا در اون قرار گرفته بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 598,
+   "start": 2655.12,
+   "end": 2656.68,
+   "text": "اون تابوت رو خدا برد بالا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 599,
+   "start": 2656.68,
+   "end": 2658.82,
+   "text": "حضرت عیسی رو چجوری حذف کرد از بین مردم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 600,
+   "start": 2658.82,
+   "end": 2662.1,
+   "text": "برد بالا. کو عیسی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 601,
+   "start": 2662.1,
+   "end": 2668.14,
+   "text": "بردمش بالا. حالا خدا بخواد قرآن را حذف بکند، خب چی در مانع خداست؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 602,
+   "start": 2668.14,
+   "end": 2677.18,
+   "text": "اگر پیغمبر نعوذ بالله همچین کاری کرده بود که خب نکرده که، اگر همچین کاری کرده بود حذف قرآن که برای خدا ناممکن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 603,
+   "start": 2677.18,
+   "end": 2679.92,
+   "text": "نبود که، حذفش میکرد دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 604,
+   "start": 2679.92,
+   "end": 2684.74,
+   "text": "مردم پا میشدن میدیدن دیگه نه پیغمبری هست و نه قرآنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 605,
+   "start": 2684.74,
+   "end": 2690.26,
+   "text": ". اینجوریه ج-- و در واقع چون لؤ امتناعیه است ما باید این نکته رو توجه داشته باشیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 606,
+   "start": 2690.26,
+   "end": 2694.22,
+   "text": "خدا این نکته رو ناظر به آینده نمیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 607,
+   "start": 2694.22,
+   "end": 2699.52,
+   "text": "لؤ امتناعیه است. میگه چنین اگر شده بود که شماها میگید،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 608,
+   "start": 2699.52,
+   "end": 2706.4,
+   "text": "اگر اونطور که شما میگید این قرآن قول شاعر بوده، اگر اونطور که شما میگید قول کاهن بوده،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 609,
+   "start": 2706.4,
+   "end": 2709.82,
+   "text": "اگر چنین چیزی بود دیگه قرآنی نبود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 610,
+   "start": 2709.82,
+   "end": 2712.1,
+   "text": "دیگه معجزه‌ای باقی نبود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 611,
+   "start": 2712.1,
+   "end": 2715.34,
+   "text": "دیگه پیغمبری در کار نبود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 612,
+   "start": 2715.34,
+   "end": 2717.5,
+   "text": "یعنی خود این قرآن شاهد حقانیته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 613,
+   "start": 2717.5,
+   "end": 2722.16,
+   "text": "دیگه ما چی بهتون بگیم؟ شما الان از ما توقع دارید چجوری ثابت کنیم قرآن حقه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 614,
+   "start": 2722.16,
+   "end": 2724.6,
+   "text": "حالا مطلبی که میخواستم به عنوان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 615,
+   "start": 2724.6,
+   "end": 2728.58,
+   "text": "تکمله عرض کنم چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 616,
+   "start": 2728.58,
+   "end": 2731.1,
+   "text": "ببینید معجزات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 617,
+   "start": 2731.1,
+   "end": 2735.82,
+   "text": "برای انبیای مختلف در طول تاریخ مصادیق مختلفی داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 618,
+   "start": 2735.82,
+   "end": 2745.6,
+   "text": "الان خیلی از ماها یه وقت‌هایی با خودمون میگیم بابا اگه مثلاً برای ما هم یه پیغمبری آمده بود و یه معجزه حسی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 619,
+   "start": 2745.6,
+   "end": 2748.96,
+   "text": "حسی نشون داده بود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 620,
+   "start": 2748.96,
+   "end": 2755.34,
+   "text": "ای بسا ما در پذیرش حقانیت اون راحت‌تر بودیم تا قرآن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 621,
+   "start": 2755.34,
+   "end": 2759.74,
+   "text": "آقا حالا قرآن من از کجا بدونم واقعاً قرآن سخن خداست؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 622,
+   "start": 2759.74,
+   "end": 2762.16,
+   "text": "مثل اینکه یه شکی تو وجود ماست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 623,
+   "start": 2762.16,
+   "end": 2768.3,
+   "text": "میخوام بلند داد بزنم بدانید هر معجزه‌ای،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 624,
+   "start": 2768.3,
+   "end": 2772.54,
+   "text": "هر معجزه‌ای، هر قدر هم حسی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 625,
+   "start": 2772.54,
+   "end": 2775.28,
+   "text": "ملموس و محسوس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 626,
+   "start": 2775.28,
+   "end": 2778.46,
+   "text": "اگر برای کسی بیاد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 627,
+   "start": 2778.46,
+   "end": 2781.8,
+   "text": "که دنبال قبول حق بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 628,
+   "start": 2781.8,
+   "end": 2788.56,
+   "text": "نباشد، قطعاً یه راه بهانه و فراری برای او وجود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 629,
+   "start": 2788.56,
+   "end": 2794.98,
+   "text": "دارد. قطعاً. کسی اگر بخواد انکار کنه خب آقا چیکار کنیم که انکار نکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 630,
+   "start": 2794.98,
+   "end": 2799.1,
+   "text": "جز اینکه دنیا تموم بشه و حجاب‌ها کلاً بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 631,
+   "start": 2799.1,
+   "end": 2802.68,
+   "text": "کنار بره که خدا این رو، این یه مورد رو گفته نمیدم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 632,
+   "start": 2802.68,
+   "end": 2809.04,
+   "text": "گفته این یه مورد رو کار دارم من. دنیا رو درست نکردم که همینجوری با طلب معجزه جمعش کنم که.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 633,
+   "start": 2809.04,
+   "end": 2814.48,
+   "text": "این یه مورد رو به خیال چی؟ به جز این یه مورد چیکار کنیم که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 634,
+   "start": 2814.48,
+   "end": 2818.28,
+   "text": "یک آدمی که دنبال بهانه است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 635,
+   "start": 2818.28,
+   "end": 2821.54,
+   "text": "دیگه بهانه‌ای بگید نداشته باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 636,
+   "start": 2821.54,
+   "end": 2829.66,
+   "text": "چیکار کنیم؟ هر کار بکنیم احتمال اینکه یکی بگه خیال بود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 637,
+   "start": 2829.66,
+   "end": 2833.92,
+   "text": "سحر بود، دروغ بود، جادو بود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 638,
+   "start": 2833.92,
+   "end": 2839.32,
+   "text": "یه کاری کرده بود، من نمیدونم کسی نخواست بپذیره، اونم نمی‌پذیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 639,
+   "start": 2839.32,
+   "end": 2845.76,
+   "text": "مسئله انسان حسی یا عقلی بودن معجزه نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 640,
+   "start": 2845.76,
+   "end": 2855.24,
+   "text": "مسئله انسان تصمیم به قبول یا عدم قبول حقه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 641,
+   "start": 2855.24,
+   "end": 2857.52,
+   "text": "مصداق بارزش شق القمره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 642,
+   "start": 2857.52,
+   "end": 2862.6,
+   "text": "مصداق بارزش معجزات حضرت عیسی است که قرآن تصریح میکنه گفتن سحره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 643,
+   "start": 2862.6,
+   "end": 2866.62,
+   "text": "مرده زنده کرد سحره. بیمار لاعلاج شفا داد سحره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 644,
+   "start": 2866.62,
+   "end": 2869.62,
+   "text": "کور مادرزاد شفا داد سحره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 645,
+   "start": 2869.62,
+   "end": 2873.14,
+   "text": "از گل پرنده درست کرد در اون دمید سحره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 646,
+   "start": 2873.14,
+   "end": 2876.5,
+   "text": "بشر اگر نخواست قبول کنه که خب نمیکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 647,
+   "start": 2876.5,
+   "end": 2885.66,
+   "text": "این نکته اول. نکته دوم هم اینه که معجزه عقلی از معجزه حسی بالاتره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 648,
+   "start": 2885.66,
+   "end": 2889.62,
+   "text": "یعنی نه فقط معجزه حسی بالاتر نیست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 649,
+   "start": 2889.62,
+   "end": 2892.18,
+   "text": "که معجزه عقلانی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 650,
+   "start": 2892.18,
+   "end": 2894.98,
+   "text": "درجه‌ش بالاتره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 651,
+   "start": 2894.98,
+   "end": 2899.92,
+   "text": "چرا؟ چون انسان ممکنه در چشمش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 652,
+   "start": 2899.92,
+   "end": 2902.34,
+   "text": "راجع به چشمش شک بکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 653,
+   "start": 2902.34,
+   "end": 2905.06,
+   "text": "ممکنه راجع به گوشش شک بکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 654,
+   "start": 2905.06,
+   "end": 2907.72,
+   "text": "ممکنه راجع به لمسش شک بکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 655,
+   "start": 2907.72,
+   "end": 2913.04,
+   "text": "اما اگه در وجدان فکری خود هم قراره شک بکنه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 656,
+   "start": 2913.04,
+   "end": 2916.98,
+   "text": "روح انسان عالی‌ترین رتبه وجود اوست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 657,
+   "start": 2916.98,
+   "end": 2925.94,
+   "text": "قرآن کریم معجزه‌ای است که مستقیماً فکر و روح و قلب آدم را می‌خواهد تحت تأثیر خودش قرار بده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 658,
+   "start": 2925.94,
+   "end": 2928.95,
+   "text": "بله، اما احتیاج داره به مطالعه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 659,
+   "start": 2928.95,
+   "end": 2931.19,
+   "text": "حالا چجوریه جنس معجزه قرآن؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 660,
+   "start": 2931.19,
+   "end": 2933.35,
+   "text": "معجزه عقلی جنسش چه شکلیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 661,
+   "start": 2933.35,
+   "end": 2937.89,
+   "text": "آیا قراره مثل دیدن شتر یه دفعه با دیدن قرآن بگیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 662,
+   "start": 2937.89,
+   "end": 2941.99,
+   "text": "چشمامون اینجوری گرد بشه تا مثلاً معلوم بشه معجزه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 663,
+   "start": 2941.99,
+   "end": 2946.71,
+   "text": "معجزه عقلی، اون حیرتش هم عقلیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 664,
+   "start": 2946.71,
+   "end": 2949.69,
+   "text": "یعنی یه دفعه با دیدن حاصل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 665,
+   "start": 2949.69,
+   "end": 2955.77,
+   "text": "نمیشه. شما وقتی اومدی تو بحر قرآن خودتو قرار دادی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 666,
+   "start": 2955.77,
+   "end": 2959.61,
+   "text": "بخون، قرآن را بخون و بفهم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 667,
+   "start": 2959.61,
+   "end": 2962.25,
+   "text": "قرآن برای اثبات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 668,
+   "start": 2962.25,
+   "end": 2967.13,
+   "text": "خیلی از مسائل حرف‌هایی زده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 669,
+   "start": 2967.13,
+   "end": 2970.85,
+   "text": "من میخوام اشاره کنم به آیات تهدی‌ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 670,
+   "start": 2970.85,
+   "end": 2974.99,
+   "text": "مثلاً قرآن آمده گفته که آقا قیامت حقه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 671,
+   "start": 2974.99,
+   "end": 2980.59,
+   "text": "برای اثبات حقانیت قیامت یه سوره ای را چیکار کرده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 672,
+   "start": 2980.59,
+   "end": 2983.15,
+   "text": "خدا؟ نازل کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 673,
+   "start": 2983.15,
+   "end": 2988.89,
+   "text": "این سوره سند اثبات حقانیت مثلاً قیامت فرض کنید سوره قیامت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 674,
+   "start": 2988.89,
+   "end": 2992.39,
+   "text": "که قبلاً با هم خوندیم. درسته؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 675,
+   "start": 2992.39,
+   "end": 2996.91,
+   "text": "خب یه ادعایی وجود دارد، یه سندی وجود دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 676,
+   "start": 2996.91,
+   "end": 3002.91,
+   "text": "شما میای اون ادعا را با این سند مقایسه می‌کنی، می‌بینی قشنگ این سند داره بر این ادعا چیکار می‌کنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 677,
+   "start": 3002.91,
+   "end": 3005.29,
+   "text": "بگید. دلالت می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 678,
+   "start": 3005.29,
+   "end": 3011.95,
+   "text": "آقا هم این ادعا را ثابت می‌کنه هم با عقل من می‌خونه هم با جان من",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 679,
+   "start": 3011.95,
+   "end": 3016.57,
+   "text": "می‌خونه هم با اونچه که تو این جهان از عجائب دارم می‌بینم هم چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 680,
+   "start": 3016.57,
+   "end": 3019.29,
+   "text": "بگید. سازگاری داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 681,
+   "start": 3019.29,
+   "end": 3025.97,
+   "text": "میگم آقا بله من نگاه می‌کنم می‌بینم این ادعا با این سند قابل اثباته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 682,
+   "start": 3025.97,
+   "end": 3028.89,
+   "text": "پذیرفتم. میگه خیلی خوب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 683,
+   "start": 3028.89,
+   "end": 3033.05,
+   "text": "حالا یکی دیگه پیدا میشه میگه آقا قیامت حق نیست‌ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 684,
+   "start": 3033.05,
+   "end": 3037.65,
+   "text": "دروغه. ما اینجا وظیفه داریم بگیم چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 685,
+   "start": 3037.65,
+   "end": 3040.75,
+   "text": "بگیم تو هم برای ادعای خودت چی بیار؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 686,
+   "start": 3040.75,
+   "end": 3047.33,
+   "text": "سند بیار ببینیم. قرآن اگر میگه قیامت حقه این سوره قیامتش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 687,
+   "start": 3047.33,
+   "end": 3050.11,
+   "text": "تو میگی قیامت نیست، یه دلیل تو بیار،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 688,
+   "start": 3050.11,
+   "end": 3052.35,
+   "text": "یه استنادی، یک استدلالی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 689,
+   "start": 3052.35,
+   "end": 3059.73,
+   "text": "یه منطقی، یه چیزی بیار بگو قیامت حق نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 690,
+   "start": 3059.73,
+   "end": 3064.23,
+   "text": "اگر او آورد تازه نوبت به چی می‌رسه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 691,
+   "start": 3064.23,
+   "end": 3066.91,
+   "text": "مقایسه. خب حالا ببینیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 692,
+   "start": 3066.91,
+   "end": 3073.45,
+   "text": "سندی که تو آوردی ادعای تو را ثابت می‌کند یا نه اولاً.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 693,
+   "start": 3073.45,
+   "end": 3077.77,
+   "text": "با فکر و جان من سازگار هست یا نیست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 694,
+   "start": 3077.77,
+   "end": 3087.33,
+   "text": "ثانیاً. با اونچه تو این جهان دارم از پدیده‌های اطرافم مشاهده می‌کنم و تجربه می‌کنم هماهنگی دارد یا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 695,
+   "start": 3087.33,
+   "end": 3089.57,
+   "text": "ندارد ثالثاً.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 696,
+   "start": 3089.57,
+   "end": 3092.31,
+   "text": "آقا باید اینا رو بررسی بکنیم یا نه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 697,
+   "start": 3092.31,
+   "end": 3097.55,
+   "text": "کسی اگر میخواد یه وقتی راجع به قرآن مطالعه تحقیقی بکند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 698,
+   "start": 3097.55,
+   "end": 3104.17,
+   "text": "باید بیاد اونچه را که رقیب قرآنه، قرآن میگه قیامت هست، رقیبش میگه قیامت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 699,
+   "start": 3104.17,
+   "end": 3107.53,
+   "text": "نیست. قرآن میگه قیامت هست، اینم سوره قیامت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 700,
+   "start": 3107.53,
+   "end": 3113.07,
+   "text": "رقیبش که میگه قیامت نیست باید بالاخره یه حرفی بزنه دیگه، یه چیزی بگه ثابت کنه حرفش را.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 701,
+   "start": 3113.07,
+   "end": 3119.55,
+   "text": "هر وقت او حرف زد، من حرف او را آوردم با حرف قرآن مقایسه کردم ببینم کدوم اینا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 702,
+   "start": 3119.55,
+   "end": 3123.63,
+   "text": "می‌چرخه، کدوم اینا سنگینه، کدومش وزن داره،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 703,
+   "start": 3123.63,
+   "end": 3129.61,
+   "text": "کدومش می‌گیره. اونجا شما درک خواهی کرد که قرآن چیه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 704,
+   "start": 3129.61,
+   "end": 3133.55,
+   "text": "غیر قرآن چیه .",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 705,
+   "start": 3133.55,
+   "end": 3139.85,
+   "text": "این نقطه‌ست. حالا برید تاریخ را بگردید،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 706,
+   "start": 3139.85,
+   "end": 3143.35,
+   "text": "برید عالم را بگردید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 707,
+   "start": 3143.35,
+   "end": 3146.67,
+   "text": "اینی که دارم میگم به عنوان کسی میگم این حرف را،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 708,
+   "start": 3146.67,
+   "end": 3151.53,
+   "text": "عمرم رو هجده ساله صرف قرآن کردم به لطف خدا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 709,
+   "start": 3151.53,
+   "end": 3156.93,
+   "text": "برید عالم را بگردید، برید تاریخ را بگردید، یه حرف",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 710,
+   "start": 3156.93,
+   "end": 3159.69,
+   "text": "بر خلاف قرآن بیارید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 711,
+   "start": 3159.69,
+   "end": 3162.93,
+   "text": "که کسی بتونه با یه سندی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 712,
+   "start": 3162.93,
+   "end": 3169.28,
+   "text": "که به گرد پای سندهای قرآن برسد ثابتش کنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 713,
+   "start": 3169.28,
+   "end": 3173.79,
+   "text": ". این که یه عده‌ای مسخره کردن مسئله تهدی را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 714,
+   "start": 3173.79,
+   "end": 3179.55,
+   "text": "ما رفتیم الفیل و ما الفیل له خرتوم منتوی، اون خرطوم به درد خودش می‌خوره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 715,
+   "start": 3179.55,
+   "end": 3182.21,
+   "text": "تهدی اینه .",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 716,
+   "start": 3182.21,
+   "end": 3188.22,
+   "text": "چند تا کلمه مثلاً سجع قافیه دار، قرآن همینو داره میگه بدبخت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 717,
+   "start": 3188.22,
+   "end": 3193.37,
+   "text": ". کوچک‌ترین سوره قرآن یک مکتب فکریه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 718,
+   "start": 3193.37,
+   "end": 3196.77,
+   "text": "یک مکتب فکریه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 719,
+   "start": 3196.77,
+   "end": 3200.45,
+   "text": "که مولا درزش نمیره .",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 720,
+   "start": 3200.45,
+   "end": 3202.53,
+   "text": "برای اثبات ادعای خودش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 721,
+   "start": 3202.53,
+   "end": 3205.55,
+   "text": "کوچک‌ترین سوره قرآن که کوثره،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 722,
+   "start": 3205.55,
+   "end": 3210.21,
+   "text": "ده کتاب درباره‌ش میشه نوشتی بدون اغراق.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 723,
+   "start": 3210.21,
+   "end": 3214.79,
+   "text": "مکتب عظیم فکری الهی ثابت می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 724,
+   "start": 3214.79,
+   "end": 3217.49,
+   "text": "قرآن میگه آقا مثلاً ببین خیلی ساده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 725,
+   "start": 3217.49,
+   "end": 3222.07,
+   "text": "می‌گفتن پسر نداره امروز فرداست بمیره کارش تمامه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 726,
+   "start": 3222.07,
+   "end": 3224.41,
+   "text": "بسم الله الرحمن الرحیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 727,
+   "start": 3224.41,
+   "end": 3229.75,
+   "text": "انا اعطیناک الکوثر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 728,
+   "start": 3229.75,
+   "end": 3232.73,
+   "text": ". معیار بقا کوثر است،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 729,
+   "start": 3232.73,
+   "end": 3235.87,
+   "text": "نه پسر. خیر جاری‌ست،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 730,
+   "start": 3235.87,
+   "end": 3241.87,
+   "text": "نه پسر. فصل لربک شرطش هم توجه به پروردگار است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 731,
+   "start": 3241.87,
+   "end": 3247.11,
+   "text": "وانحر و پشت سر انداختن غیر خداست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 732,
+   "start": 3247.11,
+   "end": 3253.85,
+   "text": "اون کس که خدا به او خیر جاری داد، خیر کثیر باقی داد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 733,
+   "start": 3253.85,
+   "end": 3260.41,
+   "text": "و به خدا توجه کرد و از غیر خدا دل برید، او باقیست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 734,
+   "start": 3260.41,
+   "end": 3265.37,
+   "text": ". و اگر کسی بدخواه چنین کسی باشد ان شانک اهو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 735,
+   "start": 3265.37,
+   "end": 3272.05,
+   "text": "الابتر قطعاً او ابتر خواهد بود و عقیم خواهد بود و بی‌نتیجه خواهد بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 736,
+   "start": 3272.05,
+   "end": 3274.77,
+   "text": "حالا هزار تا هم که پسر داشته باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 737,
+   "start": 3274.77,
+   "end": 3283.19,
+   "text": "لعن ابن، لعن ابن، لعن ابن، لعن ابن، لعن خواهند بود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 738,
+   "start": 3283.19,
+   "end": 3285.53,
+   "text": ". یه مکتب باز می‌کنه جلوت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 739,
+   "start": 3285.53,
+   "end": 3287.59,
+   "text": "میگه آقا معیار کوثر است،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 740,
+   "start": 3287.59,
+   "end": 3289.81,
+   "text": "نه پسر، نه دختر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 741,
+   "start": 3289.81,
+   "end": 3292.97,
+   "text": "کوثر هم شرط دارد، توجه به خدا،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 742,
+   "start": 3292.97,
+   "end": 3296.46,
+   "text": "دل بریدن از غیر خدا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 743,
+   "start": 3296.46,
+   "end": 3303.38,
+   "text": "و کسی بخواد با جریان کوثر دربیفته، جا می‌مانه از حقیقت باقی و جاری و ساری عالم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 744,
+   "start": 3303.38,
+   "end": 3305.74,
+   "text": "حالا شما این مطلب را شنیدی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 745,
+   "start": 3305.74,
+   "end": 3310.48,
+   "text": "آقا این بر خود مدعا دلالت می‌کند یا نمی‌کند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 746,
+   "start": 3310.48,
+   "end": 3312.58,
+   "text": "جواب منو بدید. می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 747,
+   "start": 3312.58,
+   "end": 3315.64,
+   "text": "با جان شما می‌خواند یا نمی‌خواند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 748,
+   "start": 3315.64,
+   "end": 3322.46,
+   "text": "می‌خواند. با جهان اونچه که تو جهان داری از بقا می‌بینی کیا موندن تو جهان؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 749,
+   "start": 3322.46,
+   "end": 3324.32,
+   "text": "می‌خواند یا نمی‌خواند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 750,
+   "start": 3324.32,
+   "end": 3327.52,
+   "text": "می‌خواند. حالا برو هزار تا برا--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 751,
+   "start": 3327.52,
+   "end": 3331.1,
+   "text": "در مقابل سوره کوثر شعر درست کن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 752,
+   "start": 3331.1,
+   "end": 3336.56,
+   "text": "این شعر بافتنه، تحدی قرآن، با قرآن مقابله کردن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 753,
+   "start": 3336.56,
+   "end": 3339.04,
+   "text": "این معجزه عقلی‌ست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 754,
+   "start": 3339.04,
+   "end": 3342.86,
+   "text": "باید بیای تو وادی، آستین بالا بزن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 755,
+   "start": 3342.86,
+   "end": 3348.04,
+   "text": "بفهم. اگر حرفی به غیر از این داری بیار،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 756,
+   "start": 3348.04,
+   "end": 3350.3,
+   "text": "برای حرف خودت سند بیار،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 757,
+   "start": 3350.3,
+   "end": 3352.88,
+   "text": "اون سندو با این سند مقایسه کن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 758,
+   "start": 3352.88,
+   "end": 3356.51,
+   "text": "من نمی‌تونم جن و انسو جمع کن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 759,
+   "start": 3356.51,
+   "end": 3362.4,
+   "text": ". همه جنیان، همه آدمیان رو جمع کن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 760,
+   "start": 3362.4,
+   "end": 3366.34,
+   "text": "یه حرف قرآن رو با دلیل، با سند محکم رد کنند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 761,
+   "start": 3366.34,
+   "end": 3372.54,
+   "text": "یه دونشو. قرآن برای اثبات قیامت هزار بیان داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 762,
+   "start": 3372.54,
+   "end": 3375.88,
+   "text": "برای انکار قیامت یه بیان بیارید،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 763,
+   "start": 3375.88,
+   "end": 3379.02,
+   "text": "یه بیان ،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 764,
+   "start": 3379.02,
+   "end": 3381.26,
+   "text": "که انسان منصف",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 765,
+   "start": 3381.26,
+   "end": 3385.66,
+   "text": "بشینه مقایسه کنه بگه آره این بیان بهتره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 766,
+   "start": 3385.66,
+   "end": 3390.22,
+   "text": "این بیانی که برای انکار قیامت آمده محکم‌تره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 767,
+   "start": 3390.22,
+   "end": 3394.04,
+   "text": ". انسانی که مریض نباشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 768,
+   "start": 3394.04,
+   "end": 3396.4,
+   "text": "لذا خدا دست و پا نمی‌زنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 769,
+   "start": 3396.4,
+   "end": 3400.56,
+   "text": "آقا حقانیت قرآن منو قبول کنید، تو رو خدا قبول کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 770,
+   "start": 3400.56,
+   "end": 3403.4,
+   "text": "خواهش می‌کنم. می‌خواید قبول کنید،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 771,
+   "start": 3403.4,
+   "end": 3407.0,
+   "text": "می‌خواید قبول نکنید. خدا از کار خودش مطمئنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 772,
+   "start": 3407.0,
+   "end": 3409.92,
+   "text": "میگه من جام محکمه، از کار خودمم مطمئنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 773,
+   "start": 3409.92,
+   "end": 3413.84,
+   "text": "این سند حقانیت پیغمبر من است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 774,
+   "start": 3413.84,
+   "end": 3418.28,
+   "text": "که اگر چیزی را قاطی اون کرده بود نه خودش پیغمبر بود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 775,
+   "start": 3418.28,
+   "end": 3420.46,
+   "text": "نه دیگه این سند دستش بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 776,
+   "start": 3420.46,
+   "end": 3422.44,
+   "text": "بالاتر از این سند حرفی نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 777,
+   "start": 3422.44,
+   "end": 3426.92,
+   "text": "این سند شاهد حقانیت خودش و حقانیت پیغمبر اکرم است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 778,
+   "start": 3426.92,
+   "end": 3434.85,
+   "text": "هرکی می‌خواد خلاف این حرفی بزنه بیاد تو میدان تحدی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 779,
+   "start": 3434.85,
+   "end": 3436.86,
+   "text": ". \"وإن كنتم في ريب\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 780,
+   "start": 3436.86,
+   "end": 3438.78,
+   "text": "ريب کجاست؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 781,
+   "start": 3438.78,
+   "end": 3441.74,
+   "text": "ريب جاییه که شما دو چیز داری با هم قابل مقایسه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 782,
+   "start": 3441.74,
+   "end": 3444.42,
+   "text": "چیو با چی مقایسه می‌کنی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 783,
+   "start": 3444.42,
+   "end": 3448.52,
+   "text": "خدا شاهد هست، یه بنده خدایی چند سال پیش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 784,
+   "start": 3448.52,
+   "end": 3452.22,
+   "text": "مشهور شد میگن، میگه قرآن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 785,
+   "start": 3452.22,
+   "end": 3455.58,
+   "text": "الهامات نمی‌دونم شاعرانه پیغمبره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 786,
+   "start": 3455.58,
+   "end": 3462.72,
+   "text": "پیغمبر گهگداری یه دفعه روحش مثل شاعر‌ها که یه دفعه تو حال خلسه‌ای قرار می‌گیرن، شاعر‌ها،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 787,
+   "start": 3462.72,
+   "end": 3465.48,
+   "text": "یه دفعه احساس می‌کنن شعر داره به مغزشون میاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 788,
+   "start": 3465.48,
+   "end": 3467.82,
+   "text": "پیغمبر توی همچین حالتی قرار می‌گرفت،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 789,
+   "start": 3467.82,
+   "end": 3471.36,
+   "text": "یه چیزایی به ذهنش می‌اومد با سجع و قافیه هم بیان می‌کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 790,
+   "start": 3471.36,
+   "end": 3474.68,
+   "text": "حالا بعضیاش درسته، بعضیاش غلطه، بعضیاش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 791,
+   "start": 3474.68,
+   "end": 3478.14,
+   "text": "جاویده، بعضیاش موقته، فلانه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 792,
+   "start": 3478.14,
+   "end": 3485.04,
+   "text": "خب یه سری همچین حرفایی زد. بعد آقا چقدر کتاب در مقابلش نوشتند، چقدر مقاله نوشتند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 793,
+   "start": 3485.04,
+   "end": 3494.69,
+   "text": "من اون موقع‌ها می‌گفتم بابا، یه بار رفتید سر و ته حرف این آدم را بخونید ببینید یه دلیلی تو بساطش داره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 794,
+   "start": 3494.69,
+   "end": 3499.18,
+   "text": ". من اون موقع به عنوان یک طلبه‌ای که دلم می‌خواست با قرآن باشم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 795,
+   "start": 3499.18,
+   "end": 3504.24,
+   "text": "خیلی رفتم کنجکاوانه کتاباش، مقاله‌هاشو دیدم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 796,
+   "start": 3504.24,
+   "end": 3508.35,
+   "text": "ببینم یه دلیلی تو بساطش هست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 797,
+   "start": 3508.35,
+   "end": 3514.22,
+   "text": ". یه دونه، نه ده تا، نه صد تا و نبود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 798,
+   "start": 3514.22,
+   "end": 3518.38,
+   "text": ". آقا حرف بافتن، حرف مفت زدن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 799,
+   "start": 3518.38,
+   "end": 3522.24,
+   "text": "آقا هزینه نداره که. خب من می‌شینم میگم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 800,
+   "start": 3522.24,
+   "end": 3526.7,
+   "text": "بله این صندلی‌هایی که شما الان ملاحظه می‌فرمایید اینجا روش نشستید،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 801,
+   "start": 3526.7,
+   "end": 3532.15,
+   "text": "اینا هر کدومشون یک حیوان زنده است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 802,
+   "start": 3532.15,
+   "end": 3535.7,
+   "text": ". لakin شما نمی‌فهمید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 803,
+   "start": 3535.7,
+   "end": 3538.94,
+   "text": ". بعدم یه خرده برم تو این فضا هپروتیش کنم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 804,
+   "start": 3538.94,
+   "end": 3544.8,
+   "text": "شماها رو اینجا حالت خلسه قرار بدم و آره خیال کنید صندلی‌هایی که روش نشستید حیوانه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 805,
+   "start": 3544.8,
+   "end": 3550.58,
+   "text": "ممکنه اگر خیلی من قوی باشم در هیپنوتیزم نیم ساعت دیگه بگید کو، کو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 806,
+   "start": 3550.58,
+   "end": 3558.56,
+   "text": ". حاجی این چرت و پرت گفتن خرج نداره که آخه یه چیزی بگو شما با عقل بخونه، با جان بخونه، با جهان بخونه، بر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 807,
+   "start": 3558.56,
+   "end": 3565.65,
+   "text": "مدعا دلالت بکنه، نقض نشه بکنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 808,
+   "start": 3565.65,
+   "end": 3572.24,
+   "text": ". کسی می‌خواد وارد وادی تحدی با قرآن بشه باید فهل فکری هم باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 809,
+   "start": 3572.24,
+   "end": 3573.92,
+   "text": "لذا قرآن میگه آقا خودت نمی‌تونی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 810,
+   "start": 3573.92,
+   "end": 3576.82,
+   "text": "اشکال نداره. شک داری؟ بنده ای دیگه عیب نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 811,
+   "start": 3576.82,
+   "end": 3580.88,
+   "text": "شک داری؟ برو ببین کیا می‌تونن .",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 812,
+   "start": 3580.88,
+   "end": 3585.5,
+   "text": "برو ببین مدعیان مکاتب دیگری که حرف‌هایی به غیر قرآن دارن چی دارن؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 813,
+   "start": 3585.5,
+   "end": 3588.04,
+   "text": "برو اونا رو بیار با قرآن مقایسه کن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 814,
+   "start": 3588.04,
+   "end": 3591.84,
+   "text": "اگر دیدی بهتره، اگر دیدی بالاتره،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 815,
+   "start": 3591.84,
+   "end": 3596.53,
+   "text": "اگر دیدی کامل‌تر جواب میده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 816,
+   "start": 3596.53,
+   "end": 3600.06,
+   "text": "، منطقی‌تره، با جهان بیشتر جور در میاد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 817,
+   "start": 3600.06,
+   "end": 3605.53,
+   "text": "اونو بپذیر؛ ولی بعد از مقایسه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 818,
+   "start": 3605.53,
+   "end": 3608.64,
+   "text": ". بعد از مقایسه به همین سادگی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 819,
+   "start": 3608.64,
+   "end": 3615.04,
+   "text": "خب پس ما در واقع با معنایی که از این آیات ارائه شد خواستیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 820,
+   "start": 3615.04,
+   "end": 3620.62,
+   "text": "یک مطلب را ااا جایگزین کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 821,
+   "start": 3620.62,
+   "end": 3628.55,
+   "text": "اینکه \"لا أخذنا منه بالیمین\" یعنی دست راست او را می‌گیریم \"لقطعنا منه الوتين\" رگ گردنش را قطع می‌کنیم نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 822,
+   "start": 3628.55,
+   "end": 3634.06,
+   "text": "\"لا أخذنا منه بالیمین\" یعنی با قدرت نبوت او را، رسالت او را،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 823,
+   "start": 3634.06,
+   "end": 3640.22,
+   "text": "وحی را که تاکنون به او داده‌ایم با قوت، با قدرت از او می‌گیریم، می‌گرفتیم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 824,
+   "start": 3640.22,
+   "end": 3643.76,
+   "text": "اون وقت راه ارتباطی او را با خودمان قطع می‌کردیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 825,
+   "start": 3643.76,
+   "end": 3647.46,
+   "text": "هیچ کس از شما هم نمی‌توانست حاجز و مانع،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 826,
+   "start": 3647.46,
+   "end": 3654.4,
+   "text": "حاجز یعنی مانع. هیچ کس از شما نمی‌توانست حاجز و مانع باشد از عزل ایشون،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 827,
+   "start": 3654.4,
+   "end": 3662.64,
+   "text": "از رسول بودن. یعنی شما از همین قرآنش به حقانیت خودش و حقانیت رسول بودن‌ش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 828,
+   "start": 3662.64,
+   "end": 3666.27,
+   "text": "و اینکه حرفی به غیر از حرف مرسل نمی‌زند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 829,
+   "start": 3666.27,
+   "end": 3670.03,
+   "text": "چکار کنید؟ پی ببرید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 830,
+   "start": 3670.03,
+   "end": 3673.91,
+   "text": "\"و انه\". حالا ببینید در اینجا ثابت کرد که قول",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 831,
+   "start": 3673.91,
+   "end": 3679.03,
+   "text": "اینا نیست قول خدا هست و پیغمبر هم هیچ قولی را به خدا نسبت نداده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 832,
+   "start": 3679.03,
+   "end": 3685.51,
+   "text": "حالا میخواد راجع به رویکرد‌های دیگر قرآن حرف بزنه \"و انه لتذکره للمتقین\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 833,
+   "start": 3685.51,
+   "end": 3688.89,
+   "text": "قرآن قطعاً مایه تذکره،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 834,
+   "start": 3688.89,
+   "end": 3692.57,
+   "text": "تذکره یعنی چی؟ یادآور.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 835,
+   "start": 3692.57,
+   "end": 3695.59,
+   "text": "قرآن قطعاً یادآور است برای متقین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 836,
+   "start": 3695.59,
+   "end": 3697.51,
+   "text": "اینم خیلی مطلب مهمیه ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 837,
+   "start": 3697.51,
+   "end": 3701.73,
+   "text": "این همون نکته‌ایه که میگم هماهنگی با جان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 838,
+   "start": 3701.73,
+   "end": 3704.41,
+   "text": "عرض کردم هماهنگی با جان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 839,
+   "start": 3704.41,
+   "end": 3709.17,
+   "text": "یعنی یه نفر انصاف، تقوا در اینجا انصاف،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 840,
+   "start": 3709.17,
+   "end": 3715.61,
+   "text": "حداقل تقوا انصافه. یه نفر انصاف حق پذیری تو وجودش باشه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 841,
+   "start": 3715.61,
+   "end": 3718.75,
+   "text": "آنچه را که از قرآن می‌فهمه با جانش هماهنگ می‌بینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 842,
+   "start": 3718.75,
+   "end": 3721.23,
+   "text": "می‌دونید چرا؟ چون اصلا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 843,
+   "start": 3721.23,
+   "end": 3726.07,
+   "text": "قرآن همون جان نوشته شده‌ی ماست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 844,
+   "start": 3726.07,
+   "end": 3733.93,
+   "text": "چیزی به غیر از ما نیست. حقیقت انسان را خدا نوشته شده قرآن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 845,
+   "start": 3733.93,
+   "end": 3735.9,
+   "text": "اینم تو خود قرآن خدا بیان فرموده ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 846,
+   "start": 3735.9,
+   "end": 3739.57,
+   "text": "\"فأقم وجهک للدین حنیفا\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 847,
+   "start": 3739.57,
+   "end": 3743.35,
+   "text": "رو به دین کن بی‌انحراف.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 848,
+   "start": 3743.35,
+   "end": 3747.73,
+   "text": "دین چیه؟ \"فطرت الله التي فطر الناس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 849,
+   "start": 3747.73,
+   "end": 3752.81,
+   "text": "عليها\". همون فطرت الهی که خدا مردم رو بر اون فطرت خلق کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 850,
+   "start": 3752.81,
+   "end": 3758.37,
+   "text": "یعنی دین همون فطره. جان خودته .",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 851,
+   "start": 3758.37,
+   "end": 3761.75,
+   "text": "انسان یه موجود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 852,
+   "start": 3761.75,
+   "end": 3768.71,
+   "text": "بی‌مبنا، بی‌حرف و خنثی نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 853,
+   "start": 3768.71,
+   "end": 3771.55,
+   "text": "کدوم سوره خوندیم اینو؟ انسان خنثی نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 854,
+   "start": 3771.55,
+   "end": 3774.21,
+   "text": "surah شمس. انسان حرف داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 855,
+   "start": 3774.21,
+   "end": 3776.99,
+   "text": "خدا میگه \"ونفس وما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 856,
+   "start": 3776.99,
+   "end": 3782.37,
+   "text": "سواها فألهمها فجورها وتقواها\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 857,
+   "start": 3782.37,
+   "end": 3788.73,
+   "text": "لذا شما می‌بینی اون خیر و شر هر کسی تو وجود خودش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 858,
+   "start": 3788.73,
+   "end": 3794.35,
+   "text": "هست. انسان به خودش خیانت نکند، رسول را تکذیب نمی‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 859,
+   "start": 3794.35,
+   "end": 3796.47,
+   "text": "کسی به خودش خیانت نکنه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 860,
+   "start": 3796.47,
+   "end": 3798.47,
+   "text": "قرآن را انکار نمی‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 861,
+   "start": 3798.47,
+   "end": 3800.23,
+   "text": "مگه کسی بخواد به خودش خیانت کنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 862,
+   "start": 3800.23,
+   "end": 3807.89,
+   "text": "خود این کارش نمیشه کرد .",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 863,
+   "start": 3807.89,
+   "end": 3811.47,
+   "text": "خیلی این رسول باطن امر مهمیه ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 864,
+   "start": 3811.47,
+   "end": 3814.27,
+   "text": "این \"تذکره للمتقین\" اشاره به همین داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 865,
+   "start": 3814.27,
+   "end": 3817.91,
+   "text": "یعنی میخواد بگه اگر کسی متقیه به خودش خیانت نکرده،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 866,
+   "start": 3817.91,
+   "end": 3821.23,
+   "text": "مطمئناً قرآن برای او تذکره است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 867,
+   "start": 3821.23,
+   "end": 3828.59,
+   "text": "یعنی با خوندن قرآن متوجه حقانیتش بگید می‌شود، او را با جان خویش هماهنگ",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 868,
+   "start": 3828.59,
+   "end": 3832.65,
+   "text": "می‌بیند، می‌یابد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 869,
+   "start": 3832.65,
+   "end": 3835.21,
+   "text": "می‌پذیرد. وجدان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 870,
+   "start": 3835.21,
+   "end": 3838.43,
+   "text": "برای همین هی گفتم تقوا در اینجا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 871,
+   "start": 3838.43,
+   "end": 3842.59,
+   "text": "وجدانه، انصافه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 872,
+   "start": 3842.59,
+   "end": 3844.77,
+   "text": ". تقوا مراتب داره دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 873,
+   "start": 3844.77,
+   "end": 3852.71,
+   "text": "اولین و مهم‌ترین، پایه‌ای‌ترین، اساسی‌ترین مرتبه‌ی تقوا،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 874,
+   "start": 3852.71,
+   "end": 3855.63,
+   "text": "رو وجدان خود پا نذاشتنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 875,
+   "start": 3855.63,
+   "end": 3857.31,
+   "text": "به خود دروغ نگفتنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 876,
+   "start": 3857.31,
+   "end": 3863.97,
+   "text": "آقا به خودت دروغ نگو. اگر کسی به خودش دروغ گفت، هیچکی نمی‌تونه کمکش کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 877,
+   "start": 3863.97,
+   "end": 3871.25,
+   "text": "خودتو گول نزن. بله تا زمانی که حجت برای کسی تمام نشه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 878,
+   "start": 3871.25,
+   "end": 3875.83,
+   "text": "گناهکار بودن وجدانشو نمی‌کشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 879,
+   "start": 3875.83,
+   "end": 3882.21,
+   "text": "وجدان وقتی می‌میره که شما به رغم اتمام حجت یه راهی رو میری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 880,
+   "start": 3882.21,
+   "end": 3885.35,
+   "text": "یعنی می‌فهمی ها، می‌فهم، فهمیدی ها،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 881,
+   "start": 3885.35,
+   "end": 3888.69,
+   "text": "بت هم میگن ولی پشت می‌کنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 882,
+   "start": 3888.69,
+   "end": 3890.27,
+   "text": "اینم از لطف خداست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 883,
+   "start": 3890.27,
+   "end": 3893.93,
+   "text": "اگر خدا اراده کرده بود که آدم‌ها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 884,
+   "start": 3893.93,
+   "end": 3902.25,
+   "text": "ولو بدون آمدن پیغمبران و رسولان الهی به صرف گناه وجدانشون بمیره، این اتفاق می‌افتاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 885,
+   "start": 3902.25,
+   "end": 3904.37,
+   "text": "آدما هم نمی‌تونستن به خدا اعتراض بکنن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 886,
+   "start": 3904.37,
+   "end": 3907.83,
+   "text": "چرا؟ چون بالاخره یه رسول باطن که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 887,
+   "start": 3907.83,
+   "end": 3911.17,
+   "text": "داشتن. به اون چرا پشت کردید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 888,
+   "start": 3911.17,
+   "end": 3917.75,
+   "text": "ولی خدا از سر لطف خودش میگه \"وما كنا معذبین حتی نبعث رسلا\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 889,
+   "start": 3917.75,
+   "end": 3921.95,
+   "text": "من تا پیغمبر نفرستم، تا حجت تمام نکنم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 890,
+   "start": 3921.95,
+   "end": 3926.37,
+   "text": "کسی را به عذاب گرفتار نمی‌کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 891,
+   "start": 3926.37,
+   "end": 3929.07,
+   "text": "به عذاب گرفتار کردن آدما چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 892,
+   "start": 3929.07,
+   "end": 3934.87,
+   "text": "مقدمه‌اش اینه که دیگه نفهمن، حقو دیگه نفهمن، وجدانشون کور بشه، وجدان از بین بره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 893,
+   "start": 3934.87,
+   "end": 3939.31,
+   "text": "که خدا میگه \"لهم اعین لا یبصرون بها آذان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 894,
+   "start": 3939.31,
+   "end": 3942.63,
+   "text": "لا یسمعون بها قلوب لا يفقهون بها\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 895,
+   "start": 3942.63,
+   "end": 3944.93,
+   "text": "چشم داره می‌بینه اما نمی‌بینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 896,
+   "start": 3944.93,
+   "end": 3946.97,
+   "text": "گوش داره می‌شنوه اما نمی‌شنوه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 897,
+   "start": 3946.97,
+   "end": 3949.83,
+   "text": "قلب داره می‌فهمه اما نمی‌فهمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 898,
+   "start": 3949.83,
+   "end": 3953.57,
+   "text": "\"ختم الله على قلوبهم و على سمعهم و على",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 899,
+   "start": 3953.57,
+   "end": 3962.89,
+   "text": "ابصارهم غشاوة و انا جعلنا من بین ایدیهم سدا و من خلفهم سدا فأغشیناهم فهم لا یبصرون و جعلنا\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 900,
+   "start": 3962.89,
+   "end": 3965.65,
+   "text": "چی؟ نه، نه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 901,
+   "start": 3965.65,
+   "end": 3970.75,
+   "text": "\"في اعناقهم اغلالا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 902,
+   "start": 3970.75,
+   "end": 3973.05,
+   "text": "فهي الالعظام فهم مغمهون\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 903,
+   "start": 3973.05,
+   "end": 3980.61,
+   "text": "ایناست. یعنی خدا در خیلی از جاهای قرآن تاکید فرموده که اگر کسی حجت برش تمام شد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 904,
+   "start": 3980.61,
+   "end": 3986.97,
+   "text": "انذار رسول به او رسید ولی اعتنا نکرد، اون وقته که دیگه ختمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 905,
+   "start": 3986.97,
+   "end": 3990.57,
+   "text": "اون وقت مهر می‌خوره، اون وقت دیگه پرده کشیده میشه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 906,
+   "start": 3990.57,
+   "end": 3993.05,
+   "text": "اون وقت دیگه وجدان می‌میره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 907,
+   "start": 3993.05,
+   "end": 3997.39,
+   "text": "به بیان‌های مختلف خدا این رو بیان فرموده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 908,
+   "start": 3997.39,
+   "end": 3999.05,
+   "text": ". خیلی عجیبه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 909,
+   "start": 3999.05,
+   "end": 4003.65,
+   "text": "اینم لطفشه، اینم کرمش، اینم آقایی و بزرگواریشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 910,
+   "start": 4003.65,
+   "end": 4009.43,
+   "text": "باید روزی صد بار در مقابلش سر به خاک بسایم که این آقایی رو در حق ما کرده، این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 911,
+   "start": 4009.43,
+   "end": 4015.11,
+   "text": "کرامت و بزرگواری رو درباره‌ی ما به خرج داده که ما را به صرف اینکه به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 912,
+   "start": 4015.11,
+   "end": 4018.19,
+   "text": "نوای ندای درونمون پشت کرده باشیم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 913,
+   "start": 4018.19,
+   "end": 4021.25,
+   "text": "کور و کر نکرده .",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 914,
+   "start": 4021.25,
+   "end": 4023.41,
+   "text": "حجت رو از بیرون بر ما تمام می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 915,
+   "start": 4023.41,
+   "end": 4029.62,
+   "text": "این لطف اوست. \"و انا لنعلم ان منکم مكذبين\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 916,
+   "start": 4029.62,
+   "end": 4037.0,
+   "text": "ببینید میگه قرآن تذکره متقینه و ما خودمون می‌دونیم که بعضی از شما مکذبید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 917,
+   "start": 4037.0,
+   "end": 4039.16,
+   "text": "این مکذب میشه در مقابل چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 918,
+   "start": 4039.16,
+   "end": 4045.32,
+   "text": "متقی. یعنی کسایی هستید که می‌فهمید حقه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 919,
+   "start": 4045.32,
+   "end": 4047.52,
+   "text": "می‌فهمید با جان شما هماهنگ.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 920,
+   "start": 4047.52,
+   "end": 4051.16,
+   "text": "بگید هست ولی میگید دروغه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 921,
+   "start": 4051.16,
+   "end": 4055.06,
+   "text": "میگید دروغه. ترجیح میدید بگید دروغه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 922,
+   "start": 4055.06,
+   "end": 4059.4,
+   "text": "انگار اینجوری راحت‌ترید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 923,
+   "start": 4059.4,
+   "end": 4063.06,
+   "text": "نمی‌دونم چقدر انسان پیچیده‌ست‌ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 924,
+   "start": 4063.06,
+   "end": 4068.56,
+   "text": "خودشم آدم یه وقتایی راضی میشه گول بزنه‌ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 925,
+   "start": 4068.56,
+   "end": 4073.42,
+   "text": "خودشو فریب بده. دروغه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 926,
+   "start": 4073.42,
+   "end": 4078.84,
+   "text": "همین راحت‌ترین کار. \"و انّا لنعلم ان منکم مکذبین\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 927,
+   "start": 4078.84,
+   "end": 4085.26,
+   "text": "خب البته این حسرت هم به دنبال داره \"و انه لحسره على الكافرين\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 928,
+   "start": 4085.26,
+   "end": 4090.38,
+   "text": "این قرآنی که تذکره متقین است و ما می‌دانیم مکذبانی دارد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 929,
+   "start": 4090.38,
+   "end": 4095.46,
+   "text": "همین قرآن حسرت بر کافرین است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 930,
+   "start": 4095.46,
+   "end": 4099.44,
+   "text": "چرا حسرته؟ یعنی روز قیامت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 931,
+   "start": 4099.44,
+   "end": 4105.24,
+   "text": "حسرت می‌خورند که چرا نسبت به این قرآن تقوا پیشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 932,
+   "start": 4105.24,
+   "end": 4108.28,
+   "text": "نکردند. چرا تکذیبش کردند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 933,
+   "start": 4108.28,
+   "end": 4112.0,
+   "text": "چرا کفر ورزیدند؟ روز قیامت حسرت می‌خورند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 934,
+   "start": 4112.0,
+   "end": 4118.8,
+   "text": "\"و انه لحسره على الكافرين و انه لحق اليقين\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 935,
+   "start": 4118.8,
+   "end": 4121.92,
+   "text": "مردم این قرآن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 936,
+   "start": 4121.92,
+   "end": 4124.34,
+   "text": "خودش حق اليقين است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 937,
+   "start": 4124.34,
+   "end": 4128.96,
+   "text": "حق اليقين یعنی یقین ثبات یافته،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 938,
+   "start": 4128.96,
+   "end": 4133.38,
+   "text": "یقین پایدار",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 939,
+   "start": 4133.38,
+   "end": 4137.0,
+   "text": ". یقین ثبات یافته همین قرآن است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 940,
+   "start": 4137.0,
+   "end": 4146.07,
+   "text": "شما قرآن، قرآن کسی با قرآن به یقین نرسد دیگه با چیز دیگه به یقین نمی‌رسه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 941,
+   "start": 4146.07,
+   "end": 4152.86,
+   "text": "\"و انه لحق اليقين فسبح",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 942,
+   "start": 4152.86,
+   "end": 4155.06,
+   "text": "بسم ربک العظيم\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 943,
+   "start": 4155.06,
+   "end": 4161.96,
+   "text": "سبحان ربی العظیم و بحمده \"فسبح بسم ربک العظيم\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 944,
+   "start": 4161.96,
+   "end": 4164.42,
+   "text": "پس تسبيح کن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 945,
+   "start": 4164.42,
+   "end": 4166.66,
+   "text": "منزه بدان،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 946,
+   "start": 4166.66,
+   "end": 4171.66,
+   "text": "مبرا بدان اسم پروردگار با عظمتت را.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 947,
+   "start": 4171.66,
+   "end": 4174.46,
+   "text": "اینجا اسم پروردگار میشه چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 948,
+   "start": 4174.46,
+   "end": 4177.72,
+   "text": "اسم کلاً می‌دونید یعنی چی اسم؟ نشانه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 949,
+   "start": 4177.72,
+   "end": 4179.78,
+   "text": "اینجا نشانه خدا میشه چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 950,
+   "start": 4179.78,
+   "end": 4183.46,
+   "text": "قرآن. \"سبح بسم ربک العظيم\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 951,
+   "start": 4183.46,
+   "end": 4185.66,
+   "text": "یعنی از طریق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 952,
+   "start": 4185.66,
+   "end": 4194.62,
+   "text": "توجه به حقانیت قرآن به پروردگار عظیم خودت و بی‌عیب و نقص بودن او پی‌ببر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 953,
+   "start": 4194.62,
+   "end": 4199.4,
+   "text": "به پروردگار عظیم خودت و به بی‌عیب و نقص بودن او پی‌ببر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 954,
+   "start": 4199.4,
+   "end": 4202.18,
+   "text": "این میشه \"سبح بسم ربک العظيم\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 955,
+   "start": 4202.18,
+   "end": 4207.28,
+   "text": "خیلی خب ما دیگه در این آیه میشه گفت سیر معانی تمام شد و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 956,
+   "start": 4207.28,
+   "end": 4209.98,
+   "text": "یک دور تدبر در مفاهیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 957,
+   "start": 4209.98,
+   "end": 4213.02,
+   "text": "آیات توی این سوره مبارک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 958,
+   "start": 4213.02,
+   "end": 4215.2,
+   "text": "انجام دادیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 959,
+   "start": 4215.2,
+   "end": 4218.8,
+   "text": "تو قسمت مفاهیم اگر سوالی هست من در خدمتم بفرمایید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 960,
+   "start": 4218.8,
+   "end": 4222.28,
+   "text": "مثل اینکه میگی \"سبح الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 961,
+   "start": 4222.28,
+   "end": 4226.66,
+   "text": "بسمه\" اینجوریه انگار.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 962,
+   "start": 4226.66,
+   "end": 4229.66,
+   "text": "البته تسبیح خود اسمم داریم‌ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 963,
+   "start": 4229.66,
+   "end": 4235.46,
+   "text": "مثلاً \"سبح اسم ربک الأعلى\" اونجا خود اسم تسبیح میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 964,
+   "start": 4235.46,
+   "end": 4239.4,
+   "text": "خدا همونطور که خودش تسبیح شدنی‌ست، اسم او هم تسبیح شدنی‌ست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 965,
+   "start": 4239.4,
+   "end": 4242.96,
+   "text": "یعنی اسم او که نشانه اوست هم عیب و نقص و ایراد و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 966,
+   "start": 4242.96,
+   "end": 4245.58,
+   "text": "چیزی توش نداره. کار خدا درسته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 967,
+   "start": 4245.58,
+   "end": 4250.7,
+   "text": "یعنی کارت درسته. حالا اینجا اگه با را با یک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 968,
+   "start": 4250.7,
+   "end": 4253.02,
+   "text": "اضاف-- زائده بگیریم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 969,
+   "start": 4253.02,
+   "end": 4259.82,
+   "text": "یا تأکید بگیریم \"سبح بسم ربک العظيم\" در واقع میشه \"سبح اسم ربک العظيم\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 970,
+   "start": 4259.82,
+   "end": 4264.5,
+   "text": "اما اگه با را با یک سببیّت بگیریم که من این معنا را انتخاب کردم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 971,
+   "start": 4264.5,
+   "end": 4272.74,
+   "text": "اونوقت مفعول یا اون منصوب على التعظيم سبح میشه الله \"سبح الله بسم ربک العظيم\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 972,
+   "start": 4272.74,
+   "end": 4274.74,
+   "text": "به نظرم این معنا متین‌تره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 973,
+   "start": 4274.74,
+   "end": 4276.84,
+   "text": "حالا هر چند که اون معنا هم غلط",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 974,
+   "start": 4276.84,
+   "end": 4283.28,
+   "text": "نیست. برای سلامتی وجود مقدس امام زمان علیه السلام اجماعا صلوات ختم بفرمایید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

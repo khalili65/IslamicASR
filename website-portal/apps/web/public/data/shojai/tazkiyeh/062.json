@@ -1,0 +1,66 @@
+{
+ "id": "062",
+ "index": 62,
+ "lecturer": "shojai",
+ "course": "tazkiyeh",
+ "title": "روایتِ مصباح الشریعه",
+ "topic": null,
+ "summary": "مغرور در دنیا مسکین و در آخرت مغبون چون افضل را به ادنی فروخته.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/shojai/tazkiyeh/062/062_play.m4a",
+  "filename": "062_play.m4a",
+  "size": 21213090,
+  "display": "20.2 MB",
+  "duration": 1754.83,
+  "durationText": "29:15"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "062.vtt",
+   "cues": "062.cues.json",
+   "words": "062.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## روایتِ مصباح الشریعه",
+   "start": 1.88,
+   "end": 330.24
+  },
+  {
+   "index": 1,
+   "title": "## افضل به ادنی",
+   "start": 330.24,
+   "end": 852.02
+  },
+  {
+   "index": 2,
+   "title": "## بیچارگی در دنیا و غبن در آخرت",
+   "start": 852.02,
+   "end": 1325.63
+  },
+  {
+   "index": 3,
+   "title": "## مصادیقِ جابه‌جاییِ ارزش",
+   "start": 1325.63,
+   "end": 1754.83
+  }
+ ],
+ "recordedAt": null,
+ "sourceName": null,
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "061",
+ "next": "063"
+}

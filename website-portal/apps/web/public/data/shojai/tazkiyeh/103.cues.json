@@ -1,0 +1,3937 @@
+{
+ "version": 1,
+ "sessionId": "103",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 1801.83,
+ "alignment": {
+  "exact": 3778,
+  "total": 3778,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## خواطر نفسانی و وسواس شیطانی",
+   "start": 1.02,
+   "end": 301.5
+  },
+  {
+   "index": 1,
+   "title": "## اصل کار با قلب",
+   "start": 301.5,
+   "end": 615.25
+  },
+  {
+   "index": 2,
+   "title": "## قلب معرکهٔ دو نیرو",
+   "start": 615.25,
+   "end": 886.66
+  },
+  {
+   "index": 3,
+   "title": "## دو گوش قلب",
+   "start": 886.66,
+   "end": 1192.4
+  },
+  {
+   "index": 4,
+   "title": "## درهای دل",
+   "start": 1192.4,
+   "end": 1350.04
+  },
+  {
+   "index": 5,
+   "title": "توجه بکنید. هذا يأمره این امرش می‌کند. آن چی می‌کند؟ آن نهیش می‌کند.",
+   "start": 1350.04,
+   "end": 1507.05
+  },
+  {
+   "index": 6,
+   "title": "چرا خناس است؟ هیچکس نمی‌بیند. هیچکس نمی‌بیند. همه خود را می‌یابند.",
+   "start": 1507.05,
+   "end": 1591.25
+  },
+  {
+   "index": 7,
+   "title": "## علامت خاطر و استعاذه",
+   "start": 1591.25,
+   "end": 1801.83
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 0.08,
+   "end": 4.12,
+   "text": "[سخنگوی 1] اعوذ بالله السميع العليم من الشيطان الرجيم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 4.12,
+   "end": 6.44,
+   "text": "بسم الله الرحمن الرحيم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 6.44,
+   "end": 13.66,
+   "text": "قسمتی از محرکات را در طریق صلوح برای سالک مهلک است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 13.66,
+   "end": 16.24,
+   "text": "قسمتهایی گفتیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 16.24,
+   "end": 21.9,
+   "text": "از این که است که در یکی دیگر از محرکات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 21.9,
+   "end": 24.68,
+   "text": "که پیش همه زیادی دارد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 24.68,
+   "end": 29.74,
+   "text": "تا حدودی و دقیقا از و خیلی مهم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 29.74,
+   "end": 31.76,
+   "text": "شروع میکنیم و اون رو عرض میکنیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 31.76,
+   "end": 35.18,
+   "text": "به نام خواطر،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 35.18,
+   "end": 41.02,
+   "text": "خواطر نفسانی و وسواس شیطانی به اصطلاح",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 41.02,
+   "end": 46.28,
+   "text": "معروف بین علما، اخلاق و طریقت صلوح مطرح است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 46.28,
+   "end": 48.98,
+   "text": "خواطر نفسانی و وسواس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 48.98,
+   "end": 55.7,
+   "text": "شیطانی. مجموعه محرکات است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 55.7,
+   "end": 58.34,
+   "text": "سالک در طریق صلوح",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 58.34,
+   "end": 61.0,
+   "text": "با یکی از اون چیزهایی که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 61.0,
+   "end": 68.02,
+   "text": "با اون مواجه میشود در اون حادث، اشکال مختلف و در صور مختلف انشاالله تا حدودی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 68.02,
+   "end": 72.38,
+   "text": "توضیح خواهیم داد و مانع در راهش میشود و به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 72.38,
+   "end": 76.98,
+   "text": "هلاکت می‌اندازد، مهلک است مسئله‌ی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 76.98,
+   "end": 79.56,
+   "text": "خواطر نفسانی و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 79.56,
+   "end": 84.76,
+   "text": "وسواس شیطانی است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 84.76,
+   "end": 89.12,
+   "text": "حالا در یک بیان کلی مسئله خواطر و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 89.12,
+   "end": 94.18,
+   "text": "وسواس را من عرضه میدهم در بیان کلی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 94.18,
+   "end": 100.72,
+   "text": "و بعد صورت‌های مختلفش را فکر میکنم یک دو، سه جلسه دیگر خواهیم توضیح میدهم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 100.72,
+   "end": 109.46,
+   "text": "و نظراتی عرض میکنیم. در بیان کلی، در تعریف کلی درباره خواطر و وسواس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 109.46,
+   "end": 115.1,
+   "text": "باید توجه داشته باشیم به این معنا که قلب انسان همیشه در معرض",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 115.1,
+   "end": 122.9,
+   "text": "واردات است. چیزهایی که وارد قلب میشود، عارض بر قلب میشود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 122.9,
+   "end": 125.96,
+   "text": "در کل قلب همیشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 125.96,
+   "end": 128.04,
+   "text": "معرض این واردات است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 128.04,
+   "end": 134.82,
+   "text": "چیزهایی که وارد بر قلب میشود یا بفرمایید عارض بر قلب میشود، ورود به قلب می‌آورد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 134.82,
+   "end": 137.94,
+   "text": "زیاد. این‌ها را میگیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 137.94,
+   "end": 140.44,
+   "text": "به اصطلاح خواطر و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 140.44,
+   "end": 145.72,
+   "text": "وسواس. چیزهایی که عارض بر قلب میشود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 145.72,
+   "end": 147.96,
+   "text": "و قلب را مشغول می‌کند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 147.96,
+   "end": 150.64,
+   "text": "یا وارد بر قلب میشود و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 150.64,
+   "end": 153.02,
+   "text": "قلب را مشغول می‌کند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 153.02,
+   "end": 158.48,
+   "text": "مانع میشود، به ضلالت می‌اندازد، به هلاکت می‌اندازد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 158.48,
+   "end": 165.36,
+   "text": "بالاخره مهلک است. در کل تعریفش می‌شود خواطر نفسانی و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 165.36,
+   "end": 168.36,
+   "text": "وسواس شیطانی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 168.36,
+   "end": 175.62,
+   "text": "اصل اونی که سالک براش لازم است، مکررا اینو گفتم باز اینجا امروز تذکر بدم که ضرورت دارد که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 175.62,
+   "end": 178.72,
+   "text": "در این بحث تا مطلب روشن بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 178.72,
+   "end": 182.36,
+   "text": "اونی که به اصطلاح سرمایه سالک هست در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 182.36,
+   "end": 185.16,
+   "text": "حرکت و صعودش به الله،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 185.16,
+   "end": 188.18,
+   "text": "مسئله قلب است، دل است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 188.18,
+   "end": 194.57,
+   "text": "اصلا اونی که راه می‌رود دل است، نه چیزی دیگر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 194.57,
+   "end": 198.94,
+   "text": "و فاصله را دل طی خواهد کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 198.94,
+   "end": 203.18,
+   "text": "حجاب‌ها را دل کنار خواهد زد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 203.18,
+   "end": 212.84,
+   "text": "به منازل دل خواهد رسید و در آخر هم به ذات مقدس حق دل خواهد نائل شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 212.84,
+   "end": 218.52,
+   "text": "مسئله‌ای در این بین برای سالک جز دل او و قلب او نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 218.52,
+   "end": 221.0,
+   "text": "به یک بیان دیگر و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 221.0,
+   "end": 223.26,
+   "text": "با یک تعبیر دیگر،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 223.26,
+   "end": 225.94,
+   "text": "این چنین هم می‌توانیم بگوییم که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 225.94,
+   "end": 229.12,
+   "text": "هر چه مصیبت هست در دل ماست،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 229.12,
+   "end": 232.74,
+   "text": "دقت کنید. هر چه مصیبت‌ها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 232.74,
+   "end": 243.58,
+   "text": "که ما را از خدا دور کرده و می‌کند و برای ما هلاکت‌ها، مصیبت‌ها در اینجا و مخصوصا در احوال اخروی پیش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 243.58,
+   "end": 247.34,
+   "text": "خواهد آمد، همه این‌ها در دل ماست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 247.34,
+   "end": 259.9,
+   "text": "جای آنها دل است و محل همه این مصیبت‌ها و دلهره‌ها، تعلق‌ها، ظلمت‌ها، جهل‌ها، غفلت‌ها به یک تعبیر کلی حجاب‌ها،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 259.9,
+   "end": 261.9,
+   "text": "جای همش دل است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 261.9,
+   "end": 266.36,
+   "text": "جای همه حجاب‌ها. حجاب‌ها همه در دل است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 266.36,
+   "end": 269.12,
+   "text": "که دل را از دل بودن انداخته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 269.12,
+   "end": 271.58,
+   "text": "و از آن صورت اصلی نوری‌اش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 271.58,
+   "end": 277.15,
+   "text": "به پای آورده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 277.15,
+   "end": 285.1,
+   "text": "و هر چه کار بشود بنابراین همه حجاب‌ها، مصیبت‌ها در دل، هر کاری هم بخواهد بشود به عنوان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 285.1,
+   "end": 292.84,
+   "text": "تزکیه، به عنوان خودسازی، به عنوان یک حرکت به سوی ذات مقدس حق، به عنوان یک حرکت در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 292.84,
+   "end": 297.8,
+   "text": "طریق حیات و تکامل، بار قبلی گفتیم که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 297.8,
+   "end": 301.5,
+   "text": "هر حرکتی هم بشود این حرکت در دل خواهد بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 301.5,
+   "end": 304.15,
+   "text": "هر تغییری بشود در دل خواهد بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 304.15,
+   "end": 307.86,
+   "text": "هر تحولی پیش بیاید در دل خواهد بود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 307.86,
+   "end": 312.4,
+   "text": "و هر صورت از خود زدایی باشد، تجدید تازه پیش بیاید،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 312.4,
+   "end": 314.0,
+   "text": "همش در دل خواهد بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 314.0,
+   "end": 316.94,
+   "text": "صحبتی خارج از دل ندارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 316.94,
+   "end": 319.88,
+   "text": "این یک نکته‌ست که مکررا گفتم الان هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 319.88,
+   "end": 324.75,
+   "text": "توضیح دادم که مطلبی که شروع میکنیم روشن‌تر بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 324.75,
+   "end": 326.8,
+   "text": "حالا به سراغ اصل مسئله بریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 326.8,
+   "end": 329.32,
+   "text": "آنچه که وارد دل میشود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 329.32,
+   "end": 334.36,
+   "text": "و دل را به نحوی مشغول می‌کند، به هلاکت می‌اندازد، مانع راه میشود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 334.36,
+   "end": 340.56,
+   "text": "سد میشود، مهلک است الی آخر نمیگذارد به سوی مقصد حرکت بکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 340.56,
+   "end": 345.9,
+   "text": "همه این واردها را و عارض‌ها را در یک تعریف کلی میگیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 345.9,
+   "end": 348.3,
+   "text": "خواطر نفسانی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 348.3,
+   "end": 351.8,
+   "text": "و وسواس شیطانی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 351.8,
+   "end": 357.56,
+   "text": "از محرکات است، صورت‌ها دارد اما از اون محرکات بزرگ است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 357.56,
+   "end": 364.29,
+   "text": "یعنی محرکی‌ست که هیچ محرکی را می‌شود گفت که به پای این محرک نمی‌رسد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 364.29,
+   "end": 373.75,
+   "text": "و اکثر اون‌ها که در جاهای دیگه در باب مبریتات دیگر اگر موفقیتی داشته باشند در اینجا موفقیت‌شون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 373.75,
+   "end": 377.83,
+   "text": "کم است. توجه می‌کنید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 377.83,
+   "end": 381.87,
+   "text": "قلب گفتم معرض این‌هاست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 381.87,
+   "end": 390.21,
+   "text": "در یک به اصطلاح نظر دیگر می‌توان بگوییم که قلب انسان 그렇게 از بعضی از روایات میاد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 390.21,
+   "end": 392.33,
+   "text": "قلب انسان محل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 392.33,
+   "end": 394.95,
+   "text": "کثار به اصطلاح یا محل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 394.95,
+   "end": 398.31,
+   "text": "جنگ و تهاجم دو نیروست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 398.31,
+   "end": 405.29,
+   "text": "در نظام وجود که عبارت باشد از ملک و شیطان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 405.29,
+   "end": 413.87,
+   "text": "خدا اینجور قرار داده. قلب در کل اگر یک نظر دیگه مثلاً مطالعه کنیم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 413.87,
+   "end": 417.19,
+   "text": "قلب انسان محل تهاجم این دو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 417.19,
+   "end": 421.71,
+   "text": "چیز است. این دو نیروست یا ملک یا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 421.71,
+   "end": 424.75,
+   "text": "شیطان یا ملک‌ها یا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 424.75,
+   "end": 431.61,
+   "text": "شیاطین. آنچه از ناحیه شیاطین به قلب می‌آید،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 94,
+   "start": 431.61,
+   "end": 439.75,
+   "text": "هرچی که از ناحیه شیاطین به قلب می‌آید یا از ناحیه شیطان به قلب می‌آید اون‌ها را می‌گوییم خواطر وچی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 95,
+   "start": 439.75,
+   "end": 442.91,
+   "text": "و به اصطلاح خواطر نفسانی و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 96,
+   "start": 442.91,
+   "end": 446.43,
+   "text": "وسوسه شیطانی و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 97,
+   "start": 446.43,
+   "end": 452.15,
+   "text": "آنچه که از ناحیه ملک می‌آید اون‌ها را می‌گوییم الهامات ملکی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 98,
+   "start": 452.15,
+   "end": 460.29,
+   "text": "اینجا به این موضوع هم توجه کنید که در تعریف بعضی از علما اخلاق خواطر را خیلی کلی می‌گیرند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 99,
+   "start": 460.29,
+   "end": 463.89,
+   "text": "میگن خواطر اون چیزی که به قلب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 100,
+   "start": 463.89,
+   "end": 467.77,
+   "text": "وارد می‌شود به دو قسم تقسیم می‌گردد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 101,
+   "start": 467.77,
+   "end": 472.09,
+   "text": "قسمی که از ناحیه شیطان است و قسمی که از ناحیه چیز؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 102,
+   "start": 472.09,
+   "end": 474.61,
+   "text": "از ناحیه ملک است. اینطور هم گفتند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 103,
+   "start": 474.61,
+   "end": 477.55,
+   "text": "در واقع خواطر را خیلی کلی بگیریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 104,
+   "start": 477.55,
+   "end": 480.11,
+   "text": "آنچه به قلب عارض می‌شود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 105,
+   "start": 480.11,
+   "end": 489.81,
+   "text": "آنچه به قلب می‌آورد دو نوع است یا از ناحیه شیطان و جنود شیطان است یا از ناحیه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 106,
+   "start": 489.81,
+   "end": 496.65,
+   "text": "ملک و ملائکه الهی و در اصل از ناحیه ذات مقدس حق است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 107,
+   "start": 496.65,
+   "end": 501.11,
+   "text": "این هم به اصطلاح بیان بعضی از علما اخلاق است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 108,
+   "start": 501.11,
+   "end": 504.67,
+   "text": "در این زمینه روایاتی هم داریم که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 109,
+   "start": 504.67,
+   "end": 514.29,
+   "text": "قبل از اینکه به توضیح بیشتر بپردازیم می‌تونیم که دو روایت از این روایات اشاره بکنیم که مطلب روشن‌تر بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 110,
+   "start": 514.29,
+   "end": 521.79,
+   "text": "روایاتی که مضمونش اینطور است که قلب درست قلب هر کسی و دل هر کسی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 111,
+   "start": 521.79,
+   "end": 526.23,
+   "text": "در معرض نفوذ این دو قرار گرفته است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 112,
+   "start": 526.23,
+   "end": 531.69,
+   "text": "حالا دوستان خیلی مکرر در بحث در باب شیطان صحبتی بکنیم اینجا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 113,
+   "start": 531.69,
+   "end": 535.05,
+   "text": "شناخت شیطان هم که شناخت ملک هم برای ما شناخته نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 114,
+   "start": 535.05,
+   "end": 538.73,
+   "text": "شناخت ملک و شناخت شیطان در این место خیلی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 115,
+   "start": 538.73,
+   "end": 548.45,
+   "text": "لزوم داره. به قلب ما این دو نیرو با جنودشون البته یعنی شیطان با جنودش و ملائکه در منافع مختلف",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 116,
+   "start": 548.45,
+   "end": 553.25,
+   "text": "به قلب ما، به قلب انسان‌ها هر دو راه نفوذ دارند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 117,
+   "start": 553.25,
+   "end": 556.07,
+   "text": "هم ملک راه نفوذ به قلب دارد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 118,
+   "start": 556.07,
+   "end": 561.63,
+   "text": "و هم شیطان راه نفوذ به قلب دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 119,
+   "start": 561.63,
+   "end": 564.23,
+   "text": "شیطان می‌خواهد نفوذ در قلب بکند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 120,
+   "start": 564.23,
+   "end": 566.65,
+   "text": "ملک هم می‌خواهد نفوذ در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 121,
+   "start": 566.65,
+   "end": 573.07,
+   "text": "قلب بکند. چیزهایی که از ناحیه شیطان می‌آید خواطر نفسانی و وسوسه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 122,
+   "start": 573.07,
+   "end": 575.95,
+   "text": "چیزهایی که از ناحیه ملک می‌آید چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 123,
+   "start": 575.95,
+   "end": 583.95,
+   "text": "الهامات است. اون چیزهایی که انسان را به سوی خیر و کمال خدا دعوت می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 124,
+   "start": 583.95,
+   "end": 587.71,
+   "text": "گفتیم که قلب انسان دو گوش دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 125,
+   "start": 587.71,
+   "end": 592.67,
+   "text": "به یک گوش شیطان می‌خواند مرتب، به یک گوش دیگر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 126,
+   "start": 592.67,
+   "end": 597.77,
+   "text": "ملک می‌خواند. حالا این دو گوش در قلب همه هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 127,
+   "start": 597.77,
+   "end": 604.15,
+   "text": "صحبت در این است که چگونه می‌شود که بعضی‌ها بیشتر اون گوششون که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 128,
+   "start": 604.15,
+   "end": 607.93,
+   "text": "ملک بر او می‌خواند بیشتر باز است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 129,
+   "start": 607.93,
+   "end": 613.15,
+   "text": "و بعضی‌ها اون گوشی که شیطان به او می‌خواند بیشتر باز است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 130,
+   "start": 613.15,
+   "end": 615.25,
+   "text": "یعنی بیشتر اون گوشش می‌شنود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 131,
+   "start": 615.25,
+   "end": 618.89,
+   "text": "این همه مسئله‌ست. اینجا هم از اینهاست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 132,
+   "start": 618.89,
+   "end": 622.81,
+   "text": "در کل اینجا میگن اگر چنانچه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 133,
+   "start": 622.81,
+   "end": 626.51,
+   "text": "توفیقی از خدا بود، عنایتی از خدا بود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 134,
+   "start": 626.51,
+   "end": 629.09,
+   "text": "بیشتر اون گوش باز است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 135,
+   "start": 629.09,
+   "end": 632.13,
+   "text": "دقت می‌کنید؟ اون گوش که از چی می‌شنود؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 136,
+   "start": 632.13,
+   "end": 636.15,
+   "text": "از به اصطلاح ملک می‌شنود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 137,
+   "start": 636.15,
+   "end": 638.65,
+   "text": "اگر خزلانی از خدا بود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 138,
+   "start": 638.65,
+   "end": 643.09,
+   "text": "به خدا باید تناهاد یعنی خدا انسان را به حال خود واگذاشت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 139,
+   "start": 643.09,
+   "end": 648.61,
+   "text": "اگر خزلان بود، عنایت خاصی از خدا نبود که توفیق می‌نامیم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 140,
+   "start": 648.61,
+   "end": 650.81,
+   "text": "اقبالی بود در این بین،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 141,
+   "start": 650.81,
+   "end": 654.19,
+   "text": "اون‌وقت این گوش بیشتر باز است، بیشتر می‌شنود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 142,
+   "start": 654.19,
+   "end": 657.99,
+   "text": "در هر صورت ما دو گوش در قلب داریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 143,
+   "start": 657.99,
+   "end": 660.25,
+   "text": "به یکیش شیطان می‌خواند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 144,
+   "start": 660.25,
+   "end": 663.05,
+   "text": "به یکیش ملک می‌خواند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 145,
+   "start": 663.05,
+   "end": 665.73,
+   "text": "به هر کدام گوش کردیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 146,
+   "start": 665.73,
+   "end": 667.93,
+   "text": "ما به اون سو رفتیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 147,
+   "start": 667.93,
+   "end": 671.85,
+   "text": "و به هر کدام زیاد گوش کردیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 148,
+   "start": 671.85,
+   "end": 678.21,
+   "text": "همون در وجود ما و در قلب ما بیشتر روز به روز جا پیدا خواهد کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 149,
+   "start": 678.21,
+   "end": 683.03,
+   "text": "دقت می‌کنید؟ یعنی اگر ما به آنچه که از ناحیه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 150,
+   "start": 683.03,
+   "end": 688.69,
+   "text": "شیطان مرتب به اشکال مختلف در گوش ما وارد می‌شود، در گوش دل عرض می‌کنیم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 151,
+   "start": 688.69,
+   "end": 693.53,
+   "text": "در گوش دل، آنچه که از ناحیه شیطان القا می‌شود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 152,
+   "start": 693.53,
+   "end": 697.77,
+   "text": "خواطر، وسوسه، یعنی به اون زیاد گوش کردیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 153,
+   "start": 697.77,
+   "end": 707.85,
+   "text": "و کم به به اصطلاح آنچه که ملک به گوش دل می‌خواند گوش کردیم، هرچه بیشتر به حرف شیطان، به القاءات، خواطر،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 154,
+   "start": 707.85,
+   "end": 711.01,
+   "text": "وسوسه گوش کردیم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 155,
+   "start": 711.01,
+   "end": 717.13,
+   "text": "راه شیطان به قلب بیشتر باز می‌شود تا برسد به جایی که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 156,
+   "start": 717.13,
+   "end": 719.45,
+   "text": "شیطان در کل قلب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 157,
+   "start": 719.45,
+   "end": 721.61,
+   "text": "انسان را چی بکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 158,
+   "start": 721.61,
+   "end": 725.63,
+   "text": "تسلط بکنه. که اینجا دیگه می‌شود زمین قسط به قول معروف.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 159,
+   "start": 725.63,
+   "end": 728.03,
+   "text": "این دیگه زمین، زمینی شد چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 160,
+   "start": 728.03,
+   "end": 732.95,
+   "text": "زمینی شد، زمین دل به اصطلاح اولیا شد زمین مقصود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 161,
+   "start": 732.95,
+   "end": 738.12,
+   "text": "که من و شما میگیم اینجاهاش رو دقت کنید انشاالله که ارباب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 162,
+   "start": 738.12,
+   "end": 744.06,
+   "text": "ذوق هستید. البته از شما هم ارباب ذوق در نمیاد مانند من اینطور که من",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 163,
+   "start": 744.06,
+   "end": 751.62,
+   "text": "عرض کنم که شنیدید که میدانید که نماز در زمین تصحیح باطل است صحیح است؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 164,
+   "start": 751.62,
+   "end": 758.96,
+   "text": "باطل است. اینجا هم این نمازی که در این چنین زمینی است، نماز این چنین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 165,
+   "start": 758.96,
+   "end": 761.94,
+   "text": "کسی، نماز در زمین چیست؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 166,
+   "start": 761.94,
+   "end": 764.42,
+   "text": "در زمین رسب است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 167,
+   "start": 764.42,
+   "end": 766.56,
+   "text": "مانند نماز من و شما نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 168,
+   "start": 766.56,
+   "end": 773.48,
+   "text": "هرچه فرضا در نماز سعی می‌کنیم که حالا نزوهات، توسلات، دعاهات، اجتنابات،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 169,
+   "start": 773.48,
+   "end": 779.98,
+   "text": "سعی‌ها که این پنج عین را ما دل را بدهیم به خدا اما قس شده،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 170,
+   "start": 779.98,
+   "end": 783.08,
+   "text": "نمی‌شود. زمین مقصوب است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 171,
+   "start": 783.08,
+   "end": 787.68,
+   "text": "عرض دل مقصوب است. می‌بینه که نمی‌تونیم دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 172,
+   "start": 787.68,
+   "end": 792.44,
+   "text": "چون مقصوب است همونجا که ما در حاشیه خیلت می‌کنیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 173,
+   "start": 792.44,
+   "end": 794.36,
+   "text": "حالا دیگه دل را به خدا خواهیم داد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 174,
+   "start": 794.36,
+   "end": 797.86,
+   "text": "اما در متن این دل چه نشسته؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 175,
+   "start": 797.86,
+   "end": 800.9,
+   "text": "شیطان نشسته. هی فوراً می‌داره این خیابان، اون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 176,
+   "start": 800.9,
+   "end": 807.58,
+   "text": "کوچه، اون معامله، اون زن، اون بچه، اون رفتار، این مشکل، اون پول، اون ریاست هی می‌بره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 177,
+   "start": 807.58,
+   "end": 814.78,
+   "text": "در حالى که من سال‌ها منبر می‌رفتم یادم میاد که یه وقت یه چیزی گفتم در منبر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 178,
+   "start": 814.78,
+   "end": 817.1,
+   "text": "هرچی گفتم هیچکس گوش نکرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 179,
+   "start": 817.1,
+   "end": 820.92,
+   "text": "گفتیم که یه کسی اینجور دیده بود که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 180,
+   "start": 820.92,
+   "end": 823.72,
+   "text": "حالا این یک به اصطلاح لطیفه‌ایست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 181,
+   "start": 823.72,
+   "end": 826.42,
+   "text": "که دو رکعت انسان نماز بخواند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 182,
+   "start": 826.42,
+   "end": 830.86,
+   "text": "در اول و آخرش جز خدا به جایی متوجه نباشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 183,
+   "start": 830.86,
+   "end": 834.96,
+   "text": "دو رکعت نماز مقبول چنین مستقر در حق باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 184,
+   "start": 834.96,
+   "end": 836.88,
+   "text": "هیچ دیگه به این طرف، اون طرف،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 185,
+   "start": 836.88,
+   "end": 839.36,
+   "text": "به این سو، اون سو کشیده نشود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 186,
+   "start": 839.36,
+   "end": 841.96,
+   "text": "این جاش بهشت است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 187,
+   "start": 841.96,
+   "end": 848.94,
+   "text": "حالا این سعی کرد یه وقتی بیشتر با مقدمات زیادی سعی کرد این دو رکعت نماز بخواند در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 188,
+   "start": 848.94,
+   "end": 851.7,
+   "text": "عراق هم اونجا زندگی می‌کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 189,
+   "start": 851.7,
+   "end": 854.22,
+   "text": "بعد در کوفه ایستاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 190,
+   "start": 854.22,
+   "end": 856.36,
+   "text": "خب وقتی که من مشغول نما-- خودش میگه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 191,
+   "start": 856.36,
+   "end": 863.4,
+   "text": "من مشغول نماز شدم با خیلی مقدمات دو رکعت نماز مقبول بخوانم که جایی نرویم در نماز.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 192,
+   "start": 863.4,
+   "end": 866.98,
+   "text": "دید که مشغول که شدم هیچ خودم باخبر نشدم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 193,
+   "start": 866.98,
+   "end": 872.1,
+   "text": "یه وقت دیدم که به یادم افتاد که این مسجد کوفه میناره اینجای میناره می‌خواد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 194,
+   "start": 872.1,
+   "end": 875.08,
+   "text": "در حالى که اونجا است. بعد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 195,
+   "start": 875.08,
+   "end": 877.02,
+   "text": "چنین باشد چنین بره بالا فلان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 196,
+   "start": 877.02,
+   "end": 880.96,
+   "text": "بالاخره اون وقتی سلام رو دادم من هم میناره را در ذهنم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 197,
+   "start": 880.96,
+   "end": 883.84,
+   "text": "تمام کردم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 198,
+   "start": 883.84,
+   "end": 886.66,
+   "text": "این، این یه زمین مقصوب است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 199,
+   "start": 886.66,
+   "end": 889.66,
+   "text": "نماز در زمین تصحیح درست نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 200,
+   "start": 889.66,
+   "end": 893.66,
+   "text": "گفتم یه صورتی دارد و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 201,
+   "start": 893.66,
+   "end": 896.62,
+   "text": "باطنی دارد. ظاهری دارد و باطنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 202,
+   "start": 896.62,
+   "end": 899.42,
+   "text": "در این زمین ظاهری مقصوب نماز درست نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 203,
+   "start": 899.42,
+   "end": 904.2,
+   "text": "در زمین باطنی مقصوب هم نماز مقبول نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 204,
+   "start": 904.2,
+   "end": 909.0,
+   "text": "دقت کنید. گوش دل بیشتر باز بود برای شیطان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 205,
+   "start": 909.0,
+   "end": 914.32,
+   "text": "دیگه شیطان هی تسلط-- تا جایی که درست دل در اختیار شیطان باشد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 206,
+   "start": 914.32,
+   "end": 918.92,
+   "text": "و دیگه در صورت این دل را از دست شیطان گرفتن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 207,
+   "start": 918.92,
+   "end": 924.34,
+   "text": "محال نیست ولی خیلی سخت است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 208,
+   "start": 924.34,
+   "end": 930.54,
+   "text": "مانند دل ما که گفتم دلیلش هم همون نماز ماست خیلی روشن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 209,
+   "start": 930.54,
+   "end": 936.54,
+   "text": "اگر اون طرف و در اینجا انسان اگر چنانچه برنگردد، اگر به این اصغاء به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 210,
+   "start": 936.54,
+   "end": 940.32,
+   "text": "کلام شیطان و وسواس و خواطر هی ادامه پیدا می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 211,
+   "start": 940.32,
+   "end": 943.54,
+   "text": "خلاصه یه جورایی تسلط شیطان شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 212,
+   "start": 943.54,
+   "end": 946.44,
+   "text": "هرچه پیش برود به سوی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 213,
+   "start": 946.44,
+   "end": 950.06,
+   "text": "یکی از جنود شیطان بودن پیش می‌رود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 214,
+   "start": 950.06,
+   "end": 953.5,
+   "text": "دقت می‌کنید؟ خود دل می‌شود آخرش از چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 215,
+   "start": 953.5,
+   "end": 955.86,
+   "text": "از ابزار خود شیطان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 216,
+   "start": 955.86,
+   "end": 958.28,
+   "text": "یعنی شیطان چسبد به را خودش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 217,
+   "start": 958.28,
+   "end": 961.24,
+   "text": "خودش هم گفته من از اینها زیاد نصیب دارم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 218,
+   "start": 961.24,
+   "end": 964.28,
+   "text": "که خدا گفته نصیب من هم زیاد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 219,
+   "start": 964.28,
+   "end": 966.82,
+   "text": "است. یعنی یه عده‌اش مال من است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 220,
+   "start": 966.82,
+   "end": 969.49,
+   "text": "که این در قرآن است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 221,
+   "start": 969.49,
+   "end": 974.18,
+   "text": "نصیب مفروض بر جنود شیطان میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 222,
+   "start": 974.18,
+   "end": 981.96,
+   "text": "البته جنود شیطان هم در مرا-- و این افرادی که در دنیا هستند، مردمان را اغوا می‌کنند، به شیطان کمک می‌کنند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 223,
+   "start": 981.96,
+   "end": 984.22,
+   "text": "اینا از اون جنود فعال که هستند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 224,
+   "start": 984.22,
+   "end": 987.44,
+   "text": "شیطان هستند. اینا در واقع شیطان هست که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 225,
+   "start": 987.44,
+   "end": 992.9,
+   "text": "در اون جلوه، جلوه. اگر به اون طرف گوش کردیم، برعکس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 226,
+   "start": 992.9,
+   "end": 1000.62,
+   "text": "اگر اصغاء ملکی و الهامات ملکی بیشتر بود، هرچه بیشتر بود راه اون شیطان به قلب چی می‌شود؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 227,
+   "start": 1000.62,
+   "end": 1003.22,
+   "text": "بسته می‌شود تا جایی که انسان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 228,
+   "start": 1003.22,
+   "end": 1006.28,
+   "text": "درست قلبش محل برای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 229,
+   "start": 1006.28,
+   "end": 1008.62,
+   "text": "ملائکه و به اصطلاح",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 230,
+   "start": 1008.62,
+   "end": 1011.22,
+   "text": "حضور ملائکه الهی باشد که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 231,
+   "start": 1011.22,
+   "end": 1016.98,
+   "text": "در اون آیه که به حضرت ابراهیم سلام الله می‌گوید که خانه مرا برای طافین،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 232,
+   "start": 1016.98,
+   "end": 1019.26,
+   "text": "برای راکعین، برای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 233,
+   "start": 1019.26,
+   "end": 1025.04,
+   "text": "ساجدین که بکن به حساب پاک اون راکعین و اینا همون ملائکه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 234,
+   "start": 1025.04,
+   "end": 1029.36,
+   "text": "این محل ملائکه است و در آخر انسان هم ملک هست از ملک بالاتر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 235,
+   "start": 1029.36,
+   "end": 1033.66,
+   "text": "ملکی است که همه ملائکه جناب پای اوست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 236,
+   "start": 1033.66,
+   "end": 1036.66,
+   "text": "خب در این زمینه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 237,
+   "start": 1036.66,
+   "end": 1040.46,
+   "text": "این آمادگی دل بعضی از عرفا گفتند که دل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 238,
+   "start": 1040.46,
+   "end": 1047.96,
+   "text": "درست مانند یک جایی است که درهای مختلف دارد که از این درها اشخاص مختلف می‌توانند وارد بشوند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 239,
+   "start": 1047.96,
+   "end": 1050.98,
+   "text": "هر دری را ما بر روی هر شخصی باز کردیم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 240,
+   "start": 1050.98,
+   "end": 1055.1,
+   "text": "اون شخص وارد خواهد شد و دل را مشغول خواهد کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 241,
+   "start": 1055.1,
+   "end": 1060.66,
+   "text": "بعضیا گفتند مانند بحر-- این مثال‌ها گفتند این مثال‌ها در کل برای تشریح به ذهن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 242,
+   "start": 1060.66,
+   "end": 1063.18,
+   "text": "موقعیت دل را در برابر این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 243,
+   "start": 1063.18,
+   "end": 1066.98,
+   "text": "الهامات ملکی و القائات شیطانی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 244,
+   "start": 1066.98,
+   "end": 1072.26,
+   "text": "خوب تشریح به ذهن می‌کند. بعضیا گفتند مانند بحر است که از دو جانب دو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 245,
+   "start": 1072.26,
+   "end": 1074.8,
+   "text": "یا آب صاف یا آب کثیفی که می‌کنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 246,
+   "start": 1074.8,
+   "end": 1078.18,
+   "text": "وارد می‌شود و مثال‌های",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 247,
+   "start": 1078.18,
+   "end": 1079.94,
+   "text": "دی-- دیگری گفتند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 248,
+   "start": 1079.94,
+   "end": 1083.84,
+   "text": "هرچه هست دل در معرض القائات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 249,
+   "start": 1083.84,
+   "end": 1090.7,
+   "text": "شیطان، همون خواطر نفسانی و وسواس شیطانی که را گرفته با اشكال مختلف که بعد توضیح خواهند داد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 250,
+   "start": 1090.7,
+   "end": 1094.66,
+   "text": "و یا در معرض این الهامات و القائات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 251,
+   "start": 1094.66,
+   "end": 1099.94,
+   "text": "ملکی می‌شود تعبیر خواص هم در اونجا شد، خواص ملکی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 252,
+   "start": 1099.94,
+   "end": 1104.42,
+   "text": "در اینجا یکی دو روایتی می‌خوانم خوب دقت بکنید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 253,
+   "start": 1104.42,
+   "end": 1106.36,
+   "text": "که البته اینا رو که اینجا صحبت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 254,
+   "start": 1106.36,
+   "end": 1114.54,
+   "text": "می‌کنیم انشاالله خودتون رفتید در عالم تفکر شخصی زیادی این مسئله رو پردازش می‌کنید که آنی دل ما کافر نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 255,
+   "start": 1114.54,
+   "end": 1117.38,
+   "text": "آنی دل به آن خود واگذاشته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 256,
+   "start": 1117.38,
+   "end": 1122.28,
+   "text": "نمی‌شود. بالاخره معرکه یکی از این‌هاست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 257,
+   "start": 1122.28,
+   "end": 1125.14,
+   "text": "یا شیطان است یا رحمان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 258,
+   "start": 1125.14,
+   "end": 1129.34,
+   "text": "یا شیطان است یا ملک. حتماً ها لحظه‌ای،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 259,
+   "start": 1129.34,
+   "end": 1133.7,
+   "text": "لحظه‌ای نیست. تمام آدم که انسان در این دنیا هست اینطور است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 260,
+   "start": 1133.7,
+   "end": 1139.22,
+   "text": "حالا بندگان خوب خدا اون‌ها هستند که به قول کلی باب را روی شیطان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 261,
+   "start": 1139.22,
+   "end": 1144.56,
+   "text": "می‌بندند و قلبشون همیشه به اصطلاح معرکه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 262,
+   "start": 1144.56,
+   "end": 1146.58,
+   "text": "ورود و خروج ملائکه می‌شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 263,
+   "start": 1146.58,
+   "end": 1153.24,
+   "text": "طائفین و راکعین و ساجدین و بالاتر به اصطلاح مجنای حق و اسما و صفات میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 264,
+   "start": 1153.24,
+   "end": 1155.16,
+   "text": "البته اینجا هم خودتون باز زیاد فکر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 265,
+   "start": 1155.16,
+   "end": 1162.16,
+   "text": "کنید که ما جعل الله للرجل این بیانی که گفتم اگر گوش دی به اون طرف زیاد باز باشد دی محسوب می‌شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 266,
+   "start": 1162.16,
+   "end": 1164.88,
+   "text": "اینجا شما توجه هم بکنید که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 267,
+   "start": 1164.88,
+   "end": 1167.14,
+   "text": "خیلی هم ممکنه به نظر من و شما میاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 268,
+   "start": 1167.14,
+   "end": 1173.9,
+   "text": "شما دوستان، خانم‌ها زیاد سؤال می‌کنند، من خودمم سؤال می‌کنم و همه سؤال می‌کنند که چرا ما حال پیدا نمی‌کنیم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 269,
+   "start": 1173.9,
+   "end": 1176.1,
+   "text": "چرا ما گریه نداریم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 270,
+   "start": 1176.1,
+   "end": 1179.72,
+   "text": "چرا ما ذوق نداریم؟ چرا ما الی آخر؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 271,
+   "start": 1179.72,
+   "end": 1182.18,
+   "text": "چرا الی آخر؟ چرا عمق؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 272,
+   "start": 1182.18,
+   "end": 1186.44,
+   "text": "چرا شوق؟ چرا به اصطلاح لذت ذکر این‌ها؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 273,
+   "start": 1186.44,
+   "end": 1190.86,
+   "text": "خب اقبال حق می‌خواهد به دل تا این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 274,
+   "start": 1190.86,
+   "end": 1193.24,
+   "text": "چیزها چی بشه؟ درست بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 275,
+   "start": 1193.24,
+   "end": 1195.34,
+   "text": "وقتی دل مقصوب است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 276,
+   "start": 1195.34,
+   "end": 1198.62,
+   "text": "ما جعل الله للرجل من قلبین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 277,
+   "start": 1198.62,
+   "end": 1202.96,
+   "text": "فی جوفه. خدا که یک قلب بیشتر قرآن میگه هست،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 278,
+   "start": 1202.96,
+   "end": 1211.92,
+   "text": "یک قلب دادیم به شما. این که مقصود به شیطان شد، دیگه جایی برای اقبال و تجلیات الهی در اون باقی نمونده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 279,
+   "start": 1211.92,
+   "end": 1215.86,
+   "text": "نه حالی، نه گریه‌ای، نه تضرعی، نه ذوقی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 280,
+   "start": 1215.86,
+   "end": 1219.78,
+   "text": "نه لذتی، نه الی آخر از اون مسائل بالاتری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 281,
+   "start": 1219.78,
+   "end": 1221.74,
+   "text": "این‌ها رو خودتون انشاالله تأمل می‌کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 282,
+   "start": 1221.74,
+   "end": 1223.32,
+   "text": "مسئله ساده‌ای نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 283,
+   "start": 1223.32,
+   "end": 1225.74,
+   "text": "مسئله دل انسان خیلی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 284,
+   "start": 1225.74,
+   "end": 1228.8,
+   "text": "اسرارآمیز است. اصولا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 285,
+   "start": 1228.8,
+   "end": 1237.72,
+   "text": "باز تاکید می‌کنم به شما هرچه می‌توانید در شناخت دل و احوال و به اصطلاح تنقلات دل و صورت‌های مختلف",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 286,
+   "start": 1237.72,
+   "end": 1239.84,
+   "text": "دل خودتون خیلی فکر کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 287,
+   "start": 1239.84,
+   "end": 1247.02,
+   "text": "در روایات وارده، در گفتار عرفا، مناجات عرفای خوب هستند بیشتر دقت که خیلی آموزنده است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 288,
+   "start": 1247.02,
+   "end": 1252.76,
+   "text": "مصیبت ما گفتم در دله، درد ما در دله، دوا هم در کجاست باز؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 289,
+   "start": 1252.76,
+   "end": 1254.98,
+   "text": "در دل. مسئله همینجا خلاصه میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 290,
+   "start": 1254.98,
+   "end": 1260.14,
+   "text": "به جای دیگه ای نیست. این روایت می‌خوانم از جلد سوم اصول کافی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 291,
+   "start": 1260.14,
+   "end": 1268.04,
+   "text": "در این باب می‌خوانم روایت را که دل انسان در معرض تاخت و تاز یا این دو ویروس یا شیطان یا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 292,
+   "start": 1268.04,
+   "end": 1270.54,
+   "text": "ملک یا مرتب او القا می‌کند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 293,
+   "start": 1270.54,
+   "end": 1272.92,
+   "text": "یا اون یکی القا می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 294,
+   "start": 1272.92,
+   "end": 1278.06,
+   "text": "در این زمینه یکی دو روایتی می‌خوانم به این‌ها توجه می‌کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 295,
+   "start": 1278.06,
+   "end": 1280.34,
+   "text": "جلد سوم اصول کافی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 296,
+   "start": 1280.34,
+   "end": 1287.22,
+   "text": "باب إن للقلب أذنين ينفس فيهما الملك والشيطان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 297,
+   "start": 1287.22,
+   "end": 1291.02,
+   "text": "این یک باب است. جلد سوم اصول کافی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 298,
+   "start": 1291.02,
+   "end": 1294.58,
+   "text": "باب إن للقلب أذنين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 299,
+   "start": 1294.58,
+   "end": 1296.92,
+   "text": "این باب. در آنجا حدیث اول",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 300,
+   "start": 1296.92,
+   "end": 1300.52,
+   "text": "عن أبي عبدالله علیه السلام سندش را نخواندم، داد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 301,
+   "start": 1300.52,
+   "end": 1305.68,
+   "text": "فرمود ما من قلب إلا وله أذنان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 302,
+   "start": 1305.68,
+   "end": 1307.74,
+   "text": "امام صادق می‌فرماید خوب تأمل کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 303,
+   "start": 1307.74,
+   "end": 1311.93,
+   "text": "هیچ قلبی نیست مگر اینکه اون قلب دو گوش دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 304,
+   "start": 1311.93,
+   "end": 1313.96,
+   "text": "أذن به معنی گوشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 305,
+   "start": 1313.96,
+   "end": 1319.6,
+   "text": "دو گوش دارد. علی أحدهما ملك مرشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 306,
+   "start": 1319.6,
+   "end": 1323.68,
+   "text": "بر یک گوش یک ملک مرشد تسلط دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 307,
+   "start": 1323.68,
+   "end": 1327.16,
+   "text": "راه نفوذ ملک ارشاد کننده‌ست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 308,
+   "start": 1327.16,
+   "end": 1333.44,
+   "text": "یکی از گوش‌ها. و علی الأخر بر دیگری شیطان مفتن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 309,
+   "start": 1333.44,
+   "end": 1336.3,
+   "text": "شیطان فتنه انگیزه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 310,
+   "start": 1336.3,
+   "end": 1340.04,
+   "text": "هذا يأمره و هذا ينهى عنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 311,
+   "start": 1340.04,
+   "end": 1344.84,
+   "text": "این می‌گوید نکن این کار بد را، اون می‌گوید بکن این کار بد را.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 312,
+   "start": 1344.84,
+   "end": 1347.4,
+   "text": "توجه بکنید. هذا يأمره این امرش می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 313,
+   "start": 1347.4,
+   "end": 1350.04,
+   "text": "اون چی می‌کنه؟ اون نهیش می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 314,
+   "start": 1350.04,
+   "end": 1352.36,
+   "text": "الشيطان يأمره بالمعاصي.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 315,
+   "start": 1352.36,
+   "end": 1354.1,
+   "text": "شیطان امر به معاصی می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 316,
+   "start": 1354.1,
+   "end": 1356.72,
+   "text": "حالا معاصی در مراتب مختلف که برای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 317,
+   "start": 1356.72,
+   "end": 1360.08,
+   "text": "صاحبان وجودیت است. والملك ينهى عنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 318,
+   "start": 1360.08,
+   "end": 1364.68,
+   "text": "ملک نهیش می‌کند. وهو قول الله عز وجل.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 319,
+   "start": 1364.68,
+   "end": 1368.38,
+   "text": "امام که اینجور فرمود اینجا آیه را هم شاهد آورد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 320,
+   "start": 1368.38,
+   "end": 1371.98,
+   "text": "امام در بعد از بیان گفتش فرمود و این است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 321,
+   "start": 1371.98,
+   "end": 1373.98,
+   "text": "منظور خدای متعال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 322,
+   "start": 1373.98,
+   "end": 1378.74,
+   "text": "که در قرآن می‌فرماید که عن اليمين وعن الشمال قرين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 323,
+   "start": 1378.74,
+   "end": 1380.9,
+   "text": "انسان در راست و چپش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 324,
+   "start": 1380.9,
+   "end": 1387.96,
+   "text": "چی دارد؟ دو تا ملک دارد که ما يلفظ من قول إلا لديه رقيب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 325,
+   "start": 1387.96,
+   "end": 1390.86,
+   "text": "عتيد. به اینجا شاهد است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 326,
+   "start": 1390.86,
+   "end": 1394.44,
+   "text": "این حدیث بود. حدیث دوم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 327,
+   "start": 1394.44,
+   "end": 1398.7,
+   "text": "دیگه زیاد توضیح نمیدم. توضیحش رو اینجا قبلاً گفتم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 328,
+   "start": 1398.7,
+   "end": 1403.12,
+   "text": "حدیث دوم از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 329,
+   "start": 1403.12,
+   "end": 1409.02,
+   "text": "اصول کافی جلد سوم باز از همین باب، باب إن للقلب أذنين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 330,
+   "start": 1409.02,
+   "end": 1412.56,
+   "text": "اون‌دهه ها این حدیث دوم ما اونجا حدیث",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 331,
+   "start": 1412.56,
+   "end": 1416.56,
+   "text": "سوم اون باب است. عن أبي عبدالله علیه السلام",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 332,
+   "start": 1416.56,
+   "end": 1419.94,
+   "text": "از امام صادق سلام الله عليه قال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 333,
+   "start": 1419.94,
+   "end": 1423.86,
+   "text": "فرمود ما من مؤمن إلا و لقلبه أذنان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 334,
+   "start": 1423.86,
+   "end": 1427.54,
+   "text": "هیچ مؤمنی نیست مگر اینکه برای قلب دو گوش است،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 335,
+   "start": 1427.54,
+   "end": 1432.42,
+   "text": "دو گوش. اشتباه نشه ها قلب گوشتی صحبتش نیست ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 336,
+   "start": 1432.42,
+   "end": 1434.72,
+   "text": "قلب معنوی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 337,
+   "start": 1434.72,
+   "end": 1442.74,
+   "text": "که به قلب گوشتی یک نوع ارتباط دارد، اون صحبتش است و اون قلب معنوی که اصل ماست،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 338,
+   "start": 1442.74,
+   "end": 1445.86,
+   "text": "اون دو گوش دارد، یکی شنوا از شیطان،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 339,
+   "start": 1445.86,
+   "end": 1448.68,
+   "text": "یکی شنوا از ملک.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 340,
+   "start": 1448.68,
+   "end": 1453.78,
+   "text": "ما من مؤمن نیست إلا و لقلبه أذنان برای قلب دو گوش هست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 341,
+   "start": 1453.78,
+   "end": 1459.73,
+   "text": "فی جوفه. أذنان ينفس فيها الوسواس الخناس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 342,
+   "start": 1459.73,
+   "end": 1462.77,
+   "text": "یک وجودی هست، گوشی دارد، یک گوشی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 343,
+   "start": 1462.77,
+   "end": 1466.37,
+   "text": "یه نفس خواهی میدمد برو و در او",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 344,
+   "start": 1466.37,
+   "end": 1470.2,
+   "text": "همان وسوسه کننده‌ای که وسوسه می‌کند کنار می‌کشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 345,
+   "start": 1470.2,
+   "end": 1472.17,
+   "text": "وسوسه می‌کند کنار می‌کشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 346,
+   "start": 1472.17,
+   "end": 1476.19,
+   "text": "انسان فکر می‌کند که خودش اینجور می‌یابد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 347,
+   "start": 1476.19,
+   "end": 1481.09,
+   "text": "فرضی کنید خناس بودن وسواس برای این است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 348,
+   "start": 1481.09,
+   "end": 1487.15,
+   "text": "وسوسه می‌کند اما طوری وسوسه می‌کند که دیگه هیچ در این میان دیده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 349,
+   "start": 1487.15,
+   "end": 1491.07,
+   "text": "چیه؟ نمی‌شود. شما فکر که دلتون می‌خواد دیگه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 350,
+   "start": 1491.07,
+   "end": 1494.85,
+   "text": "فرضی کنید. دلتون می‌خواد، فکرتون می‌گه، عقلتون می‌گه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 351,
+   "start": 1494.85,
+   "end": 1498.67,
+   "text": "خودتون می‌خواید. کسی دیگر در بین نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 352,
+   "start": 1498.67,
+   "end": 1501.17,
+   "text": "خناس. این نکته یادتون نره‌ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 353,
+   "start": 1501.17,
+   "end": 1504.05,
+   "text": "چرا خناس است؟ هیچکس نمی‌بیند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 354,
+   "start": 1504.05,
+   "end": 1507.05,
+   "text": "هیچکس نمی‌بیند. همه خود را می‌یابند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 355,
+   "start": 1507.05,
+   "end": 1514.81,
+   "text": "عجیب خناس است. هیچکس وجود این نیرو را خارج از غیر از وجود خود در وجود خود نمی‌یابد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 356,
+   "start": 1514.81,
+   "end": 1519.77,
+   "text": "الا آنکس که وجود خود را از او و از منبع ظهور پاک بکند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 357,
+   "start": 1519.77,
+   "end": 1523.31,
+   "text": "او هم البته او را خارج از وجود خودش به خوبی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 358,
+   "start": 1523.31,
+   "end": 1525.71,
+   "text": "چیه؟ می‌یابد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 359,
+   "start": 1525.71,
+   "end": 1530.49,
+   "text": "خب و بزن یک گوشم یان فسو فیها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 360,
+   "start": 1530.49,
+   "end": 1534.01,
+   "text": "میدمد در آن گوش الملك ملك",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 361,
+   "start": 1534.01,
+   "end": 1536.13,
+   "text": "فيؤيده الله المؤمن بالملك.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 362,
+   "start": 1536.13,
+   "end": 1539.51,
+   "text": "حالا اینجا باز همان مانند روایت قبل بیان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 363,
+   "start": 1539.51,
+   "end": 1545.67,
+   "text": "و در دنباله روایت امام صادق فرمود که خدا تأیید می‌کند، کمک می‌کند مؤمن را بالملك",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 364,
+   "start": 1545.67,
+   "end": 1552.13,
+   "text": "یعنی درش آمادگی بیشتر می‌دهد که اون گوشش بیشتر باز باشد، اون حرف‌ها را بیشتر بشنود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 365,
+   "start": 1552.13,
+   "end": 1556.09,
+   "text": "تذلک قول و این است قول خدا که فرمود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 366,
+   "start": 1556.09,
+   "end": 1561.47,
+   "text": "در قرآن و أيدهم بروح منه خدا مؤمنین خوب را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 367,
+   "start": 1561.47,
+   "end": 1563.87,
+   "text": "با روحی از خود چی می‌کند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 368,
+   "start": 1563.87,
+   "end": 1566.89,
+   "text": "تأیید می‌کند. تأیید کرد اون گوش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 369,
+   "start": 1566.89,
+   "end": 1571.27,
+   "text": "به اصطلاح که از ملك می‌شنود بیشتر در انسان باز است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 370,
+   "start": 1571.27,
+   "end": 1573.45,
+   "text": "هم می‌شنود هم قبول می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 371,
+   "start": 1573.45,
+   "end": 1575.53,
+   "text": "پس فعلاً در این وسط یادتون نرود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 372,
+   "start": 1575.53,
+   "end": 1584.19,
+   "text": "که از این دعا غفلت نکنید که شما را خدا شنوای از اون القاءات خود و ملکی بگرداند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 373,
+   "start": 1584.19,
+   "end": 1587.61,
+   "text": "أيدهم بروح خدا تأیید کرد اینطور میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 374,
+   "start": 1587.61,
+   "end": 1591.25,
+   "text": "تأیید نکرد انسان را به حال خود واگذاشت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 375,
+   "start": 1591.25,
+   "end": 1593.49,
+   "text": "اولاً خیلی گوسپت ها پیش میاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 376,
+   "start": 1593.49,
+   "end": 1596.77,
+   "text": "اثر انسان ندای ملک را بیشتر نمی‌شنود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 377,
+   "start": 1596.77,
+   "end": 1601.41,
+   "text": "شنید نمی‌فهمد، فهمید گوش نمی‌کند الی آخر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 378,
+   "start": 1601.41,
+   "end": 1605.03,
+   "text": "اگر خزلان باشد. اما این طرف خوب می‌شنود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 379,
+   "start": 1605.03,
+   "end": 1607.51,
+   "text": "خوب می‌یابد، از خود می‌یابد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 380,
+   "start": 1607.51,
+   "end": 1610.33,
+   "text": "و حالت پذیرش کم بیشتر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 381,
+   "start": 1610.33,
+   "end": 1612.81,
+   "text": "زیاد است. اینجاییه از ناحیه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 382,
+   "start": 1612.81,
+   "end": 1614.97,
+   "text": "شیطان می‌شود اگر تأیید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 383,
+   "start": 1614.97,
+   "end": 1618.79,
+   "text": "خدا نباشد. یه روایتی هم در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 384,
+   "start": 1618.79,
+   "end": 1622.65,
+   "text": "اینجا من از احیا علوم غزالی نقل می‌کنم براتون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 385,
+   "start": 1622.65,
+   "end": 1624.77,
+   "text": "البته این روایات رو خوندم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 386,
+   "start": 1624.77,
+   "end": 1628.59,
+   "text": "متوجه شدید که از اصول کافی مرحوم کلینی است که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 387,
+   "start": 1628.59,
+   "end": 1632.95,
+   "text": "این روایت‌ها حساب شده است. ولی خب این روایتی هم که از احیا علوم غزالی نقل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 388,
+   "start": 1632.95,
+   "end": 1639.05,
+   "text": "می‌کنم البته این روایت را مرحوم نراقی هم در جام عسلاتش آورده به صورت ملخص.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 389,
+   "start": 1639.05,
+   "end": 1645.53,
+   "text": "این روایت هم در احیا علوم غزالی است و اونجا از رسول اکرم صلی الله علیه و آله و سلم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 390,
+   "start": 1645.53,
+   "end": 1647.17,
+   "text": "روایت را نقل کرده است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 391,
+   "start": 1647.17,
+   "end": 1650.59,
+   "text": "دو روایت گذشته از کافی بود از امام صادق سلام الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 392,
+   "start": 1650.59,
+   "end": 1655.27,
+   "text": "این روایت از رسول اکرم صلی الله علیه و آله و سلم است و از احیا علوم هم مرحوم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 393,
+   "start": 1655.27,
+   "end": 1660.01,
+   "text": "کلینی که علمای ما هم به این روایت اعتبار داده‌اند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 394,
+   "start": 1660.01,
+   "end": 1661.9,
+   "text": "گفتم نراقی مرحوم هم نقل کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 395,
+   "start": 1661.9,
+   "end": 1666.99,
+   "text": "فرقی نمی‌کند. مضمون همان مضمون که در بیان امام صادق سلام الله علیه وجود داشت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 396,
+   "start": 1666.99,
+   "end": 1670.77,
+   "text": "از رسول اکرم می‌فرماید في القلب لمتان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 397,
+   "start": 1670.77,
+   "end": 1673.55,
+   "text": "در قلب انسان دو نزدیکی هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 398,
+   "start": 1673.55,
+   "end": 1678.93,
+   "text": "لمّه یواش چیزی نزدیک بشه به چیزی این را می‌گویند لمّه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 399,
+   "start": 1678.93,
+   "end": 1686.17,
+   "text": "راجع می‌گویم زبان عربی. مرتب در قلب انسان مرتب على اتصال دو نزدیکی هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 400,
+   "start": 1686.17,
+   "end": 1689.17,
+   "text": "یک نزدیکی از ناحیه شیطان است،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 401,
+   "start": 1689.17,
+   "end": 1693.03,
+   "text": "یک نزدیکی از ناحیه چی؟ از ناحیه ملک.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 402,
+   "start": 1693.03,
+   "end": 1700.35,
+   "text": "لمت من الملك یه نزدیک شدن از ملک است که این بهترین اثرش، آقا اینجا رسول اکرم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 403,
+   "start": 1700.35,
+   "end": 1704.55,
+   "text": "می‌فرماید اثر بارزش این است که إعادم بالخير",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 404,
+   "start": 1704.55,
+   "end": 1706.53,
+   "text": "که معمولاً به اصطلاح",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 405,
+   "start": 1706.53,
+   "end": 1708.45,
+   "text": "به خیر وعده می‌دهد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 406,
+   "start": 1708.45,
+   "end": 1711.83,
+   "text": "این لمّه ملکی است. یعنی نزدیکی و قرب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 407,
+   "start": 1711.83,
+   "end": 1714.75,
+   "text": "ملکی است که معمولاً وعده خیر می‌دهد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 408,
+   "start": 1714.75,
+   "end": 1719.45,
+   "text": "تصدیق بالحق انسان را وادار به تصدیق به حق می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 409,
+   "start": 1719.45,
+   "end": 1722.87,
+   "text": "فمن وجد ذاته هرکس این را در باطن خودش یافت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 410,
+   "start": 1722.87,
+   "end": 1728.81,
+   "text": "فليعلم انه من الله سبحانه بداند که این نزدیکی از ملک است و از چیست است؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 411,
+   "start": 1728.81,
+   "end": 1732.86,
+   "text": "خداست. وليحمد الله خدا را حمد کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 412,
+   "start": 1732.86,
+   "end": 1734.81,
+   "text": "و لمت من العدو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 413,
+   "start": 1734.81,
+   "end": 1737.77,
+   "text": "و یک نزدیکی هم از دشمن است که منظور شیطان است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 414,
+   "start": 1737.77,
+   "end": 1742.67,
+   "text": "اونم اثر بارزش این است که إعادم بالشر همیشه انسان را به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 415,
+   "start": 1742.67,
+   "end": 1744.25,
+   "text": "وعده شر می‌دهد انسان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 416,
+   "start": 1744.25,
+   "end": 1749.31,
+   "text": "چه در باب به اصطلاح دنیا مسائل دنیوی و چه در باب دیگر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 417,
+   "start": 1749.31,
+   "end": 1752.73,
+   "text": "إعادم بالشر تکذیب بالحق همیشه حق را تکذیب می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 418,
+   "start": 1752.73,
+   "end": 1756.53,
+   "text": "و نهی عن الخير نمی‌ذاره انسان به سوی کارهای خیر بره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 419,
+   "start": 1756.53,
+   "end": 1763.59,
+   "text": "فمن وجد ذاته هرکس این نزدیکی را در درون خود یافت فليستعذ بالله به خدا پناه ببرد من الشيطان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 420,
+   "start": 1763.59,
+   "end": 1765.85,
+   "text": "الرجيم از شیطان رجیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 421,
+   "start": 1765.85,
+   "end": 1771.53,
+   "text": "ثم تلا قول الله تعالی بعد این آیه را رسول اکرم خواند که سأعوذ برب الفلق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 422,
+   "start": 1771.53,
+   "end": 1776.95,
+   "text": "من شر ما خلق. این در اینجا من اینو توضیح بدم البته اینجا باید بهش خیلی توضیح مفصل می‌خواد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 423,
+   "start": 1776.95,
+   "end": 1781.14,
+   "text": "اینی که مرتب می‌بینید حالا من بعدها در خواص صحبت کردم اونجا جاش هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 424,
+   "start": 1781.14,
+   "end": 1784.37,
+   "text": "اما اینجا والا یادم نره. اینجاتون رو خوب بخوانید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 425,
+   "start": 1784.37,
+   "end": 1786.55,
+   "text": "این روایت خوب برای شما روشن بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 426,
+   "start": 1786.55,
+   "end": 1789.85,
+   "text": "این شبانه روز که من و شما گوسه دنیا می‌خوریم ها،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 427,
+   "start": 1789.85,
+   "end": 1796.57,
+   "text": "آنچه که گوسه می‌آورد برای ما از طریق خواص اون همش از چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 428,
+   "start": 1796.57,
+   "end": 1799.43,
+   "text": "همش از شیطان است. بهترین مشغولیتش و بهترین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 429,
+   "start": 1799.43,
+   "end": 1801.83,
+   "text": "سر best و лучше از برای انسان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

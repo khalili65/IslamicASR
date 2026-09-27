@@ -1,0 +1,1843 @@
+{
+ "version": 1,
+ "sessionId": "100",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 769.73,
+ "alignment": {
+  "exact": 1608,
+  "total": 1608,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## روایت هفتم باب چهارم",
+   "start": 20.28,
+   "end": 41.34
+  },
+  {
+   "index": 1,
+   "title": "## چرا عزرائیل",
+   "start": 41.34,
+   "end": 69.26
+  },
+  {
+   "index": 2,
+   "title": "## پرسش جلسه",
+   "start": 69.26,
+   "end": 188.42
+  },
+  {
+   "index": 3,
+   "title": "## ملک‌الموت مأمور موت است",
+   "start": 188.42,
+   "end": 209.88
+  },
+  {
+   "index": 4,
+   "title": "## چه کسی عملیات را انجام می‌دهد",
+   "start": 209.88,
+   "end": 386.63
+  },
+  {
+   "index": 5,
+   "title": "## تمثیل سلطنت نفس",
+   "start": 386.63,
+   "end": 406.65
+  },
+  {
+   "index": 6,
+   "title": "امیرالمؤمنین علیه‌السلام صاحب منصب اصلی مقام ولایت است.",
+   "start": 406.65,
+   "end": 432.43
+  },
+  {
+   "index": 7,
+   "title": "## کامل الزیارات",
+   "start": 432.43,
+   "end": 602.29
+  },
+  {
+   "index": 8,
+   "title": "## حب هذا الرجل",
+   "start": 602.29,
+   "end": 651.57
+  },
+  {
+   "index": 9,
+   "title": "## الگوی فضّه",
+   "start": 651.57,
+   "end": 769.73
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 0.82,
+   "end": 5.34,
+   "text": "اللهم صل علی محمد و آل محمد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 5.34,
+   "end": 12.2,
+   "text": "و عجل فرجهم. بسم الله الرحمن الرحیم و به نستعین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 12.2,
+   "end": 16.06,
+   "text": "السلام علیک یا داعی الله و ربانی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 16.06,
+   "end": 20.28,
+   "text": "آیا ص سلامٌ علیکم و رحمة الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 20.28,
+   "end": 24.5,
+   "text": "در روایت هفتم از باب چهارم کتاب الموت بودیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 24.5,
+   "end": 28.12,
+   "text": "که امیرالمؤمنین علیه الصلاة والسلام",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 28.12,
+   "end": 34.34,
+   "text": "فرمودند: أیها الناس کل امر انلاقٍ فی فراره ما منه یفر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 34.34,
+   "end": 41.34,
+   "text": "و لا اجل مساق النفس الیه و الهرب منه موافاته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 41.34,
+   "end": 43.78,
+   "text": "توضیح دادیم که چرا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 43.78,
+   "end": 45.68,
+   "text": "قرعه قبض روح",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 45.68,
+   "end": 51.42,
+   "text": "به نام جبرائیل-- حضرت عزرائیل علیه السلام افتاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 51.42,
+   "end": 53.64,
+   "text": "روایتی رو در این خصوص عرض کردیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 53.64,
+   "end": 57.32,
+   "text": "سؤالی پیش میاد، اون هم اینکه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 57.32,
+   "end": 64.42,
+   "text": "آیا حضرت قابض الارواح بدون استثناء همه رو قبض روح میکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 64.42,
+   "end": 69.26,
+   "text": "یا ایشون دستور رو صادر میکنه کسی دیگه قبض روح میکنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 69.26,
+   "end": 74.7,
+   "text": "به چه شکله؟ اولاً فرمودند که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 74.7,
+   "end": 79.78,
+   "text": "اون کسی که اسمش هم رو خودشه دیگه، ملک الموت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 79.78,
+   "end": 84.44,
+   "text": "مأمور موته. یعنی محاله کسی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 84.44,
+   "end": 92.2,
+   "text": "بخواد از این دنیا فارغ بشه نفس ناطقه‌ش اعلام انصراف از بدن بده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 92.2,
+   "end": 95.38,
+   "text": "و سفر برزخی‌ش آغاز بشه الا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 95.38,
+   "end": 99.3,
+   "text": "اینکه باید اذن‌ش رو حضرت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 99.3,
+   "end": 103.44,
+   "text": "ملک الموت بده و حضرت ملک الموت حاضر باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 103.44,
+   "end": 106.04,
+   "text": "اما اینکه چه کسی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 106.04,
+   "end": 111.66,
+   "text": "این عملیات رو انجام میده روایت داریم که بله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 111.66,
+   "end": 113.3,
+   "text": "استثنائاتی وجود داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 113.3,
+   "end": 117.4,
+   "text": "در همه جا خداست و خدایی میکنه دیگه به قول حضرت علامه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 117.4,
+   "end": 120.3,
+   "text": "علیه الرحمه خداست و خدایی میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 120.3,
+   "end": 123.78,
+   "text": "به کسیچه. دوست داره استثناء بگذاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 123.78,
+   "end": 128.22,
+   "text": "خاک خوردنش حرامه اما میگه بخور از خاک امام حسین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 128.22,
+   "end": 130.64,
+   "text": "مستحبم است، مؤکدم است،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 130.64,
+   "end": 135.7,
+   "text": "استثناء است. اینجا هم یک استثناء خدا گذاشته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 135.7,
+   "end": 140.38,
+   "text": "اولاً یه روایتی قبل از اینکه من این استثناء رو خدمتتون عرض کنم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 140.38,
+   "end": 145.18,
+   "text": "یه روایتی داریم که انشاالله این هم باشه طلبتون باز کردن این روایت که یعنی چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 145.18,
+   "end": 149.84,
+   "text": "منظورش چیه؟ این رو در کتاب بحار جل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 149.84,
+   "end": 151.98,
+   "text": "七 十 六 میتونید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 151.98,
+   "end": 154.94,
+   "text": "صفحه صد و شصت و-- صد و هشتاد و هشت ببینید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 154.94,
+   "end": 158.5,
+   "text": "ما من بیتا هیچ خونه‌ای نیست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 158.5,
+   "end": 161.7,
+   "text": "الا و ملک الموت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 161.7,
+   "end": 164.06,
+   "text": "یقف علی بابه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 164.06,
+   "end": 168.5,
+   "text": "مگر اینکه مک- ملک الموت می ایسته بغل این در.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 168.5,
+   "end": 170.28,
+   "text": "حالا اینا یک یک باید چی بشه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 170.28,
+   "end": 172.84,
+   "text": "تفسیر بشه، تأویل بشه. یعنی چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 172.84,
+   "end": 175.12,
+   "text": "این با- بیت چیه؟ بابش چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 175.12,
+   "end": 179.12,
+   "text": "و قفع ایستادن ملک الموت چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 179.12,
+   "end": 182.84,
+   "text": "کل یوم هر روز، اینجا منظور از هر روز چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 182.84,
+   "end": 186.2,
+   "text": "خمسم رات پنج بار، این پنج بار کیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 186.2,
+   "end": 188.42,
+   "text": "چگونه است؟ باشه طلبتون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 188.42,
+   "end": 197.04,
+   "text": "فعلاً اینو بدونیم که بر ما روزی نمی‌گذره مگر اینکه پنج بار مک- ملک الموت متوجه ما میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 197.04,
+   "end": 201.8,
+   "text": "حالا قدیم‌ها می‌گفتن یه دفعه همینطوری ناخودآگاه یه لرزشی به بدنت میفته،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 201.8,
+   "end": 204.38,
+   "text": "ملک الموت نگات کرده یا از بغلت رد شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 204.38,
+   "end": 207.04,
+   "text": "از این حرف‌ها می‌زدن. این‌ها حرفای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 207.04,
+   "end": 209.88,
+   "text": "همینطوریه، استدلالی براش نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 209.88,
+   "end": 214.46,
+   "text": "اما این روایت مطمئنه که حالا بزرگان فرمودن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 214.46,
+   "end": 219.34,
+   "text": "این پنج بار همون پنج بار وقت نمازه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 219.34,
+   "end": 224.58,
+   "text": "شاید به یک معنا مترصد نماز ماست حضرت ملک الموت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 224.58,
+   "end": 228.32,
+   "text": "که اگر کسی نمازشو اول وقت بخونه، وقت موتش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 228.32,
+   "end": 230.18,
+   "text": "خود ملک الموت کمکش میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 230.18,
+   "end": 233.08,
+   "text": "حتی میگن شهادتین رو تلقین میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 233.08,
+   "end": 238.46,
+   "text": "این روایت که نشون میده که همه تحت توجه این آقا هستن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 238.46,
+   "end": 244.62,
+   "text": "روزی پنج بار. مخصوصاً وقت نماز ظاهراً این چنین باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 244.62,
+   "end": 247.88,
+   "text": "اما روایت دیگری داریم که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 247.88,
+   "end": 254.76,
+   "text": "مثلاً مناقب آل ابی طالب که ابن شهرآشوب مازندرانی میدونید این کتاب رو جمع کرده نوشته ج-",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 254.76,
+   "end": 258.28,
+   "text": "جل two صفحه دوصد سی و شش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 258.28,
+   "end": 265.5,
+   "text": "روایت داره که وقتی که پیغمبر عزیز عالم معراج تشریف بردن در سف- سفر معراجی‌شون،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 265.5,
+   "end": 272.3,
+   "text": "اونجا حضرت قابض الارواح ایشون رو زیارت کردن و به ایشون عرض کردن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 272.3,
+   "end": 277.42,
+   "text": "به رسول خدا. عرض کردن إن الله جل جلاله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 277.42,
+   "end": 281.78,
+   "text": "وكلنی بقبض ارواح الخلائق.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 281.78,
+   "end": 289.34,
+   "text": "خدا منو موکل کرده، منو مأمور کرده به قبض روح که همه ما قراره ایشون رو زیارت کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 289.34,
+   "end": 291.42,
+   "text": "خب حالا این استثناء داره یا نه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 291.42,
+   "end": 296.38,
+   "text": "اینجا مشخصه که داره. میفرماید ما خلا روحک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 296.38,
+   "end": 302.54,
+   "text": "مگر روح تو یا رسول الله و روح علی ابن ابی طالب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 302.54,
+   "end": 308.8,
+   "text": "این دو تا. فإن الله يتوفیكما بمشیئته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 308.8,
+   "end": 311.24,
+   "text": "خدا شما دو تا رو توفی می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 311.24,
+   "end": 313.76,
+   "text": "موت شما دست خداست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 313.76,
+   "end": 315.54,
+   "text": "که اونم به مشیتش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 315.54,
+   "end": 317.78,
+   "text": "حالا باز اینجا مشیت چه معنایی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 317.78,
+   "end": 326.98,
+   "text": "میده باشه طلبتون. که نشون میده بله در خصوص قبض روح هم باز استثنائاتی وجود دارد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 326.98,
+   "end": 329.72,
+   "text": "که خدا اینجا خودش مستقیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 329.72,
+   "end": 333.96,
+   "text": "روح پیغمبر و امیرالمؤمنین یعنی ملک الموت شأنی از شؤون وجودی اونان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 333.96,
+   "end": 336.7,
+   "text": "از نظر اعتقادی هم این ثابت شده است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 336.7,
+   "end": 340.5,
+   "text": "ملک الموت شأنی از شؤون وجودی او هستند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 340.5,
+   "end": 344.14,
+   "text": "هیچ وقت جزء نمی‌تونه احاطه به کل پیدا کنه که بیاد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 344.14,
+   "end": 346.42,
+   "text": "جزء بیاد جان کل رو بگیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 346.42,
+   "end": 354.1,
+   "text": "نشدنیه. مثل اینکه قوه باصره شما، قوه سامعه شما، قوه لامسه شما، این‌ها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 354.1,
+   "end": 358.08,
+   "text": "شؤون نفس شماست. یعنی تحت امر نفس شماست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 358.08,
+   "end": 361.19,
+   "text": "نفس شما از طریق روح بخاری",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 361.19,
+   "end": 363.49,
+   "text": "احکام خودش رو در بدن پیاده میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 363.49,
+   "end": 366.21,
+   "text": "به چشم میگه ببین اینجا رو ببین، اینجا رو نبین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 366.21,
+   "end": 368.65,
+   "text": "داره پیاده‌سازی میکنه. کی داره امر میکنه اینجا؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 368.65,
+   "end": 371.41,
+   "text": "امیرالامرا کیه در وجود شما؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 371.41,
+   "end": 373.79,
+   "text": "در سلطنت وجودتون نفسه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 373.79,
+   "end": 379.49,
+   "text": "حالا چشم این چشم پیدا رو نمیگم قوه باصره بیاد نفس رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 379.49,
+   "end": 384.73,
+   "text": "توفی کنه یعنی کل نفس رو بگیره، جان اون رو بگیره به اصطلاحا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 384.73,
+   "end": 388.41,
+   "text": "نمیشه، نشدنیه دیگه. پس ببینید از جهت عقلی هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 94,
+   "start": 388.41,
+   "end": 390.59,
+   "text": "جواب داریم. نمیشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 95,
+   "start": 390.59,
+   "end": 393.51,
+   "text": "اگر اینطوری باشه این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 96,
+   "start": 393.51,
+   "end": 397.47,
+   "text": "حدیث داره تصریح بر مقام ولایت میکنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 97,
+   "start": 397.47,
+   "end": 401.09,
+   "text": "امیرالمؤمنین علیه الصلاة والسلام به عنوان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 98,
+   "start": 401.09,
+   "end": 404.19,
+   "text": "صاحب منصب اصلی مقام ولایته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 99,
+   "start": 404.19,
+   "end": 406.65,
+   "text": "یعنی اینکه امام عصر ما هم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 100,
+   "start": 406.65,
+   "end": 412.17,
+   "text": "یعنی اینکه حضرت زهرا هم، یعنی امام حسین رو، این‌ها رو، انسان کامل رو هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 101,
+   "start": 412.17,
+   "end": 414.69,
+   "text": "خدا توفی می‌کنه. این یک نکته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 102,
+   "start": 414.69,
+   "end": 417.01,
+   "text": "آیا باز استثناء دیگری هم داریم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 103,
+   "start": 417.01,
+   "end": 420.05,
+   "text": "یعنی کسانی هستند که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 104,
+   "start": 420.05,
+   "end": 425.67,
+   "text": "معصوم علی الاطلاق یا انسان کامل نباشند باز خدا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 105,
+   "start": 425.67,
+   "end": 428.09,
+   "text": "خودش مأمور قبض روحشون باشه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 106,
+   "start": 428.09,
+   "end": 430.33,
+   "text": "باز یه حدیث داریم بله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 107,
+   "start": 430.33,
+   "end": 432.43,
+   "text": "اونم سند خیلی محکم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 108,
+   "start": 432.43,
+   "end": 438.25,
+   "text": "قدیمی‌ترین کتابی که مصدر و منبع زیارت عاشورا است کدوم کتابه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 109,
+   "start": 438.25,
+   "end": 444.53,
+   "text": "حدود هزار و اندی سال پیش نوشته شده، کتاب کامل الزيارات ابن قولویه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 110,
+   "start": 444.53,
+   "end": 449.27,
+   "text": "یعنی ما قدیمی‌تر از این کتاب بر منبع زیارت عاشورا نداریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 111,
+   "start": 449.27,
+   "end": 453.45,
+   "text": "که هم تو کا-- انشاالله رفتید کاظم این قسمت شد بغل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 112,
+   "start": 453.45,
+   "end": 455.51,
+   "text": "شیخ مفید ایشون دفنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 113,
+   "start": 455.51,
+   "end": 458.73,
+   "text": "یا بهتره بگیم شیخ مفید بغل ایشون دفنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 114,
+   "start": 458.73,
+   "end": 460.75,
+   "text": "که یه ضریح دارن مشترکه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 115,
+   "start": 460.75,
+   "end": 466.77,
+   "text": "هر دو تا اونجا دفنن. قبل اینکه وارد روضه مقدس بشید که با عرض کردم دیگه بارها امام عصر رو دیدم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 116,
+   "start": 466.77,
+   "end": 470.23,
+   "text": "نه یکی دو بار، بارها که صورت به ضریح",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 117,
+   "start": 470.23,
+   "end": 473.91,
+   "text": "این بزرگوار گذاشته و های های گریه می‌کنه امام عصر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 118,
+   "start": 473.91,
+   "end": 478.37,
+   "text": "اینقدر که شیخ مفید پیش آقا عزیز بود و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 119,
+   "start": 478.37,
+   "end": 481.23,
+   "text": "من جمله ابن قولویه قمی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 120,
+   "start": 481.23,
+   "end": 487.47,
+   "text": "در این کتابش اگه خواستید ببینید بالاخره این مخصوصا سخنران‌ها، ذاکر‌ها، هیئتی‌ها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 121,
+   "start": 487.47,
+   "end": 490.31,
+   "text": "باید این کتاب رو داشته باشن و بخونن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 122,
+   "start": 490.31,
+   "end": 492.31,
+   "text": "صفحه دویست و شصت و چهاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 123,
+   "start": 492.31,
+   "end": 494.55,
+   "text": "روایات خواندنی درش هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 124,
+   "start": 494.55,
+   "end": 501.25,
+   "text": "امام سجاد سلام الله علیه می‌فرماید \"فَاِذَا بَرَزَتْ تِلْکَ العِصَابَةُ العِصَابَةُ",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 125,
+   "start": 501.25,
+   "end": 506.55,
+   "text": "إِلَى مَضَاجِعِهَا\" وقتی که اون جماعت در روز کربلا،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 126,
+   "start": 506.55,
+   "end": 509.81,
+   "text": "جماعت یعنی یاران امام حسین،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 127,
+   "start": 509.81,
+   "end": 512.29,
+   "text": "به طرف قبرهاشون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 128,
+   "start": 512.29,
+   "end": 515.23,
+   "text": "نما-- برزت آشکار شدن، نمایان شدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 129,
+   "start": 515.23,
+   "end": 518.01,
+   "text": "یعنی وقت قبض روحشون شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 130,
+   "start": 518.01,
+   "end": 524.81,
+   "text": "کی اومد قبض روح کرد؟ \"تَوَلَّى اللَّهُ عَزَّ وَجَلَّ قَبْضَ أَرْوَاحِهَا بِيَدِهِ\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 131,
+   "start": 524.81,
+   "end": 527.27,
+   "text": "الله اکبر. بِيَدِهِ.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 132,
+   "start": 527.27,
+   "end": 529.83,
+   "text": "خدا به دست خودش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 133,
+   "start": 529.83,
+   "end": 535.17,
+   "text": "شهدای کربلا رو من جمله سید الشهدا رو قبض روح کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 134,
+   "start": 535.17,
+   "end": 543.61,
+   "text": "این نشون میده که اولا مقام شهدای کربلا رو که به وساطت مقام ولایت کلی امام حسین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 135,
+   "start": 543.61,
+   "end": 546.29,
+   "text": "دو، چقدر این‌ها بالاخره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 136,
+   "start": 546.29,
+   "end": 549.09,
+   "text": "مقام داشتن که هیچی، چقدر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 137,
+   "start": 549.09,
+   "end": 551.23,
+   "text": "این‌ها شانشون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 138,
+   "start": 551.23,
+   "end": 555.75,
+   "text": "بالا شده که شاید به یک معنا گفت بشه گفت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 139,
+   "start": 555.75,
+   "end": 562.25,
+   "text": "که حتی این ملک مقرب هم باز می‌تونه شده باشه شؤونی از وجود اون‌ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 140,
+   "start": 562.25,
+   "end": 566.55,
+   "text": "به خاطر وصل‌شون به اون کره مثل اینکه قطره‌ای که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 141,
+   "start": 566.55,
+   "end": 569.47,
+   "text": "وصل شد به دریا دیگه دریاست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 142,
+   "start": 569.47,
+   "end": 572.67,
+   "text": "شهدای کربلا، یه روایت میگه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 143,
+   "start": 572.67,
+   "end": 575.97,
+   "text": "آب شدن، ذوب شدن در امام حسین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 144,
+   "start": 575.97,
+   "end": 581.47,
+   "text": "اصلاً شدن حسین. \"لا فرق بینهم و بین حبیبهم\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 145,
+   "start": 581.47,
+   "end": 584.31,
+   "text": "اون عالمی که می‌گشت که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 146,
+   "start": 584.31,
+   "end": 590.07,
+   "text": "خیلی دوست داشت. حالا مکاشفات زیادی داشت، تمثلات زیادی براش رخ می‌داد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 147,
+   "start": 590.07,
+   "end": 594.65,
+   "text": "شهدای کربلا رو می‌دید. این‌ها خیلی دوست داشت عبدالله ابن--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 148,
+   "start": 594.65,
+   "end": 599.37,
+   "text": "سعید ابن عبدالله رو ببینه که همون که سیزده تا تیر خورد تو صورتش،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 149,
+   "start": 599.37,
+   "end": 601.71,
+   "text": "بدنش و آخریش تو پیشونیش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 150,
+   "start": 601.71,
+   "end": 607.53,
+   "text": "خودش رو رو در روی ابا عبدالله قرار داد که حضرت تیر نخوره وقت نماز.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 151,
+   "start": 607.53,
+   "end": 609.29,
+   "text": "خیلی دوست داشت ایشون رو زیارت کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 152,
+   "start": 609.29,
+   "end": 612.49,
+   "text": "چگونه تو تونستی این تیرها رو تحمل کنی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 153,
+   "start": 612.49,
+   "end": 616.61,
+   "text": "خیلی سخته. یه سوزن تو بدن آدم میره دادت بلند می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 154,
+   "start": 616.61,
+   "end": 618.53,
+   "text": "سیزده تا تیر رو تحمل کنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 155,
+   "start": 618.53,
+   "end": 620.53,
+   "text": "اونم آخریش به پیشونیش خورد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 156,
+   "start": 620.53,
+   "end": 624.71,
+   "text": "دیگه نتونست. باز دیگه آقا سلامو که داد افتاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 157,
+   "start": 624.71,
+   "end": 627.07,
+   "text": "و این‌ها خیلی حرفه. شوخی نیست اینا که بابا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 158,
+   "start": 627.07,
+   "end": 629.77,
+   "text": "یه ذره مصیبت سر ما می‌ریزه رو دوش ما.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 159,
+   "start": 629.77,
+   "end": 632.79,
+   "text": "یا مثلاً کرایه خونه‌مون عقب میفته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 160,
+   "start": 632.79,
+   "end": 634.63,
+   "text": "مری-- خانوممون مریض می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 161,
+   "start": 634.63,
+   "end": 636.91,
+   "text": "چک‌مون چی می‌شه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 162,
+   "start": 636.91,
+   "end": 639.35,
+   "text": "بخواد پاس بشه. مایه نداریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 163,
+   "start": 639.35,
+   "end": 642.33,
+   "text": "چه-- یه مشکلی پیش بیاد دادمون می‌ره آسمون هفتم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 164,
+   "start": 642.33,
+   "end": 644.63,
+   "text": "خدا تو فقط منو گیر آوردی فلان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 165,
+   "start": 644.63,
+   "end": 647.73,
+   "text": "حالا تیر تمام وجودش رو گرفته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 166,
+   "start": 647.73,
+   "end": 653.07,
+   "text": "که می‌ش- می‌دونید شنیدید دیگه بارها در روضه‌ها که وقتی افتاد ابا عبدالله سلام نماز رو داد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 167,
+   "start": 653.07,
+   "end": 656.31,
+   "text": "ایشون افتاد بغلش کرد. حسین ابن علی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 168,
+   "start": 656.31,
+   "end": 660.91,
+   "text": "علیهم السلام. ایشون گفت \"أوفيت بعهدي\" آیا به عهدم وفا کردم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 169,
+   "start": 660.91,
+   "end": 663.39,
+   "text": "حضرت ابا عبدالله فرمود چگونه تو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 170,
+   "start": 663.39,
+   "end": 665.87,
+   "text": "به عهدت وفا نکردی در حالی که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 171,
+   "start": 665.87,
+   "end": 671.93,
+   "text": "دائما در قیامت دائما در بهشت \"أنت أمامي في الجنة\" تو دائما روبه‌روی منی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 172,
+   "start": 671.93,
+   "end": 680.83,
+   "text": "الله اکبر. در بحث تمثل اعمال، تجسد اعمال، تجسم یا تجسد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 173,
+   "start": 680.83,
+   "end": 683.83,
+   "text": "که انشاالله یه وقتی چند جلسه دربارش حرف بزنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 174,
+   "start": 683.83,
+   "end": 688.79,
+   "text": "ملکه وجودیش این بوده که روبه‌رو عبد-- ابا عبدالله وایسته سپر بلا شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 175,
+   "start": 688.79,
+   "end": 692.41,
+   "text": "لذا متمثل، اون تمثل وجودیش در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 176,
+   "start": 692.41,
+   "end": 696.87,
+   "text": "عالم بالاتر می‌شه روبه‌روی حسین بودن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 177,
+   "start": 696.87,
+   "end": 700.91,
+   "text": "یعنی همون می‌شه. میگن جزای عین عمل،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 178,
+   "start": 700.91,
+   "end": 703.27,
+   "text": "جزای وفاق که قرآن می‌گه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 179,
+   "start": 703.27,
+   "end": 706.23,
+   "text": "حالا بحث کاری نداره. ایشون رو اون عالم زیارت کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 180,
+   "start": 706.23,
+   "end": 710.75,
+   "text": "ازش سؤال کرد چگونه تو تونستی این تیرها رو تحمل کنی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 181,
+   "start": 710.75,
+   "end": 713.77,
+   "text": "اشاره کرد به حضرت ابا عبدالله فرمود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 182,
+   "start": 713.77,
+   "end": 716.79,
+   "text": "\"حب هذا الرجل\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 183,
+   "start": 716.79,
+   "end": 723.63,
+   "text": "حب این مرد. عشق به معنای حالا خودمونی عشق امام حسین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 184,
+   "start": 723.63,
+   "end": 728.95,
+   "text": "ببین اصلاً عاش-- اینقدر ذوب در امام حسین شده سؤالش هم با حسین جواب میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 185,
+   "start": 728.95,
+   "end": 735.61,
+   "text": "مثل حضرت فظه. اینقدر غرق در قرآن شده بود تمام سؤالات رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 186,
+   "start": 735.61,
+   "end": 739.99,
+   "text": "چه اهل بیت ازش می‌پرسیدن چه دیگران با قرآن جواب می‌داد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 187,
+   "start": 739.99,
+   "end": 745.29,
+   "text": "این حالا داستان مفصلی داره که فکر می‌کنم اگه بار شمردم شاید حدود شصت و شش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 188,
+   "start": 745.29,
+   "end": 748.17,
+   "text": "سؤال ازش شده بود. همه رو با آیات قرآن جواب داد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 189,
+   "start": 748.17,
+   "end": 751.77,
+   "text": "حتی اینکه اسمت چیه، کجا می‌خونی، نشونه خونه‌ت کجاست،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 190,
+   "start": 751.77,
+   "end": 754.51,
+   "text": "چند سالته، همه رو با قرآن جواب داد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 191,
+   "start": 754.51,
+   "end": 759.33,
+   "text": "این‌طوری عاشق می‌شه. انشاالله خدا ما رو هم به اون مقامات و مراتب برسونه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 192,
+   "start": 759.33,
+   "end": 761.23,
+   "text": "عاقبتمون انشاالله ختم به خیر بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 193,
+   "start": 761.23,
+   "end": 764.33,
+   "text": "به برکت صلوات بر محمد و آل محمد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 194,
+   "start": 764.33,
+   "end": 767.35,
+   "text": "اللهم صل على",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 195,
+   "start": 767.35,
+   "end": 769.73,
+   "text": "محمد و آل محمد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

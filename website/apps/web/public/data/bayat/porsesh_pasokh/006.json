@@ -1,0 +1,60 @@
+{
+ "id": "006",
+ "index": 6,
+ "lecturer": "bayat",
+ "course": "porsesh_pasokh",
+ "title": "الناس نیام",
+ "topic": null,
+ "summary": "مرگ بیداری است؛ قتلوا شامل موت اختیاری؛ ظهور امام ظهور علم است.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/porsesh_pasokh/006/006_play.m4a",
+  "filename": "006_play.m4a",
+  "size": 9208311,
+  "display": "8.8 MB",
+  "duration": 733.73,
+  "durationText": "12:14"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "006.vtt",
+   "cues": "006.cues.json",
+   "words": "006.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## الناس نیام",
+   "start": 46.06,
+   "end": 136.76
+  },
+  {
+   "index": 1,
+   "title": "## درجات بهشت و ظهور علم",
+   "start": 136.76,
+   "end": 369.97
+  },
+  {
+   "index": 2,
+   "title": "## گسترش مطلب 006/2",
+   "start": 369.97,
+   "end": 733.73
+  }
+ ],
+ "recordedAt": 1763983834,
+ "sourceName": "پرسش و پاسخ ۶.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "005",
+ "next": "007"
+}

@@ -1,0 +1,60 @@
+{
+ "id": "004",
+ "index": 4,
+ "lecturer": "bayat",
+ "course": "qalb_monharef",
+ "title": "شکِ سه و چهار در نمازِ چهاررکعتی",
+ "topic": null,
+ "summary": "شکِ سه و چهار در هر جایِ نمازِ چهاررکعتی صحیح است و با بنا بر چهار و نمازِ احتیاط جبران می‌شود. سپس خطرِ هوای نفس با علم، آیهٔ جاثیه، و خاطرهٔ بیست پنی به‌عنوانِ گامِ نخستِ انحراف تبیین می‌گردد.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/qalb_monharef/004/004_play.m4a",
+  "filename": "004_play.m4a",
+  "size": 5609325,
+  "display": "5.3 MB",
+  "duration": 458.4,
+  "durationText": "7:38"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "004.vtt",
+   "cues": "004.cues.json",
+   "words": "004.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "بسم الله الرحمن الرحیم و به نستعین. درود بر داعیِ خدا و ربّانیِ آیاتش.",
+   "start": 12.62,
+   "end": 82.36
+  },
+  {
+   "index": 1,
+   "title": "## هوای نفس؛ به‌ویژه با علم",
+   "start": 82.36,
+   "end": 159.56
+  },
+  {
+   "index": 2,
+   "title": "آیه‌ای از قرآن صریحاً این موضوع را نهیب می‌زند؛ آیهٔ بیست و سهٔ جاثیه:",
+   "start": 159.56,
+   "end": 458.4
+  }
+ ],
+ "recordedAt": 1769551216,
+ "sourceName": "قلب منحرف4_ ج55.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "003",
+ "next": "005"
+}

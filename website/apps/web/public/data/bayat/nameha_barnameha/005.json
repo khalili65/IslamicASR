@@ -1,0 +1,72 @@
+{
+ "id": "005",
+ "index": 4,
+ "lecturer": "bayat",
+ "course": "nameha_barnameha",
+ "title": "تهجد و مقام محمود",
+ "topic": null,
+ "summary": "این جلسه در امتداد بحث‌های معرفتی و سیر عملی، از مفاهیم و مثال‌های مطرح‌شده در گفتار آغاز می‌شود و پیوند میان مراتب وجود، تهذیب، عبادت و معرفت را دنبال می‌کند. شرح آیات، روایت‌ها، حکایت‌ها و اصطلاحات تخصصی در ترتیب طبیعی سخن آمده است.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/nameha_barnameha/005/005_play.m4a",
+  "filename": "005_play.m4a",
+  "size": 29123606,
+  "display": "27.8 MB",
+  "duration": 2345.09,
+  "durationText": "39:05"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "005.vtt",
+   "cues": "005.cues.json",
+   "words": "005.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## تهجد و مقام محمود",
+   "start": 0.86,
+   "end": 529.47
+  },
+  {
+   "index": 1,
+   "title": "## نام‌های باطنی انسان",
+   "start": 529.47,
+   "end": 552.65
+  },
+  {
+   "index": 2,
+   "title": "## جون و نام آسمانی",
+   "start": 552.65,
+   "end": 1470.4
+  },
+  {
+   "index": 3,
+   "title": "## مقام انسان کامل",
+   "start": 1470.4,
+   "end": 1880.06
+  },
+  {
+   "index": 4,
+   "title": "## قوس نزول و صعود",
+   "start": 1880.06,
+   "end": 2345.09
+  }
+ ],
+ "recordedAt": 1763682897,
+ "sourceName": "سخنرانی_نامه ها و برنامه ها_10.10.1400.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "004",
+ "next": "006"
+}

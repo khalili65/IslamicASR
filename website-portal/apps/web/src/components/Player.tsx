@@ -278,9 +278,15 @@ export function Player({ session, cues }: Props) {
     session.hasFullText
       ? {
           key: "full",
-          label: "متن کامل",
-          href: `${dataBase}.corrected.md`,
-          filename: `${session.id}-متن-کامل.txt`,
+          label: session.subtitleSource === "raw" ? "متن خام ASR" : "متن کامل",
+          href:
+            session.subtitleSource === "raw"
+              ? `${dataBase}.raw.txt`
+              : `${dataBase}.corrected.md`,
+          filename:
+            session.subtitleSource === "raw"
+              ? `${session.id}-متن-خام-asr.txt`
+              : `${session.id}-متن-کامل.txt`,
           asText: true,
         }
       : null,
@@ -448,7 +454,8 @@ export function Player({ session, cues }: Props) {
               className="icon-btn h-11 w-11"
               aria-label="۱۵ ثانیه عقب"
             >
-              <Back15Icon className="h-6 w-6" />
+              {/* Opposite glyph: RTL places these buttons mirrored vs LTR icon art. */}
+              <Forward15Icon className="h-6 w-6" />
             </button>
             <button
               type="button"
@@ -468,7 +475,7 @@ export function Player({ session, cues }: Props) {
               className="icon-btn h-11 w-11"
               aria-label="۱۵ ثانیه جلو"
             >
-              <Forward15Icon className="h-6 w-6" />
+              <Back15Icon className="h-6 w-6" />
             </button>
           </div>
 

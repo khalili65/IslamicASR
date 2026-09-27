@@ -1,0 +1,72 @@
+{
+ "id": "011",
+ "index": 11,
+ "lecturer": "bayat",
+ "course": "al_mawt_bihar",
+ "title": "روایت چهارم کتاب الموت؛ طبیعیات خوردن با آتش",
+ "topic": null,
+ "summary": "روایت چهارم کتاب الموت از خوردن و آشامیدن با آتش (حرارت معده)، دیدن و عمل با نور، شنیدن و بوییدن با ریح، و یافتن طعم با آب سخن می‌گوید. هر یک ظاهری طبیعی و باطنی معنوی دارد: حرارت محبت، نور الهی، پرهیز از شنیده‌های قهرآمیز، و ولایت به‌مثابهٔ آب حیات. خروج از حتی یکی از این ارکان زندگی را مختل می‌کند.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/al_mawt_bihar/011/011_play.m4a",
+  "filename": "011_play.m4a",
+  "size": 8324002,
+  "display": "7.9 MB",
+  "duration": 669.67,
+  "durationText": "11:10"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "011.vtt",
+   "cues": "011.cues.json",
+   "words": "011.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## روایت چهارم کتاب الموت؛ طبیعیات خوردن با آتش",
+   "start": 4.2,
+   "end": 139.1
+  },
+  {
+   "index": 1,
+   "title": "## درون‌مایهٔ روایات؛ حرارت شهادت و حرارت مدیریت",
+   "start": 139.1,
+   "end": 232.54
+  },
+  {
+   "index": 2,
+   "title": "## یبصر ویعمل بالنور؛ دیدن و سپس عمل",
+   "start": 232.54,
+   "end": 277.36
+  },
+  {
+   "index": 3,
+   "title": "## ویسمع ویشم بالریح؛ باد قهر و شنیدن",
+   "start": 277.36,
+   "end": 347.26
+  },
+  {
+   "index": 4,
+   "title": "## خروج از یک رکن؛ محبت در جمع و اداره",
+   "start": 347.26,
+   "end": 669.67
+  }
+ ],
+ "recordedAt": 1764656536,
+ "sourceName": "بحار. کتاب الموت ۱۱.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "010",
+ "next": "012"
+}

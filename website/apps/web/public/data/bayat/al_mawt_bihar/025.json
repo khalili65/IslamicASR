@@ -1,0 +1,72 @@
+{
+ "id": "025",
+ "index": 25,
+ "lecturer": "bayat",
+ "course": "al_mawt_bihar",
+ "title": "تتمیم روایت چهارم؛ نور مؤمن و نار کافر",
+ "topic": null,
+ "summary": "روایت چهارم با پیوند صدر (خوردن با آتش) و ذیل (نفس کافر نار، نفس مؤمن نور) جمع می‌شود. آیات حجر و محمد اهل شکم و تمتع را می‌نمایاند. داستان جمجمه و چخماق باطن آتش‌گونه را آشکار می‌کند. موت سفر از ظاهر به باطن است و بل الإنسان علی نفسه بصیرة؛ نمونه‌های شهادت آرامش باطنی را نشان می‌دهد.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/al_mawt_bihar/025/025_play.m4a",
+  "filename": "025_play.m4a",
+  "size": 8538612,
+  "display": "8.1 MB",
+  "duration": 687.9,
+  "durationText": "11:28"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "025.vtt",
+   "cues": "025.cues.json",
+   "words": "025.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## تتمیم روایت چهارم؛ نور مؤمن و نار کافر",
+   "start": 8.24,
+   "end": 121.1
+  },
+  {
+   "index": 1,
+   "title": "## اصل رویداد در درون انسان",
+   "start": 121.1,
+   "end": 166.66
+  },
+  {
+   "index": 2,
+   "title": "## کسانی که همّشان خوردن است؛ آیات حجر و محمد",
+   "start": 166.66,
+   "end": 189.54
+  },
+  {
+   "index": 3,
+   "title": "## جمجمهٔ کافر و سنگ چخماق؛ آشکار شدن باطن",
+   "start": 189.54,
+   "end": 456.06
+  },
+  {
+   "index": 4,
+   "title": "## موت سفر از ظاهر به باطن؛ بل الإنسان علی نفسه بصیرة",
+   "start": 456.06,
+   "end": 687.9
+  }
+ ],
+ "recordedAt": 1764721618,
+ "sourceName": "بحار. کتاب الموت ۲۵.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "024",
+ "next": "026"
+}

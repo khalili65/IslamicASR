@@ -1,0 +1,72 @@
+{
+ "id": "012",
+ "index": 12,
+ "lecturer": "bayat",
+ "course": "qalb_layyen",
+ "title": "شکر پیروزی و شهدا",
+ "topic": null,
+ "summary": "در شور پیروزی نظامی، استاد بحث قلب لیّن را به یتیم‌نوازی می‌بندد؛ روایت امام عسکری دربارهٔ یتیمِ منقطع از امام را می‌خواند و عملیات دیشب را بزرگ‌ترین یتیم‌نوازی امت می‌شمارد.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/qalb_layyen/012/012_play.m4a",
+  "filename": "012_play.m4a",
+  "size": 13512137,
+  "display": "12.9 MB",
+  "duration": 1085.59,
+  "durationText": "18:06"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "012.vtt",
+   "cues": "012.cues.json",
+   "words": "012.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## شکر پیروزی و شهدا",
+   "start": 0.48,
+   "end": 182.68
+  },
+  {
+   "index": 1,
+   "title": "## قلب لیّن و دست بر سر یتیم",
+   "start": 182.68,
+   "end": 272.08
+  },
+  {
+   "index": 2,
+   "title": "## اشدّ الیتیم؛ منقطع از امام",
+   "start": 272.08,
+   "end": 453.45
+  },
+  {
+   "index": 3,
+   "title": "## حماسهٔ دیشب؛ آمار و سامانه‌ها",
+   "start": 453.45,
+   "end": 610.25
+  },
+  {
+   "index": 4,
+   "title": "## خنکی دل حجّت و یزید زمان",
+   "start": 610.25,
+   "end": 1085.59
+  }
+ ],
+ "recordedAt": 1788083870,
+ "sourceName": "قلب لَیِن12_ج446.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "011",
+ "next": "013"
+}

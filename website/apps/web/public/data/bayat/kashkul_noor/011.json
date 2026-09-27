@@ -1,0 +1,66 @@
+{
+ "id": "011",
+ "index": 10,
+ "lecturer": "bayat",
+ "course": "kashkul_noor",
+ "title": "مقامِ محمود و ختمِ سخن",
+ "topic": null,
+ "summary": "مقامِ محمود محلِّ جمعِ همهٔ خصالِ پسندیده و مرجعِ همهٔ حمدهاست. سرِّ تقرّب به این مقام ودیعتِ فاطمی است؛ درکِ لیلة القدر با مادر خواندنِ زهرا آغاز می‌شود و نورِ اهل بیت حسنی در زجاجهٔ فاطمی است.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/kashkul_noor/011/011_play.m4a",
+  "filename": "011_play.m4a",
+  "size": 6403218,
+  "display": "6.1 MB",
+  "duration": 510.69,
+  "durationText": "8:31"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "011.vtt",
+   "cues": "011.cues.json",
+   "words": "011.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "بسم الله الرحمن الرحیم و به نستعین. درود بر داعیِ خدا و ربّانیِ آیاتش.",
+   "start": 1.4,
+   "end": 166.76
+  },
+  {
+   "index": 1,
+   "title": "## سرِّ وجودِ پیامبر؛ فاطمه",
+   "start": 166.76,
+   "end": 304.24
+  },
+  {
+   "index": 2,
+   "title": "## مادرِ کائنات",
+   "start": 304.24,
+   "end": 414.31
+  },
+  {
+   "index": 3,
+   "title": "## نورِ حسنی در زجاجهٔ فاطمی",
+   "start": 414.31,
+   "end": 510.69
+  }
+ ],
+ "recordedAt": 1763693004,
+ "sourceName": "#کشکول_نور ۲۸-۱۲-۴۰۳.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "010",
+ "next": "012"
+}

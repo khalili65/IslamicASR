@@ -1,0 +1,17 @@
+Opening https://web.eitaa.com
+
+=== 19 ziyarat_jameh شرح زیارت جامعه کبیره (امام شناسی) ===
+Opening invite hash 4159440286C38da2600db...
+  channel 'شرح زیارت جامعه کبیره ' peerId=-94304236 (chatId=94304236, chatInviteAlready)
+Collecting via DOM scroll (selector='audio-element.audio')
+Collecting stream URLs...
+  resolve  شرح زیارت جامعه کبیره1.mp3
+           failed to resolve: Locator.scroll_into_view_if_needed: Timeout 10000ms exceeded.
+  resolve  شرح زیارت جامعه کبیره2.mp3
+           failed to resolve: Locator.scroll_into_view_if_needed: Timeout 10000ms exceeded.
+  collect progress: scrolled 10/320, queued=0, skipped=0, failed=2
+  collect progress: scrolled 20/320, queued=0, skipped=0, failed=2
+No new audio for several scrolls — collection done.
+Queued 0 file(s) for download.
+Renumber skipped: No catalog at /Users/mohammadreza/IslamASR/Audios/Bayat/ziyarat_jameh/catalog.json. Re-run a download/collect first.
+Done ziyarat_jameh: downloaded=2 skipped=0 failed=0 filtered=0

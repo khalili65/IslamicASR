@@ -1,0 +1,1786 @@
+{
+ "version": 1,
+ "sessionId": "034",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 778.46,
+ "alignment": {
+  "exact": 1516,
+  "total": 1516,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## اختلاف تقلید و صحت اقتدا",
+   "start": 13.44,
+   "end": 88.38
+  },
+  {
+   "index": 1,
+   "title": "## ادامهٔ قلب منزل و یادآوری بحث مزاج",
+   "start": 88.38,
+   "end": 170.52
+  },
+  {
+   "index": 2,
+   "title": "## نکتهٔ اول: رب العالمین و رزق عوالم",
+   "start": 170.52,
+   "end": 423.46
+  },
+  {
+   "index": 3,
+   "title": "## نکتهٔ دوم: همراهی روح امین",
+   "start": 423.46,
+   "end": 458.92
+  },
+  {
+   "index": 4,
+   "title": "## نکتهٔ سوم: علی قلبک؛ قلب مقام نزول فیض",
+   "start": 458.92,
+   "end": 500.36
+  },
+  {
+   "index": 5,
+   "title": "## غایت: لتکون من المنذرین",
+   "start": 500.36,
+   "end": 520.66
+  },
+  {
+   "index": 6,
+   "title": "## هشدار به واعظان و پیوند علوم با قرآن",
+   "start": 520.66,
+   "end": 540.82
+  },
+  {
+   "index": 7,
+   "title": "## خاطرهٔ نظارت برنامه و دعای ختم",
+   "start": 540.82,
+   "end": 778.46
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 1.06,
+   "end": 5.46,
+   "text": "بسم الله الرحمن الرحیم و به نستعین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 5.46,
+   "end": 8.1,
+   "text": "السلام علیک یا داعی الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 8.1,
+   "end": 11.22,
+   "text": "و ربانی ایاته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 11.22,
+   "end": 13.44,
+   "text": "السلام علیکم و رحمة الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 13.44,
+   "end": 16.4,
+   "text": "اگر چنانچه در نماز",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 16.4,
+   "end": 23.06,
+   "text": "مسافر اون کسی که مأموم هست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 23.06,
+   "end": 28.68,
+   "text": "مقلد مرجعی باشد و امام جماعت مقلد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 28.68,
+   "end": 33.52,
+   "text": "مرجع دیگری باشد خصوصا حالا در نماز جمعه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 33.52,
+   "end": 37.22,
+   "text": "خب نماز مسافر هم که شکسته است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 37.22,
+   "end": 42.04,
+   "text": "اینجا آیا این اقتدا جایز میشه یا نه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 42.04,
+   "end": 46.16,
+   "text": "رهبر عزیزمون فرمودن که اختلاف در تقلید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 46.16,
+   "end": 49.16,
+   "text": "مانع از صحت اقتدا نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 49.16,
+   "end": 54.18,
+   "text": "صرف این که یعنی صرف این که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 54.18,
+   "end": 60.84,
+   "text": "مأموم و امام تقلیدشون از دو تا مجتهده مانع نیستش که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 60.84,
+   "end": 63.64,
+   "text": "بگیم والا پس نماز اشکال داره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 63.64,
+   "end": 65.7,
+   "text": "اقتدای به این امام اشکال داره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 65.7,
+   "end": 68.58,
+   "text": "این مشکلی نیست اما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 68.58,
+   "end": 77.04,
+   "text": "اقتدا در نمازی که طبق فتوای مرجع تقلید مأموم شکسته باشه، قصر باشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 77.04,
+   "end": 82.48,
+   "text": "و طبق فتوای مرجع تقلید امام جماعت تمام باشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 82.48,
+   "end": 88.38,
+   "text": "یا بالعکس، اینجا دیگه اقتدا صحیح نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 88.38,
+   "end": 92.38,
+   "text": "ادامه بحث قلب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 92.38,
+   "end": 95.16,
+   "text": "منزل رو به فضل الهی پیش میگیریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 95.16,
+   "end": 99.46,
+   "text": "توجه دارید که بحث مزاج رو ما اصلا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 99.46,
+   "end": 104.48,
+   "text": "قصد تفصيل نداشتیم و تفصیلاً هم بیان نکردیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 104.48,
+   "end": 111.44,
+   "text": "به پافشاری خود شما دوستان که براتون نکته جالب بود و گمان نمی‌کردید که حیات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 111.44,
+   "end": 116.34,
+   "text": "مزاجی این چنین اهمیت داشته باشه حتی در سیر و سلوک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 116.34,
+   "end": 121.76,
+   "text": "ما بیشتر مطلب گفتیم و البته دیگه بقیش رو سپردیم به خودتون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 121.76,
+   "end": 125.08,
+   "text": "انشاالله اهل تحقیق و پژوهش هستید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 125.08,
+   "end": 131.14,
+   "text": "و پییش رو میگیرید نسبت به مزاج خودتون و خانواده‌هاتون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 131.14,
+   "end": 133.7,
+   "text": "دیگه سراشیبی بحث قلب منزل هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 133.7,
+   "end": 139.26,
+   "text": "البته سراشیبی که چه عرض کنم ما انقدر مطلب پیرامون قلب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 139.26,
+   "end": 144.42,
+   "text": "به فضل الهی داریم که بگیم یعنی بزرگان گفتن ما که نمیگیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 144.42,
+   "end": 148.86,
+   "text": "اما دیگه قصد ما هم قصر هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 148.86,
+   "end": 151.8,
+   "text": "لذا دیگه جلسات پایانی هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 151.8,
+   "end": 154.18,
+   "text": "اجازه بفرمایید یکی دیگه از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 154.18,
+   "end": 159.28,
+   "text": "آیاتی رو که پیرامون قلب منزل صریحاً سخن گفته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 159.28,
+   "end": 165.72,
+   "text": "مورد بحث قرار بدیم که این آیات صد و نود و دو تا صد و نود و چهار سوره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 165.72,
+   "end": 170.52,
+   "text": "شعراء رو اگر دقت بفرمایین دو تا نکته تو این آیات عرض کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 170.52,
+   "end": 173.02,
+   "text": "اول میفرماید و انه لتنزیل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 173.02,
+   "end": 177.64,
+   "text": "رب العالمين. قطعاً قطعاً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 177.64,
+   "end": 180.96,
+   "text": "دو تا تأکید، یکی ان، یکی هم لام",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 180.96,
+   "end": 186.2,
+   "text": "لا تنزیل. دو تا تأکید میاره که قطعاً این قرآن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 186.2,
+   "end": 190.56,
+   "text": "توسط خ-- رب العالمين نازل شده است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 190.56,
+   "end": 194.94,
+   "text": "رب العالمين که حالا این نکته اینجاست عرض می‌کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 194.94,
+   "end": 197.24,
+   "text": "آیه بعد نزل به الروح الامین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 197.24,
+   "end": 199.26,
+   "text": "چه کسی اینو نازل کرد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 199.26,
+   "end": 206.42,
+   "text": "روح الامین که در میان ملائکه الله اعظم ملائکه است، مقامش خیلی بالا است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 206.42,
+   "end": 208.62,
+   "text": "به کجا نازل کرد؟ آیه بعد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 208.62,
+   "end": 213.6,
+   "text": "على قلبک. ببینید نزل رو بیارید به على قلبک میشه قلب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 213.6,
+   "end": 220.5,
+   "text": "منزل. نزل به الروح الامین على قلبک لتكون من المنذرین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 220.5,
+   "end": 224.28,
+   "text": "برای چی؟ برای اینکه تو از انذار دهندگان باشی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 224.28,
+   "end": 227.04,
+   "text": "على قلبک البته. خب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 227.04,
+   "end": 231.18,
+   "text": "چند تا نکته رو به فضل الهی اینجا بیان کنیم و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 231.18,
+   "end": 234.9,
+   "text": "یا الله کنیم. اولاً میفرماید رب العالمين",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 234.9,
+   "end": 237.4,
+   "text": "طبق بحثی که قبلاً داشتیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 237.4,
+   "end": 241.98,
+   "text": "خب از احدیت مقام احدیت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 241.98,
+   "end": 249.38,
+   "text": "که می‌شود بعد از مقام احدیت می‌شود مقام واحدیت روح ما مرتبه احدیت است و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 249.38,
+   "end": 257.22,
+   "text": "و اتصال به مرتبه اهدی حضرت حق دارد و قلب ما مرتبه الوهیت وجود است، وجود ماست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 257.22,
+   "end": 260.6,
+   "text": "خب عرض کردیم الله،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 260.6,
+   "end": 263.72,
+   "text": "الله اولین اسم است که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 263.72,
+   "end": 267.0,
+   "text": "از ذات حضرت حق منتشر شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 267.0,
+   "end": 270.38,
+   "text": "خب این الله برای اینکه مالک است،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 270.38,
+   "end": 274.12,
+   "text": "رازق است و باید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 274.12,
+   "end": 278.04,
+   "text": "نسبت به مقتضا اون حالا اون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 278.04,
+   "end": 281.38,
+   "text": "هر کدوم از کلمات وجودی نظام هستی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 281.38,
+   "end": 285.08,
+   "text": "یک غذای خاصی برای خودشون دارن، یه غذای خاصی می‌خورن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 285.08,
+   "end": 290.5,
+   "text": "مثل اینکه بچه در دوران طفولیت در دوران شیرخوارگ-خوارگی شیر باید بخوره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 290.5,
+   "end": 294.22,
+   "text": "رزقش شیره. در شکم مادر رزقش خونه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 294.22,
+   "end": 297.92,
+   "text": "بعد شیره. بعد از اینکه از شیر گرفتی غذاهای مختلف.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 297.92,
+   "end": 300.92,
+   "text": "همینطور تا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 300.92,
+   "end": 305.9,
+   "text": "مزاج هرچی هی معتدل‌تر میشه غذاها هم فرق می‌کنند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 305.9,
+   "end": 311.18,
+   "text": "خب اون الله وقتی می‌خواد رزق رو از خدای منان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 311.18,
+   "end": 317.76,
+   "text": "الله می‌شود کانال فیض می‌خواد رزق رو برسونه که عرض کردیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 317.76,
+   "end": 322.84,
+   "text": "قلب همون مقام الوهیت یعنی الله رو دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 322.84,
+   "end": 325.16,
+   "text": "این می‌شود برزخ.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 325.16,
+   "end": 327.54,
+   "text": "برزخ بین باطن و ظاهر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 327.54,
+   "end": 330.06,
+   "text": "می‌شود کانال فیض.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 330.06,
+   "end": 333.3,
+   "text": "وقتی می‌خواد رزق رو به هر موجودی برساند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 333.3,
+   "end": 341.78,
+   "text": "این کانالی که از الله رزق می‌رسد به تمام کلمات وجودی نظام، نظام هستی اون می‌شود رب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 341.78,
+   "end": 343.92,
+   "text": "رب به هر شیئی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 343.92,
+   "end": 345.52,
+   "text": "می‌شود اون کانال رزقش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 345.52,
+   "end": 347.44,
+   "text": "کانالی که رزق از خدا به او می‌رسه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 347.44,
+   "end": 353.3,
+   "text": "البته این یک معنا از رب است که حالا معنای متعالی‌تر از این هم هست که انشالله بعدها عرض خواهیم کرد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 353.3,
+   "end": 356.66,
+   "text": "که در fusus ابن عربی علیه الرحمه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 356.66,
+   "end": 362.02,
+   "text": "به وضوح بیان شده. پس این یک نکته که این رب العالمين",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 362.02,
+   "end": 366.38,
+   "text": "یعنی اینکه داره نشون میده که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 366.38,
+   "end": 368.56,
+   "text": "چون حالا رب، رب اینجا چی بود؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 368.56,
+   "end": 371.52,
+   "text": "معنا، معنا و مفهوم رب اینجا رازق بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 371.52,
+   "end": 375.42,
+   "text": "رازق و مالک بود. اون میگه رب العالمین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 375.42,
+   "end": 378.68,
+   "text": "یعنی پروردگار همه عالم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 378.68,
+   "end": 382.28,
+   "text": "خب چون این مقام رازقه است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 382.28,
+   "end": 384.38,
+   "text": "پس و همه عالم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 384.38,
+   "end": 388.26,
+   "text": "همه عالم دقت بفرمایید رب العالمین است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 388.26,
+   "end": 391.28,
+   "text": "یعنی رزق همه عوالم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 94,
+   "start": 391.28,
+   "end": 396.64,
+   "text": "از او می‌رسد. خب این رزق رو قبلاً عرض کردیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 95,
+   "start": 396.64,
+   "end": 399.24,
+   "text": "رزق همه عوالم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 96,
+   "start": 399.24,
+   "end": 402.5,
+   "text": "در کجا بود؟ در قرآن بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 97,
+   "start": 402.5,
+   "end": 406.92,
+   "text": "چون قرآن همه فیض را دارد، همه علم را دارد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 98,
+   "start": 406.92,
+   "end": 410.9,
+   "text": "همه به یک معنا نور را دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 99,
+   "start": 410.9,
+   "end": 413.18,
+   "text": "قرآن مقام جمع دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 100,
+   "start": 413.18,
+   "end": 415.36,
+   "text": "لا تنزيل ورب العالمین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 101,
+   "start": 415.36,
+   "end": 421.66,
+   "text": "چون پروردگار عالمین این رو نازل کرده پس رزق همه عوالم هستی در قرآن هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 102,
+   "start": 421.66,
+   "end": 425.84,
+   "text": "این یک نکته. نکته بعد اینکه همونطور که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 103,
+   "start": 425.84,
+   "end": 430.84,
+   "text": "هرچی شخصیت کسی بالاتر باشه خب هم شأنش سعی میشه یک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 104,
+   "start": 430.84,
+   "end": 438.08,
+   "text": "مثلاً حافظی، نگهبانی، محافظی چیزی براش قرار بدن یا لااقل در تشریفات و اینا بیشتر استفاده میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 105,
+   "start": 438.08,
+   "end": 441.1,
+   "text": "خدا هم تشریفات رو حفظ کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 106,
+   "start": 441.1,
+   "end": 444.86,
+   "text": "در نازل شدن این قرآن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 107,
+   "start": 444.86,
+   "end": 453.22,
+   "text": "حضرت روح الامین رو که بالاترین مرتبت رو میان ملائکه داره، ایشون همراهی قرآن می‌کنن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 108,
+   "start": 453.22,
+   "end": 457.48,
+   "text": "که اون در حقیقت تشریفات قرآن هم چی شده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 109,
+   "start": 457.48,
+   "end": 460.4,
+   "text": "حفظ شده. اما نکته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 110,
+   "start": 460.4,
+   "end": 463.42,
+   "text": "سوم اینکه بر کجا نازل شده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 111,
+   "start": 463.42,
+   "end": 467.52,
+   "text": "علی قلب که بر قلب پیغمبر نازل شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 112,
+   "start": 467.52,
+   "end": 473.48,
+   "text": "پس محل نزول رزق همه عالم شده قلب پیغمبر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 113,
+   "start": 473.48,
+   "end": 478.34,
+   "text": "پس قلب مقام نزول رزق هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 114,
+   "start": 478.34,
+   "end": 481.3,
+   "text": "محل نزول فیض هست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 115,
+   "start": 481.3,
+   "end": 487.16,
+   "text": "که پیغمبر عزیز عالم به این آیه متوجه میشیم که واسطه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 116,
+   "start": 487.16,
+   "end": 490.04,
+   "text": "فیض است. واسطه رزق است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 117,
+   "start": 490.04,
+   "end": 494.56,
+   "text": "میان رازق علی الاطلاق و همه مرزوقین عالم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 118,
+   "start": 494.56,
+   "end": 500.24,
+   "text": "الله اکبر! ببینید مقام جامعیت در برزخ رو اینجا چگونه پیغمبر دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 119,
+   "start": 500.24,
+   "end": 502.52,
+   "text": "و نکته سوم و آخر اینکه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 120,
+   "start": 502.52,
+   "end": 507.76,
+   "text": "به-- حالا این قرآن نازل شد، تشریفاتش هم انجام شد به قلب تو هم یا رسول الله نازل شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 121,
+   "start": 507.76,
+   "end": 510.38,
+   "text": "برای چی؟ این برای چی‌ش خیلی مهمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 122,
+   "start": 510.38,
+   "end": 513.08,
+   "text": "لتکن من المنذرین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 123,
+   "start": 513.08,
+   "end": 520.66,
+   "text": "تا اینکه تو انذار بدی، بترسانی به دیگران ابلاغ کنی و بترسانی دیگران رو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 124,
+   "start": 520.66,
+   "end": 526.76,
+   "text": "بهشون نهیب بزنی که از غفلت بیرون بیان حواسشون جمع باشه که کجا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 125,
+   "start": 526.76,
+   "end": 530.94,
+   "text": "خب پس این نکته سوم می‌شود این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 126,
+   "start": 530.94,
+   "end": 536.38,
+   "text": "که تا حقایق قرآن بر قلب تو نازل نشود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 127,
+   "start": 536.38,
+   "end": 538.74,
+   "text": "نمی‌توانی منذر باشی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 128,
+   "start": 538.74,
+   "end": 542.86,
+   "text": "از کجا اینو درآوردی؟ چون می‌فرماید علی قلب که، که چی بشه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 129,
+   "start": 542.86,
+   "end": 545.0,
+   "text": "برای چی این نازل شده به قلب تو؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 130,
+   "start": 545.0,
+   "end": 547.1,
+   "text": "لتکن من المنذرین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 131,
+   "start": 547.1,
+   "end": 554.92,
+   "text": "یعنی همه این حقایق به قلب تو نازل شده است تا به مقام انذار برسی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 132,
+   "start": 554.92,
+   "end": 560.8,
+   "text": "انم که انما قرآن می‌فرماید انما انتم انذر ولکل قوم هاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 133,
+   "start": 560.8,
+   "end": 564.44,
+   "text": "فقط منحصراً تو اون انذار دهنده‌ای.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 134,
+   "start": 564.44,
+   "end": 567.22,
+   "text": "چرا انما انتم انذر فقط تو؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 135,
+   "start": 567.22,
+   "end": 569.46,
+   "text": "چون همه قرآن به قلب توست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 136,
+   "start": 569.46,
+   "end": 572.98,
+   "text": "به یک معنا یعنی تو انذار میدی به همه عوالم هستی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 137,
+   "start": 572.98,
+   "end": 575.86,
+   "text": "یعنی هرکس هم در مقام انذار",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 138,
+   "start": 575.86,
+   "end": 579.2,
+   "text": "قرار بگیرد در طول شما باید باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 139,
+   "start": 579.2,
+   "end": 582.8,
+   "text": "یعنی از شما اخذ کند، از قرآن اخذ کند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 140,
+   "start": 582.8,
+   "end": 587.22,
+   "text": "از روح الامین اخذ کند و از خدای رب العالمین اخذ کرده باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 141,
+   "start": 587.22,
+   "end": 590.44,
+   "text": "پس تا کسی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 142,
+   "start": 590.44,
+   "end": 596.98,
+   "text": "حقایق به قلبش نازل نشده است، نمی‌تواند در مقام انذار باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 143,
+   "start": 596.98,
+   "end": 601.98,
+   "text": "جا قابل توجه اونهایی که بدون بهره گرفتن از قرآن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 144,
+   "start": 601.98,
+   "end": 605.12,
+   "text": "بدون اینکه قلبشون محل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 145,
+   "start": 605.12,
+   "end": 609.34,
+   "text": "نزول حقایق قرآنی باشد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 146,
+   "start": 609.34,
+   "end": 612.4,
+   "text": "میرن به خطابه و وعظ",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 147,
+   "start": 612.4,
+   "end": 615.2,
+   "text": "و موعظه و عرض شود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 148,
+   "start": 615.2,
+   "end": 617.94,
+   "text": "در مقام انذار و این‌ها قرار می‌گیرن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 149,
+   "start": 617.94,
+   "end": 620.92,
+   "text": "یک در حقیقت خیلی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 150,
+   "start": 620.92,
+   "end": 627.38,
+   "text": "گوش عجیبی اینجا پیچونده این آیه از امثال بنده که خیلی باید مراقب باشیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 151,
+   "start": 627.38,
+   "end": 631.86,
+   "text": "پس اگر کسی در مقام انذار قرار بگیرد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 152,
+   "start": 631.86,
+   "end": 636.78,
+   "text": "اما سخنش سخن قرآنی نباشد وا مصیبتا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 153,
+   "start": 636.78,
+   "end": 641.12,
+   "text": "بیانش بر مبنای قرآن نباشد وا مصیبتا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 154,
+   "start": 641.12,
+   "end": 645.68,
+   "text": "در بین صحبت‌هاش اصلاً طول صحبتش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 155,
+   "start": 645.68,
+   "end": 649.84,
+   "text": "در خصوص قرآن نباشد وا مصیبتا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 156,
+   "start": 649.84,
+   "end": 653.24,
+   "text": "یعنی اگر غافل از قرآن باشد وا مصیبتا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 157,
+   "start": 653.24,
+   "end": 656.38,
+   "text": "حتی در هر موضوعی بخواد سخن بگه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 158,
+   "start": 656.38,
+   "end": 663.76,
+   "text": "یه قرآن وفل اروع آیات للمؤمنین از آیه‌های حضرت حق بر اهل یقین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 159,
+   "start": 663.76,
+   "end": 667.08,
+   "text": "در ارض هم در زمین هم هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 160,
+   "start": 667.08,
+   "end": 670.62,
+   "text": "ان فی خلق السماوات والارض واختلاف الليل والنهار.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 161,
+   "start": 670.62,
+   "end": 674.84,
+   "text": "در آسمانها و زمین و رفت و آمد شب و روز و اینا هم چی هست؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 162,
+   "start": 674.84,
+   "end": 677.94,
+   "text": "اینا آیات الهین دیگه. پس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 163,
+   "start": 677.94,
+   "end": 681.88,
+   "text": "حتی هواشناسی، زمین شناسی، خاک شناسی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 164,
+   "start": 681.88,
+   "end": 684.32,
+   "text": "کره شناسی، علم نجوم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 165,
+   "start": 684.32,
+   "end": 686.62,
+   "text": "هیئت، ریاضیات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 166,
+   "start": 686.62,
+   "end": 690.92,
+   "text": "اینا همش هم قرآنیه. همه این علوم قرآنی ان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 167,
+   "start": 690.92,
+   "end": 693.24,
+   "text": "توجه کردید چی عرض می‌کنم؟ پس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 168,
+   "start": 693.24,
+   "end": 695.56,
+   "text": "ما ربط این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 169,
+   "start": 695.56,
+   "end": 698.16,
+   "text": "تنزل یافته‌ها رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 170,
+   "start": 698.16,
+   "end": 705.54,
+   "text": "به وجود حضرت حق به اون ذات غیب الغیوب از قرآن می‌یابیم و باید بیابیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 171,
+   "start": 705.54,
+   "end": 709.98,
+   "text": "که غیر-- اگر غیر از این باشد ما به بیراهه رفتیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 172,
+   "start": 709.98,
+   "end": 712.64,
+   "text": "و خطر جدی ما رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 173,
+   "start": 712.64,
+   "end": 714.84,
+   "text": "تهدید کرده که می‌کنه و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 174,
+   "start": 714.84,
+   "end": 718.44,
+   "text": "متاسفانه خیلی، خیلی ماها فاصله از قرآن داریم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 175,
+   "start": 718.44,
+   "end": 724.14,
+   "text": "که من یادم نمیره متاسفانه تلخی که در کام ما بود اون مدت که چندین سال حدود ده سال",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 176,
+   "start": 724.14,
+   "end": 727.58,
+   "text": "مثلاً ناظر برنامه‌ها بودیم و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 177,
+   "start": 727.58,
+   "end": 731.64,
+   "text": "مثلاً، مثلاً به، به عنوان نمونه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 178,
+   "start": 731.64,
+   "end": 734.34,
+   "text": "برنامه‌هایی که البته بعد از پخش،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 179,
+   "start": 734.34,
+   "end": 736.56,
+   "text": "بعد از پخش نظارت می‌کردیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 180,
+   "start": 736.56,
+   "end": 738.9,
+   "text": "یا ارزشیابی بهتره بگیم می‌کردیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 181,
+   "start": 738.9,
+   "end": 741.8,
+   "text": "برنامه‌ای رو دیدیم که کارشناس روحانی بود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 182,
+   "start": 741.8,
+   "end": 745.3,
+   "text": "و محور بحث پیرامون تربیت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 183,
+   "start": 745.3,
+   "end": 747.9,
+   "text": "اولاد به سبک اسلامی بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 184,
+   "start": 747.9,
+   "end": 753.82,
+   "text": "دریغ از یک آیه قرآن و حتی یک حدیث که این کارشناس بگه و ما اونو گزارش کردیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 185,
+   "start": 753.82,
+   "end": 759.76,
+   "text": "فقط تجربیات خودش رو اون کارشناس با روابطش با دانشجوها و تو دانشگاه و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 186,
+   "start": 759.76,
+   "end": 763.82,
+   "text": "تو بین مردم و اینا در قالب خاطره و داستان و اینها می‌گفت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 187,
+   "start": 763.82,
+   "end": 766.44,
+   "text": "متاسفانه، متاسفانه، متاسفانه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 188,
+   "start": 766.44,
+   "end": 769.6,
+   "text": "خدا ما رو حفظ کنه از اینکه از قرآن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 189,
+   "start": 769.6,
+   "end": 774.8,
+   "text": "غافل باشیم و محل فیض و نزول حقایق قرآنی نباشیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 190,
+   "start": 774.8,
+   "end": 778.46,
+   "text": "ان شا الله که عاقبتمون ختم بخیر باشد به برکت صلوات بر محمد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

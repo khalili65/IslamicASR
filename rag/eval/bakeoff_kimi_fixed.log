@@ -1,0 +1,40 @@
+Eval 3 questions × 2 combos = 6 runs
+Output → /Users/mohammadreza/IslamASR/rag/eval/runs/20260923_071259
+[1/6] H2 | bge-m3 | Kimi-K2.6 …
+    ok used=5 cost=≈ $0.0084 26.6s
+[2/6] H2 | Qwen3-Embedding-8B | Kimi-K2.6 …
+    ok used=6 cost=≈ $0.0082 31.9s
+[3/6] H3 | bge-m3 | Kimi-K2.6 …
+    ok used=5 cost=≈ $0.0072 35.6s
+[4/6] H3 | Qwen3-Embedding-8B | Kimi-K2.6 …
+    ok used=3 cost=≈ $0.0054 14.5s
+[5/6] H6 | bge-m3 | Kimi-K2.6 …
+    ok used=6 cost=≈ $0.0089 35.5s
+[6/6] H6 | Qwen3-Embedding-8B | Kimi-K2.6 …
+    ok used=6 cost=≈ $0.0084 38.3s
+
+# RAG bake-off 20260923_071259
+
+- Questions: 3 (easy/medium/hard mix)
+- Combos: 2
+- OK: 6 · errors: 0
+- Approx total API cost (reported): **$0.0465**
+
+## Combinations
+
+| Embed | LLM | OK | Errors | Avg used chunks | Approx $ |
+| --- | --- | ---: | ---: | ---: | ---: |
+| `BAAI/bge-m3` | `moonshotai/Kimi-K2.6` | 3 | 0 | 5.3 | $0.0245 |
+| `Qwen/Qwen3-Embedding-8B` | `moonshotai/Kimi-K2.6` | 3 | 0 | 5.0 | $0.0220 |
+
+## How to compare
+
+1. Open `answers/` — same question id, different embed/LLM filenames.
+2. Check whether used passages are on-topic (retrieval quality → embedding).
+3. Check answer faithfulness and citation quality (generation → LLM).
+4. Prefer cheaper combo if quality is similar.
+
+Raw rows: `results.jsonl`
+
+
+Done. Study: /Users/mohammadreza/IslamASR/rag/eval/runs/20260923_071259/summary.md

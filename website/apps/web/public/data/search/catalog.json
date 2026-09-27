@@ -3,18 +3,58 @@
  "lecturers": [
   {
    "slug": "bayat",
-   "name": "حضرت استاد بیات (عبدالزهرا)",
+   "name": "استاد بیات (عبدالزهرا)",
    "format": "audio",
    "source": "cues-raw-asr",
    "courses": [
+    {
+     "slug": "leghaallah",
+     "title": "لقاء الله",
+     "format": "audio"
+    },
+    {
+     "slug": "al_mawt_bihar",
+     "title": "کتاب الموت",
+     "format": "audio"
+    },
+    {
+     "slug": "asrar_ruzeh_namaz",
+     "title": "اسرار روزه و نماز",
+     "format": "audio"
+    },
+    {
+     "slug": "darunmayeh_ramadan",
+     "title": "درون مایه ماه مبارک رمضان",
+     "format": "audio"
+    },
     {
      "slug": "ehras_awzat",
      "title": "احراز و عوذات",
      "format": "audio"
     },
     {
-     "slug": "leghaallah",
-     "title": "لقاء الله",
+     "slug": "ensan_kamel",
+     "title": "انسان کامل",
+     "format": "audio"
+    },
+    {
+     "slug": "kashkul_noor",
+     "title": "کشکول نور",
+     "format": "audio"
+    },
+    {
+     "slug": "manazel_saerein",
+     "title": "منازل السائرین",
+     "format": "audio"
+    },
+    {
+     "slug": "maqamat_imam_zaman",
+     "title": "مقامات امام زمان",
+     "format": "audio"
+    },
+    {
+     "slug": "maqamat_zahra",
+     "title": "مقامات حضرت زهرا",
      "format": "audio"
     },
     {
@@ -23,8 +63,168 @@
      "format": "audio"
     },
     {
+     "slug": "masael_ebadi",
+     "title": "مسائل عبادی سیاسی اجتماعی",
+     "format": "audio"
+    },
+    {
+     "slug": "nahj_al_wilayah",
+     "title": "نهج الولایة",
+     "format": "audio"
+    },
+    {
+     "slug": "nameha_barnameha",
+     "title": "نامه‌ها برنامه‌ها",
+     "format": "audio"
+    },
+    {
+     "slug": "porsesh_pasokh",
+     "title": "پرسش و پاسخ",
+     "format": "audio"
+    },
+    {
+     "slug": "qalb_aghlad",
+     "title": "قلب اغلف",
+     "format": "audio"
+    },
+    {
+     "slug": "qalb_athem",
+     "title": "قلب آثم",
+     "format": "audio"
+    },
+    {
+     "slug": "qalb_khashe",
+     "title": "قلب خاشع",
+     "format": "audio"
+    },
+    {
+     "slug": "qalb_layyen",
+     "title": "قلب لیّن",
+     "format": "audio"
+    },
+    {
+     "slug": "qalb_makhtum",
+     "title": "قلب مختوم",
+     "format": "audio"
+    },
+    {
+     "slug": "qalb_maknun",
+     "title": "قلب مکنون",
+     "format": "audio"
+    },
+    {
+     "slug": "qalb_maluf",
+     "title": "قلب مألوف",
+     "format": "audio"
+    },
+    {
+     "slug": "qalb_manzel",
+     "title": "قلب منزل",
+     "format": "audio"
+    },
+    {
+     "slug": "qalb_maqful",
+     "title": "قلب مقفول",
+     "format": "audio"
+    },
+    {
+     "slug": "qalb_marub",
+     "title": "قلب مرعوب",
+     "format": "audio"
+    },
+    {
+     "slug": "qalb_mashrub",
+     "title": "قلب مشروب",
+     "format": "audio"
+    },
+    {
+     "slug": "qalb_matbu",
+     "title": "قلب مطبوع",
+     "format": "audio"
+    },
+    {
+     "slug": "qalb_mokhbet",
+     "title": "قلب مخبت",
+     "format": "audio"
+    },
+    {
+     "slug": "qalb_momen",
+     "title": "قلب مؤمن",
+     "format": "audio"
+    },
+    {
+     "slug": "qalb_momtahan",
+     "title": "قلب ممتحن",
+     "format": "audio"
+    },
+    {
+     "slug": "qalb_monafeq",
+     "title": "قلب منافق",
+     "format": "audio"
+    },
+    {
+     "slug": "qalb_monghamer",
+     "title": "قلب منغمر",
+     "format": "audio"
+    },
+    {
+     "slug": "qalb_monharef",
+     "title": "قلب منحرف",
+     "format": "audio"
+    },
+    {
+     "slug": "qalb_monib",
+     "title": "قلب منیب",
+     "format": "audio"
+    },
+    {
+     "slug": "qalb_morib",
+     "title": "قلب مریب",
+     "format": "audio"
+    },
+    {
+     "slug": "qalb_motmaen",
+     "title": "قلب مطمئن",
+     "format": "audio"
+    },
+    {
+     "slug": "qalb_qasi",
+     "title": "قلب قسی",
+     "format": "audio"
+    },
+    {
+     "slug": "qalb_salim",
+     "title": "قلب سلیم",
+     "format": "audio"
+    },
+    {
+     "slug": "sad_kalameh",
+     "title": "صد کلمه در معرفت نفس",
+     "format": "audio"
+    },
+    {
      "slug": "sermaknoon",
      "title": "سر مکنون",
+     "format": "audio"
+    },
+    {
+     "slug": "seyr_bahr_olum",
+     "title": "سیر و سلوک سید بحرالعلوم",
+     "format": "audio"
+    },
+    {
+     "slug": "seyr_tabatabai",
+     "title": "سیر و سلوک علامه طباطبایی",
+     "format": "audio"
+    },
+    {
+     "slug": "sukhtan",
+     "title": "موضوع سوختن",
+     "format": "audio"
+    },
+    {
+     "slug": "ziyarat_jameh",
+     "title": "زیارت جامعه کبیره",
      "format": "audio"
     }
    ]

@@ -1,0 +1,66 @@
+{
+ "id": "002",
+ "index": 2,
+ "lecturer": "bayat",
+ "course": "qalb_maluf",
+ "title": "استفتای فطریهٔ مهمان شب عید فطر",
+ "topic": null,
+ "summary": "استفتا: با یکی دو شب مهمانی نان‌خور نمی‌شود و فطریه بر میزبان نیست. سپس معانی تألیف و ایلاف قریش و کار هاشم در جمع قلوب؛ قلب مألوف مقام جمعی و عرش رحمان است.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/qalb_maluf/002/002_play.m4a",
+  "filename": "002_play.m4a",
+  "size": 5010391,
+  "display": "4.8 MB",
+  "duration": 403.84,
+  "durationText": "6:44"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "002.vtt",
+   "cues": "002.cues.json",
+   "words": "002.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## استفتای فطریهٔ مهمان شب عید فطر",
+   "start": 0.46,
+   "end": 93.24
+  },
+  {
+   "index": 1,
+   "title": "## قلب مألوف؛ لغت تألیف",
+   "start": 93.24,
+   "end": 170.26
+  },
+  {
+   "index": 2,
+   "title": "### چرا ایلاف؟ کار تجاری هاشم",
+   "start": 170.26,
+   "end": 322.02
+  },
+  {
+   "index": 3,
+   "title": "### بازگشت به قلب مألوف",
+   "start": 322.02,
+   "end": 403.84
+  }
+ ],
+ "recordedAt": 1785951236,
+ "sourceName": "قلب مالوف2_ج324.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "001",
+ "next": "003"
+}

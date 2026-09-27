@@ -1,0 +1,3091 @@
+{
+ "version": 1,
+ "sessionId": "054",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 1399.02,
+ "alignment": {
+  "exact": 2679,
+  "total": 2679,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## آیات مورد بحث در این جلسه",
+   "start": 139.58,
+   "end": 286.8
+  },
+  {
+   "index": 1,
+   "title": "## دو نگاه به کنیه: پسر به نام لهب، یا وصفِ قرآنی",
+   "start": 286.8,
+   "end": 306.92
+  },
+  {
+   "index": 2,
+   "title": "چطور آتش روشن کرده؟ «یدا»؛ با دو تا دست.",
+   "start": 306.92,
+   "end": 328.1
+  },
+  {
+   "index": 3,
+   "title": "## امرأته حمالة الحطب: نقش پشت‌صحنه",
+   "start": 328.1,
+   "end": 458.81
+  },
+  {
+   "index": 4,
+   "title": "## تبت: ناکارآمدی دست‌ها و خودِ او",
+   "start": 458.81,
+   "end": 497.51
+  },
+  {
+   "index": 5,
+   "title": "## آیهٔ دو تفسیر تبت یدا؛ آیهٔ سه تفسیر و تبّ",
+   "start": 497.51,
+   "end": 556.31
+  },
+  {
+   "index": 6,
+   "title": "## عطف امرأته به سیصلی: هر دو در یک آتش",
+   "start": 556.31,
+   "end": 613.23
+  },
+  {
+   "index": 7,
+   "title": "## ابو لهب و ابو لهبیسم",
+   "start": 613.23,
+   "end": 775.77
+  },
+  {
+   "index": 8,
+   "title": "## دو لهب: دشمنی دنیا، آتش آخرت",
+   "start": 775.77,
+   "end": 797.55
+  },
+  {
+   "index": 9,
+   "title": "## دو نقل شأن نزول که با فضای سوره هماهنگ نیست",
+   "start": 797.55,
+   "end": 1003.21
+  },
+  {
+   "index": 10,
+   "title": "## هیزمِ متناسب با لهب: تهییج و نگه‌داشتن در صحنه",
+   "start": 1003.21,
+   "end": 1068.55
+  },
+  {
+   "index": 11,
+   "title": "## عذاب مضاعف و حکایت کمربند",
+   "start": 1068.55,
+   "end": 1134.3
+  },
+  {
+   "index": 12,
+   "title": "## قرائت پایانی سورهٔ مسد",
+   "start": 1134.3,
+   "end": 1178.12
+  },
+  {
+   "index": 13,
+   "title": "## تنبیه‌های خاص پدرِ معلم",
+   "start": 1178.12,
+   "end": 1399.02
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 10.54,
+   "end": 12.18,
+   "text": "بسم الله الرحمن الرحیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 12.18,
+   "end": 16.74,
+   "text": "سوره مسد. \"تبت یدا ابی لهب و تب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 16.74,
+   "end": 20.8,
+   "text": "ما أغنی عنه ماله و ما كسب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 20.8,
+   "end": 24.5,
+   "text": "سيصلی نارا ذات لهب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 24.5,
+   "end": 27.76,
+   "text": "و امرأته حمالة الحطب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 27.76,
+   "end": 32.04,
+   "text": "في جيدها حبل من مسد.\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 32.04,
+   "end": 42.4,
+   "text": "کل سوره محور مباحث شخصیت نحسی‌ست به نام ابو لهب .",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 42.4,
+   "end": 46.2,
+   "text": "ابو لهب یعنی یه کنیه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 46.2,
+   "end": 49.58,
+   "text": "پدر آتش .",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 49.58,
+   "end": 52.02,
+   "text": "دو جور می‌تونیم به این کنیه نگاه کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 52.02,
+   "end": 55.96,
+   "text": "یه نگاه اینه که بگیم بله، این بابا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 55.96,
+   "end": 61.4,
+   "text": "پسری داشته اسمش لهب بوده بهش می‌گفتن ابو لهب یا نه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 61.4,
+   "end": 65.26,
+   "text": "معروف بوده به ابو لهب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 65.26,
+   "end": 68.04,
+   "text": "یه جور دومی هم می‌تونیم نگاه کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 68.04,
+   "end": 72.66,
+   "text": "اون اینه که قرآن او را ابو لهب نام می‌ده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 72.66,
+   "end": 76.88,
+   "text": "اصلاً او با کنیه‌گذاری قرآن شد ابو لهب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 76.88,
+   "end": 79.46,
+   "text": "ابو لهب یه وصفه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 79.46,
+   "end": 82.8,
+   "text": "حالا در زمان نزول قرآن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 82.8,
+   "end": 85.24,
+   "text": "بر یه شخصی تطبیق داده شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 85.24,
+   "end": 91.1,
+   "text": "ممکنه در زمان‌های دیگر بر اشخاص دیگری هم تطبیق داده بشود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 91.1,
+   "end": 96.8,
+   "text": "حالا در زمان نزول قرآن عمویی داشته پیغمبر گرامی اسلام که بسیار معاند بوده،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 96.8,
+   "end": 100.4,
+   "text": "این صفت رو قرآن به او داده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 100.4,
+   "end": 103.18,
+   "text": "این وجه دوم به نظر صحیح‌تره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 103.18,
+   "end": 109.02,
+   "text": "چرا؟ چون نگاه کنید خود قرآن میگه \"سيصلی نارا ذات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 109.02,
+   "end": 111.02,
+   "text": "لهب\" یعنی اصلاً اون چرا ابو لهبه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 111.02,
+   "end": 115.34,
+   "text": "چون میفته تو لهب. ابو لهب است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 115.34,
+   "end": 117.96,
+   "text": "چون لهب افروز است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 117.96,
+   "end": 123.08,
+   "text": "ابو لهب است یعنی تو اون لهبی وارد می‌شود که خودش افروخته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 123.08,
+   "end": 127.36,
+   "text": "تو اون آتشی وارد میشه که خودش روشن کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 127.36,
+   "end": 129.82,
+   "text": "حالا آتشی که او روشن کرده چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 129.82,
+   "end": 137.26,
+   "text": "آتش کینه و دشمنیه با حق و حقیقت، با اسلام و پیغمبر، با قرآن و دیانت .",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 137.26,
+   "end": 142.6,
+   "text": "چجوری آتش روشن کرده؟ \"يدا\" با دو تا دست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 142.6,
+   "end": 148.16,
+   "text": ". این دو تا دست ابو لهب چی بوده که با این دو دست تمام تلاش خود را کرده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 148.16,
+   "end": 150.78,
+   "text": "دست نشانه قدرت و تلاشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 150.78,
+   "end": 154.68,
+   "text": "تمام تلاش خودشو کرده آتش به پا کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 154.68,
+   "end": 156.24,
+   "text": "آیه بعد مشخص می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 156.24,
+   "end": 162.94,
+   "text": "یک، مال. دو، \"ما كسب\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 162.94,
+   "end": 167.7,
+   "text": "دست اول او ثروت اوست، دست دوم او کاراشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 167.7,
+   "end": 172.68,
+   "text": ". یه وقت یه سری از انسان‌ها با ثروت‌شون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 172.68,
+   "end": 179.68,
+   "text": "و کارهایی که در کنار اون ثروت تدبیر می‌کنند، در کنار ثروت‌شون کارهایی که انجام میدن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 179.68,
+   "end": 186.48,
+   "text": "دو دست خود را که ثروت و رفتارهاشونه به کار می‌گیرن که یه آتش افروزی کنند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 186.48,
+   "end": 192.38,
+   "text": "او همین کارو کرده و آتش افروزی کرده علیه اسلام",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 192.38,
+   "end": 196.56,
+   "text": ". بعد تو این جریان یه \"امرأته\" داریم؛",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 196.56,
+   "end": 199.8,
+   "text": "یعنی زن ابو لهب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 199.8,
+   "end": 203.06,
+   "text": "زن ابو لهب چیکار می‌کرده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 203.06,
+   "end": 206.84,
+   "text": "اینم از این باب که زن ابو لهبه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 206.84,
+   "end": 209.08,
+   "text": "حالا زن او بودن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 209.08,
+   "end": 211.92,
+   "text": "موضوعیت داره نه در رتبه اول.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 211.92,
+   "end": 216.44,
+   "text": "مسئله اول اینه که \"حمالة الحطب\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 216.44,
+   "end": 221.56,
+   "text": "\"امرأته حمالة الحطب\" یعنی در حالی که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 221.56,
+   "end": 224.76,
+   "text": "، حمال یعنی حمل کننده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 224.76,
+   "end": 227.17,
+   "text": "بسیار حمل کننده \"حطب\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 227.17,
+   "end": 232.18,
+   "text": "\"حطب\" یعنی هیزم. خب این هیزم برای چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 232.18,
+   "end": 235.14,
+   "text": "برای آتش. کدوم آتش؟ همین لهب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 235.14,
+   "end": 238.58,
+   "text": "کدوم لهب؟ لهبی که ابو لهب روشنش کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 238.58,
+   "end": 242.52,
+   "text": "یعنی آتش افروز کی بوده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 242.52,
+   "end": 247.48,
+   "text": "ابو لهب. هیزماورش تامین کننده هیزمش کی بوده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 247.48,
+   "end": 250.72,
+   "text": "زنش. پس دو تا نقش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 250.72,
+   "end": 254.82,
+   "text": "در دشمنی با دین خدا تعریف میشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 254.82,
+   "end": 257.5,
+   "text": ". یه نقش، نقش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 257.5,
+   "end": 261.0,
+   "text": "تو صحنه، تو میدان، رو،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 261.0,
+   "end": 263.54,
+   "text": "این نقش تلاش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 263.54,
+   "end": 265.78,
+   "text": "و استفاده از ثروت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 265.78,
+   "end": 269.88,
+   "text": "برای آتش روشن کردن علیه حق و حقیقت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 269.88,
+   "end": 275.16,
+   "text": "یکی هم نقش پشتیبانی کننده، تامین کننده سوخت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 275.16,
+   "end": 279.26,
+   "text": "یعنی اونی که اجازه نمیده این آتیشه خاموش بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 279.26,
+   "end": 282.22,
+   "text": "اونی که تهیج می‌کنه، تحریک می‌کنه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 282.22,
+   "end": 286.08,
+   "text": "حرف می‌زنه، مانع میشه از اینکه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 286.08,
+   "end": 288.96,
+   "text": "یه کسی مثل ابو لهب از موضع خودش چیکار کند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 288.96,
+   "end": 293.92,
+   "text": "بگید. عقب نشینی کند، سرد بشود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 293.92,
+   "end": 296.78,
+   "text": "این \"امرأته\" تو صحنه نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 296.78,
+   "end": 301.28,
+   "text": "شما تو صحنه زن ابو لهب را نمی‌بینی که آتش افروزی کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 301.28,
+   "end": 305.76,
+   "text": "اما این کسی که پشت صحنه داره تامین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 305.76,
+   "end": 309.24,
+   "text": "سوخت می‌کنه برای این آتش دشمنی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 309.24,
+   "end": 313.68,
+   "text": "این دقیقاً تو همون آتش میفته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 313.68,
+   "end": 315.5,
+   "text": "حالا خواهم گفت سوره ثابت می‌کنه ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 315.5,
+   "end": 317.66,
+   "text": "این جاش با اون فرق نمی‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 317.66,
+   "end": 320.34,
+   "text": "یعنی شما نمی‌تونی بگی این آ، او",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 320.34,
+   "end": 323.6,
+   "text": "جنگیده، او آتش روشن کرده،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 323.6,
+   "end": 328.1,
+   "text": "این تامین سوخت کرده. جفتشون تو یه آتش میفتن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 328.1,
+   "end": 332.96,
+   "text": "خب یه بار بخونیم. \"تبت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 332.96,
+   "end": 335.13,
+   "text": "یدا\". \"یدا\" دو دسته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 335.13,
+   "end": 340.58,
+   "text": "\"أبي لهب\" دو دست ابو لهب \"تبت\" یعنی چه شد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 340.58,
+   "end": 343.53,
+   "text": "بریده شد، ناکارآمد شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 343.53,
+   "end": 348.72,
+   "text": "\"تبا\"، \"تب\"، \"تبا\" یعنی ناکارآمدی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 348.72,
+   "end": 353.56,
+   "text": "دو دست ابو لهب ناکارآمد شد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 353.56,
+   "end": 358.36,
+   "text": ". و \"تبّ\". این \"تبّ\" یه هبه توش داره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 358.36,
+   "end": 360.8,
+   "text": "و او هم ناکارآمد شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 360.8,
+   "end": 363.28,
+   "text": "او کیه؟ خودش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 363.28,
+   "end": 366.5,
+   "text": "یعنی هم دو دستش ناکارآمد شد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 366.5,
+   "end": 370.73,
+   "text": "هم خودش حالا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 370.73,
+   "end": 377.53,
+   "text": "اینجا یه بحثی کردن مفسران این تبت دعاییه نفرینه یعنی یا خبره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 377.53,
+   "end": 382.55,
+   "text": "یه بار در سوره مبارکه بروج،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 382.55,
+   "end": 389.47,
+   "text": "اونجا بحث کردیم که وقتی صحبت از کار خداست نفرین و خبرش یکی میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 94,
+   "start": 389.47,
+   "end": 392.09,
+   "text": "اگر خدا میگه بریده باد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 95,
+   "start": 392.09,
+   "end": 395.89,
+   "text": "بریده باد خدا با بریده شد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 96,
+   "start": 395.89,
+   "end": 400.73,
+   "text": "یکیه دیگه. کی میخواد مگر حرف خدا را اجابت کنه غیر از خودش؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 97,
+   "start": 400.73,
+   "end": 403.9,
+   "text": "وقتی خدا میگه بریده باد بریده میشه دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 98,
+   "start": 403.9,
+   "end": 411.97,
+   "text": "\"تبت یدا ابی لهب و تبر\" دو دست ابو لهب ناکارآمد شد و خودش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 99,
+   "start": 411.97,
+   "end": 415.69,
+   "text": "\"ما أغنی عنه ماله و ما كسب\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 100,
+   "start": 415.69,
+   "end": 420.09,
+   "text": "یعنی چی که دو دست ابو لهب ناکارآمد شد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 101,
+   "start": 420.09,
+   "end": 425.07,
+   "text": "یعنی ثروتش و رفتارهایش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 102,
+   "start": 425.07,
+   "end": 427.59,
+   "text": "او را به اهدافش بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 103,
+   "start": 427.59,
+   "end": 429.3,
+   "text": "نرساند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 104,
+   "start": 429.3,
+   "end": 433.09,
+   "text": "\"ما أغنی عنه\". او را بی‌نیازش نکرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 105,
+   "start": 433.09,
+   "end": 436.05,
+   "text": "او را به هدفش نرساند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 106,
+   "start": 436.05,
+   "end": 438.47,
+   "text": "نه مالش او را به هدف رساند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 107,
+   "start": 438.47,
+   "end": 444.57,
+   "text": "نه \"ما كسب\"ش. آنچه به دست آورد از رفتارها و از اخلاق‌ها و از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 108,
+   "start": 444.57,
+   "end": 448.01,
+   "text": "تلاش‌ها هیچ کدام او را به مقصد نرساند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 109,
+   "start": 448.01,
+   "end": 453.97,
+   "text": "این آیه دو شرح \"تبت یدا ابی لهب\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 110,
+   "start": 453.97,
+   "end": 457.13,
+   "text": "است. حالا شرح تبه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 111,
+   "start": 457.13,
+   "end": 460.27,
+   "text": "خودش ناکارآمد شد یعنی چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 112,
+   "start": 460.27,
+   "end": 463.91,
+   "text": "یعنی \"سيصلى ناراً ذات لهب\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 113,
+   "start": 463.91,
+   "end": 467.59,
+   "text": "مال و \"ما كسب\" که به دردش بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 114,
+   "start": 467.59,
+   "end": 469.99,
+   "text": "نخورد. خودشم که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 115,
+   "start": 469.99,
+   "end": 475.83,
+   "text": "به زودی وارد می‌شود به آتشی که شعله می‌کشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 116,
+   "start": 475.83,
+   "end": 482.41,
+   "text": "خودشم که جهنمی شد. مال به درد نخورد، کار به درد نخورد، خودشم جهنمی شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 117,
+   "start": 482.41,
+   "end": 489.03,
+   "text": "آیه دو تفسیر \"تبت یدا ابی لهب\"، آیه سه تفسیر \"و تبر\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 118,
+   "start": 489.03,
+   "end": 491.01,
+   "text": "پس آیه دو و سه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 119,
+   "start": 491.01,
+   "end": 493.23,
+   "text": "داره آیه یک را چه می‌کنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 120,
+   "start": 493.23,
+   "end": 497.27,
+   "text": "تفسیر می‌کنه. \"تبت يدا أبي لهب\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 121,
+   "start": 497.27,
+   "end": 501.25,
+   "text": "یعنی \"ما أغنى عنه ماله و ما كسب\" \"و تبر\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 122,
+   "start": 501.25,
+   "end": 503.75,
+   "text": "یعنی \"سيصلى ناراً ذات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 123,
+   "start": 503.75,
+   "end": 507.37,
+   "text": "لهب\". این فراز اول.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 124,
+   "start": 507.37,
+   "end": 516.09,
+   "text": "حالا فراز دوم. آیا فقط ابو لهبی که آتش افروزی کرده تو جهنم قرار می‌گیره تو \"ناراً ذات لهب\" میره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 125,
+   "start": 516.09,
+   "end": 519.07,
+   "text": "میگه نه \"وامرأته\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 126,
+   "start": 519.07,
+   "end": 525.21,
+   "text": "این \"وامرأته\" به چی عطفه؟ به \"هو\"ای که تو \"سيصلى\" است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 127,
+   "start": 525.21,
+   "end": 529.69,
+   "text": "\"سيصلى هو\". \"هو\" منظور کیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 128,
+   "start": 529.69,
+   "end": 532.14,
+   "text": "همه بگن. ابو لهبه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 129,
+   "start": 532.14,
+   "end": 536.01,
+   "text": "\"سيصلى هو\" یعنی ابو لهب و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 130,
+   "start": 536.01,
+   "end": 540.49,
+   "text": "\"امرأته\". یعنی همونطور که خودش میره تو آتش شعله‌ور،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 131,
+   "start": 540.49,
+   "end": 543.63,
+   "text": "زنش هم میره تو آتش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 132,
+   "start": 543.63,
+   "end": 550.13,
+   "text": "شعله‌ور. یعنی \"سيصلى ناراً ذات لهب و امرأته\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 133,
+   "start": 550.13,
+   "end": 552.29,
+   "text": "هم خودش میره تو جهنم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 134,
+   "start": 552.29,
+   "end": 556.31,
+   "text": "هم زنش. آخه بابا زنش چرا؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 135,
+   "start": 556.31,
+   "end": 561.55,
+   "text": "حالا خودش میره تو جهنم، زنش برای چی میره تو جهنم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 136,
+   "start": 561.55,
+   "end": 564.97,
+   "text": "اینجا خدا یه صفتى برای زنش بیان میکنه در قالب حال.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 137,
+   "start": 564.97,
+   "end": 569.31,
+   "text": "این حالیه است. یعنی زنش در حالی میره تو جهنم که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 138,
+   "start": 569.31,
+   "end": 572.97,
+   "text": "چه وضعی داره؟ \"حمالة الحطب\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 139,
+   "start": 572.97,
+   "end": 575.59,
+   "text": "یعنی تو اون جهنم زنشو که میبینی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 140,
+   "start": 575.59,
+   "end": 578.59,
+   "text": "میبینی داره هیزم‌های جهنمو میاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 141,
+   "start": 578.59,
+   "end": 581.81,
+   "text": "همینی که در جهنم هیزم می‌آورد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 142,
+   "start": 581.81,
+   "end": 589.12,
+   "text": "دلیل بر این است که در دنیا هم داشته هیزم آتش دشمنی ابو لهب را چه می‌کرده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 143,
+   "start": 589.12,
+   "end": 596.43,
+   "text": "تامین می‌کرده. چون انسان در قیامت و در جهنم همون حالتی را پیدا میکنه که در دنیا داشته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 144,
+   "start": 596.43,
+   "end": 599.25,
+   "text": "چرا تو جهنم \"حمالة الحطب\"ه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 145,
+   "start": 599.25,
+   "end": 602.05,
+   "text": "چون تو دنیا \"حمالة الحطب\" بوده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 146,
+   "start": 602.05,
+   "end": 607.82,
+   "text": "چون تو دنیا هیزم آتش کینه ابو لهب را تامین می‌کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 147,
+   "start": 607.82,
+   "end": 614.51,
+   "text": "\"وامرأته حمالة الحطب في جيدها حبل من مسد\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 148,
+   "start": 614.51,
+   "end": 618.15,
+   "text": "ترسیم میکنه صحنه را. چطور حطب می‌آورد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 149,
+   "start": 618.15,
+   "end": 621.37,
+   "text": "در حالتی که تو جهنم حالتش اینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 150,
+   "start": 621.37,
+   "end": 625.67,
+   "text": "گویا به گردنش طنابی آویخته، یک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 151,
+   "start": 625.67,
+   "end": 636.07,
+   "text": "طنابی از جنس لیف خرما گویا به گردنش آویخته و هیزم‌هایی را مرتب داره حمل میکنه به کوره آتشی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 152,
+   "start": 636.07,
+   "end": 640.15,
+   "text": "که تو اون آتش هم ابو لهب داره میسوزه هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 153,
+   "start": 640.15,
+   "end": 647.17,
+   "text": "خودش. این چهره اخروی کاری است که در دنیا داشته می‌کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 154,
+   "start": 647.17,
+   "end": 651.39,
+   "text": "خدا در واقع با سوره مسد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 155,
+   "start": 651.39,
+   "end": 655.83,
+   "text": "نه فقط میخواد به دشمنی یک شخصیت و زن او",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 156,
+   "start": 655.83,
+   "end": 658.79,
+   "text": "بپردازد، میخواد یک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 157,
+   "start": 658.79,
+   "end": 660.79,
+   "text": "سنگری را بشکند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 158,
+   "start": 660.79,
+   "end": 663.53,
+   "text": "میخواد یک موضعی را از بین ببره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 159,
+   "start": 663.53,
+   "end": 669.87,
+   "text": "من اسمشو میذارم در ادبیات امروز یه \"یسم\" مطرحه دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 160,
+   "start": 669.87,
+   "end": 674.51,
+   "text": "یه بار ابو لهبه، یه بار ابو لهبیسمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 161,
+   "start": 674.51,
+   "end": 677.25,
+   "text": "الان صحبت از اون \"یسم\"ه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 162,
+   "start": 677.25,
+   "end": 686.21,
+   "text": "اون مکتب، اون نگاه. هرکس در مقابل حقیقت با تمام توان قیام کند یعنی \"یدا\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 163,
+   "start": 686.21,
+   "end": 691.49,
+   "text": "\"یدا\" یعنی تمام توان. مال خود را به کار بگیرد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 164,
+   "start": 691.49,
+   "end": 693.67,
+   "text": "برای کوبیدن حقیقت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 165,
+   "start": 693.67,
+   "end": 699.31,
+   "text": "رفتارهای خود را جهت بدهد برای کوبیدن حقیقت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 166,
+   "start": 699.31,
+   "end": 705.21,
+   "text": "قطعاً این فرد از مالش و از رفتارهایش خیر بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 167,
+   "start": 705.21,
+   "end": 713.83,
+   "text": "نخواهد دید. مال و رفتار او را به اون ثمره‌ای که او توقع دارد بگید نخواهد رساند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 168,
+   "start": 713.83,
+   "end": 720.65,
+   "text": "نه فقط ناکام خواهد موند که بداند خودش هم تباه خواهد شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 169,
+   "start": 720.65,
+   "end": 723.51,
+   "text": "علاوه بر اینکه مالش تباه میشه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 170,
+   "start": 723.51,
+   "end": 727.25,
+   "text": "علاوه بر اینکه کارهای او تباه میشه و به هدر میره،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 171,
+   "start": 727.25,
+   "end": 729.43,
+   "text": "خودش هم تباه خواهد شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 172,
+   "start": 729.43,
+   "end": 731.83,
+   "text": "خودش هم جهنمی خواهد شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 173,
+   "start": 731.83,
+   "end": 735.01,
+   "text": "حرف دوم: پشتیبانان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 174,
+   "start": 735.01,
+   "end": 738.67,
+   "text": "چنین افرادی هم بدانند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 175,
+   "start": 738.67,
+   "end": 740.77,
+   "text": "کسانی هم که دارن در تأمین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 176,
+   "start": 740.77,
+   "end": 746.73,
+   "text": "هیزم این نوع از دشمنی تلاش می‌کنند، اون‌ها هم بدانند که تو اون جزای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 177,
+   "start": 746.73,
+   "end": 753.93,
+   "text": "تباه شدن در آتش با اون تلاش کنندگان در یک جایگاه‌اند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 178,
+   "start": 753.93,
+   "end": 755.55,
+   "text": "یعنی ابولهب تو چه آتشی افتاده؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 179,
+   "start": 755.55,
+   "end": 762.01,
+   "text": "زنش هم همونجا می‌افته. پس این سوره رو می‌تونیم بگیم مقابله‌ست با",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 180,
+   "start": 762.01,
+   "end": 765.73,
+   "text": "به نحوی ابولهبی‌isme مقابله‌ست با",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 181,
+   "start": 765.73,
+   "end": 769.51,
+   "text": "تلاش متمرکز با مال و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 182,
+   "start": 769.51,
+   "end": 772.41,
+   "text": "رفتار در مقابله با دین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 183,
+   "start": 772.41,
+   "end": 774.53,
+   "text": "خداوند می‌خواد اینو به یه نحوی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 184,
+   "start": 774.53,
+   "end": 779.59,
+   "text": "بشکنه. ببینید لهبی که در آخرت، این لهب آخرته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 185,
+   "start": 779.59,
+   "end": 785.63,
+   "text": "این لهب دنیاست. لهب آخرت جلوه این لهب دنیاست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 186,
+   "start": 785.63,
+   "end": 788.29,
+   "text": "تو دنیا خدا چرا به او میگه ابولهب؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 187,
+   "start": 788.29,
+   "end": 791.99,
+   "text": "چون داره آتش دشمنی با اسلام رو روشن می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 188,
+   "start": 791.99,
+   "end": 794.55,
+   "text": "آتشی که او در دنیا روشن کرده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 189,
+   "start": 794.55,
+   "end": 797.55,
+   "text": "آتش نیست، دشمنیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 190,
+   "start": 797.55,
+   "end": 801.99,
+   "text": "اما همین دشمنیه تو قیامت چگونه تجلی پیدا می‌کنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 191,
+   "start": 801.99,
+   "end": 804.31,
+   "text": "در قالب آتش تجلی پیدا می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 192,
+   "start": 804.31,
+   "end": 809.15,
+   "text": "لذا ذاتاً این دو تا لهب یکی‌ند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 193,
+   "start": 809.15,
+   "end": 810.71,
+   "text": "فقط ظرفشون فرق داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 194,
+   "start": 810.71,
+   "end": 812.63,
+   "text": "یکی دنیاست، یکی آخرت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 195,
+   "start": 812.63,
+   "end": 819.59,
+   "text": "بله. سؤالشون اینه حبل من مسد چرا اینجا آمده و چه معنایی داره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 196,
+   "start": 819.59,
+   "end": 823.03,
+   "text": "ببینید بعضی از تعابیر تو قرآن کریم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 197,
+   "start": 823.03,
+   "end": 826.75,
+   "text": "چه در فاز بشارت،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 198,
+   "start": 826.75,
+   "end": 831.23,
+   "text": "چه در فاز هشدار و انذار،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 199,
+   "start": 831.23,
+   "end": 834.35,
+   "text": "نقششون تصویرگری",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 200,
+   "start": 834.35,
+   "end": 838.17,
+   "text": "صحنه عذاب یا صحنه پاداشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 201,
+   "start": 838.17,
+   "end": 840.39,
+   "text": "برای اینکه من و شما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 202,
+   "start": 840.39,
+   "end": 844.29,
+   "text": "اون تصویر رو تو ذهنمون تجسم بکنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 203,
+   "start": 844.29,
+   "end": 846.49,
+   "text": "باورپذیریشو ببره بالا،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 204,
+   "start": 846.49,
+   "end": 848.85,
+   "text": "حس بشه، لمس بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 205,
+   "start": 848.85,
+   "end": 851.87,
+   "text": "یه بار کلی گفته میشه آقا اینا عذاب می‌شوند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 206,
+   "start": 851.87,
+   "end": 857.37,
+   "text": "یه بار کلی گفته میشه زن ابولهب در حالی میره تو اون آتش که هیزم کش است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 207,
+   "start": 857.37,
+   "end": 859.73,
+   "text": "یه بار قشنگ صحنه رو می‌کشه خدا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 208,
+   "start": 859.73,
+   "end": 865.97,
+   "text": "میگه هیزم کش است و تو گردنش طنابیست آویخته از لیف خرما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 209,
+   "start": 865.97,
+   "end": 868.29,
+   "text": "که هیزم‌هایی رو با اون داره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 210,
+   "start": 868.29,
+   "end": 870.37,
+   "text": "حمل می‌کنه. این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 211,
+   "start": 870.37,
+   "end": 874.55,
+   "text": "من اینجوری می‌فهمم که بیشتر نقش این آیه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 212,
+   "start": 874.55,
+   "end": 879.49,
+   "text": "تصویرگری صحنه عذابه برای باورپذیرتر شدنش و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 213,
+   "start": 879.49,
+   "end": 883.39,
+   "text": "اثرگذارتر شدنش. هرچند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 214,
+   "start": 883.39,
+   "end": 886.69,
+   "text": "تو شأن نزول‌های این سوره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 215,
+   "start": 886.69,
+   "end": 891.59,
+   "text": "درباره حبل من مسد هم حرف‌هایی آمده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 216,
+   "start": 891.59,
+   "end": 896.03,
+   "text": "که من خیلی با فضای سوره هماهنگ ندیدمش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 217,
+   "start": 896.03,
+   "end": 900.63,
+   "text": "ردم نمی‌کنما که این چیزا نبوده ولی هماهنگ ندیدم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 218,
+   "start": 900.63,
+   "end": 904.97,
+   "text": "مثلاً گفته شده که این خانم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 219,
+   "start": 904.97,
+   "end": 909.27,
+   "text": "با گردنبندهایی که می‌آویخته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 220,
+   "start": 909.27,
+   "end": 912.01,
+   "text": "و سعی می‌کرده خودنمایی بکنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 221,
+   "start": 912.01,
+   "end": 916.09,
+   "text": "به عنوان کسی که حالا در مقابل اسلام هم بوده و این‌ها،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 222,
+   "start": 916.09,
+   "end": 924.53,
+   "text": "مباهات و تفاخر به ثروتش، به زیورآلاتی که داره برای شکستن شخصیت مؤمنان، طرفداران پیغمبر،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 223,
+   "start": 924.53,
+   "end": 927.95,
+   "text": "اون تبخت و خودنمایی که در دنیا می‌کرده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 224,
+   "start": 927.95,
+   "end": 931.05,
+   "text": "با زیورآلات و با نمی‌دونم چه و چه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 225,
+   "start": 931.05,
+   "end": 935.17,
+   "text": "تو آخرت در مقابلش تحقیر میشه به این شکل.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 226,
+   "start": 935.17,
+   "end": 937.85,
+   "text": "لیفی از خرما به گردنش آویخته است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 227,
+   "start": 937.85,
+   "end": 939.43,
+   "text": "بعضیا اینجوری گفتن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 228,
+   "start": 939.43,
+   "end": 943.77,
+   "text": "نگفتن یعنی این لیف خرما برای حمل هیزم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 229,
+   "start": 943.77,
+   "end": 947.97,
+   "text": "گفتن یعنی مثلاً این به‌جای گردنبندهایی که تو دنیا می‌آویخته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 230,
+   "start": 947.97,
+   "end": 950.77,
+   "text": "خب من اینو خیلی تو فضای سوره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 231,
+   "start": 950.77,
+   "end": 957.17,
+   "text": "نمی‌بینم. درسته این حرف، حرف به جای خود حرف درستیه اما تو فضای سوره مشاهده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 232,
+   "start": 957.17,
+   "end": 961.37,
+   "text": "نمیشه. بعضیا هم گفتن در دنیا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 233,
+   "start": 961.37,
+   "end": 965.77,
+   "text": "تو شأن نزول‌ها اینجوری گفتن. میگن کار این خانمه این بوده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 234,
+   "start": 965.77,
+   "end": 972.41,
+   "text": "که در دنیا می‌رفته خار و خاشاک و هیزم و آت-- آشغال و این چیزا جمع می‌کرده با لیف",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 235,
+   "start": 972.41,
+   "end": 975.33,
+   "text": "خرما، با یه طنابی از لیف خرما میاورده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 236,
+   "start": 975.33,
+   "end": 982.95,
+   "text": "می‌ریخته سر راه پیغمبر و پیغمبر که می‌خواسته مثلاً راه بره و اینا اذیت می‌شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 237,
+   "start": 982.95,
+   "end": 991.77,
+   "text": "باز اینم من قل-- نمیگم این اتفاق نیفتاده در تاریخ یه همچین کارایی رو نکرده این خانم شاید کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 238,
+   "start": 991.77,
+   "end": 995.17,
+   "text": "ولی اگر در سوره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 239,
+   "start": 995.17,
+   "end": 999.19,
+   "text": "مسد میگه حمالة الحطب،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 240,
+   "start": 999.19,
+   "end": 1003.21,
+   "text": "حطبش را باید به تناسب این لهب ببینیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 241,
+   "start": 1003.21,
+   "end": 1005.91,
+   "text": "هر لهبی را حتبی است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 242,
+   "start": 1005.91,
+   "end": 1008.83,
+   "text": "هر آتشی را هیزمی است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 243,
+   "start": 1008.83,
+   "end": 1012.25,
+   "text": "حالا آتشی که ابولهب برافروخته چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 244,
+   "start": 1012.25,
+   "end": 1014.85,
+   "text": "آتش دشمنی با رسول الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 245,
+   "start": 1014.85,
+   "end": 1017.31,
+   "text": "با مالش، با کارش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 246,
+   "start": 1017.31,
+   "end": 1023.93,
+   "text": "هیزمش چیه؟ هیزمش تهییج، تشجیع، نگه داشتن ابولهب تو صحنه است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 247,
+   "start": 1023.93,
+   "end": 1028.77,
+   "text": "که مبادا خنک بشه، مبادا سرد بشه، مبادا عقب بیاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 248,
+   "start": 1028.77,
+   "end": 1032.65,
+   "text": "اما اون آتش و این هیزم تو قیامت تجسم پیدا می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 249,
+   "start": 1032.65,
+   "end": 1034.79,
+   "text": "آتشش واقعاً میشه آتش،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 250,
+   "start": 1034.79,
+   "end": 1037.59,
+   "text": "هیزمش هم واقعاً میشه هیزم و این زنی که تو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 251,
+   "start": 1037.59,
+   "end": 1047.33,
+   "text": "دنیا حمالة الحطب بودنش این بوده که درگوشی با ابولهب صحبت می‌کرده یا مثلاً می‌رفته هی می‌گفته مرد چرا نشستی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 252,
+   "start": 1047.33,
+   "end": 1050.85,
+   "text": "نشنیدی چی گفت رسول خدا؟ مثلاً اینجوری با",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 253,
+   "start": 1050.85,
+   "end": 1055.29,
+   "text": "ابولهب تعامل داشته، تو قیامت این در قالب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 254,
+   "start": 1055.29,
+   "end": 1059.87,
+   "text": "کشیدن هیزم به آتشی که خودش داره تو اون آتش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 255,
+   "start": 1059.87,
+   "end": 1062.47,
+   "text": "می‌سوزه. این که عذاب مضاعفه دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 256,
+   "start": 1062.47,
+   "end": 1065.33,
+   "text": "شما یه بار توی آتشی داری می‌سوزی، هیزمشو دیگری می‌ریزه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 257,
+   "start": 1065.33,
+   "end": 1068.55,
+   "text": "اقلاً از این جهت نمی‌سوزی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 258,
+   "start": 1068.55,
+   "end": 1074.83,
+   "text": "ما یه وقتایی خدا رحمت کنه انشالله رفتگان شما را و پدر ما را هم خدا رحمت کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 259,
+   "start": 1074.83,
+   "end": 1080.03,
+   "text": "یه وقتایی می‌خواست ما رو مثلاً یه هشداری بده، تنبیهی بکنه فلان،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 260,
+   "start": 1080.03,
+   "end": 1083.67,
+   "text": "می‌گفت برو کمربند خودت بیار.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 261,
+   "start": 1083.67,
+   "end": 1085.41,
+   "text": "البته بابای ما خیلی ما نمی‌زدا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 262,
+   "start": 1085.41,
+   "end": 1090.89,
+   "text": "منم بعضی وقتا خیلی دیگه بالاخره آدمه دیگه شلوغی‌هایی مثلاً می‌کردیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 263,
+   "start": 1090.89,
+   "end": 1094.67,
+   "text": "ایشون می‌خواست یه تنبیهی بکنه. خب برو کمربندو بیار.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 264,
+   "start": 1094.67,
+   "end": 1099.31,
+   "text": "اون کمربندو آوردن ده برابر بیشتر از این کتک خوردنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 265,
+   "start": 1099.31,
+   "end": 1103.55,
+   "text": "مثلاً کف دستیه درد داشت. خب کمربندو من برم بیارم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 266,
+   "start": 1103.55,
+   "end": 1109.54,
+   "text": "خودت بیار اقلاً. از جات هم بلند نمیشی خدا رحمتت کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 267,
+   "start": 1109.54,
+   "end": 1112.28,
+   "text": "خب حالا اینو می‌خوام عرض کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 268,
+   "start": 1112.28,
+   "end": 1120.34,
+   "text": "یه وقتایی هست که حالا خدا آتیشو روشن کرده، هیزمش هم خودش تامین می‌کنه، یه چهار تا قلچماق گذاشته هیزمشو میارن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 269,
+   "start": 1120.34,
+   "end": 1123.88,
+   "text": "الان تو داری توش می‌سوزی. یهو می‌گه خودت برو از اونجا بردار بیار",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 270,
+   "start": 1123.88,
+   "end": 1129.4,
+   "text": "اینجا هیزماشو بریز اینجا. بعد تو باید بری و بیاری یعنی راه دیگه‌ای نداری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 271,
+   "start": 1129.4,
+   "end": 1134.3,
+   "text": "این سخته. یه ذره عذاب مضاعفی شامل حالش میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 272,
+   "start": 1134.3,
+   "end": 1138.82,
+   "text": "خب سوره مسد هم تمام شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 273,
+   "start": 1138.82,
+   "end": 1144.1,
+   "text": "یه صلواتی ختم بفرمایید. اللهم صل على محمد و آل محمد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 274,
+   "start": 1144.1,
+   "end": 1148.92,
+   "text": "و عجل فرجهم. أعوذ بالله من الشيطان الرجيم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 275,
+   "start": 1148.92,
+   "end": 1152.78,
+   "text": "بسم الله الرحمن الرحيم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 276,
+   "start": 1152.78,
+   "end": 1155.96,
+   "text": "تبت يدا أبي لهب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 277,
+   "start": 1155.96,
+   "end": 1162.6,
+   "text": "وتب. ما أغنى عنه ماله وما كسب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 278,
+   "start": 1162.6,
+   "end": 1166.42,
+   "text": "سيصلى ناراً ذات لهب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 279,
+   "start": 1166.42,
+   "end": 1170.4,
+   "text": "وامرأته حمالة الحطب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 280,
+   "start": 1170.4,
+   "end": 1173.28,
+   "text": "في جيدها حبل من",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 281,
+   "start": 1173.28,
+   "end": 1178.12,
+   "text": "مسد. صدق الله العلي العظيم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 282,
+   "start": 1178.12,
+   "end": 1182.04,
+   "text": "این مطلبو گفتم خستگی شما یه خورده در بره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 283,
+   "start": 1182.04,
+   "end": 1187.32,
+   "text": "خدا رحمت کنه پدر من معلم کلاس اول من بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 284,
+   "start": 1187.32,
+   "end": 1190.26,
+   "text": "و معلم کلاس اول پسرم هم شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 285,
+   "start": 1190.26,
+   "end": 1194.02,
+   "text": "خیلی معلم موفقی بود، خیلی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 286,
+   "start": 1194.02,
+   "end": 1199.36,
+   "text": "و یکی از-- یه تنبیهات خاصی داشت هم تو فضای معلمیش هم تو فضای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 287,
+   "start": 1199.36,
+   "end": 1204.74,
+   "text": "خونه. من سال اول که کلاس ایشون بودم و اینا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 288,
+   "start": 1204.74,
+   "end": 1212.08,
+   "text": "تازه روز اول بود فکر کنم رفته بودیم مدرسه یا روزای اول بود هنوز بچه‌ها شلوغی داشتن طبیعتا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 289,
+   "start": 1212.08,
+   "end": 1219.2,
+   "text": "بچه‌ها جیغ، داد، سر و صدا، همه می‌زدن رو میز و اینا ما هم دیگه قاطی بچه‌ها یه دفعه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 290,
+   "start": 1219.2,
+   "end": 1221.0,
+   "text": "اِاِاِ فکر کنم سوت زدم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 291,
+   "start": 1221.0,
+   "end": 1224.22,
+   "text": "حالا هرچی چیزی یادم میاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 292,
+   "start": 1224.22,
+   "end": 1229.04,
+   "text": "بعد پدرم گفتش که کی سوت زد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 293,
+   "start": 1229.04,
+   "end": 1233.08,
+   "text": "بچه‌ها همه یه صدا: \"سبوحی، سبوحی\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 294,
+   "start": 1233.08,
+   "end": 1236.1,
+   "text": "که دیگه حالا پسر خودشه ببینیم اینجا چیکار می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 295,
+   "start": 1236.1,
+   "end": 1240.04,
+   "text": "گفت بیا جلو ببینم. رفتم جلو گفت دستتو بذار رو میز.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 296,
+   "start": 1240.04,
+   "end": 1244.08,
+   "text": "دستمو اینجوری گذاشتم رو میز. یه دونه بخط کش اینجوری زد رو دستمو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 297,
+   "start": 1244.08,
+   "end": 1250.3,
+   "text": "گفت که امروز تکلیف نمیدم، مشق نداری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 298,
+   "start": 1250.3,
+   "end": 1256.3,
+   "text": "بعد همین مشق نداری توی سبک کلاس‌داری ایشون یه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 299,
+   "start": 1256.3,
+   "end": 1261.32,
+   "text": "تنبیهی بود که از ده تا کف دستی شلاق خوردن سخت‌تر بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 300,
+   "start": 1261.32,
+   "end": 1266.48,
+   "text": "هر بچه‌ای که ایشون بهش می‌گفت مشق نداری کارش میشد گریه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 301,
+   "start": 1266.48,
+   "end": 1270.26,
+   "text": "معلم به من مشق نگفت. من تا خود خونه گریه کردم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 302,
+   "start": 1270.26,
+   "end": 1275.5,
+   "text": "بعد مادرمو شفیع قرار دادم حالا ایشون وساطت کرد به من مشق گفت آروم شدم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 303,
+   "start": 1275.5,
+   "end": 1281.1,
+   "text": "مشقامو نوشتم. یا مثلا تو خونه می‌خواست یه وقت خواهر ما رو تذکر-- مثلا خواهر یه وقت--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 304,
+   "start": 1281.1,
+   "end": 1285.44,
+   "text": "گفتش که خب شما تا یک هفته دیگه برای من چای نیار.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 305,
+   "start": 1285.44,
+   "end": 1288.82,
+   "text": "تمام. دیگه این بود و بالا پایین می‌پریدیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 306,
+   "start": 1288.82,
+   "end": 1292.52,
+   "text": "داش-- مثلا منو تنبیه می‌کرد تا یک هفته حق نداری نون بخری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 307,
+   "start": 1292.52,
+   "end": 1298.32,
+   "text": "ما هر روز گریه، ترو خدا بذارین من برم نون بخرم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 308,
+   "start": 1298.32,
+   "end": 1301.74,
+   "text": "بابا. اینا روشای تنبیهی خاصیه ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 309,
+   "start": 1301.74,
+   "end": 1306.36,
+   "text": "یعنی انقدر بتونی فضا رو تو دستت بگیری",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 310,
+   "start": 1306.36,
+   "end": 1312.0,
+   "text": "که با محروم کردن طرف از انجام تکالیفش حالش گرفته بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 311,
+   "start": 1312.0,
+   "end": 1317.02,
+   "text": "شما چای دیگه نمیاری. شما دیگه تا یه هفته نون نمی‌خری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 312,
+   "start": 1317.02,
+   "end": 1320.08,
+   "text": "شما هم می‌رفتین جواب می‌داد. نه جواب میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 313,
+   "start": 1320.08,
+   "end": 1323.2,
+   "text": "درصدت می‌شد. بله جواب میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 314,
+   "start": 1323.2,
+   "end": 1326.32,
+   "text": "من نمی‌دونم، من به موفقیت ایشون نیستم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 315,
+   "start": 1326.32,
+   "end": 1332.12,
+   "text": "ولی شماها هم اگر شلوغ کنید ترم آینده امتحان نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 316,
+   "start": 1332.12,
+   "end": 1336.42,
+   "text": "خوشحال شدید؟ پس موفق نبوده خیلی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 317,
+   "start": 1336.42,
+   "end": 1338.58,
+   "text": "خب حالا بگذریم از این.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 318,
+   "start": 1338.58,
+   "end": 1341.44,
+   "text": "میخوام بگم اِاِاِ خود نفس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 319,
+   "start": 1341.44,
+   "end": 1343.72,
+   "text": "اینکه یه پدری حالا یه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 320,
+   "start": 1343.72,
+   "end": 1350.04,
+   "text": "در جایگاه پدری رویکرد هشدار دادن به فرزندان رو داشته باشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 321,
+   "start": 1350.04,
+   "end": 1357.44,
+   "text": "واقعا چیز مطلوبه. این چیزی هم که من تعریف کردم که مثلا کف دستی و اینا یه چیزی نبود که ماها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 322,
+   "start": 1357.44,
+   "end": 1360.76,
+   "text": "خیلی از بابتش رنجیده باشیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 323,
+   "start": 1360.76,
+   "end": 1364.92,
+   "text": "بلکه حالا یه کاری کرده بود ایشون یه وقتایی من",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 324,
+   "start": 1364.92,
+   "end": 1369.2,
+   "text": "رسیده بود روحیه‌ام به یه حالاتی رسیده بود که گفته بودم مثلا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 325,
+   "start": 1369.2,
+   "end": 1375.8,
+   "text": "بابا در یه وقتایی که اینجوری من می‌کنم شما یه کف دستی به ما بزن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 326,
+   "start": 1375.8,
+   "end": 1378.2,
+   "text": "از خودمون ازش درخواست می‌کردیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 327,
+   "start": 1378.2,
+   "end": 1384.0,
+   "text": "آرامش روح ما در این بود که ایشون گهگداری یه دونه خلاصه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 328,
+   "start": 1384.0,
+   "end": 1386.76,
+   "text": "اشاره‌ای به کف دست بکنه و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 329,
+   "start": 1386.76,
+   "end": 1389.32,
+   "text": "مثلا چی بود اِاِ-- فکر نکنید خیلی شلوغی‌های عجیبی بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 330,
+   "start": 1389.32,
+   "end": 1392.8,
+   "text": "مثلا می‌گفتم تصمیم می‌گرفتم خوب درس بخونم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 331,
+   "start": 1392.8,
+   "end": 1399.02,
+   "text": "می‌گفتم اگر تو این سه تا درس هر کدوم زیر بیست شدم به ازای هر یه نمره یه کف دستی بزن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

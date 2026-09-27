@@ -157,14 +157,43 @@ def open_client(page, url: str, boot_timeout: float, log=print) -> str:
     return "unknown"
 
 
+def peer_id_from_url(url: str | None) -> int | None:
+    """Extract a numeric peerId from web.eitaa.com/#-123… style URLs."""
+    if not url or "#" not in url:
+        return None
+    frag = url.split("#", 1)[1].strip()
+    if re.fullmatch(r"-?\d{5,}", frag):
+        return int(frag)
+    return None
+
+
 def wait_for_channel_peer(
-    page, timeout: float = 60.0, channel: str | None = None, log=print
+    page,
+    timeout: float = 60.0,
+    channel: str | None = None,
+    peer_id: int | None = None,
+    log=print,
 ) -> int | None:
     """Wait until the opened channel has a usable peerId for getSearch."""
     deadline = time.monotonic() + timeout
+    # Prefer an explicit peerId from the URL hash (#-92630386) over #@username.
+    if peer_id is not None:
+        page.evaluate(
+            """(peerId) => (async () => {
+              try {
+                if (location.hash !== '#' + peerId) location.hash = '#' + peerId;
+                if (appImManager && appImManager.setPeer) {
+                  await appImManager.setPeer(peerId);
+                }
+              } catch (e) {}
+            })()""",
+            peer_id,
+        )
+        page.wait_for_timeout(1500)
+
     # Only force #@username when it looks like a public username (not an invite label).
     wanted = None
-    if channel and re.fullmatch(r"[A-Za-z][A-Za-z0-9_]{3,}", channel):
+    if peer_id is None and channel and re.fullmatch(r"[A-Za-z][A-Za-z0-9_]{3,}", channel):
         wanted = f"#@{channel}"
     if wanted:
         page.evaluate(
@@ -186,7 +215,18 @@ def wait_for_channel_peer(
         )
         if peer:
             return int(peer)
-        if wanted:
+        if peer_id is not None:
+            page.evaluate(
+                """(peerId) => (async () => {
+                  try {
+                    if (appImManager && appImManager.setPeer) {
+                      await appImManager.setPeer(peerId);
+                    }
+                  } catch (e) {}
+                })()""",
+                peer_id,
+            )
+        elif wanted:
             page.evaluate(
                 """(h) => {
                   try {
@@ -411,6 +451,7 @@ def collect_stream_jobs_via_search(
     max_pages: int = 80,
     channel: str | None = None,
     invite_hash: str | None = None,
+    peer_id: int | None = None,
     log=print,
 ) -> tuple[list[dict], int, int, int]:
     """Use the web client's getSearch API to list matching audio and build /stream/ URLs.
@@ -419,7 +460,9 @@ def collect_stream_jobs_via_search(
     """
     if invite_hash:
         open_invite_channel(page, invite_hash, log=log)
-    elif not wait_for_channel_peer(page, timeout=60.0, channel=channel, log=log):
+    elif not wait_for_channel_peer(
+        page, timeout=60.0, channel=channel, peer_id=peer_id, log=log
+    ):
         raise RuntimeError("channel peerId not ready")
 
     query = name_filter or ""
@@ -1167,6 +1210,7 @@ def run(args) -> int:
     invite_hash = parse_invite_hash(args.invite) or parse_invite_hash(args.url)
     # Invite links are not #@username routes; boot the shell first, then open via API.
     url = WEB_CLIENT if invite_hash else (args.url or f"{WEB_CLIENT}/#@{args.channel}")
+    url_peer = None if invite_hash else peer_id_from_url(args.url or url)
     log = print
 
     with sync_playwright() as playwright:
@@ -1202,7 +1246,13 @@ def run(args) -> int:
                 log(f"\nCould not open invite: {exc}")
                 return 1
         else:
-            wait_for_channel_peer(page, timeout=60.0, channel=args.channel, log=log)
+            wait_for_channel_peer(
+                page,
+                timeout=60.0,
+                channel=args.channel,
+                peer_id=url_peer,
+                log=log,
+            )
 
         audio_selector = args.audio_selector or first_matching_selector(
             page, AUDIO_SELECTOR_CANDIDATES
@@ -1244,6 +1294,7 @@ def run(args) -> int:
                     max_pages=args.search_pages,
                     channel=None if invite_hash else args.channel,
                     invite_hash=None,  # already opened above
+                    peer_id=url_peer,
                     log=log,
                 )
             except Exception as exc:  # noqa: BLE001

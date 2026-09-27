@@ -1,0 +1,814 @@
+{
+ "version": 1,
+ "sessionId": "001",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 386.25,
+ "alignment": {
+  "exact": 701,
+  "total": 701,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "بسم الله الرحمن الرحیم، و به او استعانت می‌جوییم.",
+   "start": 14.4,
+   "end": 40.34
+  },
+  {
+   "index": 1,
+   "title": "## هدیهٔ بحث به پیامبر خاتم و حضرت زهرا سلام‌الله‌علیها",
+   "start": 40.34,
+   "end": 81.42
+  },
+  {
+   "index": 2,
+   "title": "## مثال لباس ثابت از شیخ‌الرئیس",
+   "start": 81.42,
+   "end": 179.82
+  },
+  {
+   "index": 3,
+   "title": "## رنگ و عوارض؛ شیئیّت شیء غیر از عارض است",
+   "start": 179.82,
+   "end": 203.72
+  },
+  {
+   "index": 4,
+   "title": "## سیر خلقت جسمانی و تبریک الهی",
+   "start": 203.72,
+   "end": 302.68
+  },
+  {
+   "index": 5,
+   "title": "## شرافت انسان به روح است نه به بدن",
+   "start": 302.68,
+   "end": 328.18
+  },
+  {
+   "index": 6,
+   "title": "## انصراف نفس و تیز شدن بصر",
+   "start": 328.18,
+   "end": 360.14
+  },
+  {
+   "index": 7,
+   "title": "## رسیدگی به بدن برای روح",
+   "start": 360.14,
+   "end": 386.25
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 0.94,
+   "end": 5.34,
+   "text": "بسم الله الرحمن الرحيم و به هي نستعين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 5.34,
+   "end": 9.98,
+   "text": "السلام عليك يا داعي الله و رباني",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 9.98,
+   "end": 14.4,
+   "text": "آياته. سلام عليكم ورحمة الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 14.4,
+   "end": 19.04,
+   "text": "از شما تقاضا دارم كه اجازه بدهيد ما در خودمون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 19.04,
+   "end": 21.78,
+   "text": "غور كنيم و ما رو به حال خودمون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 21.78,
+   "end": 28.82,
+   "text": "وا بگذاريد كه اگر ما رو دوست داريد چون حديث داريم كه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 28.82,
+   "end": 31.68,
+   "text": "تا مادامي كه انسان در سكوت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 31.68,
+   "end": 37.24,
+   "text": "است براش ثواب مينويسند. اما همين كه به سخن افتاد يا ثوابه يا عقابه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 37.24,
+   "end": 40.34,
+   "text": "اون موقع تكليف مياد بار ميشه و سخته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 40.34,
+   "end": 46.14,
+   "text": "به هر حال چون آقا سید هم فرمودن به فضل الهی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 46.14,
+   "end": 54.66,
+   "text": "آنچه که ما به حول و قوه الهی به فضل الهی، به كرم الهی، به عنايت الهی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 54.66,
+   "end": 58.78,
+   "text": "بیان می‌کنیم نکاتی رو پیرامون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 58.78,
+   "end": 62.38,
+   "text": "سیر معرفت نفس یا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 62.38,
+   "end": 67.14,
+   "text": "خودشناسی یا روانشناسی هرچی شما بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 67.14,
+   "end": 69.72,
+   "text": "همه رو هدیه می‌کنیم به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 69.72,
+   "end": 74.98,
+   "text": "عزیز عالم پیامبر خاتم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 74.98,
+   "end": 78.6,
+   "text": "سلام و صلوات و درود خدای منّان و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 78.6,
+   "end": 85.84,
+   "text": "تمام انبیا و مقربین درگاه خدا و اهل ایمان بر او و خاندان پاکش باد و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 85.84,
+   "end": 89.34,
+   "text": "مخصوصا به دختر عزیزشون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 89.34,
+   "end": 96.4,
+   "text": "این درّه یگانه خلقت حضرت صدیقه طاهره سلام الله علیها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 96.4,
+   "end": 103.22,
+   "text": "نکته‌ای که عرض می‌کنم در این ابتدا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 103.22,
+   "end": 109.56,
+   "text": "خدا رحمت کنه حضرت استاد رو در جلسه سی و هفت شرح اسفار ملاصدرا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 109.56,
+   "end": 111.6,
+   "text": "اشاره می‌کنند به نکته‌ای که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 111.6,
+   "end": 114.76,
+   "text": "شیخ الرئیس در شفا دارند که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 114.76,
+   "end": 121.5,
+   "text": "می‌فرمایند اگر فرض بگیریم که انسان از اول تا آخر عمرش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 121.5,
+   "end": 127.84,
+   "text": "یک لباس ثابتی به تنش باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 127.84,
+   "end": 132.6,
+   "text": "و دیگه اینطور نبود که مثلا این لباس رو تغییر بده عوض کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 132.6,
+   "end": 135.46,
+   "text": "در زمستان یه نوع، در تابستان یه نوع.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 135.46,
+   "end": 140.18,
+   "text": "اینطوری نه ثابت از وقتی به دنیا میاد فرض بگیریم یک لباس ثابتی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 140.18,
+   "end": 144.04,
+   "text": "به تن او باشد تا وقتی که می‌میرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 144.04,
+   "end": 149.78,
+   "text": "به فرمایش حضرت استاد دیگه مشکل میشه به او بفهمونی که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 149.78,
+   "end": 153.3,
+   "text": "تو، اون خودیت تو، اون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 153.3,
+   "end": 156.68,
+   "text": "من تو، شخص تو، وجود تو،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 156.68,
+   "end": 164.54,
+   "text": "اصل و اون اصالت وجود تو، اون غیر از این لباسی که به تنته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 164.54,
+   "end": 167.38,
+   "text": "سخت و مشکله فهمش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 167.38,
+   "end": 172.98,
+   "text": "به هر حال چون در این دنیا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 172.98,
+   "end": 179.82,
+   "text": "دائم از وقتی که به دنیا اومده تا وقتی که از دنیا میره دائم به این شکل بوده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 179.82,
+   "end": 184.54,
+   "text": "مثلاً وقتی که شما از یک سیاه پوست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 184.54,
+   "end": 188.12,
+   "text": "می‌خواید بدونید ازش سؤال کنید که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 188.12,
+   "end": 191.16,
+   "text": "انسان یعنی چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 191.16,
+   "end": 195.78,
+   "text": "انسان رو تعریف کن. خودبه‌خود تو ذهن یک سیاه پوست چون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 195.78,
+   "end": 199.14,
+   "text": "براساس اون افق و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 199.14,
+   "end": 207.44,
+   "text": "عروضی که براشون عارض شده، براساس نظام افقی حالا رنگ سیاه شده انسان رو سیاه چهره فرض می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 207.44,
+   "end": 212.06,
+   "text": "تصورش این چنینه. یا سرخ پوست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 212.06,
+   "end": 214.86,
+   "text": "سرخ تصور می‌کنه سفید پوست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 214.86,
+   "end": 218.68,
+   "text": "سفید. به جهت اینکه از ابتدای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 218.68,
+   "end": 221.86,
+   "text": "به دنیا آمدنش تا انتها همینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 221.86,
+   "end": 227.92,
+   "text": "در حقیقت سخته چنین کسی باور کنه که شیئیّت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 227.92,
+   "end": 235.48,
+   "text": "شی غیر از اون رنگشه، غیر از اون عوارضشه، غیر از اون لباسی که به تنشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 235.48,
+   "end": 237.45,
+   "text": "حالا چی می‌خوام عرض کنم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 237.45,
+   "end": 243.92,
+   "text": "می‌خوام عرض کنم که خدای منّان در قرآن عظیم الشأنش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 243.92,
+   "end": 248.54,
+   "text": "وقتی به خودش تبریک میگه که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 248.54,
+   "end": 252.88,
+   "text": "که احسن المخلوقین رو خلق کرده، اونم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 252.88,
+   "end": 255.62,
+   "text": "سیر تطور خلقت رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 255.62,
+   "end": 259.62,
+   "text": "وقتی بیان می‌کنه تا اونجایی که بحث",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 259.62,
+   "end": 264.86,
+   "text": "جسمیت، بحث نطفه و علقه و مضغه و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 264.86,
+   "end": 269.38,
+   "text": "از چقدر لحم و عظام و جنین و اینهاست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 269.38,
+   "end": 274.6,
+   "text": "خب تا این مراتب با حیوان برابره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 274.6,
+   "end": 277.64,
+   "text": "براساس اون آیات قرآن حیوان هم همین‌چنینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 277.64,
+   "end": 280.54,
+   "text": "سیر خلقتش به همین شکله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 280.54,
+   "end": 291.02,
+   "text": "اما وقتی این فتبارک الله رو بیان می‌کنه خدای منّان که قبلش می‌فرماید و نفخت فیهم روحی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 291.02,
+   "end": 293.7,
+   "text": "این یعنی شرافت و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 293.7,
+   "end": 299.11,
+   "text": "کرامت انسان، عظمت انسان به روحشه، به اون باطنشه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 299.11,
+   "end": 302.68,
+   "text": "نه به بدنش، نه به جسمش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 302.68,
+   "end": 306.24,
+   "text": "اینجا حالا شما جسم رو، این بدن رو اگر یک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 306.24,
+   "end": 313.16,
+   "text": "لباس فرض کنید چون از ابتدا با این بدن همراه بوده و تا انتها نمی‌تونه--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 313.16,
+   "end": 318.34,
+   "text": "سخته، مشکله باورش که اون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 318.34,
+   "end": 324.84,
+   "text": "اصل وجودش، اون ریشه وجودیش، اون اصالتش برمی‌گرده به روح،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 324.84,
+   "end": 328.18,
+   "text": "به اون باطن‌ش، به نفسش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 328.18,
+   "end": 335.98,
+   "text": "و وقتی که نفس اعلام انصراف از بدن میده و این بدن رو رها می‌کنه و منسلخ میشه و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 335.98,
+   "end": 341.28,
+   "text": "بدن می‌پوسه اینها می‌بینید اون شخص",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 341.28,
+   "end": 343.02,
+   "text": "فبصروا کل یوم حدید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 343.02,
+   "end": 346.42,
+   "text": "چشمش تیز میشه، اون چشم ملکوتش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 346.42,
+   "end": 352.32,
+   "text": "تیز میشه. و الا این چشم که متلاشی میشه و باورش نمیشه، تو یه بحری فرو میره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 352.32,
+   "end": 355.96,
+   "text": "چرا؟ چون خو کرده بوده. خو کرده بوده به این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 355.96,
+   "end": 360.14,
+   "text": "شکل که بدن رو اصل می‌دونسته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 360.14,
+   "end": 365.76,
+   "text": "لذا می‌بینید غالباً ما انسان‌ها بیشتر به بدن می‌رسیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 365.76,
+   "end": 369.58,
+   "text": "انسان‌های خیلی کمی هستند که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 369.58,
+   "end": 372.26,
+   "text": "به تمامه به روحشون می‌رسند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 372.26,
+   "end": 376.12,
+   "text": "و اگر بدنشون رو هم تقویت می‌کنند به جهت تقویت روحه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 376.12,
+   "end": 380.8,
+   "text": "چون این دو در هم تنیده‌اند و بحث‌های دیگه پیش میاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 380.8,
+   "end": 384.24,
+   "text": "انشاالله که عاقبتمون ختم به خیر بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 384.24,
+   "end": 386.25,
+   "text": "به برکت صلوات بر محمد و آل.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

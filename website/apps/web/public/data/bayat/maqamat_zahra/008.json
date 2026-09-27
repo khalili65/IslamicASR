@@ -1,0 +1,41 @@
+{
+ "id": "008",
+ "index": 8,
+ "lecturer": "bayat",
+ "course": "maqamat_zahra",
+ "title": "آغاز سخن",
+ "topic": null,
+ "summary": "بازنویسی کتابی جلسهٔ maqamat_zahra / 008 بر اساس گفتار استاد؛ جزئیات روایات و تمثیل‌ها در متن کتاب آمده است.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/maqamat_zahra/008/008_play.m4a",
+  "filename": "008_play.m4a",
+  "size": 28747468,
+  "display": "27.4 MB",
+  "duration": 2332.56,
+  "durationText": "38:53"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "008.vtt",
+   "cues": "008.cues.json",
+   "words": "008.words.json"
+  }
+ },
+ "chapters": [],
+ "recordedAt": 1763826220,
+ "sourceName": "بخش_اول_سخنرانی_شب_سوم_فاطمیه_دوم_24_09_1402.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "007",
+ "next": "009"
+}

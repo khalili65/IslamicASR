@@ -25,25 +25,33 @@ export default function HomePage() {
     0,
   );
   const firstCourse = lecturer.courses[0];
+  const cover =
+    lecturer.avatar ||
+    firstCourse?.cover ||
+    "/images/lecturers/bayat_hero.png?v=7";
+  const lecturerLine =
+    lecturer.name || site.brand?.tagline || "استاد بیات (عبدالزهرا)";
 
   return (
     <main className="space-y-10">
       {/* Hero */}
-      <section className="animate-rise relative overflow-hidden rounded-card border border-white/60 bg-surface/70 px-6 py-12 text-center shadow-card backdrop-blur-sm">
-        <div
-          className="pointer-events-none absolute inset-0"
-          style={{
-            backgroundImage:
-              "radial-gradient(30rem 16rem at 50% -10%, rgb(var(--brand) / 0.55), transparent 70%)",
-          }}
+      <section className="animate-rise relative overflow-hidden rounded-card border border-white/60 bg-surface/70 shadow-card backdrop-blur-sm">
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src={cover}
+          alt={lecturerLine}
+          className="h-auto w-full object-contain object-top"
         />
-        <div className="relative space-y-4">
+        <div className="relative space-y-4 px-6 py-10 text-center">
           <span className="chip-brand mx-auto">
             <WaveIcon className="h-3.5 w-3.5" />
             {lecturer.title || "مجموعه درس‌گفتارها"}
           </span>
+          <p className="font-nastaliq text-2xl text-brand-deep sm:text-3xl">
+            {lecturerLine}
+          </p>
           <h1 className="text-3xl font-black leading-tight tracking-tight sm:text-4xl">
-            {site.brand?.name || lecturer.name}
+            {site.brand?.name || firstCourse?.title || lecturer.name}
           </h1>
           {lecturer.bio ? (
             <p className="mx-auto max-w-xl text-sm leading-7 text-ink/60">
@@ -84,7 +92,7 @@ export default function HomePage() {
             {toPersianDigits(lecturer.courses.length)} دوره
           </span>
         </div>
-        <div className="grid gap-3">
+        <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
           {lecturer.courses.map((course) => {
             const percent = course.sessionCount
               ? Math.round((course.transcribedCount / course.sessionCount) * 100)
@@ -93,34 +101,32 @@ export default function HomePage() {
               <Link
                 key={course.slug}
                 href={`/${lecturer.slug}/${course.slug}/`}
-                className="card-link group overflow-hidden p-0"
+                className="card-link group flex flex-col overflow-hidden p-0"
               >
                 {course.cover ? (
                   // eslint-disable-next-line @next/next/no-img-element
                   <img
                     src={course.cover}
                     alt=""
-                    className="aspect-[16/9] w-full object-cover object-center"
+                    className="aspect-[3/2] w-full object-cover object-top"
                   />
                 ) : null}
-                <div className="p-5">
-                  <div className="flex items-start justify-between gap-4">
-                    <div className="min-w-0">
-                      <h3 className="text-lg font-bold tracking-tight">
-                        {course.title}
-                      </h3>
-                      {course.description ? (
-                        <p className="mt-1 line-clamp-2 text-sm leading-6 text-ink/60">
-                          {course.description}
-                        </p>
-                      ) : null}
-                    </div>
+                <div className="flex flex-1 flex-col p-4">
+                  <div className="flex items-start justify-between gap-2">
+                    <h3 className="line-clamp-2 text-base font-bold leading-7 tracking-tight">
+                      {course.title}
+                    </h3>
                     <span className="mt-1 shrink-0 text-ink/25 transition group-hover:text-brand-deep">
-                      <ArrowLeftIcon className="h-5 w-5" />
+                      <ArrowLeftIcon className="h-4 w-4" />
                     </span>
                   </div>
+                  {course.description ? (
+                    <p className="mt-1 line-clamp-2 text-xs leading-6 text-ink/60">
+                      {course.description}
+                    </p>
+                  ) : null}
 
-                  <div className="mt-4 flex flex-wrap items-center gap-2 text-xs">
+                  <div className="mt-auto flex flex-wrap items-center gap-1.5 pt-3 text-xs">
                     <span className="chip">
                       {toPersianDigits(course.sessionCount)} جلسه
                     </span>
@@ -129,7 +135,7 @@ export default function HomePage() {
                     </span>
                     <span className="chip">
                       <TextIcon className="h-3.5 w-3.5" />
-                      {toPersianDigits(course.transcribedCount)} دارای متن
+                      {toPersianDigits(course.transcribedCount)}
                     </span>
                   </div>
 

@@ -1,0 +1,72 @@
+{
+ "id": "010",
+ "index": 10,
+ "lecturer": "bayat",
+ "course": "qalb_monafeq",
+ "title": "اصل طهارت و تریِ دست کودک",
+ "topic": null,
+ "summary": "پس از اصل طهارت، نشانه‌های قلب منافق از حدیث امام سجاد پی گرفته می‌شود: خواب بسیار، دروغ، خیانت در امانت ولایت، غیبت در عصر غیبت، و خلف عهد عبادت؛ علم فکری باید به صالح‌سازی عمل بیانجامد.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/qalb_monafeq/010/010_play.m4a",
+  "filename": "010_play.m4a",
+  "size": 5819363,
+  "display": "5.5 MB",
+  "duration": 480.41,
+  "durationText": "8:00"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "010.vtt",
+   "cues": "010.cues.json",
+   "words": "010.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## اصل طهارت و تریِ دست کودک",
+   "start": 11.38,
+   "end": 54.9
+  },
+  {
+   "index": 1,
+   "title": "## نشانهٔ نفاق؛ خواب بسیار",
+   "start": 54.9,
+   "end": 149.96
+  },
+  {
+   "index": 2,
+   "title": "## خیانت در امانت؛ ظاهر و باطن",
+   "start": 149.96,
+   "end": 226.64
+  },
+  {
+   "index": 3,
+   "title": "## غیبت؛ ظاهر و معنای عصر غیبت",
+   "start": 226.64,
+   "end": 318.72
+  },
+  {
+   "index": 4,
+   "title": "## خلف وعده؛ عهد عبادت",
+   "start": 318.72,
+   "end": 480.41
+  }
+ ],
+ "recordedAt": 1785846647,
+ "sourceName": "قلب منافق10_ج180.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "009",
+ "next": "011"
+}

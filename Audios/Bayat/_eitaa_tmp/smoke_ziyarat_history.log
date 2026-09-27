@@ -1,0 +1,22 @@
+Opening https://web.eitaa.com
+
+=== 19 ziyarat_jameh شرح زیارت جامعه کبیره (امام شناسی) ===
+Opening invite hash 4159440286C38da2600db...
+  channel 'شرح زیارت جامعه کبیره ' peerId=-94304236 (chatId=94304236, chatInviteAlready)
+Listing channel audio via getHistory (peerId=-94304236)...
+  history pages=1 scanned=6 audio=2
+  queued   AudioCutter_AudioCutter_سخنرانی حاج آقا بیات.mp3 (38820891 bytes)
+  queued   #شرح_زیارت_جامعه_کبیره جلسه اول ۱۸-۹-۴۰۴.mp3 (46830285 bytes)
+  collect limit 2 reached
+  wrote catalog with 2 item(s)
+Queued 2 file(s) for download.
+  download [1/2] AudioCutter_AudioCutter_سخنرانی حاج آقا بیات.mp3
+           stream size=38820891 bytes resume@38797312
+           failed: Page.evaluate: TypeError: Failed to fetch (web.eitaa.com)
+  download [2/2] #شرح_زیارت_جامعه_کبیره جلسه اول ۱۸-۹-۴۰۴.mp3
+           stream size=46830285 bytes
+           saved (44.7 MB)
+  missing  AudioCutter_AudioCutter_سخنرانی حاج آقا بیات.mp3
+  001_#شرح_زیارت_جامعه_کبیره جلسه اول ۱۸-۹-۴۰۴.mp3  (uploaded 2025-12-09 18:28)
+Renumbered 1 file(s) in /Users/mohammadreza/IslamASR/Audios/Bayat/ziyarat_jameh
+Done ziyarat_jameh: downloaded=1 skipped=0 failed=1 filtered=0

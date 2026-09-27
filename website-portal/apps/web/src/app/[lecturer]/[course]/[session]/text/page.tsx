@@ -5,6 +5,7 @@ import {
   articleClassName,
   loadSessionMarkdown,
   markdownToHtml,
+  plainTextToHtml,
   stripEditorialNoise,
 } from "@/lib/markdown";
 
@@ -32,11 +33,19 @@ export function generateStaticParams() {
 export default async function TextPage({ params }: Props) {
   const { lecturer, course, session } = await params;
   const payload = getSession(lecturer, course, session);
-  const md = loadSessionMarkdown(lecturer, course, session, "corrected");
+  const useRaw = payload.subtitleSource === "raw";
+  const md = loadSessionMarkdown(
+    lecturer,
+    course,
+    session,
+    useRaw ? "raw" : "corrected",
+  );
   const body = md
-    ? stripEditorialNoise(md)
+    ? useRaw
+      ? md.trim()
+      : stripEditorialNoise(md)
     : "متن کامل این جلسه هنوز آماده نیست.";
-  const html = markdownToHtml(body);
+  const html = useRaw ? plainTextToHtml(body) : markdownToHtml(body);
 
   return (
     <main className="space-y-4">
@@ -62,7 +71,9 @@ export default async function TextPage({ params }: Props) {
               خلاصه
             </Link>
           )}
-          <span className="chip">متن کامل · جلسه {payload.id}</span>
+          <span className="chip">
+            {useRaw ? "متن خام ASR" : "متن کامل"} · جلسه {payload.id}
+          </span>
         </div>
       </div>
       <article

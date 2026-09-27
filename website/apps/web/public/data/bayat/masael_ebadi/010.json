@@ -1,0 +1,72 @@
+{
+ "id": "010",
+ "index": 10,
+ "lecturer": "bayat",
+ "course": "masael_ebadi",
+ "title": "نگاه دشمن به دستاوردهای انقلاب",
+ "topic": null,
+ "summary": "جلسه گواهی‌های دشمن و ناظران خارجی دربارهٔ دستاوردهای انقلاب را می‌خواند: آبراهامیان و رفاه اجتماعی، آمار یونسکو دربارهٔ باسوادی و امید به زندگی، هشدار نیچر دربارهٔ تحریم و اغتشاش، ارزیابی‌های امنیتی هسته‌ای، و اقرار به ستون دین در قدرت نرم؛ هدف کاستن خودتحقیری است.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/masael_ebadi/010/010_play.m4a",
+  "filename": "010_play.m4a",
+  "size": 9540216,
+  "display": "9.1 MB",
+  "duration": 769.66,
+  "durationText": "12:50"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "010.vtt",
+   "cues": "010.cues.json",
+   "words": "010.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## نگاه دشمن به دستاوردهای انقلاب",
+   "start": 1.18,
+   "end": 21.26
+  },
+  {
+   "index": 1,
+   "title": "## آبراهامیان؛ کارنامهٔ رفاه اجتماعی",
+   "start": 21.26,
+   "end": 75.84
+  },
+  {
+   "index": 2,
+   "title": "## آمار یونسکو؛ باسوادی و امید به زندگی",
+   "start": 75.84,
+   "end": 232.68
+  },
+  {
+   "index": 3,
+   "title": "## افسانهٔ غربی و هشدار نیچر",
+   "start": 232.68,
+   "end": 256.16
+  },
+  {
+   "index": 4,
+   "title": "## ارزیابی‌های امنیتی دشمن از هسته‌ای",
+   "start": 256.16,
+   "end": 769.66
+  }
+ ],
+ "recordedAt": 1764862701,
+ "sourceName": "#عبادی #اجتماعی #سیاسی ۱۵-۱۱-۴۰۲.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "009",
+ "next": "011"
+}

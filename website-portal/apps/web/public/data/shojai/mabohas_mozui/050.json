@@ -1,0 +1,41 @@
+{
+ "id": "050",
+ "index": 50,
+ "lecturer": "shojai",
+ "course": "mabohas_mozui",
+ "title": "جلسه ۵۰",
+ "topic": null,
+ "summary": null,
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/shojai/mabohas_mozui/050/050_play.m4a",
+  "filename": "050_play.m4a",
+  "size": 15800036,
+  "display": "15.1 MB",
+  "duration": 1250.12,
+  "durationText": "20:50"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "050.vtt",
+   "cues": "050.cues.json",
+   "words": "050.words.json"
+  }
+ },
+ "chapters": [],
+ "recordedAt": null,
+ "sourceName": null,
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": false,
+ "hasBook": false,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": null,
+ "previous": "049",
+ "next": "051"
+}

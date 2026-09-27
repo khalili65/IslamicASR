@@ -1,0 +1,1786 @@
+{
+ "version": 1,
+ "sessionId": "071",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 725.4,
+ "alignment": {
+  "exact": 1474,
+  "total": 1474,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## روایت دوم باب چهارم؛ واجمع للفنا",
+   "start": 19.86,
+   "end": 63.2
+  },
+  {
+   "index": 1,
+   "title": "## ظاهرِ ناساز دو روایت؛ بقا و فنا",
+   "start": 63.2,
+   "end": 185.08
+  },
+  {
+   "index": 2,
+   "title": "## دار بلغة و طریق إلی الآخرة",
+   "start": 185.08,
+   "end": 237.9
+  },
+  {
+   "index": 3,
+   "title": "## رفع تناقض؛ دنیا فانی و آخرت باقی",
+   "start": 237.9,
+   "end": 385.78
+  },
+  {
+   "index": 4,
+   "title": "## جمع مرحوم بهجت؛ جسم فانی روح باقی",
+   "start": 385.78,
+   "end": 414.4
+  },
+  {
+   "index": 5,
+   "title": "## آیات جاثیه و عنکبوت",
+   "start": 414.4,
+   "end": 480.38
+  },
+  {
+   "index": 6,
+   "title": "## حضرت نوح و خانهٔ پشمین",
+   "start": 480.38,
+   "end": 594.18
+  },
+  {
+   "index": 7,
+   "title": "## بقاء به معبود و فنا در وجود؛ جمع فلسفی بهجت",
+   "start": 594.18,
+   "end": 725.4
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 0.38,
+   "end": 7.32,
+   "text": "السلام علیکم ورحمة الله وبركاته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 7.32,
+   "end": 11.52,
+   "text": "بسم الله الرحمن الرحیم و به نستعین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 11.52,
+   "end": 16.5,
+   "text": "السلام علیک یا داعی الله و ربانیة آیاته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 16.5,
+   "end": 19.86,
+   "text": "السلام علیکم و رحمة الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 19.86,
+   "end": 22.28,
+   "text": "در روایت دوم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 22.28,
+   "end": 25.3,
+   "text": "از باب چهارم کتاب الموت بودیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 25.3,
+   "end": 28.82,
+   "text": "که امام باقر علیه السلام فرمود: \"ینادی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 28.82,
+   "end": 32.16,
+   "text": "مناد کل یوم\" دائم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 32.16,
+   "end": 36.7,
+   "text": "منادی ندا می‌زنه \"للموت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 36.7,
+   "end": 40.16,
+   "text": "واجمع للفنا وابن للخراب\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 40.16,
+   "end": 44.12,
+   "text": "یه بار از اول تا آخر این روایت رو توضیح اجمالی دادیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 44.12,
+   "end": 46.36,
+   "text": "دو مرتبه از آخر شروع کردیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 46.36,
+   "end": 49.78,
+   "text": "دیروز \"وابن للخراب\" رو گفتیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 49.78,
+   "end": 53.64,
+   "text": "امروز \"واجمع للفنا\" رو دو مرتبه توقفی بکنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 53.64,
+   "end": 59.22,
+   "text": "یعنی چی جمع کن برای فنا؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 59.22,
+   "end": 63.2,
+   "text": "این فنا اینجا منظور چگونه فنایی‌ست؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 63.2,
+   "end": 69.06,
+   "text": "با توجه به اینکه در بعضی از روایات ما ظاهراً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 69.06,
+   "end": 74.88,
+   "text": "یه منافاتی بین خلقت ما برای فنا یا برای بقا داریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 74.88,
+   "end": 80.48,
+   "text": "اونجایی که این دو تا روایتو دقت کنید می‌بینید ظاهرش مخالفه همه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 80.48,
+   "end": 84.12,
+   "text": "اما وقتی دقت می‌کنیم منظور از این منطوق چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 84.12,
+   "end": 88.88,
+   "text": "می‌بینید نه مخالف نیستش. اتفاقاً یک حقیقتو دارن تصریح می‌کنند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 88.88,
+   "end": 96.24,
+   "text": "مثلاً امیرالمؤمنین علیه الصلاة والسلام فرمودند در کتاب غرر الحکم صفحه دویست و نود و دو هست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 96.24,
+   "end": 101.36,
+   "text": "\"إنكم إنما خلقتم للآخرة لا للدنیا\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 101.36,
+   "end": 107.34,
+   "text": "قطعاً بدانید که فقط شما برای آخرت خلق شدید، نه برای دنیا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 107.34,
+   "end": 111.16,
+   "text": "\"وللبقا لا للفنا\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 111.16,
+   "end": 116.72,
+   "text": "و برای بقا خلق شدید، نه برای فنا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 116.72,
+   "end": 121.24,
+   "text": "این یه روایت. روایت بعدی در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 121.24,
+   "end": 130.4,
+   "text": "نامه سی و یک نهج‌البلاغه تو دل نامه این فرمایش حضرت هست که \"واعلم يا بني\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 130.4,
+   "end": 132.46,
+   "text": "بدون ای پسرم که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 132.46,
+   "end": 136.24,
+   "text": "یا \"إنك إنما\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 136.24,
+   "end": 142.62,
+   "text": "قطعاً تو فقط \"خلقت للآخرة لا للدنیا\" برای آخرت آفریده شدی نه دنیا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 142.62,
+   "end": 145.3,
+   "text": "تا اینجا با اون روایت همخوانی داره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 145.3,
+   "end": 150.06,
+   "text": "ظاهرش. هر دو میگن تو برای آخرت خلق شدی نه برای دنیا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 150.06,
+   "end": 152.84,
+   "text": "بالای اون روایت اول می‌فرمود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 152.84,
+   "end": 154.6,
+   "text": "\"وللبقا لا للفنا\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 154.6,
+   "end": 162.46,
+   "text": "حالا اینجا بالعکسه. مولا می‌فرماید \"وللفنا لا للبقا\" تو برای فنا خلق شدی نه بقا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 162.46,
+   "end": 165.42,
+   "text": "اونجا فرمود برای بقا خلق شدی نه فنا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 165.42,
+   "end": 168.0,
+   "text": "تو این روایت می‌فرماید تو برای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 168.0,
+   "end": 171.42,
+   "text": "فنا خلق شدی نه بقا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 171.42,
+   "end": 173.34,
+   "text": "ظاهرش با هم متقایضند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 173.34,
+   "end": 176.06,
+   "text": "\"وللموت لا للحیاة\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 176.06,
+   "end": 177.66,
+   "text": "برای موت خلق شدی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 177.66,
+   "end": 183.78,
+   "text": "اول روایت می‌فرمود، روایت دوم \"لد للموت\" متولد کن برای موت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 183.78,
+   "end": 187.66,
+   "text": "اصلاً قراره که بمیریم. \"وإنك",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 187.66,
+   "end": 189.7,
+   "text": "في قلعة\" تو یه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 189.7,
+   "end": 192.14,
+   "text": "خونه‌ای، توی داری هستی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 192.14,
+   "end": 195.7,
+   "text": "و دار \"بلغة\". این بلغ",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 195.7,
+   "end": 200.8,
+   "text": "یه خونه‌ای رو منظور یه خونه‌ایه که به قدر کفاف باید ازش برداری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 200.8,
+   "end": 205.52,
+   "text": "این دو وجهه. می‌شه به یک معنا گفت به قدر کفاف دنیایی از این دار",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 205.52,
+   "end": 208.62,
+   "text": "دنیا برداری. یعنی خودتو آلوده نکنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 208.62,
+   "end": 214.62,
+   "text": "هی زیر بار قرض و وام و قسط و کوفت زهر مار و این‌ها که پدر خودمون رو درمیاریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 214.62,
+   "end": 221.5,
+   "text": "همین‌جوری که متأسفانه پیغمبر فرمود آخرالزمان یه زمانی می‌رسه که غباری از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 221.5,
+   "end": 223.54,
+   "text": "نزول یا ربا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 223.54,
+   "end": 226.88,
+   "text": "توی روایت می‌فرماید تو همه خونه‌ها هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 226.88,
+   "end": 229.34,
+   "text": "این وضعیت اقتصادی ما.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 229.34,
+   "end": 233.68,
+   "text": "یا، یا معنیش اینه که خودتو آلوده نکن از جهت دنیایی یا این دار",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 233.68,
+   "end": 237.9,
+   "text": "بلغ بر می‌گرده به اینکه به حد کفایت برای آخرتت بردار.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 237.9,
+   "end": 241.02,
+   "text": "حالا در هر حال \"وطريقٍ إلى الآخرة\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 241.02,
+   "end": 245.74,
+   "text": "و این راهیه، راهی‌ست به سمت آخرت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 245.74,
+   "end": 249.42,
+   "text": "یعنی تو در راه آخرت هستی حواست باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 249.42,
+   "end": 252.32,
+   "text": "حالا اونجایی که متفاوت ظاهرن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 252.32,
+   "end": 255.98,
+   "text": "در روایت اول \"للبقا لا للفنا\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 255.98,
+   "end": 258.38,
+   "text": "روایت دوم \"للفنا لا للبقا\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 258.38,
+   "end": 262.68,
+   "text": "اینا چه فرقی با هم می‌کنند؟ یعنی امیرالمؤمنین که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 262.68,
+   "end": 265.88,
+   "text": "استاد عرض شود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 265.88,
+   "end": 269.6,
+   "text": "طبیب نفوس هست، استاد کل هست،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 269.6,
+   "end": 273.06,
+   "text": "انسان کامل هست، اشتباه کرده علیه السلام نخر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 273.06,
+   "end": 275.36,
+   "text": "منظور از اونجایی که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 275.36,
+   "end": 278.28,
+   "text": "میگه شما برای بنا خ-- بقا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 278.28,
+   "end": 282.38,
+   "text": "خلق شدید، برای بقا خلق شدید، نه برای فنا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 282.38,
+   "end": 285.1,
+   "text": "منظور از بقا اینجا آخرته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 285.1,
+   "end": 287.56,
+   "text": "می‌گه شما برای آخرت خلق شدید. اونجا دار",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 287.56,
+   "end": 291.82,
+   "text": "بقاست. نه برای فنا یعنی نه برای دنیا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 291.82,
+   "end": 297.02,
+   "text": "چون دنیا فانیه. اونجایی که می‌فرماید شما برای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 297.02,
+   "end": 301.46,
+   "text": "فنا خلق شدید، نه برای بقا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 301.46,
+   "end": 304.28,
+   "text": "یعنی توی این دنیا فانی می‌شید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 304.28,
+   "end": 308.34,
+   "text": "شما خلق شدید طبیعت اینه، دار، دار طبیعته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 308.34,
+   "end": 311.0,
+   "text": "اینجا فانی می‌شید بدنتون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 311.0,
+   "end": 316.18,
+   "text": "یعنی اشاره داره به چی؟ به جنبه‌ی جسمی و طبیعی ما.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 316.18,
+   "end": 319.74,
+   "text": "اونجایی که امیرالمؤمنین یا پیغمبر هم داره حتی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 319.74,
+   "end": 323.34,
+   "text": "در کتاب بحار جلد پنجاه و هشت صفحه هفتاد و هشت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 323.34,
+   "end": 326.98,
+   "text": "پیغمبر فرمود: \"ما خلقتم للفنا\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 326.98,
+   "end": 329.28,
+   "text": "شما خلق نشدید برای فنا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 329.28,
+   "end": 332.94,
+   "text": "\"بل خلقتم للبقاء\" بلکه برای بقا خلق شدید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 332.94,
+   "end": 338.82,
+   "text": "\"و إنما تنتقلون من دار إلى دار\" شما از یه داری به دار دیگه منتقل می‌شید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 338.82,
+   "end": 342.98,
+   "text": "این اشاره اینکه پیغمبر می‌فرماید شما برای بقا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 342.98,
+   "end": 346.24,
+   "text": "خلق شدید نه برای فنا، منظور دار آخرته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 346.24,
+   "end": 351.32,
+   "text": "یعنی شما برای اونجا خلق شدید. چرا دلخوش کردید به دنیا؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 351.32,
+   "end": 356.26,
+   "text": "اونجایی که امیرالمؤمنین علیه الصلاة والسلام می‌فرماید نه، شما برای فنا خلق شدید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 356.26,
+   "end": 360.16,
+   "text": "اینجا پیغمبر می‌فرماید شما برای بقا خلق شدید یعنی آخرت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 360.16,
+   "end": 363.72,
+   "text": "اونجا امیرالمؤمنین می‌فرماید شما برای فنا خلق شدید، نه بقا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 363.72,
+   "end": 367.72,
+   "text": "منظور به جنبه دنیویه، زندگی دنیویمونه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 367.72,
+   "end": 371.2,
+   "text": "یعنی در دنیا خ-- فنا می‌شید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 371.2,
+   "end": 376.04,
+   "text": "شما خلق شدید، نجنگید انقدر با دنیا، با خودتون، با موت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 94,
+   "start": 376.04,
+   "end": 378.22,
+   "text": "اصلاً دار چنین داری‌ست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 95,
+   "start": 378.22,
+   "end": 381.08,
+   "text": "دار انتقاله. شما قراره از اینجا برید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 96,
+   "start": 381.08,
+   "end": 385.78,
+   "text": "فانی بشید. جنبه‌ی جسمی شما فانی می‌شه، نه جنبه‌ی روحی که.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 97,
+   "start": 385.78,
+   "end": 389.06,
+   "text": "اتفاقاً یه فرمایشی از آقای بهجت براتون تو همین زمینه بخونم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 98,
+   "start": 389.06,
+   "end": 392.2,
+   "text": "آقای بهجت می‌فرمایند تقایر ظاهری این دو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 99,
+   "start": 392.2,
+   "end": 397.56,
+   "text": "روایت یعنی اگر فقط جسم بود فانی می‌شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 100,
+   "start": 397.56,
+   "end": 399.64,
+   "text": "اما روح همیشگی‌ست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 101,
+   "start": 399.64,
+   "end": 403.22,
+   "text": "اونجایی که میگه فنا اشاره به جنبه‌ی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 102,
+   "start": 403.22,
+   "end": 407.7,
+   "text": "جسمی ما داره. اونجا که میگه بقا اشاره به جنبه‌ی روحی ما داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 103,
+   "start": 407.7,
+   "end": 415.38,
+   "text": "که البته در آیه‌ی بیست و چهار سوره جاثیه می‌فرماید \"و ما هى إلا حياة الدنيا نموت ونحيا كفار\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 104,
+   "start": 415.38,
+   "end": 418.38,
+   "text": "میگن اصلاً دنیا زندگی همینه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 105,
+   "start": 418.38,
+   "end": 421.08,
+   "text": "و ما هى إلا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 106,
+   "start": 421.08,
+   "end": 425.58,
+   "text": "حياة الدنيا. اصلاً همه‌ی زندگی همین حیات دنیویه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 107,
+   "start": 425.58,
+   "end": 428.34,
+   "text": "یعنی اصلاً قبول ندارن آخرت رو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 108,
+   "start": 428.34,
+   "end": 431.16,
+   "text": "میگن همه چی اینجاست. بعدم تموم می‌شه می‌ره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 109,
+   "start": 431.16,
+   "end": 433.12,
+   "text": "ما فانی می‌شیم تموم می‌شه می‌ره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 110,
+   "start": 433.12,
+   "end": 437.54,
+   "text": "میگه این چنین نیست دنیا فناپذیره اما آخرت باقیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 111,
+   "start": 437.54,
+   "end": 443.36,
+   "text": "یا در آیه شصت و چهار عنکبوت می‌فرماید \"ما هذه الحياة الدنيا إلا لهو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 112,
+   "start": 443.36,
+   "end": 448.94,
+   "text": "ولعب\". اصلاً این دنیا چیزی نیست جز یه بازیگوشه و بازیگوشی و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 113,
+   "start": 448.94,
+   "end": 453.1,
+   "text": "سرگرد-- سردرگمی و سرگرمی و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 114,
+   "start": 453.1,
+   "end": 456.36,
+   "text": "فراغت بچگانه و بازیگوشی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 115,
+   "start": 456.36,
+   "end": 459.44,
+   "text": "و ان، اینجا رو دقت کنید \"و ان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 116,
+   "start": 459.44,
+   "end": 461.44,
+   "text": "دار الآخرة",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 117,
+   "start": 461.44,
+   "end": 464.76,
+   "text": "لهى الحیوان لو کانوا يعلمون\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 118,
+   "start": 464.76,
+   "end": 468.56,
+   "text": "اگه بدونید اون دار آخرته که حیووان،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 119,
+   "start": 468.56,
+   "end": 472.12,
+   "text": "حیووان از حیات میاد که حیات ابدی شماست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 120,
+   "start": 472.12,
+   "end": 473.82,
+   "text": "یعنی شما برای اونجا خلق شدید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 121,
+   "start": 473.82,
+   "end": 476.14,
+   "text": "باز تسری همون روایته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 122,
+   "start": 476.14,
+   "end": 479.84,
+   "text": "شما برای آخرت خلق شدید و اونجا همیشگیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 123,
+   "start": 479.84,
+   "end": 485.68,
+   "text": "توجه کردید؟ اتفاقاً حضرت نوح می‌دونید از همه انبیا روایت داریم بیشتر عمر کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 124,
+   "start": 485.68,
+   "end": 490.66,
+   "text": "تا بعضی روایت تا چهار هزار سال هم برای ایشون گفتن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 125,
+   "start": 490.66,
+   "end": 492.58,
+   "text": "یه روایت میگه دو هزار و پونصد سال.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 126,
+   "start": 492.58,
+   "end": 497.2,
+   "text": "دیگه قرآن میگه حد-حداقل نهصد و پنجاه سال نبوتش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 127,
+   "start": 497.2,
+   "end": 500.12,
+   "text": "ایشون خب زمان اون موقع مردم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 128,
+   "start": 500.12,
+   "end": 506.56,
+   "text": "اقتضا می‌کرد بزرگان قوم، انبیا، اولیا، ائمه مثل زمان خودشون زندگی کنن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 129,
+   "start": 506.56,
+   "end": 510.72,
+   "text": "فقر بیداد می‌کرد و صنعت خانه‌سازی نبود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 130,
+   "start": 510.72,
+   "end": 513.56,
+   "text": "اینا مردم تو غارها زندگی می‌کردن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 131,
+   "start": 513.56,
+   "end": 516.7,
+   "text": "یه روایت میگه یه مدتی حضرت نوح تو غار زندگی می‌کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 132,
+   "start": 516.7,
+   "end": 522.16,
+   "text": "یه روایت میگه از پشم برای خودش یه خونه‌ی کلبه‌ی کوچولویی درست کرده بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 133,
+   "start": 522.16,
+   "end": 526.3,
+   "text": "هرچی بهش می‌گفتن آقا بیا از گل درست کن قبول نمی‌کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 134,
+   "start": 526.3,
+   "end": 528.68,
+   "text": "با پشم که باد می‌ریختش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 135,
+   "start": 528.68,
+   "end": 532.52,
+   "text": "بعد حتی یه روایت میگه نصف بدنش بیرون بود، نصفش داخل.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 136,
+   "start": 532.52,
+   "end": 536.08,
+   "text": "یعنی سایه از آفتاب می‌زد اذیتش می‌کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 137,
+   "start": 536.08,
+   "end": 540.16,
+   "text": "خلاصه کاری نداریم. حالا این چرایش بماند باید تبیین بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 138,
+   "start": 540.16,
+   "end": 546.92,
+   "text": "چرا اینجوری زندگی می‌کرد. وقتی حضرت قابیل و لُحْق تشریف آوردن ایشون رو ببرن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 139,
+   "start": 546.92,
+   "end": 548.8,
+   "text": "گفتن که عجب، کی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 140,
+   "start": 548.8,
+   "end": 551.96,
+   "text": "حضرت نوحه حداقل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 141,
+   "start": 551.96,
+   "end": 554.02,
+   "text": "نهصد و پنجاه سال نبوت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 142,
+   "start": 554.02,
+   "end": 557.48,
+   "text": "داره. حالا چقدر عمرش شک داریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 143,
+   "start": 557.48,
+   "end": 563.22,
+   "text": "فرمود اگر می‌دونستم انقدر زود عمر دنیامون می‌گذره همین یه خونه رو هم نمی‌ساختم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 144,
+   "start": 563.22,
+   "end": 566.38,
+   "text": "همین خونه کوچولو رو هم نمی‌ساختم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 145,
+   "start": 566.38,
+   "end": 569.52,
+   "text": "این قاعده است. یعنی سریع می‌گذره تموم می‌شه می‌ره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 146,
+   "start": 569.52,
+   "end": 572.12,
+   "text": "مثل برق، برق.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 147,
+   "start": 572.12,
+   "end": 574.42,
+   "text": "چشم رو هم می‌ذاریم تموم شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 148,
+   "start": 574.42,
+   "end": 580.24,
+   "text": "ولی نمی‌دونم چرا ما، خودم رو عرض می‌کنم باز بسنده کردیم به زندگی دنیویمون،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 149,
+   "start": 580.24,
+   "end": 582.14,
+   "text": "به این زندگی مادیمون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 150,
+   "start": 582.14,
+   "end": 584.8,
+   "text": "همه‌ی هم و غممون شده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 151,
+   "start": 584.8,
+   "end": 587.2,
+   "text": "راحتی بدن. اصلاً کاری به روح نداریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 152,
+   "start": 587.2,
+   "end": 589.6,
+   "text": "روح رها هر کجا بخواد بره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 153,
+   "start": 589.6,
+   "end": 591.64,
+   "text": "اصلاً روحمون رو کشتیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 154,
+   "start": 591.64,
+   "end": 593.98,
+   "text": "صرفاً به بدن بسنده کردیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 155,
+   "start": 593.98,
+   "end": 599.08,
+   "text": "یه فرمایشی هم آقای بهجت داره اینم خیلی خوبه شما بشنوید و بگم و تمام.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 156,
+   "start": 599.08,
+   "end": 602.36,
+   "text": "ایشون می‌فرمایند جمع به، عین فرمایش آقای بهجته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 157,
+   "start": 602.36,
+   "end": 611.04,
+   "text": "جمع بین این دو روایت که ظاهراً متناقض به نظر می‌رسد که می‌فرماید \"خلقتم للبلا-بقا لا للفنا\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 158,
+   "start": 611.04,
+   "end": 615.82,
+   "text": "و اینکه می‌فرماید \"خلقتم للفنا لا للبقا\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 159,
+   "start": 615.82,
+   "end": 619.96,
+   "text": "نه برای فنا آفریده شدید، نه برای بقا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 160,
+   "start": 619.96,
+   "end": 622.84,
+   "text": "برای ف-فنا آفریده شدید، نه برای بقا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 161,
+   "start": 622.84,
+   "end": 629.02,
+   "text": "ایشون می‌فرماید این است که شما برای بقا به معبود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 162,
+   "start": 629.02,
+   "end": 632.16,
+   "text": "و فنا در وجود آفریده شدید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 163,
+   "start": 632.16,
+   "end": 636.9,
+   "text": "این یه بحث فلسفی سنگینی می‌طلبید چون قبلاً ما گفتیم الان ورود نمی‌کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 164,
+   "start": 636.9,
+   "end": 638.96,
+   "text": "فقط اشاره می‌کنم به چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 165,
+   "start": 638.96,
+   "end": 644.12,
+   "text": "اینکه بقاء به معبود یعنی شما با عباداتی که انجام میدی بحث معبوده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 166,
+   "start": 644.12,
+   "end": 647.44,
+   "text": "\"و ما خلقت الجن والانس الا ليعبدون\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 167,
+   "start": 647.44,
+   "end": 650.68,
+   "text": "با عباداتت بقای آخرتیت رو تنظیم می‌کنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 168,
+   "start": 650.68,
+   "end": 653.26,
+   "text": "لذا میگه بقاء به معبود. فنا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 169,
+   "start": 653.26,
+   "end": 655.94,
+   "text": "در وجود چیه؟ یعنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 170,
+   "start": 655.94,
+   "end": 658.32,
+   "text": "وجوداً ما فانی هستیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 171,
+   "start": 658.32,
+   "end": 661.08,
+   "text": "ما چیزی نیستیم. هرچه هست حقه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 172,
+   "start": 661.08,
+   "end": 663.98,
+   "text": "چون یک وجود صمدی بیش نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 173,
+   "start": 663.98,
+   "end": 666.02,
+   "text": "خدا تجلی کرده ما شدیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 174,
+   "start": 666.02,
+   "end": 668.84,
+   "text": "تجلی و ظهور حق ما هستیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 175,
+   "start": 668.84,
+   "end": 671.0,
+   "text": "پس ما، ما نیستیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 176,
+   "start": 671.0,
+   "end": 672.72,
+   "text": "حقه که آشکار شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 177,
+   "start": 672.72,
+   "end": 676.18,
+   "text": "از این حیث در وجود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 178,
+   "start": 676.18,
+   "end": 677.92,
+   "text": "فقط حقه. ما نیستیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 179,
+   "start": 677.92,
+   "end": 679.94,
+   "text": "لذا میگه فنا در وجود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 180,
+   "start": 679.94,
+   "end": 684.88,
+   "text": "مثل اینکه این استخر آبه، اون جوی آبه، اون دریائه، اون دریاچه، اون اقیانوس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 181,
+   "start": 684.88,
+   "end": 688.44,
+   "text": "در آبیت همه آبن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 182,
+   "start": 688.44,
+   "end": 692.22,
+   "text": "آبه. این درسته اسمش شده استخر اما آبه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 183,
+   "start": 692.22,
+   "end": 694.9,
+   "text": "اون درسته یک قطره‌ست اما باز آبه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 184,
+   "start": 694.9,
+   "end": 696.56,
+   "text": "اونم دریای لایتناهی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 185,
+   "start": 696.56,
+   "end": 701.94,
+   "text": "همه آبن از جهت آبیت، مائیت یعنی وجود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 186,
+   "start": 701.94,
+   "end": 706.54,
+   "text": "حق تمام. از جهت وجود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 187,
+   "start": 706.54,
+   "end": 711.86,
+   "text": "وجود ما، اون آبیت و مائیت ما، ما فنا در وجود هستیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 188,
+   "start": 711.86,
+   "end": 714.84,
+   "text": "یعنی هرچه هست حق است و ما هیچی‌ایم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 189,
+   "start": 714.84,
+   "end": 719.88,
+   "text": "ان شا الله عاقبتمون ختم به خیر بشه و برکت صلوات بر محمد و آل محمد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 190,
+   "start": 719.88,
+   "end": 725.4,
+   "text": "اللهم صل على محمد و آل محمد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

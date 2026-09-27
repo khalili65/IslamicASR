@@ -1,0 +1,60 @@
+{
+ "id": "002",
+ "index": 2,
+ "lecturer": "bayat",
+ "course": "qalb_qasi",
+ "title": "وامِ ربوی در اضطرار",
+ "topic": null,
+ "summary": "در پاسخ به وامِ ربوی در اضطرار، حرمتِ ربا برداشته نمی‌شود؛ مضطرّ وام می‌گیرد امّا قصدِ ربا نمی‌کند. سپس قساوتِ قلب از آیهٔ بقره/۷۴ و چهار مرحلهٔ جمادی، نباتی، حیوانی و انسانی تبیین می‌شود.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/qalb_qasi/002/002_play.m4a",
+  "filename": "002_play.m4a",
+  "size": 5945814,
+  "display": "5.7 MB",
+  "duration": 490.55,
+  "durationText": "8:11"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "002.vtt",
+   "cues": "002.cues.json",
+   "words": "002.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "بسم الله الرحمن الرحیم و به نستعین. درود بر داعیِ خدا و ربّانیِ آیاتش.",
+   "start": 14.22,
+   "end": 122.1
+  },
+  {
+   "index": 1,
+   "title": "## قساوتِ قلب؛ آیهٔ هفتاد و چهارِ بقره",
+   "start": 122.1,
+   "end": 177.2
+  },
+  {
+   "index": 2,
+   "title": "## چهار مرحلهٔ زندگی",
+   "start": 177.2,
+   "end": 490.55
+  }
+ ],
+ "recordedAt": 1785845550,
+ "sourceName": "قلب قسی2_ج140.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "001",
+ "next": "003"
+}

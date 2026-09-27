@@ -1,0 +1,166 @@
+[11:04:37] Opening 1 tab(s) for 63 item(s).
+[11:04:38] [tab1] 001: 49,744 chars in 10 chunk(s); 1 cached, sending 9.
+[11:04:40] [tab1] Model already looks like Pro: 'Pro'
+[11:04:40] [tab1]   chunk 2/10 → sending 4,922 chars
+[11:04:41] [tab1]   composer after oneshot: 8,490 / 8,414 chars (asr_anchor=yes)
+[11:07:01] Opening 1 tab(s) for 63 item(s).
+[11:07:02] [tab1] 001: 49,744 chars in 10 chunk(s); 1 cached, sending 9.
+[11:07:04] [tab1] Model already looks like Pro: 'Pro'
+[11:07:04] [tab1]   chunk 2/10 → sending 4,922 chars
+[11:07:05] [tab1]   composer after oneshot: 8,490 / 8,414 chars (asr_anchor=yes)
+[11:08:05] [tab1]   chunk 2/10 ← got 4,291 chars
+[11:08:10] [tab1]   chunk 3/10 → sending 4,825 chars
+[11:08:11] [tab1]   composer after oneshot: 4,917 / 4,908 chars (asr_anchor=yes)
+[11:15:32] Opening 4 tab(s) for 63 item(s).
+[11:15:33] [tab1] 001: 49,744 chars in 10 chunk(s); 0 cached, sending 10.
+[11:15:35] [tab2] 002: 44,234 chars in 9 chunk(s); 0 cached, sending 9.
+[11:15:37] [tab2] Model already looks like Pro: 'Pro'
+[11:15:37] [tab2]   chunk 1/9 → sending 5,666 chars
+[11:15:37] [tab3] 003: 42,803 chars in 9 chunk(s); 0 cached, sending 9.
+[11:15:38] [tab2]   composer after oneshot: 9,542 / 9,463 chars (asr_anchor=yes)
+[11:15:39] [tab4] 004: 37,311 chars in 8 chunk(s); 0 cached, sending 8.
+[11:15:39] [tab3] Model already looks like Pro: 'Pro'
+[11:15:39] [tab3]   chunk 1/9 → sending 4,339 chars
+[11:15:40] [tab3]   composer after oneshot: 8,215 / 8,136 chars (asr_anchor=yes)
+[11:15:41] [tab4] Model already looks like Pro: 'Pro'
+[11:15:41] [tab4]   chunk 1/8 → sending 4,371 chars
+[11:15:42] [tab4]   composer after oneshot: 8,244 / 8,168 chars (asr_anchor=yes)
+[11:15:46] [tab1] WARNING: could not auto-select Pro (current label 'Pro'). Confirm the model in the browser window.
+[11:15:46] [tab1]   chunk 1/10 → sending 5,999 chars
+[11:15:47] [tab1]   composer after oneshot: 9,877 / 9,798 chars (asr_anchor=yes)
+[11:16:37] [tab1]   chunk 1/10 ← got 4,231 chars
+[11:16:42] [tab1]   chunk 2/10 → sending 4,922 chars
+[11:16:43] [tab1]   composer after oneshot: 5,014 / 5,005 chars (asr_anchor=yes)
+[11:16:44] [tab3]   chunk 1/9 ← got 5,422 chars
+[11:16:49] [tab3]   chunk 2/9 → sending 5,101 chars
+[11:16:50] [tab3]   composer after oneshot: 5,192 / 5,183 chars (asr_anchor=yes)
+[11:16:54] [tab4]   chunk 1/8 ← got 2,733 chars
+[11:16:54] [tab2]   chunk 1/9 ← got 41 chars
+[11:16:59] [tab4]   chunk 2/8 → sending 5,069 chars
+[11:16:59] [tab2]   chunk 2/9 → sending 5,742 chars
+[11:17:00] [tab4]   composer after oneshot: 5,160 / 5,151 chars (asr_anchor=yes)
+[11:17:00] [tab2]   composer after oneshot: 5,833 / 5,824 chars (asr_anchor=yes)
+[11:17:47] [tab4]   chunk 2/8 ← got 4,609 chars
+[11:17:52] [tab4]   chunk 3/8 → sending 4,906 chars
+[11:17:53] [tab4]   composer after oneshot: 4,997 / 4,988 chars (asr_anchor=yes)
+[11:18:05] [tab2]   chunk 2/9 ← got 4,990 chars
+[11:18:10] [tab2]   chunk 3/9 → sending 5,063 chars
+[11:18:11] [tab2]   composer after oneshot: 5,154 / 5,145 chars (asr_anchor=yes)
+[11:21:53] Opening 4 tab(s) for 63 item(s).
+[11:21:54] [tab1] 001: 49,744 chars in 10 chunk(s); 1 cached, sending 9.
+[11:21:56] [tab1] Model already looks like Pro: 'Pro'
+[11:21:56] [tab1]   chunk 2/10 → sending 4,922 chars
+[11:21:57] [tab2] 002: 44,234 chars in 9 chunk(s); 1 cached, sending 8.
+[11:21:57] [tab1]   composer after oneshot: 9,550 / 9,468 chars (asr_anchor=yes)
+[11:21:59] [tab2] Model already looks like Pro: 'Pro'
+[11:21:59] [tab2]   chunk 1/9 → sending 5,666 chars
+[11:21:59] [tab3] 003: 42,803 chars in 9 chunk(s); 1 cached, sending 8.
+[11:22:00] [tab2]   composer after oneshot: 9,542 / 9,463 chars (asr_anchor=yes)
+[11:22:01] [tab3] Model already looks like Pro: 'Pro'
+[11:22:01] [tab3]   chunk 2/9 → sending 5,101 chars
+[11:22:02] [tab4] 004: 37,311 chars in 8 chunk(s); 2 cached, sending 6.
+[11:22:02] [tab3]   composer after oneshot: 9,739 / 9,645 chars (asr_anchor=yes)
+[11:22:04] [tab4] Model already looks like Pro: 'Pro'
+[11:22:04] [tab4]   chunk 3/8 → sending 4,906 chars
+[11:22:05] [tab4]   composer after oneshot: 9,532 / 9,450 chars (asr_anchor=yes)
+[11:23:02] [tab1]   chunk 2/10 ← got 3,296 chars
+[11:23:05] [tab4]   chunk 3/8 ← got 3,424 chars
+[11:23:06] [tab2]   chunk 1/9 ← got 3,282 chars
+[11:23:07] [tab1]   chunk 3/10 → sending 4,825 chars
+[11:23:08] [tab1]   composer after oneshot: 4,917 / 4,908 chars (asr_anchor=yes)
+[11:23:10] [tab4]   chunk 4/8 → sending 5,305 chars
+[11:23:11] [tab4]   composer after oneshot: 5,396 / 5,387 chars (asr_anchor=yes)
+[11:23:11] [tab2]   chunk 3/9 → sending 5,063 chars
+[11:23:12] [tab2]   composer after oneshot: 5,154 / 5,145 chars (asr_anchor=yes)
+[11:23:23] [tab3]   chunk 2/9 ← got 5,505 chars
+[11:23:28] [tab3]   chunk 3/9 → sending 5,674 chars
+[11:23:29] [tab3]   composer after oneshot: 5,765 / 5,756 chars (asr_anchor=yes)
+[11:24:13] [tab1]   chunk 3/10 ← got 4,080 chars
+[11:24:18] [tab1]   chunk 4/10 → sending 5,203 chars
+[11:24:19] [tab1]   composer after oneshot: 5,295 / 5,286 chars (asr_anchor=yes)
+[11:24:20] [tab2]   chunk 3/9 ← got 3,444 chars
+[11:24:25] [tab2]   chunk 4/9 → sending 5,742 chars
+[11:24:25] [tab2]   composer after oneshot: 5,833 / 5,824 chars (asr_anchor=yes)
+[11:24:38] [tab4]   chunk 4/8 ← got 4,138 chars
+[11:24:43] [tab4]   chunk 5/8 → sending 5,760 chars
+[11:24:44] [tab4]   composer after oneshot: 5,851 / 5,842 chars (asr_anchor=yes)
+[11:25:29] [tab2]   chunk 4/9 ← got 5,333 chars
+[11:25:34] [tab2]   chunk 5/9 → sending 4,723 chars
+[11:25:35] [tab2]   composer after oneshot: 4,814 / 4,805 chars (asr_anchor=yes)
+[11:32:20] Opening 4 tab(s) for 63 item(s).
+[11:32:21] [tab1] 001: 49,744 chars in 10 chunk(s); 3 cached, sending 7.
+[11:32:23] [tab1] Model already looks like Pro: 'Pro'
+[11:32:23] [tab1]   chunk 4/10 → sending 5,203 chars
+[11:32:24] [tab2] 002: 44,234 chars in 9 chunk(s); 4 cached, sending 5.
+[11:32:25] [tab1]   composer after oneshot: 9,837 / 9,749 chars (asr_anchor=yes)
+[11:32:26] [tab2] Model already looks like Pro: 'Pro'
+[11:32:26] [tab2]   chunk 5/9 → sending 4,723 chars
+[11:32:27] [tab2]   composer after oneshot: 9,349 / 9,267 chars (asr_anchor=yes)
+[11:32:27] [tab3] 003: 42,803 chars in 9 chunk(s); 2 cached, sending 7.
+[11:32:29] [tab3] Model already looks like Pro: 'Pro'
+[11:32:29] [tab3]   chunk 3/9 → sending 5,674 chars
+[11:32:30] [tab4] 004: 37,311 chars in 8 chunk(s); 4 cached, sending 4.
+[11:32:30] [tab3]   composer after oneshot: 10,303 / 10,218 chars (asr_anchor=yes)
+[11:32:32] [tab4] Model already looks like Pro: 'Pro'
+[11:32:32] [tab4]   chunk 5/8 → sending 5,760 chars
+[11:32:33] [tab4]   composer after oneshot: 10,389 / 10,304 chars (asr_anchor=yes)
+[11:33:29] [tab2]   chunk 5/9 ← got 4,191 chars
+[11:33:32] [tab1]   chunk 4/10 ← got 4,201 chars
+[11:33:34] [tab2]   chunk 6/9 → sending 5,060 chars
+[11:33:35] [tab2]   composer after oneshot: 5,151 / 5,142 chars (asr_anchor=yes)
+[11:33:37] [tab1]   chunk 5/10 → sending 5,450 chars
+[11:33:38] [tab1]   composer after oneshot: 5,542 / 5,533 chars (asr_anchor=yes)
+[11:33:41] [tab3]   chunk 3/9 ← got 4,976 chars
+[11:33:46] [tab3]   chunk 4/9 → sending 5,128 chars
+[11:33:47] [tab3]   composer after oneshot: 5,219 / 5,210 chars (asr_anchor=yes)
+[11:34:16] [tab4]   chunk 5/8 ← got 4,477 chars
+[11:34:21] [tab4]   chunk 6/8 → sending 5,529 chars
+[11:34:22] [tab4]   composer after oneshot: 5,620 / 5,611 chars (asr_anchor=yes)
+[11:35:23] [tab4]   chunk 6/8 ← got 4,852 chars
+[11:35:28] [tab4]   chunk 7/8 → sending 5,817 chars
+[11:35:29] [tab4]   composer after oneshot: 5,908 / 5,899 chars (asr_anchor=yes)
+[11:36:31] [tab4]   chunk 7/8 ← got 5,045 chars
+[11:36:36] [tab4]   chunk 8/8 → sending 561 chars
+[11:36:37] [tab4]   composer after oneshot: 646 / 643 chars (asr_anchor=yes)
+[11:42:15] Opening 2 tab(s) for 63 item(s).
+[11:42:16] [tab1] 001: 49,744 chars in 10 chunk(s); 4 cached, sending 6.
+[11:42:18] [tab1] Model already looks like Pro: 'Pro'
+[11:42:18] [tab1]   chunk 5/10 → sending 5,450 chars
+[11:42:18] [tab2] 002: 44,234 chars in 9 chunk(s); 5 cached, sending 4.
+[11:42:19] [tab1]   composer after oneshot: 10,087 / 9,996 chars (asr_anchor=yes)
+[11:42:20] [tab2] Model already looks like Pro: 'Pro'
+[11:42:20] [tab2]   chunk 6/9 → sending 5,060 chars
+[11:42:21] [tab2]   composer after oneshot: 9,692 / 9,604 chars (asr_anchor=yes)
+[11:43:35] [tab1]   chunk 5/10 ← got 3,103 chars
+[11:43:38] [tab2]   chunk 6/9 ← got 4,231 chars
+[11:43:40] [tab1]   chunk 6/10 → sending 4,950 chars
+[11:43:41] [tab1]   composer after oneshot: 5,042 / 5,033 chars (asr_anchor=yes)
+[11:43:43] [tab2]   chunk 7/9 → sending 5,407 chars
+[11:43:43] [tab2]   composer after oneshot: 5,498 / 5,489 chars (asr_anchor=yes)
+[11:44:43] [tab1]   chunk 6/10 ← got 3,539 chars
+[11:44:48] [tab1]   chunk 7/10 → sending 5,616 chars
+[11:44:49] [tab1]   composer after oneshot: 5,708 / 5,699 chars (asr_anchor=yes)
+[11:45:21] [tab2]   chunk 7/9 ← got 5,059 chars
+[11:45:26] [tab2]   chunk 8/9 → sending 5,269 chars
+[11:45:26] [tab2]   composer after oneshot: 5,360 / 5,351 chars (asr_anchor=yes)
+[11:45:57] [tab1]   chunk 7/10 ← got 4,719 chars
+[11:46:02] [tab1]   chunk 8/10 → sending 4,820 chars
+[11:46:03] [tab1]   composer after oneshot: 4,912 / 4,903 chars (asr_anchor=yes)
+[11:52:23] Opening 2 tab(s) for 63 item(s).
+[11:52:24] [tab1] 001: 49,744 chars in 10 chunk(s); 1 cached, sending 9.
+[11:52:25] [tab1] Model already looks like Pro: 'Pro'
+[11:52:25] [tab1]   chunk 2/10 → sending 4,922 chars
+[11:52:26] [tab2] 002: 44,234 chars in 9 chunk(s); 0 cached, sending 9.
+[11:52:27] [tab1]   composer after oneshot: 10,395 / 10,283 chars (asr_anchor=yes)
+[11:52:28] [tab2] Model already looks like Pro: 'Pro'
+[11:52:28] [tab2]   chunk 1/9 → sending 5,666 chars
+[11:52:29] [tab2]   composer after oneshot: 10,384 / 10,278 chars (asr_anchor=yes)
+[11:53:30] [tab2]   chunk 1/9 ← got 6,918 chars
+[11:53:35] [tab2]   chunk 2/9 → sending 5,742 chars
+[11:53:36] [tab2]   composer after oneshot: 5,833 / 5,824 chars (asr_anchor=yes)
+[11:53:41] [tab1]   chunk 2/10 ← got 5,511 chars
+[11:53:46] [tab1]   chunk 3/10 → sending 4,825 chars
+[11:53:47] [tab1]   composer after oneshot: 4,917 / 4,908 chars (asr_anchor=yes)
+[11:54:53] [tab1]   chunk 3/10 ← got 6,153 chars
+[11:54:59] [tab1]   chunk 4/10 → sending 5,203 chars
+[11:54:59] [tab1]   composer after oneshot: 5,295 / 5,286 chars (asr_anchor=yes)

@@ -84,28 +84,33 @@ export default async function CoursePage({ params }: Props) {
 
       <section>
         <h2 className="section-title mb-3">جلسات</h2>
-        <ul className="space-y-2">
+        <ul className="grid grid-cols-1 gap-2 sm:grid-cols-2 lg:grid-cols-3">
           {data.sessions.map((s) => (
             <li key={s.id}>
               <Link
                 href={`/${lecturer}/${course}/${s.id}/`}
-                className="card-link group flex items-center gap-4 px-4 py-3.5"
+                className="card-link group flex h-full flex-col gap-3 p-4"
               >
-                <span
-                  className={`flex h-11 w-11 shrink-0 items-center justify-center rounded-2xl text-sm font-black tabular-nums transition ${
-                    s.hasTranscript
-                      ? "bg-brand/45 text-brand-deep group-hover:bg-brand-deep group-hover:text-white"
-                      : "bg-ink/[0.05] text-ink/40"
-                  }`}
-                >
-                  {toPersianDigits(s.index)}
-                </span>
+                <div className="flex items-center justify-between gap-2">
+                  <span
+                    className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-2xl text-sm font-black tabular-nums transition ${
+                      s.hasTranscript
+                        ? "bg-brand/45 text-brand-deep group-hover:bg-brand-deep group-hover:text-white"
+                        : "bg-ink/[0.05] text-ink/40"
+                    }`}
+                  >
+                    {toPersianDigits(s.index)}
+                  </span>
+                  <span className="shrink-0 text-ink/20 transition group-hover:text-brand-deep">
+                    <PlayIcon className="h-5 w-5" />
+                  </span>
+                </div>
 
                 <div className="min-w-0 flex-1">
                   <h3 className="line-clamp-2 font-semibold leading-6">
                     {s.title}
                   </h3>
-                  <div className="mt-1 flex items-center gap-2 text-xs text-ink/45">
+                  <div className="mt-1.5 flex flex-wrap items-center gap-x-2 gap-y-1 text-xs text-ink/45">
                     <span className="tabular-nums">
                       {s.durationText ? toPersianDigits(s.durationText) : "—"}
                     </span>
@@ -119,15 +124,11 @@ export default async function CoursePage({ params }: Props) {
                     </span>
                   </div>
                   {s.topic ? (
-                    <p className="mt-1 line-clamp-1 text-xs text-ink/45">
+                    <p className="mt-1 line-clamp-2 text-xs text-ink/45">
                       {s.topic.replace(/\*\*/g, "")}
                     </p>
                   ) : null}
                 </div>
-
-                <span className="shrink-0 text-ink/20 transition group-hover:text-brand-deep">
-                  <PlayIcon className="h-5 w-5" />
-                </span>
               </Link>
             </li>
           ))}

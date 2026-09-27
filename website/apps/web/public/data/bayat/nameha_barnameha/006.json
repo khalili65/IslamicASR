@@ -1,0 +1,41 @@
+{
+ "id": "006",
+ "index": 5,
+ "lecturer": "bayat",
+ "course": "nameha_barnameha",
+ "title": "آغاز سخن",
+ "topic": null,
+ "summary": "نامهٔ اول: مقام محمود؛ شهود و شنود و لیلة القدر؛ فصلت؛ مرآت؛ سکرات؛ کهف؛ سپس فاطمیه: گریه بر شرک، بیت‌الأحزان، سایه‌بان، حسنین، غروب.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/nameha_barnameha/006/006_play.m4a",
+  "filename": "006_play.m4a",
+  "size": 26810134,
+  "display": "25.6 MB",
+  "duration": 2208.44,
+  "durationText": "36:48"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "006.vtt",
+   "cues": "006.cues.json",
+   "words": "006.words.json"
+  }
+ },
+ "chapters": [],
+ "recordedAt": 1763683030,
+ "sourceName": "سخنرانی_حجت_الاسلام_حاج_علی_اکبر_بیات_شب_سوم_دهه_دوم_فاطمیه_1400.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "005",
+ "next": "007"
+}

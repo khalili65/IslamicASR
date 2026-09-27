@@ -1,0 +1,4603 @@
+{
+ "version": 1,
+ "sessionId": "123",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 2081.06,
+ "alignment": {
+  "exact": 4542,
+  "total": 4542,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "اعوذ بالله السمیع العلیم من الشیطان الرجیم. بسم الله الرحمن الرحیم.",
+   "start": 18.86,
+   "end": 180.6
+  },
+  {
+   "index": 1,
+   "title": "مولوی می‌گوید: گر نبودی نوح را از حق یدی / ز جهانی را چه سان بر هم زدی؟ آیات سورهٔ شعراء را بنگرید:",
+   "start": 180.6,
+   "end": 268.78
+  },
+  {
+   "index": 2,
+   "title": "لوط علیه‌السلام نیز بسیار آزرده شد و از همان مسیرِ اسم قوم را فراگرفت؛ آبادی‌ها چنان شد که شنیده‌اید. در شعراء:",
+   "start": 268.78,
+   "end": 585.01
+  },
+  {
+   "index": 3,
+   "title": "## عیسی و تجلی اسم علیم و محیی",
+   "start": 585.01,
+   "end": 779.19
+  },
+  {
+   "index": 4,
+   "title": "و رسول به بنی‌اسرائیل خواهد گفت:",
+   "start": 779.19,
+   "end": 921.19
+  },
+  {
+   "index": 5,
+   "title": "## یک دم و آثار اسماء گوناگون",
+   "start": 921.19,
+   "end": 1246.43
+  },
+  {
+   "index": 6,
+   "title": "## دعا: اسماء در خضر، موسی، ایوب، یعقوب، محمد",
+   "start": 1246.43,
+   "end": 2050.67
+  },
+  {
+   "index": 7,
+   "title": "## نتیجهٔ جلسه",
+   "start": 2050.67,
+   "end": 2081.06
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 0.52,
+   "end": 3.6,
+   "text": "اعوذ بالله السميع العليم من الشيطان الرجيم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 3.6,
+   "end": 5.68,
+   "text": "بسم الله الرحمن الرحيم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 5.68,
+   "end": 9.92,
+   "text": "در خصوص حضرت نوح علیه السلام،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 9.92,
+   "end": 13.88,
+   "text": "در خصوص نوح.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 13.88,
+   "end": 18.86,
+   "text": "خب نوح سلام الله علیه شنیدید که مدت‌ها دعوت می‌کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 18.86,
+   "end": 21.38,
+   "text": "همه انبیا مظهر بودند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 21.38,
+   "end": 24.82,
+   "text": "نوح هم مظهر بود. فراخوانی جا محفوظ بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 24.82,
+   "end": 32.04,
+   "text": "اما این که نوح بعد از نهصد و پنجاه سال به تعبیر قرآن دعوت حالا،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 32.04,
+   "end": 39.62,
+   "text": "اون رفتاری که مردم با او کردند بالاخره نوح یه مقدار دیگه ناراحت شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 39.62,
+   "end": 42.08,
+   "text": "ناراحت شد. خیلی اذیت‌ها به نوح کردند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 42.08,
+   "end": 44.5,
+   "text": "مسخره‌ها، اذیت‌ها، ایذاها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 44.5,
+   "end": 46.56,
+   "text": "نهصد و پنجاه سال دعوت می‌کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 46.56,
+   "end": 49.18,
+   "text": "حالا عمرش چقدر بود؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 49.18,
+   "end": 56.94,
+   "text": "ولی این سری قرآن است که نهصد و پنجاه سال در میان قومش بود دعوت می‌کرد و همه اش هم با مخالفت‌های سرن و با اذیت‌ها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 56.94,
+   "end": 59.78,
+   "text": "و ایذاها روبرو شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 59.78,
+   "end": 64.56,
+   "text": "تا جایی که نوح به اصطلاح دمی از نوح آمد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 64.56,
+   "end": 67.24,
+   "text": "اون دم عالم را چه کرد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 67.24,
+   "end": 69.48,
+   "text": "عالم را به هم زد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 69.48,
+   "end": 74.08,
+   "text": "این دم از چی بود؟ اگر گفتید از اسمی بود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 74.08,
+   "end": 80.84,
+   "text": "مظهر اسمی بود. اون اسم که اگر بخواهد در یک لحظه همه چیز را به هم بزند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 80.84,
+   "end": 83.86,
+   "text": "می‌زند. اون اسم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 83.86,
+   "end": 86.26,
+   "text": "در وجود حضرت نوح",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 86.26,
+   "end": 90.76,
+   "text": "در حدی که قابلیت داشت نوح متجلی بود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 90.76,
+   "end": 101.8,
+   "text": "و به لحاظ همین تجلی این اسم اثرش در وجود او، در دم او، در گفتار او، در دعای او بود که دعا کرد اون همه جا را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 101.8,
+   "end": 104.24,
+   "text": "که مثنوی می‌گوید که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 104.24,
+   "end": 107.74,
+   "text": "گر نبودی نوح را از حق یدی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 107.74,
+   "end": 111.54,
+   "text": "خیلی خوب گفته اینجا. این در واقع همون تجلیات گفته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 111.54,
+   "end": 114.06,
+   "text": "مثنوی مولوی. در مثنوی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 114.06,
+   "end": 118.4,
+   "text": "میگه گر نبودی نوح را از حق یدی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 118.4,
+   "end": 122.34,
+   "text": "از جهانی را چه سان بر هم زدی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 122.34,
+   "end": 125.22,
+   "text": "گر نبودی نوح را از حق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 125.22,
+   "end": 131.16,
+   "text": "یدی، از جهانی را چه سان بر هم زدی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 131.16,
+   "end": 133.3,
+   "text": "مسلماً اسمی بود در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 133.3,
+   "end": 139.04,
+   "text": "وجود حضرت نوح متج-- البته اسماء دیگر هم بود ولی این اسم حکمش این بود وقتی که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 139.04,
+   "end": 141.72,
+   "text": "یه حالت غضب، یه حالت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 141.72,
+   "end": 144.46,
+   "text": "چی بود؟ حالا خودش می‌داند و خدا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 144.46,
+   "end": 147.08,
+   "text": "بالاخره دمی از نوح آمد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 147.08,
+   "end": 153.68,
+   "text": "اونجور شد که هم قرآن می‌گوید و هم تاریخ و هم داستان‌ها گفتند که همه جا را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 153.68,
+   "end": 158.62,
+   "text": "دفتان گرفت. خودش گفت که حالا این، به این آیاتش دقت می‌کنید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 158.62,
+   "end": 162.1,
+   "text": "صدو هفده تا صد و بیست و هشت سوره شعراء را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 162.1,
+   "end": 164.7,
+   "text": "آیاتش را من می‌خوانم که دقت کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 164.7,
+   "end": 168.4,
+   "text": "قال يا رب از قول نوح است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 168.4,
+   "end": 171.92,
+   "text": "قال يا رب إن قومي كذبوني.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 171.92,
+   "end": 175.4,
+   "text": "گفت نوح گفت خدایا پروردگار من",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 175.4,
+   "end": 177.88,
+   "text": "قوم من مرا تکذیب کردند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 177.88,
+   "end": 180.6,
+   "text": "اونم بعد از نهصد و پنجاه سال این‌ها را گفته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 180.6,
+   "end": 183.18,
+   "text": "نهصد و پنجاه سال صبر کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 183.18,
+   "end": 184.86,
+   "text": "این هم از نوح برای آبروت هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 184.86,
+   "end": 187.76,
+   "text": "نهصد و پنجاه سال صبر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 187.76,
+   "end": 193.1,
+   "text": "من و شما یه نفر یه حرف می‌زنه چند بار گفتیم گوش نکرد می‌خوایم همون جا بکشیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 193.1,
+   "end": 194.84,
+   "text": "تصور می‌کنید؟ همون جا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 194.84,
+   "end": 198.06,
+   "text": "یعنی خیلی ظرفیت من و شما این اندازه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 198.06,
+   "end": 202.02,
+   "text": "اون هم ظرفیت نوح بود. شیخ الانبیا سلام الله علیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 202.02,
+   "end": 205.72,
+   "text": "میگه که قال يا رب إن قومي كذبوني.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 205.72,
+   "end": 209.0,
+   "text": "این‌ها مرا تکذیب کردند. فانفتح بيني",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 209.0,
+   "end": 214.94,
+   "text": "و بینهم فتحاً. حالا تو بین من و اون‌ها گشایشی پیش بیاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 214.94,
+   "end": 218.9,
+   "text": "این بودا، این جمله بود که مسئله را به هم زد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 218.9,
+   "end": 222.78,
+   "text": "این دعا، این دعا را الان من و شما هرچی دعا بکنیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 222.78,
+   "end": 225.92,
+   "text": "یک آبی از آب چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 225.92,
+   "end": 234.0,
+   "text": "تکان نمی‌خورد. اگر شما بگید الله انفتح بيننا و بين القوم الظالمین مگر به جایی می‌رسم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 234.0,
+   "end": 237.07,
+   "text": "مولوی میگه صحبت در جمله نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 237.07,
+   "end": 240.84,
+   "text": "همه می‌گویند مولوی. صحبت در جمله نیست صحبت در دم است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 240.84,
+   "end": 246.42,
+   "text": "دم هم همون را با خود دارد که اون اسم در وجود انسان آورده است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 246.42,
+   "end": 250.7,
+   "text": "دم اسرارآمیز است. خب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 250.7,
+   "end": 253.46,
+   "text": "گفت که فانفتح بيني و بینهم فتحاً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 253.46,
+   "end": 257.18,
+   "text": "بین من و بین اون‌ها فتحی پیش بیار خدایا و نجني",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 257.18,
+   "end": 263.52,
+   "text": "و مرا و من معی و اون‌ها که با من هستند ما را نجات بده و من معی من",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 263.52,
+   "end": 267.8,
+   "text": "المؤمنین مرا و قومینی که با من هستند نجات بده از دست این‌ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 267.8,
+   "end": 272.4,
+   "text": "فانجینا خدا میگه این دعا را که کرد فانجینا بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 272.4,
+   "end": 276.04,
+   "text": "ما او را نجات دادیم و من معه في الفلک المشحون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 276.04,
+   "end": 280.12,
+   "text": "اون که با او بود در اون کشتی که فلک بود، این‌ها را نجات دادیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 280.12,
+   "end": 282.58,
+   "text": "ثم اغرقنا بعد الباقین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 282.58,
+   "end": 285.04,
+   "text": "بقیه را هم غرق کردیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 285.04,
+   "end": 288.22,
+   "text": "دعا چه دعا بود؟ دعای ساده نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 288.22,
+   "end": 290.9,
+   "text": "دم است. دم چی بود؟ دم ساده نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 290.9,
+   "end": 292.78,
+   "text": "اسم است. دقت می‌کنید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 292.78,
+   "end": 296.48,
+   "text": "تجلی اسم بود. خلاصه این اثر اسمی بود به دست ما خدا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 296.48,
+   "end": 301.32,
+   "text": "اون اسمی که با اون اسم هرچی را خواست به هم بزنه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 301.32,
+   "end": 303.64,
+   "text": "چیه؟ به هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 303.64,
+   "end": 310.82,
+   "text": "می‌زند. بعد می‌فرماید إن في ذلک لآيةً اینجا آیه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 310.82,
+   "end": 312.86,
+   "text": "أما کان أكثرهم مؤمنين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 312.86,
+   "end": 315.54,
+   "text": "اکثر تو اث than ایمان نمی‌بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 315.54,
+   "end": 318.96,
+   "text": "در این جریان آیه‌ای هست برای صاحبان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 318.96,
+   "end": 323.92,
+   "text": "فهم و شعور. أما کان أكثرهم مؤمنين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 323.92,
+   "end": 326.36,
+   "text": "ما هرچی می‌گوییم هیچی نمی‌شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 326.36,
+   "end": 331.04,
+   "text": "عجیب است. این‌ها یه مقدار تأثیر هم دارد که ما چه بوده‌ایم و چه شدیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 331.04,
+   "end": 333.18,
+   "text": "و اون‌ها چه بودند و چه شدند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 333.18,
+   "end": 336.94,
+   "text": "این‌ها انشاالله که برای من و شما تکان‌دهنده بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 336.94,
+   "end": 340.7,
+   "text": "مثنوی میگه که او حالا این در خصوص نوحه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 340.7,
+   "end": 344.0,
+   "text": "در خصوص نوح. گفت نوح ای سرکشان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 344.0,
+   "end": 346.79,
+   "text": "ببینید اینجا مثنوی اینو تشریح می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 346.79,
+   "end": 353.02,
+   "text": "وقتی که وجود کلاً کنار رفت، تجلیات کامل در وجود انسان شد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 353.02,
+   "end": 356.64,
+   "text": "دیگه انسان را نمی‌شود گفت این فلان شخص است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 356.64,
+   "end": 360.98,
+   "text": "می‌شود گفت این چیه؟ این اسماء چیز؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 94,
+   "start": 360.98,
+   "end": 363.9,
+   "text": "اسماء خدا، اسم خدا است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 95,
+   "start": 363.9,
+   "end": 365.58,
+   "text": "دیگه نورانه می‌گفت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 96,
+   "start": 365.58,
+   "end": 368.39,
+   "text": "نمی‌شود گفت یک شخص است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 97,
+   "start": 368.39,
+   "end": 371.55,
+   "text": "یکی گفت نوح ای سرکشان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 98,
+   "start": 371.55,
+   "end": 375.19,
+   "text": "من من نه ام. فقط همون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 99,
+   "start": 375.19,
+   "end": 377.33,
+   "text": "تعبیر شبیه همین آیه اند در واقع در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 100,
+   "start": 377.33,
+   "end": 379.69,
+   "text": "زمینه همین آیات است که الآن خوندن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 101,
+   "start": 379.69,
+   "end": 383.15,
+   "text": "گفت نوح ای سرکشان من من نه ام.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 102,
+   "start": 383.15,
+   "end": 385.25,
+   "text": "من ز جان مردم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 103,
+   "start": 385.25,
+   "end": 388.45,
+   "text": "به جانان می‌زیم، می‌زیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 104,
+   "start": 388.45,
+   "end": 390.09,
+   "text": "من ز جانان مردم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 105,
+   "start": 390.09,
+   "end": 392.95,
+   "text": "من ز جان مردم به جانان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 106,
+   "start": 392.95,
+   "end": 398.97,
+   "text": "می‌زیم. چون ز جان مردم به جانان زنده ام",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 107,
+   "start": 398.97,
+   "end": 402.73,
+   "text": "نیست مرگم تا ابد پاینده ام.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 108,
+   "start": 402.73,
+   "end": 407.11,
+   "text": "چون بمردم از حواسات بشر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 109,
+   "start": 407.11,
+   "end": 410.97,
+   "text": "پخ مرا شد سمع و ادراک و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 110,
+   "start": 410.97,
+   "end": 415.57,
+   "text": "بصر. چونکه من، من نیستم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 111,
+   "start": 415.57,
+   "end": 418.43,
+   "text": "اینجاشو دقت کنید. چونکه من،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 112,
+   "start": 418.43,
+   "end": 422.31,
+   "text": "من نیستم این دم ز بوز.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 113,
+   "start": 422.31,
+   "end": 425.39,
+   "text": "این دم ز بوز.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 114,
+   "start": 425.39,
+   "end": 430.41,
+   "text": "پیش این دم هر که دم زد کافروز.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 115,
+   "start": 430.41,
+   "end": 433.77,
+   "text": "دم نوح بود دیگه پخ، پخ بینیا بین همون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 116,
+   "start": 433.77,
+   "end": 436.99,
+   "text": "در اون جای دارد که قرآن که گفت که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 117,
+   "start": 436.99,
+   "end": 440.17,
+   "text": "خداوند از این‌ها دریا روی زمین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 118,
+   "start": 440.17,
+   "end": 444.03,
+   "text": "باقی نخواهد شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 119,
+   "start": 444.03,
+   "end": 447.69,
+   "text": "دم. پیش این دم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 120,
+   "start": 447.69,
+   "end": 450.07,
+   "text": "هر که دم زد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 121,
+   "start": 450.07,
+   "end": 458.77,
+   "text": "کافروز. خب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 122,
+   "start": 458.77,
+   "end": 461.35,
+   "text": "در خصوص لوط",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 123,
+   "start": 461.35,
+   "end": 464.23,
+   "text": "این هم در همین مسیر است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 124,
+   "start": 464.23,
+   "end": 468.57,
+   "text": "لوط سلام الله علیه اینم خیلی اذیت کردن شنیدید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 125,
+   "start": 468.57,
+   "end": 471.73,
+   "text": "این هم از طریق همین اسم قوم را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 126,
+   "start": 471.73,
+   "end": 474.51,
+   "text": "از طریق همون اسم که از اون‌ها ناراحت شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 127,
+   "start": 474.51,
+   "end": 476.75,
+   "text": "مسئله اون طور شد که شنیدید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 128,
+   "start": 476.75,
+   "end": 480.21,
+   "text": "اون kun فیکون بود به اصطلاح خودمون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 129,
+   "start": 480.21,
+   "end": 483.21,
+   "text": "اون آبادی‌ها و بعد از میان رفتنشون و اینها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 130,
+   "start": 483.21,
+   "end": 487.53,
+   "text": "گفت که در قرآن می‌گوید صد و شصت و نه، صد و هفتاد و یک.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 131,
+   "start": 487.53,
+   "end": 489.91,
+   "text": "از صد و شصت و نه، هفتاد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 132,
+   "start": 489.91,
+   "end": 492.91,
+   "text": "و یعنی صد و هفتاد و صد و هفتاد و یک شعرا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 133,
+   "start": 492.91,
+   "end": 498.77,
+   "text": "قال نوح لوط گفت ینی لعملکم خیلی اذیت کردن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 134,
+   "start": 498.77,
+   "end": 501.47,
+   "text": "گفت که ینی لعملکم من الغضب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 135,
+   "start": 501.47,
+   "end": 504.49,
+   "text": "من در، در برابر عمل شما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 136,
+   "start": 504.49,
+   "end": 507.45,
+   "text": "به خشم آمدم. الغضب به خشم آمد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 137,
+   "start": 507.45,
+   "end": 510.13,
+   "text": "این خشم بود که کار را کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 138,
+   "start": 510.13,
+   "end": 513.31,
+   "text": "رب نجنی و اهلی من ما يعملون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 139,
+   "start": 513.31,
+   "end": 519.63,
+   "text": "خدایا مرا و اهل مرا از این‌ها و از آنچه که اینها عمل می‌کنند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 140,
+   "start": 519.63,
+   "end": 523.47,
+   "text": "نجات بده. بعد می‌فرماید خدا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 141,
+   "start": 523.47,
+   "end": 527.01,
+   "text": "این دعا را که کرد فننجیناه و اهله أجمعیین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 142,
+   "start": 527.01,
+   "end": 529.7,
+   "text": "ما او را و اهلش را جمعاً نجات دادیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 143,
+   "start": 529.7,
+   "end": 533.05,
+   "text": "إلا عجوزا في الغابرین مگر اون زنش را.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 144,
+   "start": 533.05,
+   "end": 535.73,
+   "text": "ثم دمرنا الآخرین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 145,
+   "start": 535.73,
+   "end": 540.17,
+   "text": "بعد بقیه را دمرنا یعنی با خاک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 146,
+   "start": 540.17,
+   "end": 545.21,
+   "text": "یکسان کرد. این دم ز بوز تجلی چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 147,
+   "start": 545.21,
+   "end": 552.45,
+   "text": "اسمی از اسماء حق از همون مسیری که در وجود حضرت نوح بود، همون اسم در وجود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 148,
+   "start": 552.45,
+   "end": 556.25,
+   "text": "حضرت لوط بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 149,
+   "start": 556.25,
+   "end": 561.19,
+   "text": "خب حالا یک آیه دیگه هم نمونه بیام برای شما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 150,
+   "start": 561.19,
+   "end": 563.77,
+   "text": "دیگه از آیات بگذرم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 151,
+   "start": 563.77,
+   "end": 567.45,
+   "text": "نمونه‌هاست اینا میگم اگر شما انشاالله خدا به شما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 152,
+   "start": 567.45,
+   "end": 571.63,
+   "text": "اون عنایت را کرد که موقع خوندن قرآن شما از نموز و اشارات قرآن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 153,
+   "start": 571.63,
+   "end": 576.75,
+   "text": "آگاه بفهمید خیلی از این نمونه‌ها و مسائل و اسرار زیاد است و در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 154,
+   "start": 576.75,
+   "end": 581.61,
+   "text": "همین آیات که من خوندم برای شما هم نکات زیاد است که من خیلی سطحی معنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 155,
+   "start": 581.61,
+   "end": 586.35,
+   "text": "کردم. خب در خصوص حضرت عیسی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 156,
+   "start": 586.35,
+   "end": 589.11,
+   "text": "در خصوص حضرت عیسی سلام الله علیه، عیسی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 157,
+   "start": 589.11,
+   "end": 594.41,
+   "text": "شنیدید از اول بچگی همین که بچه بود در گهواره بود شروع به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 158,
+   "start": 594.41,
+   "end": 596.89,
+   "text": "صحبت کردن کرد و گفت که من",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 159,
+   "start": 596.89,
+   "end": 599.69,
+   "text": "اینی عبدالله آتانی الکتاب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 160,
+   "start": 599.69,
+   "end": 604.23,
+   "text": "من بنده خدا هستم. خدا به من کتاب داده حکمت تعلیم کرده، چی داده به من؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 161,
+   "start": 604.23,
+   "end": 608.17,
+   "text": "من را پیغمبر قرار داده. خب این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 162,
+   "start": 608.17,
+   "end": 619.31,
+   "text": "وضع خاصی که از اول داشت و تا آخر عمرش اینها همان تجلیات اسماء حسنی الهی از اول در وجود حضرت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 163,
+   "start": 619.31,
+   "end": 626.51,
+   "text": "عیسی سلام الله علیه. این تجلی اسم علیم خدا بود که عیسی در بچگی گفت که من پیغمبرم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 164,
+   "start": 626.51,
+   "end": 628.97,
+   "text": "من بنده خدا هستم. قادر بر صحبت بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 165,
+   "start": 628.97,
+   "end": 636.81,
+   "text": "همه چیز را می‌یا و در همان وقت براش خدا کتاب را در همان وقت براش حکمت را در همان بچگی براش تعلیم کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 166,
+   "start": 636.81,
+   "end": 640.05,
+   "text": "کتاب و حکمت و افهام و آیات و اسرار این‌ها رو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 167,
+   "start": 640.05,
+   "end": 643.47,
+   "text": "این همان تجلی چیه؟ تجلی اسم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 168,
+   "start": 643.47,
+   "end": 645.51,
+   "text": "علیم است. یا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 169,
+   "start": 645.51,
+   "end": 651.11,
+   "text": "بعدها که حضرت عیسی سلام الله علیه کارهایی که می‌کرد تجلی اسماء دیگر بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 170,
+   "start": 651.11,
+   "end": 654.79,
+   "text": "از اول اسماء حسنی در وجود عیسی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 171,
+   "start": 654.79,
+   "end": 659.09,
+   "text": "متجلی بود. پس عیسی را می‌گوید روح من بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 172,
+   "start": 659.09,
+   "end": 662.37,
+   "text": "خدا تعبیر اینجوری می‌آورد. این روح من بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 173,
+   "start": 662.37,
+   "end": 666.55,
+   "text": "درست روح من که مظهر اسماء من است، توجه بکنید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 174,
+   "start": 666.55,
+   "end": 670.3,
+   "text": "که این تعبیر خدا در خصوص حضرت عیسی روح است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 175,
+   "start": 670.3,
+   "end": 673.06,
+   "text": "روح من است. روح من هو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 176,
+   "start": 673.06,
+   "end": 675.23,
+   "text": "پس روح الله میگن دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 177,
+   "start": 675.23,
+   "end": 677.83,
+   "text": "روحی از خدا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 178,
+   "start": 677.83,
+   "end": 679.83,
+   "text": "خب به این آیات دقت بکنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 179,
+   "start": 679.83,
+   "end": 685.21,
+   "text": "من به یک به تجلیات هم در ترجمه آیات اش-- به اصطلاح اشاره می‌کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 180,
+   "start": 685.21,
+   "end": 694.17,
+   "text": "چندین چیز از عیسی در اینجا گفته که هر کدام تجلی اسمی از اسماء خداست که شما در نظر داشته باشید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 181,
+   "start": 694.17,
+   "end": 698.59,
+   "text": "در آیات چهل و سه و چهل و چهار سوره آل عمران",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 182,
+   "start": 698.59,
+   "end": 700.79,
+   "text": "در خصوص عیسی می‌گوید که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 183,
+   "start": 700.79,
+   "end": 707.89,
+   "text": "اونجا که به مریم بشارت داد که ما فرزندی به تو عنایت خواهیم کرد، فرزندی که و يعلمه الكتاب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 184,
+   "start": 707.89,
+   "end": 711.75,
+   "text": "و الحکمة والتوراة والإنجیل خدا به این فرزند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 185,
+   "start": 711.75,
+   "end": 714.87,
+   "text": "تعلیم خواهد کرد کتاب را.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 186,
+   "start": 714.87,
+   "end": 719.29,
+   "text": "به این بچه کتاب را تعلیم خواهد کرد، حکمت را، تورات را، انجیل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 187,
+   "start": 719.29,
+   "end": 723.01,
+   "text": "این تجلی اسم چیه؟ الان گفتم تجلی اسم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 188,
+   "start": 723.01,
+   "end": 725.03,
+   "text": "علی اثر تجلی اسم علی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 189,
+   "start": 725.03,
+   "end": 728.57,
+   "text": "و رسول الله بن بنی اسرائیل و این رسول هست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 190,
+   "start": 728.57,
+   "end": 736.65,
+   "text": "رسول خواهد بود رسول بنی اسرائیل و خواهد گفت به آنها که انی قد جئتکم بآیه من ربکم من با آیه‌ای به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 191,
+   "start": 736.65,
+   "end": 744.71,
+   "text": "سوی شما آمدم و عیسی می‌گوید که انی اخلق لکم من الطین هیئة الطیر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 192,
+   "start": 744.71,
+   "end": 750.63,
+   "text": "من برای شما از گل مانند پرنده می‌سازم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 193,
+   "start": 750.63,
+   "end": 754.11,
+   "text": "این از گل عیسی می‌گه خدا مانند پرنده می‌سازم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 194,
+   "start": 754.11,
+   "end": 757.95,
+   "text": "فأنفخ فيه بعد در او می‌دمم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 195,
+   "start": 757.95,
+   "end": 761.23,
+   "text": "أنفخ نفه دیگه. خدا میگه از گل عیسی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 196,
+   "start": 761.23,
+   "end": 764.27,
+   "text": "عیسی می‌گوید که من از گل می‌سازم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 197,
+   "start": 764.27,
+   "end": 767.81,
+   "text": "هیئة الطیر مانند آن پرنده‌ها، شکل و شکل پرنده‌ها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 198,
+   "start": 767.81,
+   "end": 770.85,
+   "text": "أنفخ فيه دمی در او می‌آورم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 199,
+   "start": 770.85,
+   "end": 775.75,
+   "text": "دمی. فيكون طيراً باذن الله می‌شود طیر به اذن خدا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 200,
+   "start": 775.75,
+   "end": 778.31,
+   "text": "این دم چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 201,
+   "start": 778.31,
+   "end": 781.52,
+   "text": "دم عیسی، دم مسیحایی، اسمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 202,
+   "start": 781.52,
+   "end": 784.63,
+   "text": "اسمه. یعنی خود اسم نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 203,
+   "start": 784.63,
+   "end": 787.13,
+   "text": "اثر اون اسم با این دم چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 204,
+   "start": 787.13,
+   "end": 789.11,
+   "text": "با این دم میاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 205,
+   "start": 789.11,
+   "end": 791.57,
+   "text": "البته این هم اسمه. همه چیز اسم است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 206,
+   "start": 791.57,
+   "end": 796.49,
+   "text": "خود دم هم اسم است. ولی اون اسمی که اسم محی باشد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 207,
+   "start": 796.49,
+   "end": 798.79,
+   "text": "دقت بکنید ها. اسم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 208,
+   "start": 798.79,
+   "end": 801.61,
+   "text": "محی یکی از اسماء خدا چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 209,
+   "start": 801.61,
+   "end": 803.83,
+   "text": "حیات بخش محی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 210,
+   "start": 803.83,
+   "end": 806.51,
+   "text": "مرده را چی؟ زنده کردن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 211,
+   "start": 806.51,
+   "end": 809.27,
+   "text": "این اسم در وجود حضرت عیسی بود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 212,
+   "start": 809.27,
+   "end": 811.49,
+   "text": "و با دمش همراه بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 213,
+   "start": 811.49,
+   "end": 816.07,
+   "text": "اصلش در قلب او در وجود او متجلی بود، با دمش همراه بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 214,
+   "start": 816.07,
+   "end": 822.83,
+   "text": "مرده را، خاک مرده را، خاکی که جسد شده مرده، گل به شکل پرنده آمده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 215,
+   "start": 822.83,
+   "end": 825.41,
+   "text": "این دم می‌آمد کل اون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 216,
+   "start": 825.41,
+   "end": 829.07,
+   "text": "موجود زنده می‌شد. اول از گل بودن به صورت گوشت، خون،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 217,
+   "start": 829.07,
+   "end": 832.99,
+   "text": "خون و بافت بدنی می‌آمد و سانیم چی می‌شد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 218,
+   "start": 832.99,
+   "end": 838.57,
+   "text": "روحی همه چیزش در یک آن چون انما امره اذا اراد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 219,
+   "start": 838.57,
+   "end": 842.81,
+   "text": "شيئا ان يقول له کن چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 220,
+   "start": 842.81,
+   "end": 846.93,
+   "text": "دیگه اینجا زمان و مقدمات اینا مطرح نیست ها مسئله امر است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 221,
+   "start": 846.93,
+   "end": 850.61,
+   "text": "مسئله اسم حق است. دم خیلی مسائل دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 222,
+   "start": 850.61,
+   "end": 853.91,
+   "text": "خیلی اسرار دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 223,
+   "start": 853.91,
+   "end": 862.03,
+   "text": "این انشاالله شما را خدا کند شما و ما همه موفق باشیم اقله یه خورده بدم در عالم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 224,
+   "start": 862.03,
+   "end": 866.07,
+   "text": "سفر الی الله، سیر و سلوک، بودیت قدم برداریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 225,
+   "start": 866.07,
+   "end": 868.09,
+   "text": "اونجا اصلا نمی‌شه گفت دم می‌شیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 226,
+   "start": 868.09,
+   "end": 876.33,
+   "text": "همین دمی که برای حضرت عیسی بوده برای همه هم در در حالات مختلف بوده برای ارباب معنا در حد خودشان هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 227,
+   "start": 876.33,
+   "end": 882.47,
+   "text": "این دم هر اسمی در وجود انسان متجلی باشد این نکته را توجه کنید ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 228,
+   "start": 882.47,
+   "end": 892.49,
+   "text": "دم می‌تواند با هر اسمی متوجه خدا شدیم اثر اون اسم را دم با خود بیاورد و در هر جا که می‌خواهد چی می‌کند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 229,
+   "start": 892.49,
+   "end": 894.43,
+   "text": "پیاده می‌کند. توجه کنید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 230,
+   "start": 894.43,
+   "end": 897.75,
+   "text": "اگر می‌خواهد احیا کند، احیا می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 231,
+   "start": 897.75,
+   "end": 900.65,
+   "text": "اگر می‌خواهد به هم بزند، به هم می‌زند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 232,
+   "start": 900.65,
+   "end": 904.69,
+   "text": "اگر می‌خواهد به ضلالت بیاندازد، به ضلالت می‌اندازد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 233,
+   "start": 904.69,
+   "end": 906.55,
+   "text": "یک دم بیشتر نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 234,
+   "start": 906.55,
+   "end": 911.29,
+   "text": "اما با هر اسمی صاحب دم با خدا ارتباط پیدا کرد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 235,
+   "start": 911.29,
+   "end": 916.46,
+   "text": "و اثر اون اسم از طریق این دم در اونجا که می‌خواهد چی می‌کنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 236,
+   "start": 916.46,
+   "end": 919.54,
+   "text": "پیاده میشه. فهمیدی چی گفتم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 237,
+   "start": 919.54,
+   "end": 925.99,
+   "text": "انشاالله که فهمیدی. دم یک دم است اما آثار اسماء را با خود دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 238,
+   "start": 925.99,
+   "end": 933.83,
+   "text": "گاهی می‌زند، گاهی خراب می‌کند، گاهی می‌دوزد، گاهی درست می‌کند، گاهی حیات می‌بخشد، گاهی می‌میراند، گاهی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 239,
+   "start": 933.83,
+   "end": 936.93,
+   "text": "خراب می‌کند، گاهی آباد می‌کند الی آخر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 240,
+   "start": 936.93,
+   "end": 940.05,
+   "text": "گاهی تصویر می‌کند، گاهی صورت را به هم می‌زند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 241,
+   "start": 940.05,
+   "end": 943.39,
+   "text": "گاهی هدایت می‌کند، گاهی به ضلالت می‌اندازد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 242,
+   "start": 943.39,
+   "end": 947.99,
+   "text": "به ضلالت. حتی به ضلالت هم می‌اندازد و اینو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 243,
+   "start": 947.99,
+   "end": 950.03,
+   "text": "توجه داشته باشیم. یعنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 244,
+   "start": 950.03,
+   "end": 955.19,
+   "text": "ممکنه دمی صاحب دم این انسان را به ضلالت هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 245,
+   "start": 955.19,
+   "end": 957.53,
+   "text": "چیه؟ بیاندازد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 246,
+   "start": 957.53,
+   "end": 961.01,
+   "text": "یعنی دیگه انسان دیوونه می‌شود اصلاً راه را گم می‌کند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 247,
+   "start": 961.01,
+   "end": 963.69,
+   "text": "و از این هم هست. خیلی چیزهاست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 248,
+   "start": 963.69,
+   "end": 969.97,
+   "text": "گفت که أنفخ فيه می‌دمم در او فيكون طيراً باذن الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 249,
+   "start": 969.97,
+   "end": 976.13,
+   "text": "طیر می‌شود به اذن خدا و أبرئ الأكمب والأبرص اکم و ابرص را هم با همان دم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 250,
+   "start": 976.13,
+   "end": 979.81,
+   "text": "به اصطلاح اکم و کورها و ابرص را،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 251,
+   "start": 979.81,
+   "end": 983.27,
+   "text": "صاحبان برص و نابیناها را هم شفا می‌بخشم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 252,
+   "start": 983.27,
+   "end": 986.69,
+   "text": "بعد و أحيي الموتى دقت بکنید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 253,
+   "start": 986.69,
+   "end": 990.29,
+   "text": "به هر مرده‌ای را با آن دم چی می‌کنم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 254,
+   "start": 990.29,
+   "end": 993.35,
+   "text": "به اصطلاح و با اون دم حالا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 255,
+   "start": 993.35,
+   "end": 995.73,
+   "text": "در خود آیه اون دم نیست ها. اول گفت که أنفخ",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 256,
+   "start": 995.73,
+   "end": 1001.49,
+   "text": "فيه فيكون طيراً می‌دمم در آن گلی که به صورت پرنده درست کردم طیر می‌شود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 257,
+   "start": 1001.49,
+   "end": 1006.99,
+   "text": "این را اکم و ابرص می‌کنم و من أحيي الموتى خود عیسی خودشو میگه ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 258,
+   "start": 1006.99,
+   "end": 1010.51,
+   "text": "أحيي الموتى من مرده‌ها را چی می‌کنم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 259,
+   "start": 1010.51,
+   "end": 1012.81,
+   "text": "زنده می‌کنم. باذن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 260,
+   "start": 1012.81,
+   "end": 1015.93,
+   "text": "الله به اذن خدا. وأنبئكم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 261,
+   "start": 1015.93,
+   "end": 1018.37,
+   "text": "بعد این دیگه چیز دیگه‌ست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 262,
+   "start": 1018.37,
+   "end": 1020.41,
+   "text": "و من به شما خبر می‌دهم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 263,
+   "start": 1020.41,
+   "end": 1022.89,
+   "text": "عیسی میگه به شما خبر می‌دهم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 264,
+   "start": 1022.89,
+   "end": 1026.17,
+   "text": "ما تأكلون و ما تدخرون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 265,
+   "start": 1026.17,
+   "end": 1028.85,
+   "text": "به شما خبر می‌دهم شب گذشته چه خوردید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 266,
+   "start": 1028.85,
+   "end": 1031.35,
+   "text": "ناهار چه خوردید؟ دیروز چه خوردید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 267,
+   "start": 1031.35,
+   "end": 1033.69,
+   "text": "در منزل چه اندوخته کردید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 268,
+   "start": 1033.69,
+   "end": 1035.95,
+   "text": "از پشت پرده به شما چی می‌کنم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 269,
+   "start": 1035.95,
+   "end": 1040.41,
+   "text": "به شما خبر می‌دهم و ما تدخرون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 270,
+   "start": 1040.41,
+   "end": 1046.99,
+   "text": "فی موتكم این هم تجلی اسم علی هست ها خبر می‌دهم یا اسم خبیر یا اسم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 271,
+   "start": 1046.99,
+   "end": 1050.41,
+   "text": "علیم. pardon روز. خب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 272,
+   "start": 1050.41,
+   "end": 1053.99,
+   "text": "تجلی اسم خبیر بود خبر از باطن‌ها می‌داد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 273,
+   "start": 1053.99,
+   "end": 1056.11,
+   "text": "از اینکه در پشت پرده چه کرده‌ای.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 274,
+   "start": 1056.11,
+   "end": 1060.15,
+   "text": "تجلی اسم محی بود مرده‌ها را زنده می‌کرد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 275,
+   "start": 1060.15,
+   "end": 1063.01,
+   "text": "و الی آخر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 276,
+   "start": 1063.01,
+   "end": 1066.01,
+   "text": "این نفی ذال کل 아이 ان ان کنتم مؤمنین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 277,
+   "start": 1066.01,
+   "end": 1069.03,
+   "text": "مستمعی در اینجا هم می‌گوید که عالمی را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 278,
+   "start": 1069.03,
+   "end": 1073.49,
+   "text": "در این دم چند صد شعر دارم از مثنوی در این دم بخوانم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 279,
+   "start": 1073.49,
+   "end": 1080.99,
+   "text": "بعدا قطعاتی از به اصطلاح دعا را برای شما از تجلیات اسماء را روی دم بیام بخوانم و تمام شود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 280,
+   "start": 1080.99,
+   "end": 1089.53,
+   "text": "خب دیدیم امروز برای دوستان و برای خانم‌ها اگر که تذکر دادین روشن شد براتون که دمی که برای صاحبان دم است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 281,
+   "start": 1089.53,
+   "end": 1099.79,
+   "text": "این که دارای آثار ملموس در انحاء مختلف می‌شود آثار اسماء است بر وجود صاحب اون دم که با دم می‌آید و کار خودش را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 282,
+   "start": 1099.79,
+   "end": 1102.71,
+   "text": "می‌کند. اصلش اسماء است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 283,
+   "start": 1102.71,
+   "end": 1106.63,
+   "text": "عالمی را مصنوعی گوید یک سخن ویران کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 284,
+   "start": 1106.63,
+   "end": 1109.49,
+   "text": "عالمی را یک سخن ویران کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 285,
+   "start": 1109.49,
+   "end": 1112.43,
+   "text": "روبهان مرده را شیران کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 286,
+   "start": 1112.43,
+   "end": 1116.89,
+   "text": "بعد میگه جان‌ها در اصل خود عیسی دمن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 287,
+   "start": 1116.89,
+   "end": 1120.13,
+   "text": "دقت کنید جان‌های روح‌ها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 288,
+   "start": 1120.13,
+   "end": 1122.03,
+   "text": "در اصل خود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 289,
+   "start": 1122.03,
+   "end": 1128.03,
+   "text": "عیسی دمن. یک زمان زخمند و دیگر مرهمند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 290,
+   "start": 1128.03,
+   "end": 1131.61,
+   "text": "گر حجاب از جان‌ها برخاستی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 291,
+   "start": 1131.61,
+   "end": 1135.17,
+   "text": "گفت هر جانی مسیح آساست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 292,
+   "start": 1135.17,
+   "end": 1137.83,
+   "text": "دقت کنید. هیجده شم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 293,
+   "start": 1137.83,
+   "end": 1140.97,
+   "text": "در حجاب از... همون صحبت ما در اینه دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 294,
+   "start": 1140.97,
+   "end": 1148.39,
+   "text": "این اسم محی در اول گفتیم که در وجود و حقیقت هر انسانی در پشت پرده‌ایه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 295,
+   "start": 1148.39,
+   "end": 1151.91,
+   "text": "هست. صحبت بر این است که من و شما محجوبیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 296,
+   "start": 1151.91,
+   "end": 1154.51,
+   "text": "این اسم در وجود ما ظهور ندارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 297,
+   "start": 1154.51,
+   "end": 1156.23,
+   "text": "عیسی حجاب نداشت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 298,
+   "start": 1156.23,
+   "end": 1159.35,
+   "text": "این اسم در وجودش چی بود؟ ظهور داشت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 299,
+   "start": 1159.35,
+   "end": 1166.25,
+   "text": "اگر من و شما هم حجاب را کنار بزنیم، این اسم محی در وجود ما به اندازه‌ای که حجاب را کنار زده‌ایم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 300,
+   "start": 1166.25,
+   "end": 1170.67,
+   "text": "یعنی در مقام بودیت یا خدا کنار زده است ظهور پیدا خواهد کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 301,
+   "start": 1170.67,
+   "end": 1176.82,
+   "text": "و همینطور هم هست. شما از ارباب باطن خیلی چیزها شنیده‌اید، داستان‌ها شنیده‌اید، مثال‌ها شنیده‌اید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 302,
+   "start": 1176.82,
+   "end": 1182.43,
+   "text": "غیر انبیا از ارباب باطن، از علما خوب، از صاحبان معنا، از صاحبان نفس.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 303,
+   "start": 1182.43,
+   "end": 1190.15,
+   "text": "و اصلاً مثل است که بین ارباب ذوقه از بریم از دم فلان استفاده بکنیم برهمن بشود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 304,
+   "start": 1190.15,
+   "end": 1192.35,
+   "text": "خیلی شده. ارباب باطن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 305,
+   "start": 1192.35,
+   "end": 1195.09,
+   "text": "با دمی مریضی را، مریض‌ها را شفا داده‌اند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 306,
+   "start": 1195.09,
+   "end": 1200.09,
+   "text": "با دمی زل به زلال افتاده‌ها را به هدایت آورده‌اند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 307,
+   "start": 1200.09,
+   "end": 1202.47,
+   "text": "افراد محجوب را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 308,
+   "start": 1202.47,
+   "end": 1208.75,
+   "text": "محجوب در میان حجاب مختلف متراکم را بالاخره بهار آورده‌اند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 309,
+   "start": 1208.75,
+   "end": 1211.15,
+   "text": "این دم زیاد است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 310,
+   "start": 1211.15,
+   "end": 1217.57,
+   "text": "توجه می‌کنید دم از ناحیه ارباب معنا بین صاحبان سلوک خیلی معروف است و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 311,
+   "start": 1217.57,
+   "end": 1221.39,
+   "text": "عرض کنم که زیاد دیده شده است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 312,
+   "start": 1221.39,
+   "end": 1226.31,
+   "text": "خب گر حجاب از جان‌ها برخاستی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 313,
+   "start": 1226.31,
+   "end": 1229.67,
+   "text": "گفت هر جانی چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 314,
+   "start": 1229.67,
+   "end": 1232.09,
+   "text": "مسیح آساست. ما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 315,
+   "start": 1232.09,
+   "end": 1234.11,
+   "text": "حالا اینا رو گفتنش مجاز نیستیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 316,
+   "start": 1234.11,
+   "end": 1237.31,
+   "text": "ولی مثلاً به نوبه خودمون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 317,
+   "start": 1237.31,
+   "end": 1241.31,
+   "text": "گفتن جزئیاتشو مجاز نیستیم از،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 318,
+   "start": 1241.31,
+   "end": 1249.01,
+   "text": "از مرحوم آیت الله العظمی سیستانی دم‌ها دیده بودیم در خصوص بعضی‌ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 319,
+   "start": 1249.01,
+   "end": 1252.35,
+   "text": "اونچه که ما دیده بودیم و ما یافته بودیم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 320,
+   "start": 1252.35,
+   "end": 1254.79,
+   "text": "حالا حقیقت سلوک خیلی بالاتر از ما بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 321,
+   "start": 1254.79,
+   "end": 1261.31,
+   "text": "خیلی چیزهایی که اگر من معمولاً صحیح نمی‌دانم یا شک می‌کنم در نقل جریانات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 322,
+   "start": 1261.31,
+   "end": 1265.61,
+   "text": "و اگر نقل می‌کردیم شما خودتون باور بود برایتان.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 323,
+   "start": 1265.61,
+   "end": 1270.49,
+   "text": "شده بود کسانی در معرکه های عجیبی قرار می‌گرفتند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 324,
+   "start": 1270.49,
+   "end": 1274.11,
+   "text": "بعد با دم ایشان به اذن الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 325,
+   "start": 1274.11,
+   "end": 1276.63,
+   "text": "به مراحل خوبی می‌رسیده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 326,
+   "start": 1276.63,
+   "end": 1279.13,
+   "text": "شده بود هم کسانی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 327,
+   "start": 1279.13,
+   "end": 1282.65,
+   "text": "به اصطلاح با دم ایشون به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 328,
+   "start": 1282.65,
+   "end": 1288.29,
+   "text": "خیلی چیزها. بحث و این دیگه نباید، نمی‌توانم بگم بحث.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 329,
+   "start": 1288.29,
+   "end": 1292.01,
+   "text": "در حجاب از جان ما برخاستی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 330,
+   "start": 1292.01,
+   "end": 1298.09,
+   "text": "صاحب سمت گفت هر جانی یا الله مسیح آساست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 331,
+   "start": 1298.09,
+   "end": 1305.33,
+   "text": "اینجور. گرفتاری‌های شدیدی برای بعضیا پیش می‌آمد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 332,
+   "start": 1305.33,
+   "end": 1307.25,
+   "text": "گرفتاری‌های روحی را میگیم ها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 333,
+   "start": 1307.25,
+   "end": 1311.19,
+   "text": "گرفتاری باطنی پیش می‌آمد یا بود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 334,
+   "start": 1311.19,
+   "end": 1315.79,
+   "text": "و می‌رفتند البته معمولاً ایشون هیچ چیزی نمی‌کردند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 335,
+   "start": 1315.79,
+   "end": 1322.17,
+   "text": "ولی گاهی که به بعضی‌ها که نظر داشتند با همون نظرشون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 336,
+   "start": 1322.17,
+   "end": 1325.05,
+   "text": "اصلاً گاهی می‌شد که کسی را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 337,
+   "start": 1325.05,
+   "end": 1331.95,
+   "text": "مثلاً یک ساعت قبل ما در بیرون دیدیم همین که می‌رفت محضرشون می‌آمد و من که قبول می‌کردم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 338,
+   "start": 1331.95,
+   "end": 1335.57,
+   "text": "می‌آمد اون که این اون نیست اصلاً.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 339,
+   "start": 1335.57,
+   "end": 1346.33,
+   "text": "دیگه فقط من کلی نمی‌تونم بگم که نمی‌دونم یه جزئیاتش رو بگم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 340,
+   "start": 1346.33,
+   "end": 1349.35,
+   "text": "این همون شکله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 341,
+   "start": 1349.35,
+   "end": 1353.47,
+   "text": "حالا یک قطعاتی من از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 342,
+   "start": 1353.47,
+   "end": 1357.67,
+   "text": "عرض کنم که کمی از وقتمون ظاهرا مونده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 343,
+   "start": 1357.67,
+   "end": 1362.01,
+   "text": "یک چند جمله از همون دعایی که گفتم براتون از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 344,
+   "start": 1362.01,
+   "end": 1370.07,
+   "text": "چیز، از دعایی که در شب عرفه هست یا در شب‌های جمعه هست قطعاتی هم از اونجا بگم که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 345,
+   "start": 1370.07,
+   "end": 1373.97,
+   "text": "تکمیل‌کننده بحث باشد این وقت کلی معلوم باشد که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 346,
+   "start": 1373.97,
+   "end": 1379.19,
+   "text": "مسئله اسماء حسنی در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 347,
+   "start": 1379.19,
+   "end": 1382.83,
+   "text": "چیه. خب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 348,
+   "start": 1382.83,
+   "end": 1388.15,
+   "text": "در یک، در همون دعاست و اون وقتی مراجعه می‌کنه من قطعات به عنوان شاهد میگم و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 349,
+   "start": 1388.15,
+   "end": 1391.32,
+   "text": "زیاد اون دعا رو انشاالله اگه توانستید شب‌های جمعه بخوانید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 350,
+   "start": 1391.32,
+   "end": 1395.25,
+   "text": "دعای عجیبی است و آثار عجیبی دارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 351,
+   "start": 1395.25,
+   "end": 1398.67,
+   "text": "و بالاسم در یک قطعه، در یک جا اینجوری می‌خواند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 352,
+   "start": 1398.67,
+   "end": 1408.21,
+   "text": "به خدا می‌گوید که خدایا از تو می‌خواهم و بالاسم الذي مشى به الخضر على کلل الماء كما مشى به على جدد الارض.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 353,
+   "start": 1408.21,
+   "end": 1411.93,
+   "text": "خدایا می‌خواهم از تو با اون اسمت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 354,
+   "start": 1411.93,
+   "end": 1416.17,
+   "text": "که شاهد بحثمون عرض می‌کنیم و با اون اسمت که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 355,
+   "start": 1416.17,
+   "end": 1423.19,
+   "text": "خضر با اون اسم خضر سلام الله عليه با اون اسم روی کلل ما،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 356,
+   "start": 1423.19,
+   "end": 1428.15,
+   "text": "کله‌های آب، آب دریا، امواج دریا، روی دریا دیگه آب،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 357,
+   "start": 1428.15,
+   "end": 1431.93,
+   "text": "کلل ما راه می‌رود در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 358,
+   "start": 1431.93,
+   "end": 1436.27,
+   "text": "زمین و پیش خم‌های زمین هم همینطور.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 359,
+   "start": 1436.27,
+   "end": 1439.01,
+   "text": "یعنی در دعا اینجوریه با اون اسمی که با اون اسم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 360,
+   "start": 1439.01,
+   "end": 1445.79,
+   "text": "در پیش خم زمین راه می‌رود در روی گل‌های آب هم به برکت اون اسم یعنی بر اثر اجنبی اون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 361,
+   "start": 1445.79,
+   "end": 1448.85,
+   "text": "اسم در وجودش روی آب چی می‌کند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 362,
+   "start": 1448.85,
+   "end": 1451.57,
+   "text": "روی آب راه می‌رود. عجب آدمیه خضر سلام الله عليه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 363,
+   "start": 1451.57,
+   "end": 1454.75,
+   "text": "میگه از خصوصیاتش همینه. شما اگر وقتی به خضر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 364,
+   "start": 1454.75,
+   "end": 1457.11,
+   "text": "برسید خضر را ببینید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 365,
+   "start": 1457.11,
+   "end": 1459.59,
+   "text": "که هیچ وقت نمی‌بینید و من هم مانند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 366,
+   "start": 1459.59,
+   "end": 1461.88,
+   "text": "شما بگم که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 367,
+   "start": 1461.88,
+   "end": 1470.3,
+   "text": "هیچ فرقی بین این زمین از این خاک است، این آب است نه هیچ مسئله برای من و شماست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 368,
+   "start": 1470.3,
+   "end": 1478.9,
+   "text": "برای اون کس که اون اسم در حضورش متجلی است فرقی نمی‌کند روی آب قدم بگذارد برود یا روی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 369,
+   "start": 1478.9,
+   "end": 1483.9,
+   "text": "خاک یا روی زمین یا زیر زمین یا خیلی چیزها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 370,
+   "start": 1483.9,
+   "end": 1486.48,
+   "text": "فرقی نمی‌کند. میگه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 371,
+   "start": 1486.48,
+   "end": 1492.24,
+   "text": "به اسم الذي مشى به الخضر على غلل الماء",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 372,
+   "start": 1492.24,
+   "end": 1494.87,
+   "text": "كما مشى به على جدد الأرض.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 373,
+   "start": 1494.87,
+   "end": 1502.06,
+   "text": "اینجا خیلی روشن است که این کار از خضر اثر تجلی یک اسم خاصی از اسماء خدا در وجود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 374,
+   "start": 1502.06,
+   "end": 1504.32,
+   "text": "چیه؟ در وجود خضره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 375,
+   "start": 1504.32,
+   "end": 1508.46,
+   "text": "این خیلی شاهده بر این حقیقتی است که ما داریم در امروز در این جلسه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 376,
+   "start": 1508.46,
+   "end": 1514.82,
+   "text": "بحث می‌کنیم. بعد میگه و باسمك الذي فلقت به البحر لموسى.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 377,
+   "start": 1514.82,
+   "end": 1519.82,
+   "text": "خب گفته می‌شود موسی به دریا گفت با عصا چه کرد به دریا؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 378,
+   "start": 1519.82,
+   "end": 1524.1,
+   "text": "با عصا اشاره کرد آنچنان شد که می‌دانید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 379,
+   "start": 1524.1,
+   "end": 1526.52,
+   "text": "خب این چه بود؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 380,
+   "start": 1526.52,
+   "end": 1530.2,
+   "text": "مسئله یعنی عصا بود یا چه بود؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 381,
+   "start": 1530.2,
+   "end": 1533.3,
+   "text": "عصا هم عصا از این عصاها نبود صحبت در این.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 382,
+   "start": 1533.3,
+   "end": 1539.14,
+   "text": "صحبت اصل مسئله این که اسمی تجلی کرده بود در وجود عیسی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 383,
+   "start": 1539.14,
+   "end": 1543.6,
+   "text": "که خود عصا هم از همونجا آب می‌خورد که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 384,
+   "start": 1543.6,
+   "end": 1549.68,
+   "text": "اراده عیسی دریا را چه چیز موسی سلام الله علیه دریا را چی می‌کرد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 385,
+   "start": 1549.68,
+   "end": 1551.5,
+   "text": "اون دریا را می‌شکافت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 386,
+   "start": 1551.5,
+   "end": 1555.9,
+   "text": "دریا همان طور که خدا بخواهد دریا شکافته بشه، شکافته میشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 387,
+   "start": 1555.9,
+   "end": 1560.2,
+   "text": "با همان اسمی که خدا این کارها را می‌کند از اون اسم در وجود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 388,
+   "start": 1560.2,
+   "end": 1562.26,
+   "text": "موسی در حد خود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 389,
+   "start": 1562.26,
+   "end": 1569.28,
+   "text": "اون اسم در وجود موسی در حد خود تجلی کرده بود که موسی خواست اشاره‌ای کرد دریا شکافته شد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 390,
+   "start": 1569.28,
+   "end": 1572.44,
+   "text": "و الی آخر. در اینجا به اون اشاره می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 391,
+   "start": 1572.44,
+   "end": 1577.62,
+   "text": "و باسمك الذي مشى و به- و باسمك الذي فلقت به البحر لموسى.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 392,
+   "start": 1577.62,
+   "end": 1580.6,
+   "text": "خدایا از تو می‌خواهم با اون اسمت که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 393,
+   "start": 1580.6,
+   "end": 1584.84,
+   "text": "دریا را به سبب اون اسمت برای موسی شکافتی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 394,
+   "start": 1584.84,
+   "end": 1588.98,
+   "text": "و اغرقت فرعون و قوم فرعون و مشراکی را غرق کردی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 395,
+   "start": 1588.98,
+   "end": 1598.88,
+   "text": "و أنجيت به موسى بن عمران و ممعه موسی و ممعه را همانجا با او بودن را با اون اسمت نجات داد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 396,
+   "start": 1598.88,
+   "end": 1603.6,
+   "text": "خب حضرت موسی سلام الله علیه در جانب تور خدا را خواست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 397,
+   "start": 1603.6,
+   "end": 1606.46,
+   "text": "خدا یک دفعه او را مغزوب کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 398,
+   "start": 1606.46,
+   "end": 1609.0,
+   "text": "آنچنان مغزوب کرد که گفت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 399,
+   "start": 1609.0,
+   "end": 1612.96,
+   "text": "خدا تعبیر در قرآن دارد که می‌گوید تو زیر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 400,
+   "start": 1612.96,
+   "end": 1616.76,
+   "text": "نظر من هستی، زیر نظر من هستی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 401,
+   "start": 1616.76,
+   "end": 1619.14,
+   "text": "یا نور چشم من هستی. دقت می‌کنید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 402,
+   "start": 1619.14,
+   "end": 1622.64,
+   "text": "زیر. این چی شد؟ میگه اسمی تجلی کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 403,
+   "start": 1622.64,
+   "end": 1625.24,
+   "text": "این دعا میگم در وجود موسی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 404,
+   "start": 1625.24,
+   "end": 1628.38,
+   "text": "که با اون اسمش خدا را خوند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 405,
+   "start": 1628.38,
+   "end": 1631.58,
+   "text": "و خدا به او",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 406,
+   "start": 1631.58,
+   "end": 1634.24,
+   "text": "حب خاصی پیدا کرد. توجه می‌کنید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 407,
+   "start": 1634.24,
+   "end": 1637.06,
+   "text": "یعنی اون اسم تجلی کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 408,
+   "start": 1637.06,
+   "end": 1641.9,
+   "text": "بلاحاظ یا به اثر تجلی اون اسم محبتی از حق بر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 409,
+   "start": 1641.9,
+   "end": 1645.36,
+   "text": "موسی آمد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 410,
+   "start": 1645.36,
+   "end": 1648.46,
+   "text": "دقت کردید؟ اینو ظاهراً خوب نفهمیدید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 411,
+   "start": 1648.46,
+   "end": 1651.02,
+   "text": "حالا باشه اشکال ندارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 412,
+   "start": 1651.02,
+   "end": 1657.72,
+   "text": "و باسمك الذي بعد من نمی‌دانم چه اسمی ممعه می‌دانست منم می‌گفتم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 413,
+   "start": 1657.72,
+   "end": 1662.28,
+   "text": "نمی‌دانم. میگم که اصلش نمی‌دانم متوجه شدید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 414,
+   "start": 1662.28,
+   "end": 1668.58,
+   "text": "اسمی بود که با تجلی اون اسم در وجود موسی، موسی محبوب حق شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 415,
+   "start": 1668.58,
+   "end": 1670.79,
+   "text": "توجه. این چیز ساده‌ای نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 416,
+   "start": 1670.79,
+   "end": 1675.12,
+   "text": "اینجا میگه که و باسمك الذي دعاک به موسى بن عمران.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 417,
+   "start": 1675.12,
+   "end": 1678.54,
+   "text": "خدایا از اون اسمت می‌خواهم با اون اسمت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 418,
+   "start": 1678.54,
+   "end": 1683.88,
+   "text": "که موسی با اون اسم به تو متوجه شد و تو را دعا کرد از جانب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 419,
+   "start": 1683.88,
+   "end": 1692.28,
+   "text": "تور ای من، من جانب تور ای من استجبت له اجابتش کردی و ألقيت عليه محبة این که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 420,
+   "start": 1692.28,
+   "end": 1696.1,
+   "text": "محبتی از خود بر او القا کرد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 421,
+   "start": 1696.1,
+   "end": 1699.76,
+   "text": "که گفتی زیر نظرم هستی بتسنا علی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 422,
+   "start": 1699.76,
+   "end": 1702.38,
+   "text": "عینی. به موسی خدا حرف‌های خاصی زده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 423,
+   "start": 1702.38,
+   "end": 1707.38,
+   "text": "گفته می‌خوام زیر نظرم باشی بتسنا علی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 424,
+   "start": 1707.38,
+   "end": 1710.3,
+   "text": "عینی. و خلاصه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 425,
+   "start": 1710.3,
+   "end": 1712.82,
+   "text": "حرف‌ها بود. و طاهل گفته که از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 426,
+   "start": 1712.82,
+   "end": 1717.48,
+   "text": "حب حق شدیداً نسبت به موسی حکایت می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 427,
+   "start": 1717.48,
+   "end": 1722.72,
+   "text": "این حب حق نسبت به موسی از حق میگه ها نه از موسی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 428,
+   "start": 1722.72,
+   "end": 1726.8,
+   "text": "اونکه به جحره محبوس. از حق به موسی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 429,
+   "start": 1726.8,
+   "end": 1731.36,
+   "text": "این تجلی اسم، اون اثر تجلی اسم خاصی بود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 430,
+   "start": 1731.36,
+   "end": 1740.35,
+   "text": "از اسماء خدا در وجود موسی که با داشتن اون اسم وقتی به خدا متوجه شد، خدا محبوبش داشت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 431,
+   "start": 1740.35,
+   "end": 1744.76,
+   "text": "خب و باسمك الذي حالا اینجاش دیگه آیه رو خوندم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 432,
+   "start": 1744.76,
+   "end": 1747.5,
+   "text": "اینجا در دعا هم آمده باسمك الذي",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 433,
+   "start": 1747.5,
+   "end": 1750.26,
+   "text": "به احياء عيسى بن مريم الموتى.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 434,
+   "start": 1750.26,
+   "end": 1758.18,
+   "text": "خدایا از اون اسمت می‌خواهم که با اون اسمت عیسی موتى را یعنی مرده‌ها را زنده می‌کرد و تكلم في المهد صبيا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 435,
+   "start": 1758.18,
+   "end": 1765.76,
+   "text": "در مهد بچگی‌ات صحبت کرد و أبرأ العكم و أبرأ الصم اینا رو گفت در آیه گفت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 436,
+   "start": 1765.76,
+   "end": 1771.62,
+   "text": "بعد میگه باسمك الذي دعاک به ایوب که دیگه معنی نمی‌کنم که بعد گذشته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 437,
+   "start": 1771.62,
+   "end": 1779.0,
+   "text": "بعد میگه باسمك الذي دعاک به یعقوب فردد با یعقوب سلام الله علیه از فراق یوسف به ظاهر اینجور",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 438,
+   "start": 1779.0,
+   "end": 1784.08,
+   "text": "گریه کرد و بینایی چشمش را از دست داد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 439,
+   "start": 1784.08,
+   "end": 1788.72,
+   "text": "اما اسمی در وجودش بود که بر اثر اون اسم بینایی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 440,
+   "start": 1788.72,
+   "end": 1791.28,
+   "text": "حضرت یعقوب دوباره به او چه شد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 441,
+   "start": 1791.28,
+   "end": 1794.62,
+   "text": "دوباره به او برگشت و یوسف شخص برگشت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 442,
+   "start": 1794.62,
+   "end": 1797.72,
+   "text": "هر دو از اثر یک اسم بودند که متجلی در",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 443,
+   "start": 1797.72,
+   "end": 1804.56,
+   "text": "وجود یعقوب بودند. اینجا میگه و باسمك الذي دعاک به یعقوب فردد تعلیق البصر با اون اسمت که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 444,
+   "start": 1804.56,
+   "end": 1814.52,
+   "text": "با اون اسم یعقوب تو را خواند و بر او رد کردی برگردانی نور چشم او را، بصر او را، بینایی او را و قرة عينه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 445,
+   "start": 1814.52,
+   "end": 1816.92,
+   "text": "یوسف و نور چشم یوسف را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 446,
+   "start": 1816.92,
+   "end": 1820.07,
+   "text": "و جمع تشنده خب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 447,
+   "start": 1820.07,
+   "end": 1828.43,
+   "text": "و یک قطعه هم در آخر و به اسمک الذي سخرت به البراق لمحمد صلى الله عليه وآله وسلم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 448,
+   "start": 1828.43,
+   "end": 1835.33,
+   "text": "خب رسول الله صلوات الله که معراج رفت، اون معراج هم تج-- اثر تجلی اسمی از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 449,
+   "start": 1835.33,
+   "end": 1837.73,
+   "text": "اسماء خدا بود که بی‌سابقه بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 450,
+   "start": 1837.73,
+   "end": 1842.11,
+   "text": "اون معراج را هیچکس نه داشته و نه خواهد داشت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 451,
+   "start": 1842.11,
+   "end": 1845.23,
+   "text": "معراج یا معراج‌ها که بود داشت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 452,
+   "start": 1845.23,
+   "end": 1852.47,
+   "text": "این از اثر از آثار تجلیات اسماء حسنی‌های الهی در اون مرتبه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 453,
+   "start": 1852.47,
+   "end": 1854.57,
+   "text": "که بود در وجود رسول الله بود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 454,
+   "start": 1854.57,
+   "end": 1857.49,
+   "text": "و الا اثر دیگری نبود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 455,
+   "start": 1857.49,
+   "end": 1862.39,
+   "text": "و از جمله اون بوراقی که نمی‌دانیم چیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 456,
+   "start": 1862.39,
+   "end": 1868.77,
+   "text": "حالا بعضی از خیال‌پرورها عکس هم می‌کشند صورتش مانند انسان باشد، دست و پایش مانند اسب باشد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 457,
+   "start": 1868.77,
+   "end": 1872.85,
+   "text": "شکل‌ها را دیدید دیگه؟ اینا مال خیال‌پرورهاست که اینا رو درست کردن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 458,
+   "start": 1872.85,
+   "end": 1878.51,
+   "text": "برای براق یک شکلی می‌کشند که صورتش مانند انسانه، بدنش مانند چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 459,
+   "start": 1878.51,
+   "end": 1883.53,
+   "text": "اسبه. اینا مال همون خیال‌پرورهاست که باید تو کدوم‌ها بیان سوار بشن؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 460,
+   "start": 1883.53,
+   "end": 1889.69,
+   "text": "عرض کنم که براق که بود البته این، این کار نمی‌کنیم که در روایات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 461,
+   "start": 1889.69,
+   "end": 1897.65,
+   "text": "این اشارات آمده که براق موجود زنده ای بود که صورتش صورت انسان بود اما سرعتش سرعت چی بود؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 462,
+   "start": 1897.65,
+   "end": 1902.27,
+   "text": "تشبیهات که این تشبیهات را فهمیدن مشکل است دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 463,
+   "start": 1902.27,
+   "end": 1906.07,
+   "text": "این تشبیهات وقتی به دست عوام می‌افته همان جور صورت می‌کشد که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 464,
+   "start": 1906.07,
+   "end": 1912.81,
+   "text": "یعنی اگر به عوام را زیاد نهنه کرده بودند حالا خیلی برای خیلی چیزها الآن عکس، عکس کشیده بودند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 465,
+   "start": 1912.81,
+   "end": 1918.67,
+   "text": "حالا عرض کنم خب براق چیز وسیله رسول الله بود در عروجش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 466,
+   "start": 1918.67,
+   "end": 1922.67,
+   "text": "البته تا جایی، تا جایی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 467,
+   "start": 1922.67,
+   "end": 1926.71,
+   "text": "براق وسیله‌ای بود که با اون وسیله رسول الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 468,
+   "start": 1926.71,
+   "end": 1934.17,
+   "text": "صلوات الله اون عوالم را طی کرد که به اون جاها رفته و دردش کردن در عروجش به اصطلاح",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 469,
+   "start": 1934.17,
+   "end": 1937.61,
+   "text": "عروجش و معراجش. این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 470,
+   "start": 1937.61,
+   "end": 1942.83,
+   "text": "تسخیر براق، مسخر کردن براق که چیست حقیقتش؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 471,
+   "start": 1942.83,
+   "end": 1952.03,
+   "text": "برای رسول الله این از آثار تجلی اسمی از اسماء حسنی الهی در قلب و در وجود شریف رسول",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 472,
+   "start": 1952.03,
+   "end": 1954.77,
+   "text": "اکرم صلى الله عليه وآله وسلم است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 473,
+   "start": 1954.77,
+   "end": 1960.57,
+   "text": "یعنی هر کس اون اسم در وجودش متجلی باشد، براق مسخر چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 474,
+   "start": 1960.57,
+   "end": 1963.91,
+   "text": "مسخر اوست و با براق به سیر سماوات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 475,
+   "start": 1963.91,
+   "end": 1972.19,
+   "text": "می‌پرزد. اینجای اینجوریه و باسمك الذي سخرت به البراق لمحمد صلى الله عليه وآله وسلم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 476,
+   "start": 1972.19,
+   "end": 1974.61,
+   "text": "از تو می‌خواهم با اون اسمت که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 477,
+   "start": 1974.61,
+   "end": 1978.25,
+   "text": "به سبب اون اسم براق را به رسول الله مسخر کردی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 478,
+   "start": 1978.25,
+   "end": 1983.17,
+   "text": "چون این اون اسم در وجودش متجلی شد، براق مسخرش شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 479,
+   "start": 1983.17,
+   "end": 1987.19,
+   "text": "اصلاً اون اسم به دنبالش حتما مسخر بودن چیز را میاره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 480,
+   "start": 1987.19,
+   "end": 1991.59,
+   "text": "مسخر بودن براق را میاره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 481,
+   "start": 1991.59,
+   "end": 1996.11,
+   "text": "خب جبرائیل می‌آمد به رسول به سوی رسول الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 482,
+   "start": 1996.11,
+   "end": 1998.57,
+   "text": "اون هم اثر تجلی یک اسم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 483,
+   "start": 1998.57,
+   "end": 2007.99,
+   "text": "خاصی از اسماء حسنی در وجود رسول الله میگه و باسمك الذي تنزل به جبرائیل على محمد صلى الله عليه وآله وسلم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 484,
+   "start": 2007.99,
+   "end": 2012.17,
+   "text": "با اون اسمت می‌خواهم که با تجلی اون اسمت در وجود رسول الله،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 485,
+   "start": 2012.17,
+   "end": 2014.19,
+   "text": "جبرائیل به سوی رسول الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 486,
+   "start": 2014.19,
+   "end": 2023.25,
+   "text": "چیه؟ میام. با اون اسم وقتی در وجود کسی متجلی شد به اون نحوه که در وجود رسول الله متجلی شد، جبرائیل میاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 487,
+   "start": 2023.25,
+   "end": 2027.27,
+   "text": "دقت می‌کنید؟ این از آثار تجلی اون اسم است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 488,
+   "start": 2027.27,
+   "end": 2029.39,
+   "text": "به دنبالش میاد. این اثر هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 489,
+   "start": 2029.39,
+   "end": 2031.27,
+   "text": "جبرائیل را با خودش می‌آورد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 490,
+   "start": 2031.27,
+   "end": 2033.25,
+   "text": "جبرائیل هم پیامش را می‌آورد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 491,
+   "start": 2033.25,
+   "end": 2035.87,
+   "text": "قرآن می‌آید و می‌آید اینها.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 492,
+   "start": 2035.87,
+   "end": 2044.37,
+   "text": "بنابراین خود قرآن، جبرائیل، اونچه جبرائیل می‌آورد همه از اثر تجلی اسمی از اسماء خدا در وجود چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 493,
+   "start": 2044.37,
+   "end": 2047.29,
+   "text": "در وجود رسول اکرم صلى الله عليه وآله وسلم است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 494,
+   "start": 2047.29,
+   "end": 2050.67,
+   "text": "و همین چیز بالاخره مطلب را تمام کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 495,
+   "start": 2050.67,
+   "end": 2052.97,
+   "text": "هرچه شده برای انبیا،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 496,
+   "start": 2052.97,
+   "end": 2055.79,
+   "text": "برای ائمه و برای اولیا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 497,
+   "start": 2055.79,
+   "end": 2061.23,
+   "text": "و برای هرکس و حتی برای همه کفران هرچه شده و می‌شود",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 498,
+   "start": 2061.23,
+   "end": 2066.09,
+   "text": "اثر تجلی اسماء خاصی از اسماء الهی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 499,
+   "start": 2066.09,
+   "end": 2068.59,
+   "text": "در وجود اونهاست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 500,
+   "start": 2068.59,
+   "end": 2072.21,
+   "text": "اون اسم مذلت است که در وجود اون کافر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 501,
+   "start": 2072.21,
+   "end": 2075.63,
+   "text": "مطلق به قول معروف جلوه می‌کند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 502,
+   "start": 2075.63,
+   "end": 2079.11,
+   "text": "و او را به همان جا می‌برد که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 503,
+   "start": 2079.11,
+   "end": 2081.06,
+   "text": "البته با سوء اختیار خودش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

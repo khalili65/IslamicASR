@@ -1,0 +1,2482 @@
+{
+ "version": 1,
+ "sessionId": "072",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 987.82,
+ "alignment": {
+  "exact": 2032,
+  "total": 2032,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## لدّ للموت و انواع موت",
+   "start": 25.14,
+   "end": 261.72
+  },
+  {
+   "index": 1,
+   "title": "## مائت و میت؛ مرگ تدریجی",
+   "start": 261.72,
+   "end": 339.8
+  },
+  {
+   "index": 2,
+   "title": "## خواب؛ چشیدن موت و بین الطلوعین",
+   "start": 339.8,
+   "end": 399.57
+  },
+  {
+   "index": 3,
+   "title": "## قابض الارواح و طول اسباب",
+   "start": 399.57,
+   "end": 456.29
+  },
+  {
+   "index": 4,
+   "title": "## نفس واسطه و تمرین شبانه",
+   "start": 456.29,
+   "end": 476.59
+  },
+  {
+   "index": 5,
+   "title": "## طول توفّی و نگاه به موت",
+   "start": 476.59,
+   "end": 530.19
+  },
+  {
+   "index": 6,
+   "title": "## نمونه‌های حسی از بی‌اختیاری خواب",
+   "start": 530.19,
+   "end": 987.82
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 0.56,
+   "end": 4.64,
+   "text": "اللهم صل علی محمد و آل محمد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 4.64,
+   "end": 8.2,
+   "text": "اللهم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 8.2,
+   "end": 10.92,
+   "text": "صل علی محمد و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 10.92,
+   "end": 16.78,
+   "text": "آل محمد. بسم الله الرحمن الرحیم و به نستعین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 16.78,
+   "end": 20.48,
+   "text": "السلام علیک یا داعی الله و ربانی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 20.48,
+   "end": 25.14,
+   "text": "آیاته. سلام علیکم و رحمة الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 25.14,
+   "end": 32.82,
+   "text": "در حدیث و روایت دوم از باب چهارم کتاب الموت بودیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 32.82,
+   "end": 36.6,
+   "text": "قطعه اول حدیث رو دو مرتبه متوجه بشیم بهش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 36.6,
+   "end": 40.6,
+   "text": "و دیگه پرونده این حدیث رو فعلا ببندیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 40.6,
+   "end": 43.02,
+   "text": "که فرمود \"لد للموت\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 43.02,
+   "end": 46.52,
+   "text": "متولد کن برای موت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 46.52,
+   "end": 50.32,
+   "text": "یک چیز قطعی‌ست. پیرامون موت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 50.32,
+   "end": 55.08,
+   "text": "یا اصلا اصل سخن ما در شرح این کتاب همین هست چند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 55.08,
+   "end": 58.54,
+   "text": "جمله‌ای با هم سخن بگیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 58.54,
+   "end": 61.6,
+   "text": "اولا انواع موت رو ما داریم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 61.6,
+   "end": 65.28,
+   "text": "مثل موت جمادی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 65.28,
+   "end": 70.82,
+   "text": "موت نباتی، موت حیوانی، موت انسانی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 70.82,
+   "end": 74.04,
+   "text": "همه این‌ها باید ترجمه بشن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 74.04,
+   "end": 76.76,
+   "text": "موت جمادی چی چیه دیگه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 76.76,
+   "end": 78.6,
+   "text": "مگه سنگ هم می‌میره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 78.6,
+   "end": 83.5,
+   "text": "بله. تو وجه خودش در نشئه طبیعت، سنگ",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 83.5,
+   "end": 87.86,
+   "text": "وقتی تبدیل می‌شه، بدل می‌شه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 87.86,
+   "end": 90.4,
+   "text": "یا پودر می‌شه، این‌ها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 90.4,
+   "end": 93.18,
+   "text": "یک نوع موته براش. یا اگه از ج--",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 93.18,
+   "end": 99.8,
+   "text": "از حیث معنا و معنوی بخواهیم بگیریم، اونجایی که قرآن می‌فرمود \"أُولَٰئِكَ كَالْأَنْعَامِ",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 99.8,
+   "end": 103.42,
+   "text": "بَلْ هُمْ أَضَلُّ\" یعنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 103.42,
+   "end": 105.48,
+   "text": "بدتر از حیوان می‌شن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 105.48,
+   "end": 108.42,
+   "text": "پست‌تر از حیوان نبات و جماده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 108.42,
+   "end": 112.14,
+   "text": "از حیث مراتب وجود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 112.14,
+   "end": 116.86,
+   "text": "مراتب وجودی. وقتی که انسانی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 116.86,
+   "end": 121.7,
+   "text": "مثل جماد، مثل سنگ زندگی کرد، می‌گن دل فلانی سنگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 121.7,
+   "end": 124.14,
+   "text": "اصلا هیچ احساسی نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 124.14,
+   "end": 128.7,
+   "text": "هیچ رشدی تو زندگیش نیست که حتی زندگی نباتی داشته باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 128.7,
+   "end": 131.36,
+   "text": "و این وقتی می‌میره می‌شه موت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 131.36,
+   "end": 135.28,
+   "text": "جمادی، موت نباتی یا مثلا در آیه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 135.28,
+   "end": 141.26,
+   "text": "یازده سوره قاف خدا می‌فرمود \"وَأَحْيَيْنَا بِهِ بَلَدًا مَيْتًا\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 141.26,
+   "end": 144.8,
+   "text": "به وسیله بارون ما زمین مرده رو زنده می‌کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 144.8,
+   "end": 147.52,
+   "text": "زمین مرده. زمین مگه می‌میره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 147.52,
+   "end": 151.04,
+   "text": "بله، اینجا داره میگه می‌میره. یعنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 151.04,
+   "end": 158.64,
+   "text": "اشاره داره به همون موت نباتی که بارون می‌زنه، این نباتات رویش می‌کنن، زنده می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 158.64,
+   "end": 161.4,
+   "text": "این نشون می‌ده که ان- انواع ام-",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 161.4,
+   "end": 169.6,
+   "text": "اموات داریم. مثلا موت حیوانی هم که مشخصه انسانی برمی‌گرده به،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 169.6,
+   "end": 173.56,
+   "text": "درست شد؟ حالا حتی انسانی که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 173.56,
+   "end": 177.6,
+   "text": "سقوط کرده از مرتبه انسانی به مرتبه حیوانی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 177.6,
+   "end": 180.68,
+   "text": "فقط شهوات و غضب خودش رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 180.68,
+   "end": 182.84,
+   "text": "در زندگی داره پیاده می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 182.84,
+   "end": 186.62,
+   "text": "اینم وقتی می‌میره موت حیوانیه براش انگار.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 186.62,
+   "end": 189.84,
+   "text": "اصلا انسانیتش زودتر از این‌ها مرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 189.84,
+   "end": 193.46,
+   "text": "اون موت اصلی، موت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 193.46,
+   "end": 196.4,
+   "text": "انتهایی این دنیا براش می‌شه موت حیوانی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 196.4,
+   "end": 199.04,
+   "text": "انسانیتش خیلی زودتر از این‌ها مرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 199.04,
+   "end": 200.98,
+   "text": "حالا موت انسانی کیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 200.98,
+   "end": 208.28,
+   "text": "باز می‌شه اینجا انسان‌ها اینجا موت انسانی داشته باشن قبل از این که بمیرن به اون موت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 208.28,
+   "end": 213.32,
+   "text": "اجباری. بله، فرمودن کسی که عقلش رو تعطیل می‌کنه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 213.32,
+   "end": 216.52,
+   "text": "عقل تعطیل شد، فکر تعطیل شد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 216.52,
+   "end": 218.98,
+   "text": "این دیگه می‌شه همین جا هنوز زنده است‌ها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 218.98,
+   "end": 221.32,
+   "text": "اما موت انسانی رخ داده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 221.32,
+   "end": 225.58,
+   "text": "یعنی انسانی که عقلش رو تعطیل کرده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 225.58,
+   "end": 228.04,
+   "text": "\"لا يعقلون\" تعقل نمی‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 228.04,
+   "end": 229.6,
+   "text": "این دیگه موت براش رخ داده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 229.6,
+   "end": 237.5,
+   "text": "موت انسانی رخ داده. حالا منتظر موت‌های بعدیش باشه که دیگه او-- یا موت حیوانی‌ست یا نباتی‌ست یا جمادی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 237.5,
+   "end": 240.9,
+   "text": "ولی در هر حال اگر کسی انسانیت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 240.9,
+   "end": 243.52,
+   "text": "خودش رو نگه داره تا لحظه موت،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 243.52,
+   "end": 246.68,
+   "text": "اون موت اجباری و آخرین،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 246.68,
+   "end": 253.12,
+   "text": "آخرین لحظه‌ای که تو این دنیاست، اون دیگه اگر انسانیتش رو نگه داشته باشه، اون دیگه می‌شه باز موت انسانی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 253.12,
+   "end": 255.92,
+   "text": "باز از اینجا کوچ می‌کنه میره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 255.92,
+   "end": 258.52,
+   "text": "این حالا البته ما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 258.52,
+   "end": 264.0,
+   "text": "الان به نظر شما، ما وقتی می‌میریم یا همین الانش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 264.0,
+   "end": 266.86,
+   "text": "مائتیم یا میت؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 266.86,
+   "end": 271.82,
+   "text": "اگر کسی مثلا انسانیتش رو کشت، اینجا مائته یا میته؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 271.82,
+   "end": 275.32,
+   "text": "فرق این‌ها چیه؟ میت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 275.32,
+   "end": 279.14,
+   "text": "جانش دراومده. درست شد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 279.14,
+   "end": 284.18,
+   "text": "اگر کسی الان عقلش رو تعطیل کرد، زندگیش شد حیوانی، یعنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 284.18,
+   "end": 287.12,
+   "text": "موت انسانی براش عارض شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 287.12,
+   "end": 290.36,
+   "text": "این به نظر شما میته یا مائته؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 290.36,
+   "end": 292.14,
+   "text": "میت یعنی جانش دراومده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 292.14,
+   "end": 295.4,
+   "text": "نه، جان داره راه میره. پس مائته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 295.4,
+   "end": 298.38,
+   "text": "مائت چه فرقی با میت داره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 298.38,
+   "end": 302.2,
+   "text": "مائت فرمودن موت تدریجی‌ه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 302.2,
+   "end": 304.1,
+   "text": "مرگ تدریجی‌ه، به مرور.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 304.1,
+   "end": 307.2,
+   "text": "اصلا همه ما به یک معنا مائت هستیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 307.2,
+   "end": 309.98,
+   "text": "بر اساس اون روایت ارزق العمر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 309.98,
+   "end": 313.32,
+   "text": "دیگه حالا از چهل سالگی یه مقدار",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 313.32,
+   "end": 315.82,
+   "text": "ثابت می‌مونه قوا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 315.82,
+   "end": 322.12,
+   "text": "نسبت به مزاج هر کسی بعضیا از پنجاه سالگی شروع می‌شه بعضیا دیگه صد درصد از شصت شروع می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 322.12,
+   "end": 327.76,
+   "text": "نسبت به قوای جسمانی و بنیه‌شون، مزاج‌شون از چهل دیگه تا شصت بین این",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 327.76,
+   "end": 331.04,
+   "text": "چهل تا شصت دیگه این موت آغاز می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 331.04,
+   "end": 333.52,
+   "text": "چیه این؟ مائت بودن شروع می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 333.52,
+   "end": 339.8,
+   "text": "یعنی سفر مرگ شروع شده به تدریج داریم می‌میریم ما که بحث‌هاش گذشته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 339.8,
+   "end": 344.52,
+   "text": "یکی از کمک‌های خدا، عنایات حضرت حق",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 344.52,
+   "end": 349.36,
+   "text": "به همه ما چشیدن موت در خوابه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 349.36,
+   "end": 351.76,
+   "text": "یکی-- چرا بین الطلوعین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 351.76,
+   "end": 355.12,
+   "text": "ساعت بهشتیه؟ یه وجهش کینونت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 355.12,
+   "end": 359.54,
+   "text": "زمانی اونجاست. یک وجهش چشیدن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 94,
+   "start": 359.54,
+   "end": 362.45,
+   "text": "عالم برزخ وجودی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 95,
+   "start": 362.45,
+   "end": 364.97,
+   "text": "اون عالم رتبه‌ی مثالی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 96,
+   "start": 364.97,
+   "end": 371.67,
+   "text": "وجودمونه که ما وقتی می‌خوابیم شب میریم، حالا هر وقت که بخوابیم نه فقط شب، ولی معمولاً چون شب می‌خوابیم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 97,
+   "start": 371.67,
+   "end": 373.91,
+   "text": "میریم یه رتبه پنهانی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 98,
+   "start": 373.91,
+   "end": 377.55,
+   "text": "در باطن وجودمون یعنی عالم برزخ رو درک می‌کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 99,
+   "start": 377.55,
+   "end": 380.21,
+   "text": "وقتی بیدار می‌شیم از اونجا برگشتیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 100,
+   "start": 380.21,
+   "end": 383.19,
+   "text": "به یک معنا موت اینجا رخ داده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 101,
+   "start": 383.19,
+   "end": 384.85,
+   "text": "موت رو چشیدیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 102,
+   "start": 384.85,
+   "end": 387.61,
+   "text": "لذا وقتی بیدار می‌شیم اون لحظه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 103,
+   "start": 387.61,
+   "end": 390.99,
+   "text": "انعکاس‌های عجیبی رو حس می‌کنیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 104,
+   "start": 390.99,
+   "end": 395.03,
+   "text": "ارتباطاتی بین ما و عالم باطن ترک ملکوته",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 105,
+   "start": 395.03,
+   "end": 403.35,
+   "text": "اِاِاِ رخ داده، این ارتباطات کمک می‌کنه ما اومدیم به نشئ مادون اینجا هنوز که هنوزه حواسمون به ملکوته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 106,
+   "start": 403.35,
+   "end": 406.55,
+   "text": "لذا تو بین بسیاری از بزرگان جلسات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 107,
+   "start": 406.55,
+   "end": 410.47,
+   "text": "سیر و سلوک‌شون درس و بحث‌شون اینا همه بین الطلوئين بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 108,
+   "start": 410.47,
+   "end": 412.35,
+   "text": "یه بخشش امتحان کنید اصلاً",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 109,
+   "start": 412.35,
+   "end": 419.51,
+   "text": "درک موت و اینکه آقا ما رفتنی‌م کار تمومه برای همه ما وقت بیدار شدن از",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 110,
+   "start": 419.51,
+   "end": 422.51,
+   "text": "خواب بهتر اتفاق می‌افته. برای خود من اینطوریه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 111,
+   "start": 422.51,
+   "end": 426.71,
+   "text": "من هیچ وقت به اندازه وقتی که از خواب بیدار می‌شم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 112,
+   "start": 426.71,
+   "end": 429.81,
+   "text": "یقین ندارم مرگ رو. اصلا یه حالت عجیبیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 113,
+   "start": 429.81,
+   "end": 433.83,
+   "text": "شما هم اینو چشیدید وقتی تأمل می‌کنید، تفکر می‌کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 114,
+   "start": 433.83,
+   "end": 437.43,
+   "text": "اصلا حدیث هم داریم \"كما تنومون\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 115,
+   "start": 437.43,
+   "end": 440.25,
+   "text": "همونطور که تنومون، نوم، خواب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 116,
+   "start": 440.25,
+   "end": 443.81,
+   "text": "همونطور که می‌میرید \"تموتون\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 117,
+   "start": 443.81,
+   "end": 446.11,
+   "text": "تمونو-- تنومون نوم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 118,
+   "start": 446.11,
+   "end": 451.35,
+   "text": "همونطور که می‌خوابید كما تنومون همونطور که می‌خوابید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 119,
+   "start": 451.35,
+   "end": 455.59,
+   "text": "تموتون. همونطوری هم می‌میرید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 120,
+   "start": 455.59,
+   "end": 460.67,
+   "text": "فرقش با هم در چیه؟ اتفاقا یه آیه ای داره من خیلی آیه رو دوست دارم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 121,
+   "start": 460.67,
+   "end": 463.95,
+   "text": "خیلی، خیلی. یعنی انقدر با این آیه صفا می‌کنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 122,
+   "start": 463.95,
+   "end": 466.73,
+   "text": "خیلی آیه قشنگ و شیرینیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 123,
+   "start": 466.73,
+   "end": 471.13,
+   "text": "خیلی این آیه داره تصریح می‌کنه که اصلا جنس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 124,
+   "start": 471.13,
+   "end": 473.05,
+   "text": "خواب یا نوم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 125,
+   "start": 473.05,
+   "end": 476.59,
+   "text": "با می-- با موت یکیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 126,
+   "start": 476.59,
+   "end": 478.97,
+   "text": "جنس خواب با",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 127,
+   "start": 478.97,
+   "end": 480.87,
+   "text": "موت یکیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 128,
+   "start": 480.87,
+   "end": 485.45,
+   "text": "کدوم آیه؟ آیه چهل و دو سوره زمر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 129,
+   "start": 485.45,
+   "end": 488.03,
+   "text": "که کار رو به جایی می‌رسونه که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 130,
+   "start": 488.03,
+   "end": 491.61,
+   "text": "می‌گیم خواب موت خفیفه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 131,
+   "start": 491.61,
+   "end": 493.91,
+   "text": "دقت بفرمایید، خواب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 132,
+   "start": 493.91,
+   "end": 497.97,
+   "text": "موته، خود موته اما خفیفه و موت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 133,
+   "start": 497.97,
+   "end": 505.97,
+   "text": "خواب سنگینه. آیه اینه \"الله يتوفى الأنفس حين موتها\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 134,
+   "start": 505.97,
+   "end": 510.45,
+   "text": "الله که توفی می‌کنه به صور-- به طور کامل نفس رو می‌گیره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 135,
+   "start": 510.45,
+   "end": 513.03,
+   "text": "اینجا نمیگه روح رو می‌گیره. دقت کنید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 136,
+   "start": 513.03,
+   "end": 517.37,
+   "text": "نفس رو می‌گیره. اینجا مشخصه که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 137,
+   "start": 517.37,
+   "end": 520.33,
+   "text": "یه وجه تمایزی بین روح و نفس هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 138,
+   "start": 520.33,
+   "end": 525.13,
+   "text": "نفس قبلاً گفتیم برزخ بین روح و بدن ماست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 139,
+   "start": 525.13,
+   "end": 529.45,
+   "text": "کارگذاره یعنی روح از طریق نفس",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 140,
+   "start": 529.45,
+   "end": 532.91,
+   "text": "احکامش رو در بدن پیاده می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 141,
+   "start": 532.91,
+   "end": 537.35,
+   "text": "نفس رو \"الله يتوفى الأنفس حين موتها\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 142,
+   "start": 537.35,
+   "end": 542.51,
+   "text": "خدا می‌گیره نفس‌ها رو اما روح باقیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 143,
+   "start": 542.51,
+   "end": 544.91,
+   "text": "دقت بفرمایید کی؟ تو خواب البته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 144,
+   "start": 544.91,
+   "end": 547.55,
+   "text": "اما وقت مو-موت چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 145,
+   "start": 547.55,
+   "end": 551.85,
+   "text": "اینجا می‌فرماید \"الله يتوفى الأنفس حين موتها\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 146,
+   "start": 551.85,
+   "end": 554.89,
+   "text": "خدا نفس رو می‌گیره به تمامه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 147,
+   "start": 554.89,
+   "end": 558.41,
+   "text": "\"والتي لم تمت في منامها\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 148,
+   "start": 558.41,
+   "end": 560.75,
+   "text": "و کسی هم که نمرده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 149,
+   "start": 560.75,
+   "end": 565.73,
+   "text": "\"في منامها\" تو خوابه. باز هر دو تا چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 150,
+   "start": 565.73,
+   "end": 568.39,
+   "text": "خدا چیکار کرده؟ نفس‌شون رو به تمامه گرفته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 151,
+   "start": 568.39,
+   "end": 572.57,
+   "text": "این آیه داره تصریح می‌کنه خواب عین موته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 152,
+   "start": 572.57,
+   "end": 574.67,
+   "text": "چون خدا داره میگه الله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 153,
+   "start": 574.67,
+   "end": 577.91,
+   "text": "نفس رو به تمامه می‌گیره وقت موت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 154,
+   "start": 577.91,
+   "end": 580.17,
+   "text": "بعد می‌فرماید \"والتي لم يموت\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 155,
+   "start": 580.17,
+   "end": 586.13,
+   "text": "کسی هم که \"لم تمت\" کسی هم که نمرده \"في منامها\" تو خوابه باز همین حالت رو داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 156,
+   "start": 586.13,
+   "end": 590.11,
+   "text": "دیگه صریح‌تر از این. پس ما هر شب داریم می‌میریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 157,
+   "start": 590.11,
+   "end": 592.49,
+   "text": "هر روز داریم وقت خواب می‌میریم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 158,
+   "start": 592.49,
+   "end": 595.81,
+   "text": "اتفاقا لقمان حکیم به پسرش گفت پسرم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 159,
+   "start": 595.81,
+   "end": 598.31,
+   "text": "هر وقت تونستی خواب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 160,
+   "start": 598.31,
+   "end": 601.67,
+   "text": "و بیداری رو از خودت دفع کنی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 161,
+   "start": 601.67,
+   "end": 607.87,
+   "text": "بدون که می‌تونی موت رو هم از خودت و برانگیخته شدن در قیامت رو هم از خودت دفع کنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 162,
+   "start": 607.87,
+   "end": 610.43,
+   "text": "و این ما به دست خودمون خوابمون میره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 163,
+   "start": 610.43,
+   "end": 613.15,
+   "text": "خیلی موقع‌ها اصلاً در حال رانندگی خوابت میره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 164,
+   "start": 613.15,
+   "end": 616.77,
+   "text": "خودت خواستی بخوابی؟ خودت می‌خوای در ح-در حال رانندگی بخوابی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 165,
+   "start": 616.77,
+   "end": 620.53,
+   "text": "نه نمی‌خوای. هرچی هم مبارزه می‌کنی نمی‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 166,
+   "start": 620.53,
+   "end": 622.25,
+   "text": "ما با یکی داشتیم صحبت می‌کردیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 167,
+   "start": 622.25,
+   "end": 625.79,
+   "text": "بیچاره چند روز بود نخوابیده بود، یهو افتاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 168,
+   "start": 625.79,
+   "end": 629.25,
+   "text": "افتاد یعنی در حال حرف زدن افتاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 169,
+   "start": 629.25,
+   "end": 633.27,
+   "text": "ها چی شده؟ چی شده؟ نترسید خوابم، یه لحظه خوابم گرفت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 170,
+   "start": 633.27,
+   "end": 637.19,
+   "text": "یک لحظه بی‌اختیار خوابش گرفت با اون خورد زمین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 171,
+   "start": 637.19,
+   "end": 639.87,
+   "text": "این دست من و شما نیست. بیداری هم همینطوریه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 172,
+   "start": 639.87,
+   "end": 642.45,
+   "text": "خب من و شما بیدار می‌شیم؟ نخیر.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 173,
+   "start": 642.45,
+   "end": 645.17,
+   "text": "دو مرتبه اون نفس رو خدا برمی‌گردونه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 174,
+   "start": 645.17,
+   "end": 648.93,
+   "text": "و بیدار. دوباره انتها-- ادامه آیه رو ببینید چقدر شیرینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 175,
+   "start": 648.93,
+   "end": 652.99,
+   "text": "\"فيمسك التي قضى عليها الموت\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 176,
+   "start": 652.99,
+   "end": 657.91,
+   "text": "یمسک میگه تمسک، یه چیز محکمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 177,
+   "start": 657.91,
+   "end": 663.13,
+   "text": "تمسک میگه به یه چیزی که محکمه، ریشه‌ش محکمه، متمسک شو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 178,
+   "start": 663.13,
+   "end": 665.93,
+   "text": "اصلاً اینجا است-- به کارگیری می‌شه این لغت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 179,
+   "start": 665.93,
+   "end": 669.89,
+   "text": "میگه، می‌فرمود \"فيمسك التي\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 180,
+   "start": 669.89,
+   "end": 672.39,
+   "text": "کسی که \"قضى عليها الموت\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 181,
+   "start": 672.39,
+   "end": 675.89,
+   "text": "قضای الهی بر موت محکم شده بر اون،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 182,
+   "start": 675.89,
+   "end": 679.25,
+   "text": "این کارش تمومه. چه تو خواب باشه چه بی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 183,
+   "start": 679.25,
+   "end": 683.33,
+   "text": "همین رفیق ما حسین عاطف روحش شاد، جیگر ما رو خون کرد چند روز پیش،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 184,
+   "start": 683.33,
+   "end": 687.51,
+   "text": "تو خواب سکته کرده بود. همه گفتن خوابه هنوز.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 185,
+   "start": 687.51,
+   "end": 690.19,
+   "text": "ولی چرا بیدار نمی‌شه؟ رفت دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 186,
+   "start": 690.19,
+   "end": 694.27,
+   "text": "توجه کردید؟ \"ويرسل الأخرى إلى أجل مسمى\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 187,
+   "start": 694.27,
+   "end": 697.21,
+   "text": "\"يرسل الأخرى\" یعنی اون دیگریه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 188,
+   "start": 697.21,
+   "end": 702.25,
+   "text": "أخرى یعنی اون یکی، اون یکی که تو خوابه \"يرسل\" و برش می‌گردونیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 189,
+   "start": 702.25,
+   "end": 704.79,
+   "text": "چی رو بهش برمی‌گردونیم؟ نفسش رو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 190,
+   "start": 704.79,
+   "end": 709.09,
+   "text": "باز عین همن. باز داره میگه خواب و موت یک حقیقتن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 191,
+   "start": 709.09,
+   "end": 712.69,
+   "text": "منتها تو موت اون نفسو دیگه برنمی‌گردونن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 192,
+   "start": 712.69,
+   "end": 715.85,
+   "text": "تو خواب \"يرسل الأخرى\" برمی‌گردونن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 193,
+   "start": 715.85,
+   "end": 718.95,
+   "text": "تا کی؟ \"إلى أجل مسمى\" تا یه وقت خاصی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 194,
+   "start": 718.95,
+   "end": 722.61,
+   "text": "همیشه هم نیست. تمرین موته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 195,
+   "start": 722.61,
+   "end": 724.71,
+   "text": "اصلاً خوابیدن تمرین موته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 196,
+   "start": 724.71,
+   "end": 728.82,
+   "text": "چرا ما بی‌توجه‌ایم بهش؟ چرا باش مثلاً به عنوان یک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 197,
+   "start": 728.82,
+   "end": 735.4,
+   "text": "مثلاً نعمت بله نعمت که هست اما نعمت لذت‌بخش مثلاً کیف نفسانی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 198,
+   "start": 735.4,
+   "end": 736.96,
+   "text": "کیف کنیم خستگیمون درره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 199,
+   "start": 736.96,
+   "end": 740.48,
+   "text": "این حرف‌ها چیه؟ اصلاً نفس مگه خسته می‌شه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 200,
+   "start": 740.48,
+   "end": 744.54,
+   "text": "روح مگه خسته می‌شه؟ این بدنه که خسته می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 201,
+   "start": 744.54,
+   "end": 747.92,
+   "text": "اگر نفس حاکم بر بدن بشه اصلاً خواب نیاز نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 202,
+   "start": 747.92,
+   "end": 751.52,
+   "text": "حضرت موسی چهل روز تو کوه طور نخوابید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 203,
+   "start": 751.52,
+   "end": 754.4,
+   "text": "چرا؟ چون نفسش حاکم بر بدنش شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 204,
+   "start": 754.4,
+   "end": 757.62,
+   "text": "انقدر قوی شد اصلاً ن-نخوابید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 205,
+   "start": 757.62,
+   "end": 763.8,
+   "text": "خدا این قضاشو بر این قرار داد که به قولی نمیره چون خواب موته دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 206,
+   "start": 763.8,
+   "end": 765.82,
+   "text": "خدا خواست. بخواد خدا می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 207,
+   "start": 765.82,
+   "end": 770.04,
+   "text": "در صورتی که نفس انقدر قوی بشه که حاکم بر بدن بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 208,
+   "start": 770.04,
+   "end": 773.3,
+   "text": "بله \"إن في ذلك",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 209,
+   "start": 773.3,
+   "end": 779.02,
+   "text": "لآيات\". اینا نشونه‌های آقا این خوابی که داریم می‌خوابیم آیه الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 210,
+   "start": 779.02,
+   "end": 783.0,
+   "text": "خدا داره میگه اینجا \"إن في ذلك لآيات\" قطعاً اینا آیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 211,
+   "start": 783.0,
+   "end": 786.88,
+   "text": "هر بار که می‌خوابی آیه الهی رو لمس می‌کنی، مس می‌کنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 212,
+   "start": 786.88,
+   "end": 791.0,
+   "text": "چرا بدون وضو می‌خوابی؟ آقا وقتی می‌خوابی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 213,
+   "start": 791.0,
+   "end": 793.78,
+   "text": "میگه \"إن في ذلك لآيات\" اینا آیات من.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 214,
+   "start": 793.78,
+   "end": 796.02,
+   "text": "خواب آیه الهیه. تو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 215,
+   "start": 796.02,
+   "end": 798.12,
+   "text": "مس کردی آیه الله رو.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 216,
+   "start": 798.12,
+   "end": 801.7,
+   "text": "آیات فقط آیه الهی این نیست که تو قرآن کتب شده است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 217,
+   "start": 801.7,
+   "end": 806.94,
+   "text": "خوابم آیه الله. چرا بدون وضو خوابیدی مسش کردی گناه کردی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 218,
+   "start": 806.94,
+   "end": 808.56,
+   "text": "خب حالا بحث عرفانی بماند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 219,
+   "start": 808.56,
+   "end": 810.82,
+   "text": "\"في ذلك لآيات\"",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 220,
+   "start": 810.82,
+   "end": 814.34,
+   "text": "برای چیه اینا این آیات؟ \"لقوم يتفكرون\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 221,
+   "start": 814.34,
+   "end": 817.02,
+   "text": "وقتی فکرت رو تعطیل کنی آقا جون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 222,
+   "start": 817.02,
+   "end": 821.98,
+   "text": "این بلاها سرت میاد که اصلاً متوج-- متوجه این حقایق نمی‌شی، اصلاً قبول نداری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 223,
+   "start": 821.98,
+   "end": 825.9,
+   "text": "حالا یه بحثی هم اینجا پیش میاد که بالاخره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 224,
+   "start": 825.9,
+   "end": 829.58,
+   "text": "خدا جون می‌گیره. چون اینجا میگه \"الله يتوفى الأنفاس\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 225,
+   "start": 829.58,
+   "end": 833.06,
+   "text": "پس قابض الارواح چی کاره است؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 226,
+   "start": 833.06,
+   "end": 835.28,
+   "text": "یه جا دیگه روایت داریم. ببین اصلاً آیه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 227,
+   "start": 835.28,
+   "end": 838.92,
+   "text": "شصت و یک انعام \"توفَتْ رُسُلُنا\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 228,
+   "start": 838.92,
+   "end": 841.66,
+   "text": "فرستاده‌های ما میان جون اینا رو می‌گیرن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 229,
+   "start": 841.66,
+   "end": 848.34,
+   "text": "این یک، ملائکه میان. دو، سوره سجده آیه یازده \"يتوفاكم ملك الموت\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 230,
+   "start": 848.34,
+   "end": 853.18,
+   "text": "شما رو جونتونو می‌گیرن ملك الموت یعنی یک وجود واحده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 231,
+   "start": 853.18,
+   "end": 857.78,
+   "text": "آیه چهل و دو زمر هم که می‌فرماید \"الله يتوفى الأنفاس\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 232,
+   "start": 857.78,
+   "end": 862.38,
+   "text": "پس چی شد بالاخره؟ خدا می‌گیره، ملك الموت می‌گیره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 233,
+   "start": 862.38,
+   "end": 864.7,
+   "text": "یا ملائکه می‌گیرن؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 234,
+   "start": 864.7,
+   "end": 867.2,
+   "text": "امام صادق تو این روایت گره رو باز کرده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 235,
+   "start": 867.2,
+   "end": 869.94,
+   "text": "جلد شش صفحه صد و چهل و چهار تو بهار.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 236,
+   "start": 869.94,
+   "end": 873.08,
+   "text": "فرمود خداوند برای عزرائیل",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 237,
+   "start": 873.08,
+   "end": 877.16,
+   "text": "که ملك الموت فرشتگانی رو به عنوان انوان و انصار قرار داده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 238,
+   "start": 877.16,
+   "end": 880.86,
+   "text": "این فرشتگان نسبت به سعه وجودی هر کسی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 239,
+   "start": 880.86,
+   "end": 886.4,
+   "text": "این فرشتگان میان هر چقدر تو مقامت بالاتره یه فرشته قوی‌تر،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 240,
+   "start": 886.4,
+   "end": 892.26,
+   "text": "مقرب‌تر، اون میاد. اون میاد جان تو رو می‌گیره تحویل ملك الموت میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 241,
+   "start": 892.26,
+   "end": 895.16,
+   "text": "ملك الموت میره تحویل حضرت حق میده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 242,
+   "start": 895.16,
+   "end": 898.96,
+   "text": "اینا هم در طول هم‌ند. این‌ها بازوان اجرایی حضرت حق‌اند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 243,
+   "start": 898.96,
+   "end": 902.14,
+   "text": "اراده الرب‌اند. اراده حق‌اند دارن پیاده میشن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 244,
+   "start": 902.14,
+   "end": 904.4,
+   "text": "تازه اینا هم شعون انسان کامل‌اند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 245,
+   "start": 904.4,
+   "end": 906.84,
+   "text": "اینا تحت امر امام زمان‌اند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 246,
+   "start": 906.84,
+   "end": 909.1,
+   "text": "امام زمان لب ترک کنه یعنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 247,
+   "start": 909.1,
+   "end": 913.3,
+   "text": "بخواد نه اصلاً مرگ، موت، حیات همه دست اوناست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 248,
+   "start": 913.3,
+   "end": 916.16,
+   "text": "پس موت چیزی‌ست که \"لذال موت\".",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 249,
+   "start": 916.16,
+   "end": 918.72,
+   "text": "وقت ما هم گذشت. یه عزیزی هم ساعتشو نوا کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 250,
+   "start": 918.72,
+   "end": 923.94,
+   "text": "آلارم زد به من که آقا بسه. متولد کن برای موت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 251,
+   "start": 923.94,
+   "end": 928.46,
+   "text": "دیگه این بحثی که آقا این موت بالاخره خوبه یا بده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 252,
+   "start": 928.46,
+   "end": 934.56,
+   "text": "بستگی به نگاه من و شما داره که اگر موت رو این موت دنیوی بگیری بده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 253,
+   "start": 934.56,
+   "end": 937.2,
+   "text": "آدم فرصتش از دست میره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 254,
+   "start": 937.2,
+   "end": 940.2,
+   "text": "اما اگر موت رو سفر الی الله بگیری،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 255,
+   "start": 940.2,
+   "end": 943.02,
+   "text": "لقاء الله بگیری،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 256,
+   "start": 943.02,
+   "end": 946.66,
+   "text": "سفر از ظاهر به باطن عالم بگیری،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 257,
+   "start": 946.66,
+   "end": 948.86,
+   "text": "سفر به سمت اسماء الهی، چه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 258,
+   "start": 948.86,
+   "end": 955.64,
+   "text": "جمالی، چه جلالی بگیری، اون پونزده نوع موتی که ما قبلاً توضیح دادیم بگیری، همش نور على نوره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 259,
+   "start": 955.64,
+   "end": 963.58,
+   "text": "چقدر زیباست. اون موقع اتفاقاً در حق هم دعا می‌کنین که انشاالله حالا من نگم دیگه شما بدت میاد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 260,
+   "start": 963.58,
+   "end": 966.26,
+   "text": ". انشاالله بچشیم به خوبی خوب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 261,
+   "start": 966.26,
+   "end": 967.98,
+   "text": "کل نفس ذائقه الموت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 262,
+   "start": 967.98,
+   "end": 970.7,
+   "text": "حاج آقا چه بگی چه نگی ما می‌چشیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 263,
+   "start": 970.7,
+   "end": 972.44,
+   "text": "اما انشاالله خوب بچشیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 264,
+   "start": 972.44,
+   "end": 976.24,
+   "text": "چشیدن داریم دیگه یا می‌چشی تلخه یا می‌چشی شیرینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 265,
+   "start": 976.24,
+   "end": 978.92,
+   "text": "انشاالله احلی من العسل باشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 266,
+   "start": 978.92,
+   "end": 980.88,
+   "text": "چشیدن موت توسط هممون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 267,
+   "start": 980.88,
+   "end": 983.78,
+   "text": "صلوات خد کنید. اللهم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 268,
+   "start": 983.78,
+   "end": 987.82,
+   "text": "صل علی محمد و آل محمد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

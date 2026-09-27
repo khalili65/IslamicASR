@@ -84,8 +84,53 @@ Until that is wired, local `npm run dev` is enough to use the player.
 
 ---
 
-## Editable metadata
+### Portal-wide search
 
-- `website-portal/site.config.json` — brand, theme, `mode: portal`  
-- `website-portal/content/qasemian/lecturer.json`  
-- `website-portal/content/qasemian/insanekamel/course.json`  
+Search covers **all** lecturers. Audio courses search timed **ASR cues** (raw pipeline), not book-style markdown.
+
+```bash
+.venv/bin/python website-portal/scripts/build_search_indexes.py
+```
+
+- http://localhost:3001/search/ — all lecturers  
+- http://localhost:3001/search/?lecturer=qasemian&course=insanekamel — filtered  
+ 
+
+### Simple admin UI (for non-technical editors)
+
+See **`website-portal/admin/README.md`**. Password-protected panel: edit names, photos, hide sessions, **Publish**.
+
+```bash
+cd website-portal/admin && cp .env.example .env.local   # set ADMIN_PASSWORD
+npm install && npm run dev   # http://localhost:3002
+```
+
+**Hosting:** the public portal stays on Arvan **static buckets**; the admin must run on a **small Arvan VPS** (or your PC for testing) — object storage cannot run login/save/publish.
+
+### Raw ASR subtitles (new pipeline courses)
+
+For courses that only have `*.txt` + `*.book.md` (no legacy `corrected.md`), set
+in `content/<lecturer>/<course>/course.json`:
+
+```json
+"subtitles": "raw"
+```
+
+Then rebuild (see `website/README.md` → **Subtitle source: edited vs raw**):
+
+```bash
+.venv/bin/python website/tools/prepare_playback.py --course Audios/.../Term1
+.venv/bin/python website/tools/build_content.py \
+  --site-root website-portal \
+  --course Audios/.../Term1
+```
+
+Player shows verbatim ASR in the subtitle stage and **متن جلسه**; **متن کامل**
+serves `NNN.raw.txt`; **نسخه کتابی** / **خلاصه** still use ChatGPT outputs.
+
+Example: `content/manaee/term1/course.json` (Term1 / صبوحی). Local dev needs
+audio under `public/audio/<lecturer>/<course>/NNN/` (symlink or copy); prefer
+`NNN_play.m4a` when present.
+
+Full sync notes (pause-aware raw cues, mp3 remux, edited vs raw pitfalls):
+`website/README.md` § Sync fixes items 4–6 and **Subtitle source**.

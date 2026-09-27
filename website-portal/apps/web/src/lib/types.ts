@@ -15,6 +15,8 @@ export type SessionSummary = {
   durationText: string | null;
   recordedAt: number | null;
   chapterCount: number;
+  format?: "audio" | "text";
+  hasFullText?: boolean;
 };
 
 export type CourseIndex = {
@@ -27,6 +29,7 @@ export type CourseIndex = {
   transcribedCount: number;
   totalSeconds: number;
   totalDurationText: string;
+  format?: "audio" | "text";
   sessions: SessionSummary[];
 };
 
@@ -41,7 +44,10 @@ export type SessionPayload = {
   hasFullText?: boolean;
   hasSummary?: boolean;
   hasBook?: boolean;
+  hasRawTranscript?: boolean;
+  subtitleSource?: "raw" | "edited" | null;
   hasTranscript: boolean;
+  format?: "audio" | "text";
   audio: {
     url: string;
     filename: string;
@@ -99,6 +105,10 @@ export type SiteIndex = {
     title: string;
     bio: string;
     avatar: string;
+    format?: "audio" | "text";
+    /** When true, omitted from home/search/static routes (data may remain on disk). */
+    hidden?: boolean;
+    links?: Array<{ label: string; url: string }>;
     courses: Array<{
       slug: string;
       title: string;
@@ -107,6 +117,7 @@ export type SiteIndex = {
       sessionCount: number;
       transcribedCount: number;
       totalDurationText: string;
+      format?: "audio" | "text";
     }>;
   }>;
 };

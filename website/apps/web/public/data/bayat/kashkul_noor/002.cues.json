@@ -1,0 +1,886 @@
+{
+ "version": 1,
+ "sessionId": "002",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 357.54,
+ "alignment": {
+  "exact": 786,
+  "total": 786,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## برداشت غلط از حکایت علامه مجلسی",
+   "start": 1.0,
+   "end": 145.96
+  },
+  {
+   "index": 1,
+   "title": "### حکایت درست؛ برداشت نادرست",
+   "start": 145.96,
+   "end": 187.92
+  },
+  {
+   "index": 2,
+   "title": "### روایت کافی؛ مسیحیِ اهل شهود",
+   "start": 187.92,
+   "end": 279.48
+  },
+  {
+   "index": 3,
+   "title": "### علم و درجات؛ تصحیح فهم حکایت مجلسی",
+   "start": 279.48,
+   "end": 299.48
+  },
+  {
+   "index": 4,
+   "title": "### پیوند با تهجد و مقام محمود",
+   "start": 299.48,
+   "end": 357.54
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 1.0,
+   "end": 5.88,
+   "text": "بسم الله الرحمن الرحیم و به نستعین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 5.88,
+   "end": 10.9,
+   "text": "السلام علیک یا داعی الله و ربانی یا ایاته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 10.9,
+   "end": 12.68,
+   "text": "سلام علیکم و رحمة الله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 12.68,
+   "end": 19.92,
+   "text": "السلام علیکم و رحمة الله. گاهی اوقات برداشت‌های غلطی از بعضی از حکایت‌ها می‌شه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 19.92,
+   "end": 26.44,
+   "text": "یکی از غلط‌هایی که متأسفانه خیلی هم معروف و مشهوره قطعاً شما هم شنیدید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 26.44,
+   "end": 31.52,
+   "text": "متأسفانه بعضی از اهل فضل و علم هم گفتن اینو که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 31.52,
+   "end": 36.48,
+   "text": "مثلاً مرحوم علامه مجلسی رو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 36.48,
+   "end": 40.98,
+   "text": "که یکی از رفیقاش با هم قرار گذاشتن هر کی از دنیا رفت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 40.98,
+   "end": 44.72,
+   "text": "بیاد به خواب اون یکی مثلاً بگه اونور چه خبر؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 44.72,
+   "end": 48.0,
+   "text": "ایشون اومد به خواب اون رفیقشو،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 48.0,
+   "end": 51.52,
+   "text": "حالا هم مباحث و هم درسش بود هر چی بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 51.52,
+   "end": 57.4,
+   "text": "بعد از احوالات عالم برزخ گفتش که اومدن از ما حساب کتاب کنن و اینا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 57.4,
+   "end": 61.3,
+   "text": "گفتن چی آوردی؟ مثلاً ما گفتیم که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 61.3,
+   "end": 66.1,
+   "text": "این همه کتاب. فرمودن اینا رو نمیگیم،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 66.1,
+   "end": 69.84,
+   "text": "برای اینجا چی آوردی؟ اینا برای خودته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 69.84,
+   "end": 74.92,
+   "text": "حالا یه همچین چیزی رو قطعاً شنیدید و قریبه به همین مضمون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 74.92,
+   "end": 79.5,
+   "text": "این همه درس و کتاب و این همه شاگرد و این همه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 79.5,
+   "end": 82.18,
+   "text": "در مدرسه و علم و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 82.18,
+   "end": 83.98,
+   "text": "اینا نه. برای اینجا چی آوردی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 83.98,
+   "end": 87.14,
+   "text": "اینا مال خودته. بعد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 87.14,
+   "end": 92.52,
+   "text": "این رو میارن به عنوان یک هشداری برای امثال ماها نقل می‌کنند که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 92.52,
+   "end": 96.16,
+   "text": "ببینید علامه مجلسی با اون عظمتش هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 96.16,
+   "end": 98.72,
+   "text": "اعمالش قبول نشدن و مال خودت بوده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 98.72,
+   "end": 101.68,
+   "text": "برای ما چی آوردی؟ بعد حالا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 101.68,
+   "end": 106.9,
+   "text": "ایشون فرمودن که من در همین اثنا که دیگه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 106.9,
+   "end": 110.06,
+   "text": "خالی از ذهن شده بودم اینو یادم افتاد که یه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 110.06,
+   "end": 113.42,
+   "text": "مؤمنی رو یه نفر",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 113.42,
+   "end": 115.36,
+   "text": "یقهشو گرفته بود داشت می‌زدش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 115.36,
+   "end": 117.32,
+   "text": "رفتم جداشون کردم. گفتم چطونه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 117.32,
+   "end": 120.36,
+   "text": "چیکار می‌کنین؟ گفتن این به من بدهکاری داشت و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 120.36,
+   "end": 122.32,
+   "text": "اینم گفت من ندارم. خب چیکار کنم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 122.32,
+   "end": 127.88,
+   "text": "ما اینجا قضاوت کردیم بدهکاری اون مؤمن رو دادیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 127.88,
+   "end": 130.32,
+   "text": "اینو که گفتم گفتم آها این شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 130.32,
+   "end": 135.34,
+   "text": "حالا این آره اینو می‌شه قبول کرد و مثلاً همچین مضمونی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 135.34,
+   "end": 138.46,
+   "text": "خلاصه ازشون پذیرفتن و یه باغی هم به ما دادن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 138.46,
+   "end": 142.1,
+   "text": "این باغو فعلاً گفتن اینجا منتظر در این باغ",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 142.1,
+   "end": 145.96,
+   "text": "متنعّم باش تا حالا قیامت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 145.96,
+   "end": 149.9,
+   "text": "این حکایت درسته اما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 149.9,
+   "end": 153.24,
+   "text": "برداشت غلطی از این روایت شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 153.24,
+   "end": 157.62,
+   "text": "برداشت درستش چیه؟ اینه که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 157.62,
+   "end": 161.94,
+   "text": "انقدر که عالم برزخ",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 161.94,
+   "end": 166.04,
+   "text": "برای رساندن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 166.04,
+   "end": 171.54,
+   "text": "جزای اعمال بعضی از اعمال کوچیکه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 171.54,
+   "end": 175.1,
+   "text": "یه سری از اعمال می‌مونه برای روز قیامت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 175.1,
+   "end": 177.18,
+   "text": "مثل اینکه غالب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 177.18,
+   "end": 182.48,
+   "text": "اعمالی که اهل ایمان در این دنیا انجام میدن اصلاً این دنیا ظرفیت و گنجایششو نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 182.48,
+   "end": 187.92,
+   "text": "اصلاً انقدر کوچیکه اینجا چیزی بهت نمیدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 187.92,
+   "end": 192.3,
+   "text": "روایتش در کافی مرحوم کلینی هست دیگه علّله مقامه الشریف که یکی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 192.3,
+   "end": 195.3,
+   "text": "شنیدید قطعاً. اون مسیحیه اومد پیش امام صادق صلی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 195.3,
+   "end": 197.34,
+   "text": "الله علیه و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 197.34,
+   "end": 199.92,
+   "text": "ادعا کرد که من شرق و غرب عالمو می‌بینم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 199.92,
+   "end": 202.84,
+   "text": "اینجا وایسادم یعنی که چشمم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 202.84,
+   "end": 209.28,
+   "text": "به شهود افتاده. حضرت تصرف کرد یه تخمی رو از زیر یه عقابی برداشت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 209.28,
+   "end": 212.16,
+   "text": "گفت نگاه کن ببینم. مثلاً امتحانش کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 212.16,
+   "end": 216.2,
+   "text": "یه نگاهی این ور اون ور کرد گفت از زیر اون عقاب یه تخم کم شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 216.2,
+   "end": 218.32,
+   "text": "حضرت فرمود خب چه کردی به این مقام رسیدی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 218.32,
+   "end": 223.34,
+   "text": "گفت من مخالفت نفس کردم. هرچی هوای دلم، خواهش دلم خواست مخالفت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 223.34,
+   "end": 226.98,
+   "text": "حضرت هم زرنگی کرد. فرمود خب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 226.98,
+   "end": 229.74,
+   "text": "من دین اسلام رو به تو عرضه می‌کنم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 229.74,
+   "end": 232.44,
+   "text": "ببین که نفست قبول می‌کنه یا نه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 232.44,
+   "end": 236.0,
+   "text": "دین اسلام رو عرضه کرد. گفت نفسم نمی‌پذیره، مخالفت می‌کنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 236.0,
+   "end": 239.4,
+   "text": "خب فرمود خب مخالفت کن تو هم دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 239.4,
+   "end": 245.62,
+   "text": "ایشون تا شهادتین رو جاری کرد و مثلاً مسلمان شد، اون قدرت ازش سلب شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 245.62,
+   "end": 250.64,
+   "text": "تعجب کرد گفت این همه از حقانیت دینتون گفتید من مسیحی بودم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 250.64,
+   "end": 254.78,
+   "text": "اینطوری بود الانم قدرتو ازت-- فرمود صبر کن تا بهت بگم یه نکته‌ای هست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 254.78,
+   "end": 257.42,
+   "text": "تو هر کاری این دنیا بکنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 257.42,
+   "end": 262.12,
+   "text": "میره تو حساب آخرتت. اینجا چیزی بهت نمیدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 262.12,
+   "end": 264.8,
+   "text": "توجه کردید؟ دار جزا اونجاست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 264.8,
+   "end": 267.36,
+   "text": "یه بحث اینه که این دنیا هم کوچیکه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 267.36,
+   "end": 272.04,
+   "text": "ما همش فکر می‌کنیم که آقا این همه نماز خوندیم، روزه گرفتیم، این همه تقوا پیشه کردیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 272.04,
+   "end": 274.46,
+   "text": "مثلاً اگر کرده باشیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 274.46,
+   "end": 276.92,
+   "text": "این همه فلان و چی شد؟ چی شد نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 276.92,
+   "end": 283.32,
+   "text": "بذار اونور ببینیم چه خبره. و در هر حال یه سری اعمال هست مثل علم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 283.32,
+   "end": 285.66,
+   "text": "فضیلت علم خیلی بالاست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 285.66,
+   "end": 289.04,
+   "text": "العلم سلطان مولا فرمودن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 289.04,
+   "end": 290.94,
+   "text": "و الذین اوتوا العلم درجات.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 290.94,
+   "end": 293.7,
+   "text": "اصلاً درجات مال اهل علمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 293.7,
+   "end": 298.18,
+   "text": "به غیر از اهل علم درجه‌ای ندارن که قبلاً بحثش رو کردیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 298.18,
+   "end": 307.24,
+   "text": "لذا این حواسمون باشه که اونجا علامه مجلسی داره می‌فرماید میگن آقا اینا رو ما اینجا تو برزخ نمی‌تونیم به تو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 307.24,
+   "end": 311.16,
+   "text": "جزاشو بدیم. برزخ کوچیکه برای جزای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 311.16,
+   "end": 314.58,
+   "text": "فضیلت علم و درس و بحث و بحث.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 314.58,
+   "end": 317.12,
+   "text": "اون باشه برای قیامت. این درست بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 317.12,
+   "end": 319.38,
+   "text": "حواسمون باشه. حالا چرا من اینو گفتم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 319.38,
+   "end": 321.32,
+   "text": "همه اینا مقدمه بود برای یه جمله.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 321.32,
+   "end": 323.56,
+   "text": "جمله آخرم. با بحث",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 323.56,
+   "end": 327.32,
+   "text": "تهجد و نماز شب رو که دیروز گفتیم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 327.32,
+   "end": 331.28,
+   "text": "و ربطش با امام عصر و چهره طاووسی حضرت رو،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 331.28,
+   "end": 337.54,
+   "text": "حرف لب به مطلب اینه که نماز شب هم از اون جمله اعمالی است که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 337.54,
+   "end": 341.66,
+   "text": "نه در دنیا و نه در برزخ نمی‌شه جزاشو",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 341.66,
+   "end": 345.44,
+   "text": "بگیری. انقدر که این‌ها کوچیکن و اون بزرگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 345.44,
+   "end": 350.62,
+   "text": "لذا فرمود عسى ان یبعثک ربک مقاما محمودا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 350.62,
+   "end": 353.94,
+   "text": "باشه که اونور یعنی اونجا بهت بدیم، کی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 353.94,
+   "end": 357.54,
+   "text": "در روز دیدار خدا. الحمد لله رب العالمین. صلوات.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}

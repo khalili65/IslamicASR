@@ -1,0 +1,84 @@
+{
+ "id": "003",
+ "index": 3,
+ "lecturer": "bayat",
+ "course": "qalb_monghamer",
+ "title": "شرکت زنان در نماز جماعت",
+ "topic": null,
+ "summary": "پس از حکم شرکت زنان در نماز جماعت، استاد باخبری از نظام آفاقی را به قرآن هستی پیوند می‌دهد؛ دنیا را مخلوقِ لغیرها و میدان آزمایش می‌خواند؛ با حدیث معراج عیش هنیع و حیات باقیه را می‌گشاید؛ و با تمثیل موسی و فرعون نشان می‌دهد پادشاهی دنیا به نیم‌جرعه آب و راحتی تن می‌ارزد.",
+ "hasTranscript": true,
+ "audio": {
+  "url": "/audio/bayat/qalb_monghamer/003/003_play.m4a",
+  "filename": "003_play.m4a",
+  "size": 13006565,
+  "display": "12.4 MB",
+  "duration": 1016.92,
+  "durationText": "16:57"
+ },
+ "subtitles": {
+  "fa": {
+   "vtt": "003.vtt",
+   "cues": "003.cues.json",
+   "words": "003.words.json"
+  }
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "## شرکت زنان در نماز جماعت",
+   "start": 0.58,
+   "end": 70.3
+  },
+  {
+   "index": 1,
+   "title": "## باخبری از نظام آفاقی؛ قرآن هستی",
+   "start": 70.3,
+   "end": 207.2
+  },
+  {
+   "index": 2,
+   "title": "## خلقت لغیرها؛ دنیا پل است نه مقصد",
+   "start": 207.2,
+   "end": 335.78
+  },
+  {
+   "index": 3,
+   "title": "## آن به آن در آزمایش؛ خطبهٔ دویست و سه",
+   "start": 335.78,
+   "end": 469.7
+  },
+  {
+   "index": 4,
+   "title": "## حدیث معراج؛ کدام عیش گواراتر و کدام حیات باقی‌تر",
+   "start": 469.7,
+   "end": 734.74
+  },
+  {
+   "index": 5,
+   "title": "## اگر این نگاه نباشد؛ زیان بی‌خبری از دنیا",
+   "start": 734.74,
+   "end": 809.6
+  },
+  {
+   "index": 6,
+   "title": "## تمثیل موسی و فرعون؛ پادشاهی به نیم‌جرعه آب",
+   "start": 809.6,
+   "end": 1016.92
+  }
+ ],
+ "recordedAt": 1788083196,
+ "sourceName": "قلب منغمر3_ج415.mp3",
+ "alignment": {
+  "verbatim": 1.0,
+  "driftFraction": 0.0
+ },
+ "hasFullText": true,
+ "hasLegacyText": false,
+ "hasSummary": true,
+ "hasBook": true,
+ "hasRawTranscript": true,
+ "subtitleSource": "raw",
+ "textPipeline": "book",
+ "previous": "002",
+ "next": "004"
+}

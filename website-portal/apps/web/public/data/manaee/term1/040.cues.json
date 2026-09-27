@@ -1,0 +1,2641 @@
+{
+ "version": 1,
+ "sessionId": "040",
+ "lang": "fa",
+ "source": "raw",
+ "duration": 1267.84,
+ "alignment": {
+  "exact": 2117,
+  "total": 2117,
+  "ratio": 1.0,
+  "maxGapSeconds": 0.0,
+  "p95GapSeconds": 0.0,
+  "driftFraction": 0.0
+ },
+ "chapters": [
+  {
+   "index": 0,
+   "title": "أعوذ بالله من الشیطان الرجیم. بسم الله الرحمن الرحیم.",
+   "start": 34.32,
+   "end": 182.12
+  },
+  {
+   "index": 1,
+   "title": "## ترکیب نحوی آیهٔ اول: «لم یکن» و اسم آن",
+   "start": 182.12,
+   "end": 216.38
+  },
+  {
+   "index": 2,
+   "title": "## منفکین یعنی چه؟ قاعدهٔ هدایت از نگاه علامه طباطبایی",
+   "start": 216.38,
+   "end": 342.64
+  },
+  {
+   "index": 3,
+   "title": "## اگر بیّنه آمد دیگر عذر تمام است",
+   "start": 342.64,
+   "end": 362.86
+  },
+  {
+   "index": 4,
+   "title": "## بیّنه چیست؟ رسولی از جانب خدا و صحف مطهّره",
+   "start": 362.86,
+   "end": 662.14
+  },
+  {
+   "index": 5,
+   "title": "## فرمان بیّنه: عبادت خالص، اقامهٔ نماز، ایتاء زکات",
+   "start": 662.14,
+   "end": 754.01
+  },
+  {
+   "index": 6,
+   "title": "## این سوره جواب اندیشه‌های پلورالیستی است",
+   "start": 754.01,
+   "end": 895.53
+  },
+  {
+   "index": 7,
+   "title": "قرآن می‌فرماید در سورهٔ مبارکهٔ شوری:",
+   "start": 895.53,
+   "end": 963.95
+  },
+  {
+   "index": 8,
+   "title": "## کافران به پیامبر: شرّ البریّة",
+   "start": 963.95,
+   "end": 984.17
+  },
+  {
+   "index": 9,
+   "title": "## مؤمنان اهل عمل صالح: خیر البریّة",
+   "start": 984.17,
+   "end": 1142.48
+  },
+  {
+   "index": 10,
+   "title": "## پیام سوره: پیامبر معیار جدایی؛ و حجّت پس از رسول",
+   "start": 1142.48,
+   "end": 1267.84
+  }
+ ],
+ "cues": [
+  {
+   "i": 0,
+   "start": 10.42,
+   "end": 15.82,
+   "text": "سوره مبارکه بیّنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 1,
+   "start": 15.82,
+   "end": 18.64,
+   "text": "أعوذ بالله من الشيطان الرجيم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 2,
+   "start": 18.64,
+   "end": 21.02,
+   "text": "بسم الله الرحمن الرحيم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 3,
+   "start": 21.02,
+   "end": 25.8,
+   "text": "لم يكن الذين كفروا من أهل الكتاب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 4,
+   "start": 25.8,
+   "end": 28.06,
+   "text": "والمشركين",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 5,
+   "start": 28.06,
+   "end": 32.06,
+   "text": "منفكين. حتى",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 6,
+   "start": 32.06,
+   "end": 34.32,
+   "text": "تأتيهم البينة.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 7,
+   "start": 34.32,
+   "end": 41.22,
+   "text": "همین آیه اول را اگر درست بفهمیم دیگه بقیه سوره رو راحت می‌فهمیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 8,
+   "start": 41.22,
+   "end": 44.9,
+   "text": "اما اگه درست نفهمیم هی تو سوره باید لنگ بزنیم که چی شد آقا؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 9,
+   "start": 44.9,
+   "end": 50.86,
+   "text": "مس-مطلب چی بود؟ لم يكن الذين",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 10,
+   "start": 50.86,
+   "end": 54.48,
+   "text": "كفروا من أهل الكتاب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 11,
+   "start": 54.48,
+   "end": 58.82,
+   "text": "منفكين. من أهل الكتاب والمشركين منفكين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 12,
+   "start": 58.82,
+   "end": 62.36,
+   "text": "ببینید لم يكن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 13,
+   "start": 62.36,
+   "end": 66.72,
+   "text": "از افعال ناقصه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 14,
+   "start": 66.72,
+   "end": 70.2,
+   "text": "نبودند. لم يكن نبودند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 15,
+   "start": 70.2,
+   "end": 72.62,
+   "text": "کیا نبودند؟ اسمش چیه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 16,
+   "start": 72.62,
+   "end": 77.28,
+   "text": "کیا نبودند؟ الذين",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 17,
+   "start": 77.28,
+   "end": 80.2,
+   "text": "كفروا که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 18,
+   "start": 80.2,
+   "end": 85.48,
+   "text": "بیان باشد از دو گروه. الذين كفروا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 19,
+   "start": 85.48,
+   "end": 89.9,
+   "text": "من أهل الكتاب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 20,
+   "start": 89.9,
+   "end": 95.66,
+   "text": "چه کافران از اهل کتاب و چه کیا؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 21,
+   "start": 95.66,
+   "end": 99.28,
+   "text": "کافران از مشرکین.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 22,
+   "start": 99.28,
+   "end": 106.72,
+   "text": "ببینید تا قبل از اینکه پیغمبر اسلام بیاد مردم دو گروه بودند یا اهل کتاب بودند یا چی بودند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 23,
+   "start": 106.72,
+   "end": 111.92,
+   "text": "مشرک بودند. پیغمبر اسلام که آمد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 24,
+   "start": 111.92,
+   "end": 116.64,
+   "text": "پیامبر اسلام و قرآن،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 25,
+   "start": 116.64,
+   "end": 120.72,
+   "text": "این مشرکان و اهل کتاب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 26,
+   "start": 120.72,
+   "end": 128.06,
+   "text": "به دو گروه تقسیم شدند. یا ایمان آوردند به پیغمبر اسلام و قرآن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 27,
+   "start": 128.06,
+   "end": 131.52,
+   "text": "که دیگه شدند مؤمنین به پیغمبر اسلام و قرآن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 28,
+   "start": 131.52,
+   "end": 137.38,
+   "text": "یا کفر ورزیدند. کفر ورزیدند به پیغمبر اسلام و قرآن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 29,
+   "start": 137.38,
+   "end": 141.98,
+   "text": "الذين كفروا به کی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 30,
+   "start": 141.98,
+   "end": 145.7,
+   "text": "به پیغمبر و قرآن. از این دو گروه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 31,
+   "start": 145.7,
+   "end": 148.38,
+   "text": "من أهل الكتاب والمشركين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 32,
+   "start": 148.38,
+   "end": 156.34,
+   "text": "میگه این اهل کتاب و مشرکانی که کفر ورزیدند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 33,
+   "start": 156.34,
+   "end": 159.36,
+   "text": "نبودند. چی نبودند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 34,
+   "start": 159.36,
+   "end": 166.46,
+   "text": "منفکین. اینا منفک نبودند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 35,
+   "start": 166.46,
+   "end": 170.88,
+   "text": "خب منفک نبودند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 36,
+   "start": 170.88,
+   "end": 173.98,
+   "text": "از چی؟ منفک یعنی چی بگید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 37,
+   "start": 173.98,
+   "end": 176.54,
+   "text": "جدا. جدا شده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 38,
+   "start": 176.54,
+   "end": 178.54,
+   "text": "اینا منفک نبودند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 39,
+   "start": 178.54,
+   "end": 182.12,
+   "text": "از چی منفک نبودند؟ از عبارت بعدی می‌تونیم بفهمیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 40,
+   "start": 182.12,
+   "end": 190.88,
+   "text": "لم يكن الذين كفروا من أهل الكتاب والمشركين منفكين حتى بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 41,
+   "start": 190.88,
+   "end": 195.8,
+   "text": "تأتيهم البينة.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 42,
+   "start": 195.8,
+   "end": 202.96,
+   "text": "میگه اینا منفک نبودند تا وقتی که برایشان چه بیاید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 43,
+   "start": 202.96,
+   "end": 213.36,
+   "text": "بیّنه بیاید. وقتی من میگم آقا تا وقتی براش بیّنه بیاید منفک نبوده یعنی وقتی بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 44,
+   "start": 213.36,
+   "end": 216.38,
+   "text": "بیّنه آمد منفک شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 45,
+   "start": 216.38,
+   "end": 220.98,
+   "text": "خب انسان وقتی بیّنه میاد از چی منفک میشه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 46,
+   "start": 220.98,
+   "end": 225.38,
+   "text": "علامه طباطبایی به زیبایی بیان کردن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 47,
+   "start": 225.38,
+   "end": 228.4,
+   "text": "میگه آقا هر انسانی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 48,
+   "start": 228.4,
+   "end": 233.54,
+   "text": "مشمول قاعده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 49,
+   "start": 233.54,
+   "end": 241.22,
+   "text": "هدایته. یعنی خدا بر عهده گرفته که آدم‌ها را چی کار کنه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 50,
+   "start": 241.22,
+   "end": 252.82,
+   "text": "بگید. هدایت کنه. که اگر این قاعده برای اون انسان به هر دلیلی اجرا نشود، خدا اون انسان را عذاب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 51,
+   "start": 252.82,
+   "end": 254.52,
+   "text": "بگید نمی‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 52,
+   "start": 254.52,
+   "end": 258.44,
+   "text": "یعنی خدا تا کسی را هدایت نکرده باشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 53,
+   "start": 258.44,
+   "end": 264.66,
+   "text": "به خاطر بی‌هدایتی و به خاطر ضلالت و چیزای دیگه او را عذابش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 54,
+   "start": 264.66,
+   "end": 269.46,
+   "text": "نمی‌کند. آقا تو ما را هدایت نکردی، حالا گوش ما رو می‌گیری می‌ریزی جهنم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 55,
+   "start": 269.46,
+   "end": 274.2,
+   "text": "هدایتمون نکردی. ما اصلاً نفهمیدیم ماجرا چیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 56,
+   "start": 274.2,
+   "end": 278.9,
+   "text": "میگه انسان‌ها همه مشمول قاعده هدایت‌اند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 57,
+   "start": 278.9,
+   "end": 285.42,
+   "text": "و تا هدایت نشوند مستحق عذاب نمی‌شوند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 58,
+   "start": 285.42,
+   "end": 289.06,
+   "text": "اهل کتاب و مشرک هم همینطور بودند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 59,
+   "start": 289.06,
+   "end": 291.56,
+   "text": "تا قبل از اینکه پیغمبر بیاد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 60,
+   "start": 291.56,
+   "end": 298.1,
+   "text": "جامعه با این دو گروه‌اش که یه گروه اهل کتاب بود، یه گروه مشرک بود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 61,
+   "start": 298.1,
+   "end": 302.02,
+   "text": "گویا این دو گروه دیگه معذور شده بودند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 62,
+   "start": 302.02,
+   "end": 305.94,
+   "text": "معذور یعنی منفک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 63,
+   "start": 305.94,
+   "end": 310.98,
+   "text": "نبودند از قاعده هدایت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 64,
+   "start": 310.98,
+   "end": 313.2,
+   "text": "یعنی حقش بود که اینا چی بشوند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 65,
+   "start": 313.2,
+   "end": 316.1,
+   "text": "بگید. هدایت بشوند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 66,
+   "start": 316.1,
+   "end": 322.96,
+   "text": "حالا اگر هدایت را، اگر هدایت را پذیرفتند که پذیرفتند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 67,
+   "start": 322.96,
+   "end": 324.76,
+   "text": "اگر نپذیرفتند چی بشه؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 68,
+   "start": 324.76,
+   "end": 327.0,
+   "text": "اتمام حجت بشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 69,
+   "start": 327.0,
+   "end": 331.46,
+   "text": "پس اینا همه مشمول قاعده هدایت بودند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 70,
+   "start": 331.46,
+   "end": 338.4,
+   "text": "اما-- یا منفک از قاعده هدایت بگید نبودند تا وقتی که،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 71,
+   "start": 338.4,
+   "end": 342.64,
+   "text": "تا وقتی که بیّنه بیاد براشون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 72,
+   "start": 342.64,
+   "end": 348.36,
+   "text": "حالا سؤال، اگر بیّنه آمد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 73,
+   "start": 348.36,
+   "end": 352.8,
+   "text": "حجتی از جانب خدا اقامه شد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 74,
+   "start": 352.8,
+   "end": 356.48,
+   "text": "علم هدایت بلند شد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 75,
+   "start": 356.48,
+   "end": 360.28,
+   "text": "و تو نیامدی زیر علم هدایت،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 76,
+   "start": 360.28,
+   "end": 362.86,
+   "text": "تو بیّنه را قبول نکردی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 77,
+   "start": 362.86,
+   "end": 369.1,
+   "text": "بازم می‌تونی بگی خدا که مرا هدایت نکرده چطور می‌خواد مرا ببره جهنم؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 78,
+   "start": 369.1,
+   "end": 373.2,
+   "text": "بازم می‌تونی بگی من مشمول قاعده هدایتم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 79,
+   "start": 373.2,
+   "end": 375.82,
+   "text": "پس خب خدا هدایت کند دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 80,
+   "start": 375.82,
+   "end": 378.3,
+   "text": "آقا و خدا چجوری هدایت کند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 81,
+   "start": 378.3,
+   "end": 380.28,
+   "text": "خب بیّنه می‌فرسته دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 82,
+   "start": 380.28,
+   "end": 389.8,
+   "text": "میگه بله تا وقتی که بیّنه براشون بیاید منفک از قاعده",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 83,
+   "start": 389.8,
+   "end": 394.04,
+   "text": "هدایت نبودند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 84,
+   "start": 394.04,
+   "end": 401.34,
+   "text": "تا وقتی که بیّنه براشون بیاید عذر داشتن درباره کفرشون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 85,
+   "start": 401.34,
+   "end": 404.84,
+   "text": "حجت داشتن، عذر داشتن، معذور بودند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 86,
+   "start": 404.84,
+   "end": 408.44,
+   "text": "منفک نبودند از قاعده هدایت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 87,
+   "start": 408.44,
+   "end": 410.98,
+   "text": "اما این تا وقتی بود که بیّنه بیاد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 88,
+   "start": 410.98,
+   "end": 413.44,
+   "text": "حالا بیّنه چیه مگر؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 89,
+   "start": 413.44,
+   "end": 415.68,
+   "text": "اون بیّنه‌ای که اگر بیاد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 90,
+   "start": 415.68,
+   "end": 420.8,
+   "text": "دیگه آدما از ذیل قاعده هدایت بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 91,
+   "start": 420.8,
+   "end": 425.14,
+   "text": "خارج میشن یعنی حجت تمام میشه بر اون‌ها عذر دیگه تمام میشه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 92,
+   "start": 425.14,
+   "end": 427.54,
+   "text": "اون بیّنه چیه؟ میگه خیلی راحت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 93,
+   "start": 427.54,
+   "end": 432.26,
+   "text": "رسول من الله يتلو صحفا مطهرة.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 94,
+   "start": 432.26,
+   "end": 440.62,
+   "text": "آقا بیّنه چیه؟ بیّنه یه فرستاده‌ای است از جانب خدا که تلاوت می‌کند صحیفه هایی بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 95,
+   "start": 440.62,
+   "end": 446.12,
+   "text": "پاکیزه را. میگه بیّنه. اون صحیفه های پاکیزه توش چی نوشته؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 96,
+   "start": 446.12,
+   "end": 448.36,
+   "text": "فيها كتب قيّمة.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 97,
+   "start": 448.36,
+   "end": 455.86,
+   "text": "صحیفه هایی پاکیزه که در اون صحیفه ها نوشته هایی وجود دارد ارزنده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 98,
+   "start": 455.86,
+   "end": 458.36,
+   "text": "قيّمة یعنی ارزنده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 99,
+   "start": 458.36,
+   "end": 462.14,
+   "text": "یه معنای دیگه قيّمة هم یعنی برپادارنده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 100,
+   "start": 462.14,
+   "end": 468.74,
+   "text": "نوشته‌هایی که با اون نوشته‌ها انسان و جامعه انسانی چه می‌شود؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 101,
+   "start": 468.74,
+   "end": 471.98,
+   "text": "برپا می‌شود. قیام می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 102,
+   "start": 471.98,
+   "end": 474.66,
+   "text": "از افتادگی نجات پیدا می‌کند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 103,
+   "start": 474.66,
+   "end": 483.28,
+   "text": "آقا بیّنه همینه. بیّنه یه رسول است که تلاوت صحف کند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 104,
+   "start": 483.28,
+   "end": 489.54,
+   "text": "و صحف هم چیزی است پاکیزه که درش نوشته‌های ارزنده‌ای یا نوشته‌های برپادارنده‌ای",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 105,
+   "start": 489.54,
+   "end": 492.08,
+   "text": "برای انسان و جامعه انسانی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 106,
+   "start": 492.08,
+   "end": 498.32,
+   "text": "باشد. بله تا وقتی که این بیّنه بیاید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 107,
+   "start": 498.32,
+   "end": 503.7,
+   "text": "حضرات کفار چه از اهل کتاب و چه از مشرکین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 108,
+   "start": 503.7,
+   "end": 507.24,
+   "text": "اینا منفک از قاعده هدایت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 109,
+   "start": 507.24,
+   "end": 513.22,
+   "text": "نبودند. یعنی معذور بودند، حجت داشتند، منفک از هدایت نبودند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 110,
+   "start": 513.22,
+   "end": 519.4,
+   "text": "ولی وما تفرق الذين أوتوا الكتاب",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 111,
+   "start": 519.4,
+   "end": 523.68,
+   "text": "إلا من بعد ما جاءتهم البينة.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 112,
+   "start": 523.68,
+   "end": 529.0,
+   "text": "مسئله اینه. مسئله اینه که اینا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 113,
+   "start": 529.0,
+   "end": 532.36,
+   "text": "از گرد علم هدایت",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 114,
+   "start": 532.36,
+   "end": 534.42,
+   "text": "متفرق شدند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 115,
+   "start": 534.42,
+   "end": 537.52,
+   "text": "بعد از اینکه چه شد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 116,
+   "start": 537.52,
+   "end": 541.52,
+   "text": "بیّنه آمد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 117,
+   "start": 541.52,
+   "end": 544.36,
+   "text": "یعنی بابا این تفرق شما",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 118,
+   "start": 544.36,
+   "end": 548.46,
+   "text": "تفرقی نیست که بر اون عذری داشته باشی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 119,
+   "start": 548.46,
+   "end": 551.46,
+   "text": "این تفرقی است که عذر بر اون نداری،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 120,
+   "start": 551.46,
+   "end": 558.7,
+   "text": "حجت بر اون نداری. اگه بیّنه نیامده بود می‌گفتیم بیّنه نیامده، تو هنوز معذوری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 121,
+   "start": 558.7,
+   "end": 560.96,
+   "text": "خب بیّنه اومد دیگه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 122,
+   "start": 560.96,
+   "end": 564.98,
+   "text": "بابا اونی که منتظرش بودید اومد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 123,
+   "start": 564.98,
+   "end": 568.58,
+   "text": "قرآن عجیبه. قرآن می‌فرماید که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 124,
+   "start": 568.58,
+   "end": 572.92,
+   "text": "اهل کتاب تا قبل از اینکه پیغمبر اسلام ظهور کنه منتظرش بودند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 125,
+   "start": 572.92,
+   "end": 577.36,
+   "text": "وكانوا من قبل يستفتحون على الذين كفروا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 126,
+   "start": 577.36,
+   "end": 579.46,
+   "text": "اظهار می‌کردند ما منتظرشیم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 127,
+   "start": 579.46,
+   "end": 581.78,
+   "text": "او کی خواهد آمد؟ او خواهد آمد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 128,
+   "start": 581.78,
+   "end": 585.08,
+   "text": "هی به کافران می‌گفتند منجی ما خواهد آمد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 129,
+   "start": 585.08,
+   "end": 587.98,
+   "text": "حالا منجی آمده دورش رو خالی کردند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 130,
+   "start": 587.98,
+   "end": 592.68,
+   "text": "و سعی می‌کنند بگن که در این کفری که به منجی دارند،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 131,
+   "start": 592.68,
+   "end": 595.16,
+   "text": "در این کفری که به",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 132,
+   "start": 595.16,
+   "end": 598.04,
+   "text": "بیّنه الهی دارند چی‌اند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 133,
+   "start": 598.04,
+   "end": 600.54,
+   "text": "معذورند. بگن آقا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 134,
+   "start": 600.54,
+   "end": 602.72,
+   "text": "مثلاً حجت بر ما تمام نشده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 135,
+   "start": 602.72,
+   "end": 609.88,
+   "text": "خدا هم می‌خواد بگه نه حجت هیچی غیر از رسولی که از جانب خدا بیاد و صحف مطهره بخواند و",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 136,
+   "start": 609.88,
+   "end": 612.44,
+   "text": "صحفی که درش كتب قيّمة باشد",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 137,
+   "start": 612.44,
+   "end": 617.02,
+   "text": "نیست. حجت همینه. این تفرق،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 138,
+   "start": 617.02,
+   "end": 620.64,
+   "text": "این پراکندگی، پراکندگی از چی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 139,
+   "start": 620.64,
+   "end": 622.76,
+   "text": "پراکندگی از حول بیّنه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 140,
+   "start": 622.76,
+   "end": 625.3,
+   "text": "پراکندگی از حول رسول.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 141,
+   "start": 625.3,
+   "end": 627.64,
+   "text": "رسولی که صحف می‌خواند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 142,
+   "start": 627.64,
+   "end": 631.06,
+   "text": "این پراکنده شدن نبود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 143,
+   "start": 631.06,
+   "end": 633.02,
+   "text": "یعنی متفرق نشدند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 144,
+   "start": 633.02,
+   "end": 637.52,
+   "text": "الذين أوتوا الكتاب از حول رسول",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 145,
+   "start": 637.52,
+   "end": 641.62,
+   "text": "إلا من بعد ما جاءتهم البينة",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 146,
+   "start": 641.62,
+   "end": 646.02,
+   "text": "مگر بعد از اینکه بیّنه آمد براشون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 147,
+   "start": 646.02,
+   "end": 649.9,
+   "text": "خب حتى تأتيهم البينة لم يكن منفكين.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 148,
+   "start": 649.9,
+   "end": 652.3,
+   "text": "حالا جاءتهم البينة چی میشن؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 149,
+   "start": 652.3,
+   "end": 657.64,
+   "text": "بگید. میشن منفکین یعنی منفک از سنت هدایت میشن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 150,
+   "start": 657.64,
+   "end": 660.36,
+   "text": "یعنی دیگه عذری بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 151,
+   "start": 660.36,
+   "end": 674.36,
+   "text": "ندارند. حالا خدا میگه این در حالیه، این تفرق در حالیه که وما أمروا این بیّنه به اون‌ها فرمان نداده مگر چی رو؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 152,
+   "start": 674.36,
+   "end": 676.1,
+   "text": "چی از اونا خواسته شده مگر؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 153,
+   "start": 676.1,
+   "end": 679.94,
+   "text": "چرا گذاشتن رفتن؟ چرا دور پیغمبر رو خالی کردن؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 154,
+   "start": 679.94,
+   "end": 683.46,
+   "text": "چرا حاضر نیستن به پیغمبر اسلام ایمان بیارن؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 155,
+   "start": 683.46,
+   "end": 687.98,
+   "text": "خدا میگه عجیبه. فرمان داده نشدند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 156,
+   "start": 687.98,
+   "end": 697.18,
+   "text": "توسط بیّنه. فرمان داده نشدند إلا مگر ليعبدوا الله مخلصين له الدين حنفاء.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 157,
+   "start": 697.18,
+   "end": 702.88,
+   "text": "یعنی از اونا خواسته شده که خدا را بپرستند خالصانه و بدون انحراف.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 158,
+   "start": 702.88,
+   "end": 704.9,
+   "text": "یعنی چیزی که بیّنه از اونا می‌خواد اینه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 159,
+   "start": 704.9,
+   "end": 710.6,
+   "text": "یک، خدا را خالصانه بپرستید بدون انحراف.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 160,
+   "start": 710.6,
+   "end": 714.92,
+   "text": "دو، ويقيم الصلاة نماز را اقامه کنید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 161,
+   "start": 714.92,
+   "end": 720.02,
+   "text": "سه، ويؤتوا الزكاة زکات رو بدهید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 162,
+   "start": 720.02,
+   "end": 725.26,
+   "text": "اینا از گرد بیّنه ای متفرق شدند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 163,
+   "start": 725.26,
+   "end": 728.12,
+   "text": "که از اون‌ها نمی‌خواست",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 164,
+   "start": 728.12,
+   "end": 732.11,
+   "text": "مگر خداپرستی خالصانه را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 165,
+   "start": 732.11,
+   "end": 737.33,
+   "text": "مگر اقامه نماز را مگر ایتاء زکات را",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 166,
+   "start": 737.33,
+   "end": 745.71,
+   "text": "و ذلک الدين القيم و اون دین برپا دارنده همینه خب.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 167,
+   "start": 745.71,
+   "end": 751.83,
+   "text": "یعنی با چه حجتی شما از محور بینه متفرق شدید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 168,
+   "start": 751.83,
+   "end": 756.01,
+   "text": "با چه عذری؟ این سوره",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 169,
+   "start": 756.01,
+   "end": 759.03,
+   "text": "جواب محکمی است",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 170,
+   "start": 759.03,
+   "end": 763.23,
+   "text": "به کسانی که میخوان یه جورایی اندیشه‌های",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 171,
+   "start": 763.23,
+   "end": 767.17,
+   "text": "پلورالیستی را چه کنن؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 172,
+   "start": 767.17,
+   "end": 774.75,
+   "text": "تئوریزه کنن، توجیه بکنن بگن آقا خب اسلامم یه راه،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 173,
+   "start": 774.75,
+   "end": 782.17,
+   "text": "قرآنم یه راه. این سوره میگه آقا هرچی میخوای بوده باشی باش.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 174,
+   "start": 782.17,
+   "end": 784.99,
+   "text": "اهل کتاب بودی، مشرک بودی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 175,
+   "start": 784.99,
+   "end": 789.01,
+   "text": "هرچی که بودی تا قبل از آمدن بینه بگید",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 176,
+   "start": 789.01,
+   "end": 791.75,
+   "text": "بودی. هرچی که بودی بودی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 177,
+   "start": 791.75,
+   "end": 800.99,
+   "text": "عذر داشتی. اما وقتی بینه آمد که بینه عبارت است از رسولی که از جانب خدا آمده،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 178,
+   "start": 800.99,
+   "end": 803.39,
+   "text": "صحیفه های پاک رو میخونه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 179,
+   "start": 803.39,
+   "end": 809.51,
+   "text": "و این صحیفه های پاک میخواد جامعه و انسان را برپا بدارد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 180,
+   "start": 809.51,
+   "end": 813.17,
+   "text": "حالا که بینه آمد اگر متفرق شدی،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 181,
+   "start": 813.17,
+   "end": 816.87,
+   "text": "این تفرق دیگه عذری درش نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 182,
+   "start": 816.87,
+   "end": 819.23,
+   "text": "دیگه حجتی دیگه نداری.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 183,
+   "start": 819.23,
+   "end": 825.71,
+   "text": "بعد از آمدن بینه متفرق شدن عذری براش وجود نداره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 184,
+   "start": 825.71,
+   "end": 829.07,
+   "text": "به خصوص وقتی بینه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 185,
+   "start": 829.07,
+   "end": 832.73,
+   "text": "حرفی ندارد جز سه تا اصل مهم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 186,
+   "start": 832.73,
+   "end": 835.01,
+   "text": "این بینه رو وقتی شما ازش فرار میکنی",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 187,
+   "start": 835.01,
+   "end": 838.37,
+   "text": "در واقع داری، داری از این اصول فرار میکنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 188,
+   "start": 838.37,
+   "end": 845.19,
+   "text": "وقتی از این بینه رویگردان میشی در حقیقت به این اصول داری پشت میکنی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 189,
+   "start": 845.19,
+   "end": 851.13,
+   "text": "این اصول چیست؟ یک عبادت خالصانه و بدون انحراف خدا.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 190,
+   "start": 851.13,
+   "end": 853.97,
+   "text": "يعبد الله مخلصین",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 191,
+   "start": 853.97,
+   "end": 857.59,
+   "text": "له الدين یعنی با روش خالصانه خدا را بپرستی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 192,
+   "start": 857.59,
+   "end": 862.49,
+   "text": "حنفا بدون کجی، بدون انحراف.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 193,
+   "start": 862.49,
+   "end": 868.81,
+   "text": "خب از عبادت خالصانه و بی‌انحراف خدا چرا رویگردان میشی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 194,
+   "start": 868.81,
+   "end": 871.93,
+   "text": "این بینه چی میخواد؟ يقيم الصلاة",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 195,
+   "start": 871.93,
+   "end": 876.67,
+   "text": "برپا داشتن نماز رو میخواد. چرا رویگردان میشی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 196,
+   "start": 876.67,
+   "end": 880.55,
+   "text": "این بینه چی میخواد؟ يؤتو الزكاة دادن زکات را می‌خواهد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 197,
+   "start": 880.55,
+   "end": 886.93,
+   "text": "چرا رویگردان میشی؟ چرا یه دین دیگه تراشی واسه خودت؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 198,
+   "start": 886.93,
+   "end": 890.45,
+   "text": "قرآن میفرماید در سوره مبارکه شورا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 199,
+   "start": 890.45,
+   "end": 895.53,
+   "text": "خدا میفرماید شرع لكم من الدين ما وصى به نوحا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 200,
+   "start": 895.53,
+   "end": 900.43,
+   "text": "خدا برای شما از دین همانی را که به نوح علیه السلام وصیت کرد قرار داد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 201,
+   "start": 900.43,
+   "end": 904.77,
+   "text": "یعنی راه شما یه دینیه که خدا به کی وصیت کرد؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 202,
+   "start": 904.77,
+   "end": 908.67,
+   "text": "به نوح علیه السلام وصیت کرد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 203,
+   "start": 908.67,
+   "end": 916.51,
+   "text": "بعد همه انبیا را مکلف کرد که أن أقيم الدين همان دین را برپا دارید.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 204,
+   "start": 916.51,
+   "end": 919.63,
+   "text": "بعد اما یه عده‌ای این وسط",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 205,
+   "start": 919.63,
+   "end": 925.97,
+   "text": "در عهد هر پیامبری از انتقال هر پیامبری به پیغمبر بعدی یه گروه جا موندن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 206,
+   "start": 925.97,
+   "end": 932.93,
+   "text": "یه گروه اینور رفتن، یه گروه اونور رفتن، یه گروه توقف کردن که قرآن میفرماید در واقع",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 207,
+   "start": 932.93,
+   "end": 940.49,
+   "text": "شرعوا لهم من الدين ما لم يأذن به الله یعنی کسانی اومدن برای اونا دین تراشیدن.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 208,
+   "start": 940.49,
+   "end": 943.31,
+   "text": "دینی که خدا اذن به اون",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 209,
+   "start": 943.31,
+   "end": 946.43,
+   "text": "نداده است. آقا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 210,
+   "start": 946.43,
+   "end": 948.89,
+   "text": "این دینه دیگه. خب بینه آمده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 211,
+   "start": 948.89,
+   "end": 951.17,
+   "text": "رسول که آمده صحف که می‌خواند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 212,
+   "start": 951.17,
+   "end": 957.59,
+   "text": "كتب قيمه که داره. حرفشم که جز عبادت خالصانه و اقامه نماز و ایتاء زکات نیست.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 213,
+   "start": 957.59,
+   "end": 959.71,
+   "text": "شما برای چی متفرق میشین؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 214,
+   "start": 959.71,
+   "end": 961.71,
+   "text": "برای چی پراکنده میشید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 215,
+   "start": 961.71,
+   "end": 963.95,
+   "text": "برای چه هر کدام یه راهی را میرید؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 216,
+   "start": 963.95,
+   "end": 972.61,
+   "text": "بر همین اساس خدا میفرماید إن الذين كفروا من أهل الكتاب والمشركين",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 217,
+   "start": 972.61,
+   "end": 977.79,
+   "text": "اینایی که کفر به پیغمبر ورزیدن چه اهل کتاب،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 218,
+   "start": 977.79,
+   "end": 981.59,
+   "text": "مسیحی، یهودی نمیدونم چه، چه مشرک.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 219,
+   "start": 981.59,
+   "end": 984.17,
+   "text": "اینایی که کفر به پیغمبر ورزیدن",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 220,
+   "start": 984.17,
+   "end": 986.81,
+   "text": "در حقیقت بعد از حول بینه چه شدند؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 221,
+   "start": 986.81,
+   "end": 989.83,
+   "text": "بدون عذر متفرق شدند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 222,
+   "start": 989.83,
+   "end": 994.57,
+   "text": "اینا فی نار جهنم خالدین فیها",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 223,
+   "start": 994.57,
+   "end": 998.95,
+   "text": "اینا در آتش جهنم‌اند و در اون آتش جاودانه‌اند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 224,
+   "start": 998.95,
+   "end": 1000.83,
+   "text": "أولئك هم",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 225,
+   "start": 1000.83,
+   "end": 1004.01,
+   "text": "شر البرية",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 226,
+   "start": 1004.01,
+   "end": 1008.39,
+   "text": "اینها قطعاً بدترین جنبندگانند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 227,
+   "start": 1008.39,
+   "end": 1010.61,
+   "text": "از مارمولک هم پست‌ترند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 228,
+   "start": 1010.61,
+   "end": 1012.69,
+   "text": "چون جنبنده یعنی هر چیزی که تکون بخوره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 229,
+   "start": 1012.69,
+   "end": 1015.15,
+   "text": "سوسک، مارمولک.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 230,
+   "start": 1015.15,
+   "end": 1019.57,
+   "text": "میگه اینا از هر جنبنده‌ای پست‌ترند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 231,
+   "start": 1019.57,
+   "end": 1022.51,
+   "text": "یعنی مسئله شوخی برنمی‌داره که شما بگی بله",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 232,
+   "start": 1022.51,
+   "end": 1024.87,
+   "text": "حالا من به این دین دارم میرم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 233,
+   "start": 1024.87,
+   "end": 1029.61,
+   "text": "غلط می‌کنی. رو چه حسابی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 234,
+   "start": 1029.61,
+   "end": 1031.29,
+   "text": "مگه تو صاحب شریعتی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 235,
+   "start": 1031.29,
+   "end": 1040.55,
+   "text": "مگه صاحب دینی؟ از جانب خدا حجت آمده، پیغمبر آمده، صحیفه متحره می‌خونه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 236,
+   "start": 1040.55,
+   "end": 1047.97,
+   "text": "حرفی هم نداره جز عبادت خالصانه خدا جز اقامه نماز، جز ایتاء زکات.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 237,
+   "start": 1047.97,
+   "end": 1051.69,
+   "text": "چطور اینجا شما برای خود چه عذری برای خودت تراشیدی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 238,
+   "start": 1051.69,
+   "end": 1057.65,
+   "text": "فردا چه جوابی میخوای به خدا بدی بابت این انحرافت؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 239,
+   "start": 1057.65,
+   "end": 1062.27,
+   "text": "خیلی محکم و صریح و شفاف.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 240,
+   "start": 1062.27,
+   "end": 1066.79,
+   "text": "أولئك هم شر البرية.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 241,
+   "start": 1066.79,
+   "end": 1071.17,
+   "text": "إن الذين آمنوا وعملوا الصالحات",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 242,
+   "start": 1071.17,
+   "end": 1075.71,
+   "text": "اونایی که ایمان بیارن در مقابل كفروا،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 243,
+   "start": 1075.71,
+   "end": 1085.37,
+   "text": "آمنوا دیگه و عمل صالح انجام بدن به دنبال ایمان یعنی بیان به این بینه و به اون یعنی رسول و اون صحیفه هاش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 244,
+   "start": 1085.37,
+   "end": 1088.61,
+   "text": "ایمان بیارن و عمل کنن طبق اون.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 245,
+   "start": 1088.61,
+   "end": 1094.6,
+   "text": "أولئك هم خير البرية اینا بهترین جنبندگانند",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 246,
+   "start": 1094.6,
+   "end": 1101.44,
+   "text": "جزاءهم عند ربهم جنات عدن تجري من تحتها الأنهار.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 247,
+   "start": 1101.44,
+   "end": 1104.74,
+   "text": "جزای آنها نزد پروردگارشان",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 248,
+   "start": 1104.74,
+   "end": 1108.32,
+   "text": "بهشت‌های جاودانه ای است که",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 249,
+   "start": 1108.32,
+   "end": 1111.94,
+   "text": "نهرها از کف آن روان است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 250,
+   "start": 1111.94,
+   "end": 1116.14,
+   "text": "خالدین فیها در آن بهشت‌ها جاودانگان خواهند بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 251,
+   "start": 1116.14,
+   "end": 1120.0,
+   "text": "ابداً برای ابدیت.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 252,
+   "start": 1120.0,
+   "end": 1125.28,
+   "text": "رضى الله عنهم الله از آنها راضی شد.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 253,
+   "start": 1125.28,
+   "end": 1129.5,
+   "text": "ورضوا عنه و آنها از الله راضی شدند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 254,
+   "start": 1129.5,
+   "end": 1133.78,
+   "text": "ذلك لمن خشي ربه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 255,
+   "start": 1133.78,
+   "end": 1138.02,
+   "text": "این مقام مال کسی است که از پروردگارش چی داره؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 256,
+   "start": 1138.02,
+   "end": 1142.48,
+   "text": "خشیت داره یعنی خوف از مقام پروردگار داره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 257,
+   "start": 1142.48,
+   "end": 1145.6,
+   "text": "سوره بیّنه خیلی شفاف و گویا",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 258,
+   "start": 1145.6,
+   "end": 1152.6,
+   "text": "می‌خواد بگه آقا تا وقتی پیغمبر اسلام نیامده بود قرآن نیامده بود،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 259,
+   "start": 1152.6,
+   "end": 1155.78,
+   "text": "حجت بر بقیه تمام نبود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 260,
+   "start": 1155.78,
+   "end": 1159.5,
+   "text": "یکی می‌گفت من مشرکم. یکی می‌گفت من اهل کتابم.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 261,
+   "start": 1159.5,
+   "end": 1165.78,
+   "text": "اما وقتی که پیغمبر اسلام آمد از جانب خدا صحیفه های پاکیزه را خواند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 262,
+   "start": 1165.78,
+   "end": 1171.52,
+   "text": "این مصداق بیّنه ای است که با آمدنش حجت بر انسان‌ها چه می‌شود؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 263,
+   "start": 1171.52,
+   "end": 1174.66,
+   "text": "تمام می‌شود و وقتی حجت تمام شد،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 264,
+   "start": 1174.66,
+   "end": 1179.38,
+   "text": "پراکنده شدن از محور این رسول و قرآنش",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 265,
+   "start": 1179.38,
+   "end": 1184.96,
+   "text": "می‌شود یک پراکنده شدن بی‌عذر و بی‌توجیه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 266,
+   "start": 1184.96,
+   "end": 1196.24,
+   "text": "به خصوص وقتی این رسول و قرآن جز عبادت خالصانه، اقامه نماز و ایتاء زکات حرفی نزده.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 267,
+   "start": 1196.24,
+   "end": 1196.94,
+   "text": "یکبار این بود یک",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 268,
+   "start": 1196.94,
+   "end": 1204.76,
+   "text": "دینی آمده، یک پیغمبر ادعای رسالت کرده که یک حرف‌هایی از شما می‌خواد غیر از آنچه که ادیان شما می‌گفته.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 269,
+   "start": 1204.76,
+   "end": 1207.8,
+   "text": "می‌گه همون‌ها رو داری می‌گی. می‌گه عبادت خالصانه بی‌انحراف،",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 270,
+   "start": 1207.8,
+   "end": 1211.26,
+   "text": "اقامه نماز، ایتاء زکات. خب تو چته قبول نمی‌کنی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 271,
+   "start": 1211.26,
+   "end": 1215.56,
+   "text": "پس معلومه که تو با این سه تا چی پیدا کردی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 272,
+   "start": 1215.56,
+   "end": 1218.3,
+   "text": "زاویه پیدا کردی؟ مشکل پیدا کردی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 273,
+   "start": 1218.3,
+   "end": 1224.84,
+   "text": "پس بدانند این کافران که در نار جهنم جاودانه خواهند بود.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 274,
+   "start": 1224.84,
+   "end": 1227.24,
+   "text": "اینها بدترین جنبنده‌ها هستند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 275,
+   "start": 1227.24,
+   "end": 1233.08,
+   "text": "در نقطه مقابلش مؤمنان اهل عمل صالح‌اند که به سعادت می‌رسند.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 276,
+   "start": 1233.08,
+   "end": 1238.56,
+   "text": "سوره بیّنه میگه پیغمبر اسلام معیار جدایی بهشت و جهنمه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 277,
+   "start": 1238.56,
+   "end": 1241.7,
+   "text": "معیار جدایی کفر و ایمانه.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 278,
+   "start": 1241.7,
+   "end": 1245.44,
+   "text": "معیار جدایی شر البریه و خیر البریه است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 279,
+   "start": 1245.44,
+   "end": 1249.46,
+   "text": "قصيب النار والجنة است.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 280,
+   "start": 1249.46,
+   "end": 1253.9,
+   "text": "حالا همین سوره برای حجت بعد از پیغمبر خدا هم به کار میره.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 281,
+   "start": 1253.9,
+   "end": 1258.54,
+   "text": "آقا به چه دلیل شما از حجت بعد از رسول رویگردان شدی؟",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 282,
+   "start": 1258.54,
+   "end": 1260.94,
+   "text": "همین سوره وارد بر حجت‌های بعدی.",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  },
+  {
+   "i": 283,
+   "start": 1260.94,
+   "end": 1267.84,
+   "text": "یعنی هرکس در هر زمانی اگر از بیّنه الهی رویگردان شد، بی‌عذر و بی‌حجت منتظر آتش باید باشه",
+   "kind": "speech",
+   "chapter": null,
+   "block": 0
+  }
+ ]
+}
