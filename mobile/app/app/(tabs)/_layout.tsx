@@ -25,7 +25,7 @@ export default function TabLayout() {
           <Pressable
             onPress={() => router.push("/settings")}
             hitSlop={12}
-            style={{ marginStart: 14 }}
+            style={{ marginStart: 36, marginTop: 14 }}
             accessibilityLabel="تنظیمات"
           >
             <Ionicons name="settings-outline" size={22} color={colors.ink} />
@@ -51,6 +51,8 @@ export default function TabLayout() {
         name="search"
         options={{
           title: "جستجو",
+          headerTitle: "",
+          tabBarLabel: "جستجو",
           tabBarIcon: ({ color, focused }) => (
             <Ionicons
               name={focused ? "search" : "search-outline"}
@@ -64,6 +66,8 @@ export default function TabLayout() {
         name="saved"
         options={{
           title: "فهرست من",
+          headerTitle: "",
+          tabBarLabel: "فهرست من",
           tabBarIcon: ({ color }) => (
             <Ionicons name="bookmark-outline" size={22} color={color} />
           ),
@@ -73,6 +77,8 @@ export default function TabLayout() {
         name="index"
         options={{
           title: "کتابخانه",
+          headerTitle: "",
+          tabBarLabel: "کتابخانه",
           tabBarIcon: ({ color, focused }) => (
             <Ionicons
               name={focused ? "library" : "library-outline"}

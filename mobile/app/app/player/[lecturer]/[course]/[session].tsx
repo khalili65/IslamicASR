@@ -15,7 +15,7 @@ import { space } from "@/constants/theme";
 import { useColors } from "@/lib/useTheme";
 import { useLibraryStore } from "@/lib/store";
 import { loadCues, loadSession } from "@/lib/api";
-import { resolveMediaUrl } from "@/lib/format";
+import { formatSourceName, resolveMediaUrl } from "@/lib/format";
 import {
   loadOfflineSession,
   resolveOfflinePaths,
@@ -187,6 +187,16 @@ export default function PlayerScreen() {
           <AppText variant="title" numberOfLines={2} style={styles.sessionTitle}>
             {payload.title}
           </AppText>
+          {formatSourceName(payload.sourceName) ? (
+            <AppText
+              variant="caption"
+              tone="mist"
+              numberOfLines={1}
+              style={styles.sourceName}
+            >
+              {formatSourceName(payload.sourceName)}
+            </AppText>
+          ) : null}
         </View>
         <View style={styles.backBtn} />
       </View>
@@ -267,6 +277,12 @@ const styles = StyleSheet.create({
     writingDirection: "rtl",
     fontSize: 16,
     lineHeight: 24,
+  },
+  sourceName: {
+    textAlign: "center",
+    writingDirection: "rtl",
+    fontSize: 11,
+    lineHeight: 18,
   },
   retry: { minHeight: 44, justifyContent: "center" },
 });

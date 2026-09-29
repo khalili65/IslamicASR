@@ -10,7 +10,7 @@ import {
 import { AppText } from "./AppText";
 import { radii, space, type } from "@/constants/theme";
 import { useColors } from "@/lib/useTheme";
-import { resolveAssetUrl, toPersianDigits } from "@/lib/format";
+import { resolveAssetUrl, formatSourceName, toPersianDigits } from "@/lib/format";
 import type { CourseSummary, Lecturer } from "@/lib/types";
 
 /** Optional local portraits — drop files here when ready. */
@@ -182,15 +182,18 @@ export function CourseRow({
 export function SessionRow({
   index,
   title,
+  sourceName,
   durationText,
   onPress,
 }: {
   index: number;
   title: string;
+  sourceName?: string | null;
   durationText: string | null;
   onPress: () => void;
 }) {
   const colors = useColors();
+  const eitaaLabel = formatSourceName(sourceName);
   return (
     <Pressable
       onPress={onPress}
@@ -205,6 +208,16 @@ export function SessionRow({
         <AppText variant="body" numberOfLines={2} style={styles.align}>
           {title}
         </AppText>
+        {eitaaLabel ? (
+          <AppText
+            variant="caption"
+            tone="mist"
+            numberOfLines={1}
+            style={styles.sourceName}
+          >
+            {eitaaLabel}
+          </AppText>
+        ) : null}
         {durationText ? (
           <AppText variant="caption" tone="mist" style={styles.align}>
             {toPersianDigits(durationText)}
@@ -268,6 +281,13 @@ const styles = StyleSheet.create({
     minHeight: 56,
   },
   sessionBody: { flex: 1, gap: 2 },
+  sourceName: {
+    textAlign: "right",
+    writingDirection: "rtl",
+    fontSize: 11,
+    lineHeight: 18,
+    opacity: 0.85,
+  },
   index: {
     minWidth: 28,
     textAlign: "center",

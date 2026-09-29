@@ -2,6 +2,18 @@ export function toPersianDigits(value: string | number): string {
   return String(value).replace(/\d/g, (d) => "۰۱۲۳۴۵۶۷۸۹"[Number(d)]!);
 }
 
+/** Strip extension / leading # from an Eitaa original filename for display. */
+export function formatSourceName(
+  name: string | null | undefined,
+): string | null {
+  if (!name) return null;
+  const cleaned = name
+    .replace(/\.(mp3|m4a|ogg|opus|wav|aac|flac)$/i, "")
+    .replace(/^#+/, "")
+    .trim();
+  return cleaned || null;
+}
+
 export function formatClock(seconds: number): string {
   if (!Number.isFinite(seconds) || seconds < 0) seconds = 0;
   const total = Math.floor(seconds);

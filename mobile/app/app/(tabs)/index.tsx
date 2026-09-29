@@ -47,14 +47,28 @@ export default function LibraryScreen() {
         }
         ListHeaderComponent={
           <View style={styles.hero}>
-            <AppText variant="caption" tone="mist" style={styles.center}>
+            <AppText
+              variant="caption"
+              tone="mist"
+              style={[styles.center, styles.bismillah]}
+            >
               بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
             </AppText>
-            <AppText variant="display" style={styles.brand}>
+
+            <AppText style={[styles.brand, { color: colors.ink }]}>
               {APP_TITLE}
             </AppText>
-            <AppText variant="body" tone="mist" style={styles.center}>
-              سخنرانی و تفسیر
+
+            <View
+              style={[styles.rule, { backgroundColor: colors.copperSoft }]}
+            />
+
+            <AppText
+              variant="caption"
+              tone="soft"
+              style={[styles.center, styles.tagline]}
+            >
+              کتابخانهٔ درس‌گفتارهای تفسیری و اخلاقی
             </AppText>
           </View>
         }
@@ -107,21 +121,43 @@ const styles = StyleSheet.create({
   hero: {
     width: "100%",
     alignItems: "center",
-    paddingTop: space.xl,
-    paddingBottom: space.xl,
+    paddingTop: space.lg,
+    paddingBottom: space.xl + 4,
     paddingHorizontal: space.lg,
+    gap: 0,
   },
   center: {
     textAlign: "center",
     writingDirection: "rtl",
     width: "100%",
   },
+  bismillah: {
+    fontFamily: "Amiri_400Regular",
+    fontSize: 15,
+    lineHeight: 28,
+    letterSpacing: 0.3,
+    marginBottom: space.md,
+  },
   brand: {
+    fontFamily: "Amiri_700Bold",
+    fontSize: 36,
+    lineHeight: 52,
     textAlign: "center",
     writingDirection: "rtl",
     width: "100%",
-    marginTop: 10,
-    marginBottom: 8,
+    marginBottom: space.sm,
+  },
+  rule: {
+    width: 36,
+    height: 1.5,
+    borderRadius: 1,
+    marginBottom: space.sm,
+    opacity: 0.85,
+  },
+  tagline: {
+    fontSize: 13,
+    lineHeight: 22,
+    maxWidth: 280,
   },
   empty: {
     paddingVertical: space.xxl,

@@ -13,6 +13,7 @@ import {
   Amiri_400Regular,
   Amiri_700Bold,
 } from "@expo-google-fonts/amiri";
+import { AiDisclaimerModal } from "@/components/AiDisclaimerModal";
 import { type } from "@/constants/theme";
 import { useLibraryStore } from "@/lib/store";
 import { useThemeStore } from "@/lib/themeStore";
@@ -90,6 +91,7 @@ export default function RootLayout() {
         />
         <Stack.Screen name="settings" options={{ title: "تنظیمات" }} />
       </Stack>
+      <AiDisclaimerModal />
     </>
   );
 }

@@ -32,6 +32,8 @@ export type SessionSummary = {
   index: number;
   title: string;
   topic: string | null;
+  /** Original Eitaa / source filename (optional secondary label). */
+  sourceName?: string | null;
   hasTranscript: boolean;
   duration: number | null;
   durationText: string | null;
@@ -59,6 +61,8 @@ export type SessionPayload = {
   title: string;
   topic: string | null;
   summary: string | null;
+  /** Original Eitaa / source filename (optional secondary label). */
+  sourceName?: string | null;
   hasBook?: boolean;
   hasSummary?: boolean;
   hasFullText?: boolean;

@@ -130,6 +130,7 @@ export default function CourseScreen() {
           <SessionRow
             index={item.index}
             title={item.title}
+            sourceName={item.sourceName}
             durationText={item.durationText}
             onPress={() =>
               router.push({
