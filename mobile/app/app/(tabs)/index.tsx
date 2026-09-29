@@ -14,7 +14,6 @@ import { AppText } from "@/components/AppText";
 import { LecturerRow } from "@/components/Rows";
 import { APP_TITLE, colors, space } from "@/constants/theme";
 import { useLibraryStore } from "@/lib/store";
-import { toPersianDigits } from "@/lib/format";
 
 export default function LibraryScreen() {
   const router = useRouter();
@@ -27,8 +26,6 @@ export default function LibraryScreen() {
   const onRefresh = useCallback(() => {
     load();
   }, [load]);
-
-  const courseTotal = lecturers.reduce((n, l) => n + l.courses.length, 0);
 
   return (
     <Screen>
@@ -48,22 +45,15 @@ export default function LibraryScreen() {
         }
         ListHeaderComponent={
           <View style={styles.hero}>
-            <AppText variant="caption" tone="copper" style={styles.center}>
+            <AppText variant="caption" tone="mist" style={styles.center}>
               بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
             </AppText>
             <AppText variant="display" style={styles.brand}>
               {APP_TITLE}
             </AppText>
-            <AppText variant="body" tone="soft" style={styles.center}>
-              سخنرانی و تفسیر، از همهٔ استادان
+            <AppText variant="body" tone="mist" style={styles.center}>
+              سخنرانی و تفسیر
             </AppText>
-            {lecturers.length > 0 ? (
-              <AppText variant="meta" tone="mist" style={styles.metaLine}>
-                {toPersianDigits(lecturers.length)} استاد
-                {"  •  "}
-                {toPersianDigits(courseTotal)} دوره
-              </AppText>
-            ) : null}
           </View>
         }
         ListEmptyComponent={
@@ -115,10 +105,9 @@ const styles = StyleSheet.create({
   hero: {
     width: "100%",
     alignItems: "center",
-    paddingTop: space.md,
+    paddingTop: space.xl,
     paddingBottom: space.xl,
     paddingHorizontal: space.sm,
-    gap: 0,
   },
   center: {
     textAlign: "center",
@@ -131,12 +120,6 @@ const styles = StyleSheet.create({
     width: "100%",
     marginTop: 10,
     marginBottom: 8,
-  },
-  metaLine: {
-    textAlign: "center",
-    writingDirection: "rtl",
-    width: "100%",
-    marginTop: 12,
   },
   empty: {
     paddingVertical: space.xxl,

@@ -61,6 +61,9 @@ export type SessionPayload = {
   summary: string | null;
   hasBook?: boolean;
   hasSummary?: boolean;
+  hasFullText?: boolean;
+  hasRawTranscript?: boolean;
+  subtitleSource?: string;
   hasTranscript: boolean;
   audio: {
     url: string;
@@ -83,6 +86,7 @@ export type Cue = {
   kind: "speech" | "quote";
   chapter: number | null;
   block: number;
+  translation?: string;
 };
 
 export type CuesFile = {

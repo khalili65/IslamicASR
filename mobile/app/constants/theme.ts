@@ -1,21 +1,22 @@
 /**
- * تذکار — warm ivory library, dark ink, olive metadata, copper accent.
+ * تذکار — quiet library: warm paper, dark ink, one copper accent.
+ * Restraint: typography and space carry hierarchy; chrome stays thin.
  */
 export const colors = {
-  parchment: "#EDE9DF",
-  parchmentDeep: "#E2DDD1",
-  card: "#F7F4EC",
+  parchment: "#F3F0E8",
+  parchmentDeep: "#E8E4DA",
+  card: "#F3F0E8",
   ink: "#1A2420",
   inkSoft: "#3A4741",
   mist: "#7A8780",
   sage: "#8FA396",
-  line: "rgba(26, 36, 32, 0.08)",
-  copper: "#9A6B3F",
+  line: "rgba(26, 36, 32, 0.1)",
+  copper: "#8F6240",
   copperSoft: "#C4A574",
-  copperWash: "rgba(154, 107, 63, 0.12)",
-  stage: "#1A0A0E",
+  copperWash: "rgba(143, 98, 64, 0.1)",
+  stage: "#14100F",
   stageFg: "#F5F0E8",
-  stageMuted: "rgba(245, 240, 232, 0.55)",
+  stageMuted: "rgba(245, 240, 232, 0.5)",
   white: "#FFFFFF",
   danger: "#8B3A3A",
 } as const;
@@ -30,9 +31,9 @@ export const space = {
 } as const;
 
 export const radii = {
-  sm: 8,
-  md: 14,
-  lg: 20,
+  sm: 6,
+  md: 10,
+  lg: 16,
   pill: 999,
 } as const;
 

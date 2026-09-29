@@ -9,6 +9,10 @@ import {
   Vazirmatn_500Medium,
   Vazirmatn_700Bold,
 } from "@expo-google-fonts/vazirmatn";
+import {
+  Amiri_400Regular,
+  Amiri_700Bold,
+} from "@expo-google-fonts/amiri";
 import { colors, type } from "@/constants/theme";
 import { useLibraryStore } from "@/lib/store";
 
@@ -27,6 +31,8 @@ export default function RootLayout() {
     Vazirmatn_400Regular,
     Vazirmatn_500Medium,
     Vazirmatn_700Bold,
+    Amiri_400Regular,
+    Amiri_700Bold,
   });
   const load = useLibraryStore((s) => s.load);
   const loadSaved = useLibraryStore((s) => s.loadSaved);

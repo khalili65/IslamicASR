@@ -6,7 +6,7 @@ import { AppText } from "@/components/AppText";
 import { CourseRow } from "@/components/Rows";
 import { colors, radii, space } from "@/constants/theme";
 import { useLibraryStore } from "@/lib/store";
-import { resolveAssetUrl, toPersianDigits } from "@/lib/format";
+import { resolveAssetUrl } from "@/lib/format";
 
 export default function LecturerScreen() {
   const { slug } = useLocalSearchParams<{ slug: string }>();
@@ -46,7 +46,7 @@ export default function LecturerScreen() {
               <Image source={{ uri: avatar }} style={styles.avatar} />
             ) : isBayat ? (
               <View style={[styles.avatar, styles.avatarFallback]}>
-                <AppText variant="title" tone="copper">
+                <AppText variant="title" tone="mist">
                   بیات
                 </AppText>
               </View>
@@ -54,7 +54,7 @@ export default function LecturerScreen() {
             <AppText variant="display" style={styles.name}>
               {lecturer.name}
             </AppText>
-            <AppText variant="meta" tone="copper" style={styles.center}>
+            <AppText variant="meta" tone="mist" style={styles.center}>
               {lecturer.title}
             </AppText>
             {lecturer.bio ? (
@@ -62,9 +62,6 @@ export default function LecturerScreen() {
                 {lecturer.bio}
               </AppText>
             ) : null}
-            <AppText variant="meta" tone="mist" style={styles.count}>
-              {toPersianDigits(lecturer.courses.length)} دوره
-            </AppText>
           </View>
         }
         renderItem={({ item }) => (
@@ -97,20 +94,17 @@ const styles = StyleSheet.create({
     paddingBottom: space.xl,
   },
   avatar: {
-    width: 96,
-    height: 96,
-    borderRadius: radii.lg,
+    width: 72,
+    height: 72,
+    borderRadius: radii.md,
     marginBottom: space.md,
-    borderWidth: StyleSheet.hairlineWidth,
-    borderColor: colors.line,
   },
   avatarFallback: {
-    backgroundColor: colors.copperWash,
+    backgroundColor: colors.parchmentDeep,
     alignItems: "center",
     justifyContent: "center",
-    borderColor: colors.copperSoft,
   },
-  name: { textAlign: "center", writingDirection: "rtl" },
+  name: { textAlign: "center", writingDirection: "rtl", fontSize: 24 },
   center: { textAlign: "center", writingDirection: "rtl" },
   bio: {
     textAlign: "center",
@@ -118,5 +112,4 @@ const styles = StyleSheet.create({
     marginTop: space.sm,
     maxWidth: 340,
   },
-  count: { marginTop: space.md, textAlign: "center" },
 });

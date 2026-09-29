@@ -7,6 +7,7 @@ import {
 } from "react-native";
 import { useLocalSearchParams, useRouter } from "expo-router";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
+import { Ionicons } from "@expo/vector-icons";
 import { Screen } from "@/components/Screen";
 import { AppText } from "@/components/AppText";
 import { LecturePlayer } from "@/components/LecturePlayer";
@@ -52,8 +53,7 @@ export default function PlayerScreen() {
         setError(null);
       })
       .catch((e) => {
-        if (!cancelled)
-          setError(e instanceof Error ? e.message : "خطا");
+        if (!cancelled) setError(e instanceof Error ? e.message : "خطا");
       })
       .finally(() => {
         if (!cancelled) setLoading(false);
@@ -63,13 +63,29 @@ export default function PlayerScreen() {
     };
   }, [lecturer, course, session]);
 
+  function goBack() {
+    if (router.canGoBack()) router.back();
+    else
+      router.replace({
+        pathname: "/course/[lecturer]/[course]",
+        params: { lecturer: lecturerSlug, course },
+      });
+  }
+
+  function goToCourse() {
+    router.push({
+      pathname: "/course/[lecturer]/[course]",
+      params: { lecturer: lecturerSlug, course },
+    });
+  }
+
   if (!lecturer) {
     return (
       <Screen>
         <View style={[styles.center, { paddingTop: insets.top }]}>
           <AppText tone="mist">استاد پیدا نشد.</AppText>
-          <Pressable onPress={() => router.back()}>
-            <AppText tone="copper">بازگشت</AppText>
+          <Pressable onPress={() => router.back()} hitSlop={12}>
+            <AppText tone="ink">بازگشت</AppText>
           </Pressable>
         </View>
       </Screen>
@@ -80,7 +96,7 @@ export default function PlayerScreen() {
     return (
       <Screen>
         <View style={styles.center}>
-          <ActivityIndicator color={colors.copper} />
+          <ActivityIndicator color={colors.ink} />
         </View>
       </Screen>
     );
@@ -91,8 +107,8 @@ export default function PlayerScreen() {
       <Screen>
         <View style={styles.center}>
           <AppText variant="title">جلسه بارگذاری نشد</AppText>
-          <Pressable onPress={() => router.back()} style={styles.retry}>
-            <AppText tone="copper">بازگشت</AppText>
+          <Pressable onPress={goBack} style={styles.retry} hitSlop={12}>
+            <AppText tone="ink">بازگشت</AppText>
           </Pressable>
         </View>
       </Screen>
@@ -103,39 +119,51 @@ export default function PlayerScreen() {
 
   return (
     <View style={[styles.root, { paddingTop: insets.top }]}>
-      <View style={styles.topBar}>
+      <View style={styles.header}>
         <Pressable
-          onPress={() => router.back()}
-          style={styles.back}
+          onPress={goBack}
+          style={styles.backBtn}
           accessibilityLabel="بازگشت"
+          hitSlop={8}
         >
-          <AppText variant="meta" tone="copper">
-            بازگشت
-          </AppText>
+          <Ionicons name="chevron-back" size={22} color={colors.ink} />
         </Pressable>
-        <AppText variant="meta" tone="mist" numberOfLines={1} style={styles.topTitle}>
-          {lecturer.name}
-        </AppText>
-        <View style={styles.back} />
+        <View style={styles.headerText}>
+          <Pressable onPress={goToCourse} hitSlop={6}>
+            <AppText variant="caption" tone="mist" numberOfLines={1} style={styles.courseLink}>
+              {courseTitle}
+            </AppText>
+          </Pressable>
+          <AppText variant="title" numberOfLines={2} style={styles.sessionTitle}>
+            {payload.title}
+          </AppText>
+        </View>
+        <View style={styles.backBtn} />
       </View>
+
       {audioUrl ? (
-        <LecturePlayer
-          session={payload}
-          cues={cues}
-          audioUrl={audioUrl}
-          saved={isSaved}
-          onToggleSave={() =>
-            toggleSaved({
-              lecturerSlug: lecturer.slug,
-              courseSlug: course,
-              sessionId: session,
-              title: payload.title,
-              courseTitle,
-              lecturerName: lecturer.name,
-              site: lecturer.site,
-            })
-          }
-        />
+        <View style={styles.playerWrap}>
+          <LecturePlayer
+            session={payload}
+            cues={cues}
+            audioUrl={audioUrl}
+            dataBase={lecturer.dataBase}
+            lecturerName={lecturer.name}
+            courseTitle={courseTitle}
+            saved={isSaved}
+            onToggleSave={() =>
+              toggleSaved({
+                lecturerSlug: lecturer.slug,
+                courseSlug: course,
+                sessionId: session,
+                title: payload.title,
+                courseTitle,
+                lecturerName: lecturer.name,
+                site: lecturer.site,
+              })
+            }
+          />
+        </View>
       ) : (
         <View style={styles.center}>
           <AppText tone="mist">فایل صوتی در دسترس نیست.</AppText>
@@ -147,6 +175,7 @@ export default function PlayerScreen() {
 
 const styles = StyleSheet.create({
   root: { flex: 1, backgroundColor: colors.parchment },
+  playerWrap: { flex: 1, minHeight: 0 },
   center: {
     flex: 1,
     alignItems: "center",
@@ -154,17 +183,35 @@ const styles = StyleSheet.create({
     gap: space.md,
     padding: space.lg,
   },
-  topBar: {
+  header: {
     flexDirection: "row",
-    alignItems: "center",
-    justifyContent: "space-between",
-    paddingHorizontal: space.md,
-    paddingVertical: space.sm,
-    backgroundColor: colors.parchment,
-    borderBottomWidth: StyleSheet.hairlineWidth,
-    borderBottomColor: colors.line,
+    alignItems: "flex-start",
+    paddingHorizontal: space.sm,
+    paddingTop: space.xs,
+    paddingBottom: space.sm,
+    gap: 4,
   },
-  back: { minWidth: 64, minHeight: 44, justifyContent: "center" },
-  topTitle: { flex: 1, textAlign: "center" },
+  backBtn: {
+    width: 44,
+    height: 44,
+    alignItems: "center",
+    justifyContent: "center",
+  },
+  headerText: {
+    flex: 1,
+    minWidth: 0,
+    paddingTop: 6,
+    gap: 4,
+  },
+  courseLink: {
+    textAlign: "center",
+    writingDirection: "rtl",
+  },
+  sessionTitle: {
+    textAlign: "center",
+    writingDirection: "rtl",
+    fontSize: 16,
+    lineHeight: 24,
+  },
   retry: { minHeight: 44, justifyContent: "center" },
 });

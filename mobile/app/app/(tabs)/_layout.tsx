@@ -1,23 +1,6 @@
-import { Pressable, View, StyleSheet } from "react-native";
 import { Tabs } from "expo-router";
 import { Ionicons } from "@expo/vector-icons";
-import { colors, radii, type } from "@/constants/theme";
-
-function TabIcon({
-  name,
-  color,
-  focused,
-}: {
-  name: keyof typeof Ionicons.glyphMap;
-  color: string;
-  focused: boolean;
-}) {
-  return (
-    <View style={[styles.iconWrap, focused && styles.iconWrapActive]}>
-      <Ionicons name={name} size={22} color={color} />
-    </View>
-  );
-}
+import { colors, type } from "@/constants/theme";
 
 export default function TabLayout() {
   return (
@@ -32,43 +15,28 @@ export default function TabLayout() {
         },
         headerTitleAlign: "center",
         headerShadowVisible: false,
-        tabBarActiveTintColor: colors.copper,
+        headerLeft: () => null,
+        tabBarActiveTintColor: colors.ink,
         tabBarInactiveTintColor: colors.mist,
         tabBarStyle: {
           backgroundColor: colors.parchment,
           borderTopColor: colors.line,
-          height: 84,
-          paddingTop: 6,
+          height: 78,
+          paddingTop: 4,
         },
         tabBarLabelStyle: {
-          fontFamily: type.medium,
+          fontFamily: type.regular,
           fontSize: 11,
-          marginBottom: 6,
+          marginBottom: 4,
         },
-        headerLeft: () => (
-          <Pressable
-            accessibilityLabel="تنظیمات"
-            hitSlop={12}
-            style={styles.settingsBtn}
-            onPress={() => {
-              /* settings later */
-            }}
-          >
-            <Ionicons name="settings-outline" size={22} color={colors.inkSoft} />
-          </Pressable>
-        ),
       }}
     >
       <Tabs.Screen
         name="saved"
         options={{
           title: "فهرست من",
-          tabBarIcon: ({ color, focused }) => (
-            <TabIcon
-              name={focused ? "bookmark" : "bookmark-outline"}
-              color={color}
-              focused={focused}
-            />
+          tabBarIcon: ({ color }) => (
+            <Ionicons name="bookmark-outline" size={22} color={color} />
           ),
         }}
       />
@@ -77,10 +45,10 @@ export default function TabLayout() {
         options={{
           title: "کتابخانه",
           tabBarIcon: ({ color, focused }) => (
-            <TabIcon
+            <Ionicons
               name={focused ? "library" : "library-outline"}
+              size={22}
               color={color}
-              focused={focused}
             />
           ),
         }}
@@ -88,23 +56,3 @@ export default function TabLayout() {
     </Tabs>
   );
 }
-
-const styles = StyleSheet.create({
-  settingsBtn: {
-    marginLeft: 16,
-    width: 40,
-    height: 40,
-    alignItems: "center",
-    justifyContent: "center",
-  },
-  iconWrap: {
-    width: 44,
-    height: 32,
-    borderRadius: radii.sm,
-    alignItems: "center",
-    justifyContent: "center",
-  },
-  iconWrapActive: {
-    backgroundColor: colors.copperWash,
-  },
-});

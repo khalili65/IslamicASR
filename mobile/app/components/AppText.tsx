@@ -29,7 +29,7 @@ const styles = StyleSheet.create({
     fontFamily: type.bold,
     fontSize: 30,
     lineHeight: 42,
-    letterSpacing: -0.4,
+    letterSpacing: 0,
   },
   title: {
     fontFamily: type.medium,

@@ -7,9 +7,8 @@ import {
   type ViewStyle,
   type ImageSourcePropType,
 } from "react-native";
-import { Ionicons } from "@expo/vector-icons";
 import { AppText } from "./AppText";
-import { colors, radii, space } from "@/constants/theme";
+import { colors, radii, space, type } from "@/constants/theme";
 import { resolveAssetUrl, toPersianDigits } from "@/lib/format";
 import type { CourseSummary, Lecturer } from "@/lib/types";
 
@@ -28,11 +27,7 @@ function monogram(name: string, slug?: string): string {
   return clean.slice(0, 2) || "؟";
 }
 
-function Portrait({
-  lecturer,
-}: {
-  lecturer: Lecturer;
-}) {
+function Portrait({ lecturer }: { lecturer: Lecturer }) {
   const local = LOCAL_PORTRAITS[lecturer.slug];
   const remote = resolveAssetUrl(lecturer.avatar, lecturer.dataBase);
 
@@ -53,16 +48,27 @@ function Portrait({
 
   return (
     <View style={[styles.avatarWrap, styles.avatarFallback]}>
-      <AppText variant="meta" tone="copper" style={styles.mono}>
+      <AppText variant="meta" tone="mist" style={styles.mono}>
         {monogram(lecturer.name, lecturer.slug)}
       </AppText>
     </View>
   );
 }
 
-/**
- * Card row: portrait on the right (RTL reading), soft surface, count pill.
- */
+function listDisplayName(name: string): string {
+  return name
+    .replace(/حجت[\u200c\u200f\s]*الاسلام[\u200c\u200f\s]*والمسلمین\s*/g, "")
+    .replace(/حجت[\u200c\u200f\s]*الاسلام\s*/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function listDisplayTitle(title: string): string {
+  const primary = title.split(/\s*[·•|]\s*/)[0]?.trim();
+  return primary || title;
+}
+
+/** Flat list row — portrait + text, no card chrome. */
 export function LecturerRow({
   lecturer,
   onPress,
@@ -78,22 +84,20 @@ export function LecturerRow({
     <Pressable
       onPress={onPress}
       style={({ pressed }) => [
-        styles.card,
+        styles.row,
         pressed && styles.pressed,
         style,
       ]}
       accessibilityRole="button"
       accessibilityLabel={lecturer.name}
     >
-      <Ionicons
-        name="chevron-back"
-        size={18}
-        color={colors.copperSoft}
-        style={styles.chevron}
-      />
       <View style={styles.meta}>
-        <AppText variant="title" numberOfLines={2} style={styles.align}>
-          {lecturer.name}
+        <AppText
+          variant="title"
+          numberOfLines={2}
+          style={[styles.align, styles.rowName]}
+        >
+          {listDisplayName(lecturer.name)}
         </AppText>
         <AppText
           variant="meta"
@@ -101,15 +105,10 @@ export function LecturerRow({
           numberOfLines={1}
           style={styles.align}
         >
-          {lecturer.title}
+          {listDisplayTitle(lecturer.title)}
+          {"  "}
+          {toPersianDigits(count)} دوره
         </AppText>
-        <View style={styles.badgeRow}>
-          <View style={styles.pill}>
-            <AppText variant="caption" tone="copper">
-              {toPersianDigits(count)} درس‌گفتار
-            </AppText>
-          </View>
-        </View>
       </View>
       <Portrait lecturer={lecturer} />
     </Pressable>
@@ -131,21 +130,17 @@ export function CourseRow({
   return (
     <Pressable
       onPress={onPress}
-      style={({ pressed }) => [styles.courseCard, pressed && styles.pressed]}
+      style={({ pressed }) => [styles.row, pressed && styles.pressed]}
       accessibilityRole="button"
     >
       <View style={styles.meta}>
         <AppText variant="title" numberOfLines={2} style={styles.align}>
           {course.title}
         </AppText>
-        <AppText
-          variant="meta"
-          tone="mist"
-          style={[styles.courseMeta, styles.align]}
-        >
+        <AppText variant="meta" tone="mist" style={styles.align}>
           {toPersianDigits(course.sessionCount)} جلسه
           {course.totalDurationText
-            ? ` · ${toPersianDigits(course.totalDurationText)}`
+            ? `  ${toPersianDigits(course.totalDurationText)}`
             : ""}
         </AppText>
       </View>
@@ -187,47 +182,34 @@ export function SessionRow({
           </AppText>
         ) : null}
       </View>
-      <View style={styles.indexBadge}>
-        <AppText variant="meta" tone="copper">
-          {toPersianDigits(index)}
-        </AppText>
-      </View>
+      <AppText variant="meta" tone="mist" style={styles.index}>
+        {toPersianDigits(index)}
+      </AppText>
     </Pressable>
   );
 }
 
 const styles = StyleSheet.create({
-  card: {
+  row: {
     flexDirection: "row",
     alignItems: "center",
     gap: 14,
-    paddingHorizontal: 16,
     paddingVertical: 16,
-    marginBottom: 10,
-    backgroundColor: colors.card,
-    borderRadius: radii.md,
-    borderWidth: StyleSheet.hairlineWidth,
-    borderColor: colors.line,
+    borderBottomWidth: StyleSheet.hairlineWidth,
+    borderBottomColor: colors.line,
   },
-  pressed: { opacity: 0.85 },
-  chevron: { marginLeft: 2 },
+  pressed: { opacity: 0.65 },
   meta: { flex: 1, gap: 4, minWidth: 0 },
   align: { textAlign: "right", writingDirection: "rtl" },
-  badgeRow: {
-    marginTop: 6,
-    flexDirection: "row",
-    justifyContent: "flex-end",
-  },
-  pill: {
-    backgroundColor: colors.copperWash,
-    paddingHorizontal: 10,
-    paddingVertical: 4,
-    borderRadius: radii.pill,
+  rowName: {
+    fontSize: 16,
+    lineHeight: 25,
+    fontFamily: type.medium,
   },
   avatarWrap: {
-    width: 64,
-    height: 64,
-    borderRadius: radii.md,
+    width: 52,
+    height: 52,
+    borderRadius: radii.sm,
     overflow: "hidden",
     backgroundColor: colors.parchmentDeep,
   },
@@ -235,34 +217,18 @@ const styles = StyleSheet.create({
   avatarFallback: {
     alignItems: "center",
     justifyContent: "center",
-    borderWidth: StyleSheet.hairlineWidth,
-    borderColor: colors.copperSoft,
-    backgroundColor: colors.copperWash,
   },
   mono: {
     textAlign: "center",
-    fontSize: 15,
-  },
-  courseCard: {
-    flexDirection: "row",
-    alignItems: "center",
-    gap: 14,
-    paddingHorizontal: 16,
-    paddingVertical: 14,
-    marginBottom: 10,
-    backgroundColor: colors.card,
-    borderRadius: radii.md,
-    borderWidth: StyleSheet.hairlineWidth,
-    borderColor: colors.line,
+    fontSize: 13,
   },
   cover: {
-    width: 56,
-    height: 56,
+    width: 48,
+    height: 48,
     borderRadius: radii.sm,
     backgroundColor: colors.parchmentDeep,
   },
-  coverFallback: { backgroundColor: colors.sage },
-  courseMeta: { marginTop: 2 },
+  coverFallback: { backgroundColor: colors.parchmentDeep },
   session: {
     flexDirection: "row",
     alignItems: "center",
@@ -273,13 +239,8 @@ const styles = StyleSheet.create({
     minHeight: 56,
   },
   sessionBody: { flex: 1, gap: 2 },
-  indexBadge: {
-    width: 36,
-    height: 36,
-    borderRadius: radii.pill,
-    borderWidth: 1,
-    borderColor: colors.copperSoft,
-    alignItems: "center",
-    justifyContent: "center",
+  index: {
+    minWidth: 28,
+    textAlign: "center",
   },
 });
