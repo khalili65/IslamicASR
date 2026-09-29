@@ -1,8 +1,13 @@
-import { Tabs } from "expo-router";
+import { Tabs, useRouter } from "expo-router";
+import { Pressable } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
-import { colors, type } from "@/constants/theme";
+import { type } from "@/constants/theme";
+import { useColors } from "@/lib/useTheme";
 
 export default function TabLayout() {
+  const colors = useColors();
+  const router = useRouter();
+
   return (
     <Tabs
       initialRouteName="index"
@@ -12,10 +17,21 @@ export default function TabLayout() {
         headerTitleStyle: {
           fontFamily: type.medium,
           fontSize: 17,
+          color: colors.ink,
         },
         headerTitleAlign: "center",
         headerShadowVisible: false,
-        headerLeft: () => null,
+        headerLeft: () => (
+          <Pressable
+            onPress={() => router.push("/settings")}
+            hitSlop={12}
+            style={{ marginStart: 14 }}
+            accessibilityLabel="تنظیمات"
+          >
+            <Ionicons name="settings-outline" size={22} color={colors.ink} />
+          </Pressable>
+        ),
+        headerRight: () => null,
         tabBarActiveTintColor: colors.ink,
         tabBarInactiveTintColor: colors.mist,
         tabBarStyle: {
@@ -31,6 +47,19 @@ export default function TabLayout() {
         },
       }}
     >
+      <Tabs.Screen
+        name="search"
+        options={{
+          title: "جستجو",
+          tabBarIcon: ({ color, focused }) => (
+            <Ionicons
+              name={focused ? "search" : "search-outline"}
+              size={22}
+              color={color}
+            />
+          ),
+        }}
+      />
       <Tabs.Screen
         name="saved"
         options={{

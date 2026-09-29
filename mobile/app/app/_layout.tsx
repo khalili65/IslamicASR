@@ -13,8 +13,10 @@ import {
   Amiri_400Regular,
   Amiri_700Bold,
 } from "@expo-google-fonts/amiri";
-import { colors, type } from "@/constants/theme";
+import { type } from "@/constants/theme";
 import { useLibraryStore } from "@/lib/store";
+import { useThemeStore } from "@/lib/themeStore";
+import { useColors, useTheme } from "@/lib/useTheme";
 
 export { ErrorBoundary } from "expo-router";
 
@@ -24,7 +26,6 @@ SplashScreen.preventAutoHideAsync();
 I18nManager.allowRTL(false);
 I18nManager.forceRTL(false);
 I18nManager.swapLeftAndRightInRTL(false);
-
 
 export default function RootLayout() {
   const [fontsLoaded] = useFonts({
@@ -36,19 +37,24 @@ export default function RootLayout() {
   });
   const load = useLibraryStore((s) => s.load);
   const loadSaved = useLibraryStore((s) => s.loadSaved);
+  const hydrateTheme = useThemeStore((s) => s.hydrate);
+  const themeHydrated = useThemeStore((s) => s.hydrated);
+  const { theme } = useTheme();
+  const colors = useColors();
 
   useEffect(() => {
+    void hydrateTheme();
     load();
     loadSaved();
-  }, [load, loadSaved]);
+  }, [hydrateTheme, load, loadSaved]);
 
   useEffect(() => {
-    if (fontsLoaded) SplashScreen.hideAsync();
-  }, [fontsLoaded]);
+    if (fontsLoaded && themeHydrated) SplashScreen.hideAsync();
+  }, [fontsLoaded, themeHydrated]);
 
-  if (!fontsLoaded) {
+  if (!fontsLoaded || !themeHydrated) {
     return (
-      <View style={styles.boot}>
+      <View style={[styles.boot, { backgroundColor: colors.parchment }]}>
         <ActivityIndicator color={colors.copper} />
       </View>
     );
@@ -56,7 +62,7 @@ export default function RootLayout() {
 
   return (
     <>
-      <StatusBar style="dark" />
+      <StatusBar style={theme.statusBar} />
       <Stack
         screenOptions={{
           headerStyle: { backgroundColor: colors.parchment },
@@ -64,6 +70,7 @@ export default function RootLayout() {
           headerTitleStyle: {
             fontFamily: type.bold,
             fontSize: 17,
+            color: colors.ink,
           },
           headerTitleAlign: "center",
           headerShadowVisible: false,
@@ -81,6 +88,7 @@ export default function RootLayout() {
           name="player/[lecturer]/[course]/[session]"
           options={{ title: "پخش", headerShown: false }}
         />
+        <Stack.Screen name="settings" options={{ title: "تنظیمات" }} />
       </Stack>
     </>
   );
@@ -89,7 +97,6 @@ export default function RootLayout() {
 const styles = StyleSheet.create({
   boot: {
     flex: 1,
-    backgroundColor: colors.parchment,
     alignItems: "center",
     justifyContent: "center",
   },

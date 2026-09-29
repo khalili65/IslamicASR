@@ -11,10 +11,16 @@ import { Ionicons } from "@expo/vector-icons";
 import { Screen } from "@/components/Screen";
 import { AppText } from "@/components/AppText";
 import { LecturePlayer } from "@/components/LecturePlayer";
-import { colors, space } from "@/constants/theme";
+import { space } from "@/constants/theme";
+import { useColors } from "@/lib/useTheme";
 import { useLibraryStore } from "@/lib/store";
 import { loadCues, loadSession } from "@/lib/api";
 import { resolveMediaUrl } from "@/lib/format";
+import {
+  loadOfflineSession,
+  resolveOfflinePaths,
+  type OfflineLocalPaths,
+} from "@/lib/offlineSession";
 import type { Cue, SessionPayload } from "@/lib/types";
 
 export default function PlayerScreen() {
@@ -23,6 +29,7 @@ export default function PlayerScreen() {
     course: string;
     session: string;
   }>();
+  const colors = useColors();
   const lecturer = useLibraryStore((s) => s.findLecturer(lecturerSlug));
   const router = useRouter();
   const insets = useSafeAreaInsets();
@@ -30,6 +37,9 @@ export default function PlayerScreen() {
   const [cues, setCues] = useState<Cue[]>([]);
   const [error, setError] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
+  const [offlinePaths, setOfflinePaths] = useState<OfflineLocalPaths | null>(
+    null,
+  );
 
   const isSaved = useLibraryStore((s) =>
     s.isSaved(lecturerSlug, course, session),
@@ -39,29 +49,69 @@ export default function PlayerScreen() {
     lecturer?.courses.find((c) => c.slug === course)?.title ?? course;
 
   useEffect(() => {
-    if (!lecturer) return;
     let cancelled = false;
     setLoading(true);
-    Promise.all([
-      loadSession(lecturer, course, session),
-      loadCues(lecturer, course, session).catch(() => ({ cues: [] as Cue[] })),
-    ])
-      .then(([sess, cuesFile]) => {
-        if (cancelled) return;
-        setPayload(sess);
-        setCues(cuesFile.cues ?? []);
+
+    const key = {
+      lecturerSlug,
+      courseSlug: course,
+      sessionId: session,
+    };
+
+    (async () => {
+      const local = await loadOfflineSession(key);
+      const paths = await resolveOfflinePaths(key);
+      if (cancelled) return;
+      if (paths) setOfflinePaths(paths);
+
+      if (lecturer) {
+        try {
+          const [sess, cuesFile] = await Promise.all([
+            loadSession(lecturer, course, session),
+            loadCues(lecturer, course, session).catch(() => ({
+              cues: [] as Cue[],
+            })),
+          ]);
+          if (cancelled) return;
+          setPayload(sess);
+          setCues(cuesFile.cues ?? []);
+          setError(null);
+          setLoading(false);
+          return;
+        } catch (e) {
+          if (local) {
+            if (cancelled) return;
+            setPayload(local.session);
+            setCues(local.cues);
+            setError(null);
+            setLoading(false);
+            return;
+          }
+          if (!cancelled) {
+            setError(e instanceof Error ? e.message : "خطا");
+            setLoading(false);
+          }
+          return;
+        }
+      }
+
+      // No lecturer in memory (e.g. cold start offline) — use local pack if any.
+      if (local) {
+        setPayload(local.session);
+        setCues(local.cues);
         setError(null);
-      })
-      .catch((e) => {
-        if (!cancelled) setError(e instanceof Error ? e.message : "خطا");
-      })
-      .finally(() => {
-        if (!cancelled) setLoading(false);
-      });
+        setLoading(false);
+        return;
+      }
+
+      setError("استاد پیدا نشد.");
+      setLoading(false);
+    })();
+
     return () => {
       cancelled = true;
     };
-  }, [lecturer, course, session]);
+  }, [lecturer, course, session, lecturerSlug]);
 
   function goBack() {
     if (router.canGoBack()) router.back();
@@ -79,19 +129,6 @@ export default function PlayerScreen() {
     });
   }
 
-  if (!lecturer) {
-    return (
-      <Screen>
-        <View style={[styles.center, { paddingTop: insets.top }]}>
-          <AppText tone="mist">استاد پیدا نشد.</AppText>
-          <Pressable onPress={() => router.back()} hitSlop={12}>
-            <AppText tone="ink">بازگشت</AppText>
-          </Pressable>
-        </View>
-      </Screen>
-    );
-  }
-
   if (loading) {
     return (
       <Screen>
@@ -105,8 +142,9 @@ export default function PlayerScreen() {
   if (error || !payload) {
     return (
       <Screen>
-        <View style={styles.center}>
+        <View style={[styles.center, { paddingTop: insets.top }]}>
           <AppText variant="title">جلسه بارگذاری نشد</AppText>
+          <AppText tone="mist">{error || "خطا"}</AppText>
           <Pressable onPress={goBack} style={styles.retry} hitSlop={12}>
             <AppText tone="ink">بازگشت</AppText>
           </Pressable>
@@ -115,10 +153,22 @@ export default function PlayerScreen() {
     );
   }
 
-  const audioUrl = resolveMediaUrl(payload.audio?.url, lecturer.mediaBase);
+  const remoteAudioUrl = lecturer
+    ? resolveMediaUrl(payload.audio?.url, lecturer.mediaBase)
+    : "";
+  const audioUrl = offlinePaths?.audioUri || remoteAudioUrl;
+  const resolvedDataBase = lecturer?.dataBase ?? "";
+
+  const displayCourseTitle = courseTitle;
+  const displayLecturerName = lecturer?.name;
 
   return (
-    <View style={[styles.root, { paddingTop: insets.top }]}>
+    <View
+      style={[
+        styles.root,
+        { paddingTop: insets.top, backgroundColor: colors.parchment },
+      ]}
+    >
       <View style={styles.header}>
         <Pressable
           onPress={goBack}
@@ -131,7 +181,7 @@ export default function PlayerScreen() {
         <View style={styles.headerText}>
           <Pressable onPress={goToCourse} hitSlop={6}>
             <AppText variant="caption" tone="mist" numberOfLines={1} style={styles.courseLink}>
-              {courseTitle}
+              {displayCourseTitle}
             </AppText>
           </Pressable>
           <AppText variant="title" numberOfLines={2} style={styles.sessionTitle}>
@@ -146,20 +196,25 @@ export default function PlayerScreen() {
           <LecturePlayer
             session={payload}
             cues={cues}
-            audioUrl={audioUrl}
-            dataBase={lecturer.dataBase}
-            lecturerName={lecturer.name}
-            courseTitle={courseTitle}
+            audioUrl={remoteAudioUrl || audioUrl}
+            dataBase={resolvedDataBase}
+            lecturerSlug={lecturerSlug}
+            courseSlug={course}
+            site={lecturer?.site ?? "portal"}
+            lecturerName={displayLecturerName}
+            courseTitle={displayCourseTitle}
+            initialOfflinePaths={offlinePaths}
+            onOfflineChange={setOfflinePaths}
             saved={isSaved}
             onToggleSave={() =>
               toggleSaved({
-                lecturerSlug: lecturer.slug,
+                lecturerSlug: lecturerSlug,
                 courseSlug: course,
                 sessionId: session,
                 title: payload.title,
-                courseTitle,
-                lecturerName: lecturer.name,
-                site: lecturer.site,
+                courseTitle: displayCourseTitle,
+                lecturerName: displayLecturerName || "",
+                site: lecturer?.site ?? "portal",
               })
             }
           />
@@ -174,7 +229,7 @@ export default function PlayerScreen() {
 }
 
 const styles = StyleSheet.create({
-  root: { flex: 1, backgroundColor: colors.parchment },
+  root: { flex: 1 },
   playerWrap: { flex: 1, minHeight: 0 },
   center: {
     flex: 1,

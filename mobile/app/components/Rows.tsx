@@ -8,7 +8,8 @@ import {
   type ImageSourcePropType,
 } from "react-native";
 import { AppText } from "./AppText";
-import { colors, radii, space, type } from "@/constants/theme";
+import { radii, space, type } from "@/constants/theme";
+import { useColors } from "@/lib/useTheme";
 import { resolveAssetUrl, toPersianDigits } from "@/lib/format";
 import type { CourseSummary, Lecturer } from "@/lib/types";
 
@@ -28,26 +29,27 @@ function monogram(name: string, slug?: string): string {
 }
 
 function Portrait({ lecturer }: { lecturer: Lecturer }) {
+  const colors = useColors();
   const local = LOCAL_PORTRAITS[lecturer.slug];
   const remote = resolveAssetUrl(lecturer.avatar, lecturer.dataBase);
 
   if (local) {
     return (
-      <View style={styles.avatarWrap}>
+      <View style={[styles.avatarWrap, { backgroundColor: colors.parchmentDeep }]}>
         <Image source={local} style={styles.avatar} resizeMode="cover" />
       </View>
     );
   }
   if (remote && lecturer.slug !== "bayat") {
     return (
-      <View style={styles.avatarWrap}>
+      <View style={[styles.avatarWrap, { backgroundColor: colors.parchmentDeep }]}>
         <Image source={{ uri: remote }} style={styles.avatar} resizeMode="cover" />
       </View>
     );
   }
 
   return (
-    <View style={[styles.avatarWrap, styles.avatarFallback]}>
+    <View style={[styles.avatarWrap, styles.avatarFallback, { backgroundColor: colors.parchmentDeep }]}>
       <AppText variant="meta" tone="mist" style={styles.mono}>
         {monogram(lecturer.name, lecturer.slug)}
       </AppText>
@@ -55,17 +57,36 @@ function Portrait({ lecturer }: { lecturer: Lecturer }) {
   );
 }
 
-function listDisplayName(name: string): string {
-  return name
-    .replace(/حجت[\u200c\u200f\s]*الاسلام[\u200c\u200f\s]*والمسلمین\s*/g, "")
-    .replace(/حجت[\u200c\u200f\s]*الاسلام\s*/g, "")
-    .replace(/\s+/g, " ")
-    .trim();
+function listDisplayName(name: string, slug?: string): string {
+  let n = name.replace(/\s+/g, " ").trim();
+
+  if (slug === "bayat") {
+    n = n
+      .replace(/^حضرت\s+/u, "")
+      .replace(/^استاد\s+/u, "")
+      .replace(/^حجت[\u200c\u200f\s]*الاسلام[\u200c\u200f\s]*والمسلمین\s*/u, "")
+      .replace(/^حجت[\u200c\u200f\s]*الاسلام\s*/u, "");
+    return `حجت‌الاسلام والمسلمین ${n}`.trim();
+  }
+
+  if (slug === "manaee") {
+    // Shorten: drop «طسوجی»
+    n = n.replace(/\s*طسوجی\s*/gu, " ").replace(/\s+/g, " ").trim();
+    return n;
+  }
+
+  if (slug === "qasemian") {
+    // Shorten: drop «غلامرضا»
+    n = n.replace(/\s*غلامرضا\s*/gu, " ").replace(/\s+/g, " ").trim();
+    return n;
+  }
+
+  return n;
 }
 
 function listDisplayTitle(title: string): string {
-  const primary = title.split(/\s*[·•|]\s*/)[0]?.trim();
-  return primary || title;
+  const primary = title.split(/\s*[·•|]\s*/)[0]?.trim() || title;
+  return primary.replace(/^استاد\s+/u, "").trim() || primary;
 }
 
 /** Flat list row — portrait + text, no card chrome. */
@@ -78,6 +99,7 @@ export function LecturerRow({
   onPress: () => void;
   style?: StyleProp<ViewStyle>;
 }) {
+  const colors = useColors();
   const count = lecturer.courses.length;
 
   return (
@@ -85,6 +107,7 @@ export function LecturerRow({
       onPress={onPress}
       style={({ pressed }) => [
         styles.row,
+        { borderBottomColor: colors.line },
         pressed && styles.pressed,
         style,
       ]}
@@ -97,7 +120,7 @@ export function LecturerRow({
           numberOfLines={2}
           style={[styles.align, styles.rowName]}
         >
-          {listDisplayName(lecturer.name)}
+          {listDisplayName(lecturer.name, lecturer.slug)}
         </AppText>
         <AppText
           variant="meta"
@@ -126,11 +149,16 @@ export function CourseRow({
   onPress: () => void;
   textOnly?: boolean;
 }) {
+  const colors = useColors();
   const cover = textOnly ? "" : resolveAssetUrl(course.cover, dataBase);
   return (
     <Pressable
       onPress={onPress}
-      style={({ pressed }) => [styles.row, pressed && styles.pressed]}
+      style={({ pressed }) => [
+        styles.row,
+        { borderBottomColor: colors.line },
+        pressed && styles.pressed,
+      ]}
       accessibilityRole="button"
     >
       <View style={styles.meta}>
@@ -144,12 +172,8 @@ export function CourseRow({
             : ""}
         </AppText>
       </View>
-      {!textOnly ? (
-        cover ? (
-          <Image source={{ uri: cover }} style={styles.cover} />
-        ) : (
-          <View style={[styles.cover, styles.coverFallback]} />
-        )
+      {cover ? (
+        <Image source={{ uri: cover }} style={styles.cover} />
       ) : null}
     </Pressable>
   );
@@ -166,10 +190,15 @@ export function SessionRow({
   durationText: string | null;
   onPress: () => void;
 }) {
+  const colors = useColors();
   return (
     <Pressable
       onPress={onPress}
-      style={({ pressed }) => [styles.session, pressed && styles.pressed]}
+      style={({ pressed }) => [
+        styles.session,
+        { borderBottomColor: colors.line },
+        pressed && styles.pressed,
+      ]}
       accessibilityRole="button"
     >
       <View style={styles.sessionBody}>
@@ -196,7 +225,7 @@ const styles = StyleSheet.create({
     gap: 14,
     paddingVertical: 16,
     borderBottomWidth: StyleSheet.hairlineWidth,
-    borderBottomColor: colors.line,
+
   },
   pressed: { opacity: 0.65 },
   meta: { flex: 1, gap: 4, minWidth: 0 },
@@ -211,7 +240,7 @@ const styles = StyleSheet.create({
     height: 52,
     borderRadius: radii.sm,
     overflow: "hidden",
-    backgroundColor: colors.parchmentDeep,
+
   },
   avatar: { width: "100%", height: "100%" },
   avatarFallback: {
@@ -226,16 +255,16 @@ const styles = StyleSheet.create({
     width: 48,
     height: 48,
     borderRadius: radii.sm,
-    backgroundColor: colors.parchmentDeep,
+
   },
-  coverFallback: { backgroundColor: colors.parchmentDeep },
+  coverFallback: {},
   session: {
     flexDirection: "row",
     alignItems: "center",
     gap: space.md,
     paddingVertical: 14,
     borderBottomWidth: StyleSheet.hairlineWidth,
-    borderBottomColor: colors.line,
+
     minHeight: 56,
   },
   sessionBody: { flex: 1, gap: 2 },

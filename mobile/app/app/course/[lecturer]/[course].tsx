@@ -10,13 +10,15 @@ import { useLocalSearchParams, useNavigation, useRouter } from "expo-router";
 import { Screen } from "@/components/Screen";
 import { AppText } from "@/components/AppText";
 import { SessionRow } from "@/components/Rows";
-import { colors, space } from "@/constants/theme";
+import { space } from "@/constants/theme";
+import { useColors } from "@/lib/useTheme";
 import { useLibraryStore } from "@/lib/store";
 import { loadCourse } from "@/lib/api";
 import type { CourseIndex } from "@/lib/types";
 import { toPersianDigits } from "@/lib/format";
 
 export default function CourseScreen() {
+  const colors = useColors();
   const { lecturer: lecturerSlug, course: courseSlug } = useLocalSearchParams<{
     lecturer: string;
     course: string;
@@ -121,7 +123,7 @@ export default function CourseScreen() {
                 ? ` · ${toPersianDigits(course.totalDurationText)}`
                 : ""}
             </AppText>
-            <View style={styles.rule} />
+            <View style={[styles.rule, { backgroundColor: colors.line }]} />
           </View>
         }
         renderItem={({ item }) => (
@@ -147,7 +149,7 @@ export default function CourseScreen() {
 }
 
 const styles = StyleSheet.create({
-  content: { paddingHorizontal: space.lg, paddingBottom: space.xxl },
+  content: { paddingHorizontal: space.xxl, paddingBottom: space.xxl },
   pad: { padding: space.lg },
   center: {
     flex: 1,
@@ -161,7 +163,7 @@ const styles = StyleSheet.create({
   meta: { marginTop: space.sm },
   rule: {
     height: StyleSheet.hairlineWidth,
-    backgroundColor: colors.line,
+    
     marginTop: space.lg,
   },
   retry: { minHeight: 44, justifyContent: "center" },

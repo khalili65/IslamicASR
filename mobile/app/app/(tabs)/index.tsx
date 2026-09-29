@@ -12,10 +12,12 @@ import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Screen } from "@/components/Screen";
 import { AppText } from "@/components/AppText";
 import { LecturerRow } from "@/components/Rows";
-import { APP_TITLE, colors, space } from "@/constants/theme";
+import { APP_TITLE, space } from "@/constants/theme";
+import { useColors } from "@/lib/useTheme";
 import { useLibraryStore } from "@/lib/store";
 
 export default function LibraryScreen() {
+  const colors = useColors();
   const router = useRouter();
   const insets = useSafeAreaInsets();
   const lecturers = useLibraryStore((s) => s.lecturers);
@@ -99,7 +101,7 @@ export default function LibraryScreen() {
 
 const styles = StyleSheet.create({
   content: {
-    paddingHorizontal: space.md,
+    paddingHorizontal: space.xxl,
     paddingTop: space.sm,
   },
   hero: {
@@ -107,7 +109,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
     paddingTop: space.xl,
     paddingBottom: space.xl,
-    paddingHorizontal: space.sm,
+    paddingHorizontal: space.lg,
   },
   center: {
     textAlign: "center",

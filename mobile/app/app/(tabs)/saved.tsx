@@ -3,10 +3,12 @@ import { useRouter } from "expo-router";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Screen } from "@/components/Screen";
 import { AppText } from "@/components/AppText";
-import { colors, space } from "@/constants/theme";
+import { space } from "@/constants/theme";
+import { useColors } from "@/lib/useTheme";
 import { useLibraryStore } from "@/lib/store";
 
 export default function SavedScreen() {
+  const colors = useColors();
   const router = useRouter();
   const insets = useSafeAreaInsets();
   const saved = useLibraryStore((s) => s.saved);
@@ -29,7 +31,7 @@ export default function SavedScreen() {
             <AppText variant="body" tone="soft">
               جلساتی که برای بازگشت ذخیره کرده‌اید
             </AppText>
-            <View style={styles.rule} />
+            <View style={[styles.rule, { backgroundColor: colors.line }]} />
           </View>
         }
         ListEmptyComponent={
@@ -44,7 +46,7 @@ export default function SavedScreen() {
         }
         renderItem={({ item }) => (
           <Pressable
-            style={({ pressed }) => [styles.row, pressed && { opacity: 0.7 }]}
+            style={({ pressed }) => [styles.row, { borderBottomColor: colors.line }, pressed && { opacity: 0.7 }]}
             onPress={() =>
               router.push({
                 pathname: "/player/[lecturer]/[course]/[session]",
@@ -85,7 +87,7 @@ const styles = StyleSheet.create({
   hero: { gap: 6, paddingBottom: space.md },
   rule: {
     height: StyleSheet.hairlineWidth,
-    backgroundColor: colors.line,
+    
     marginTop: space.lg,
   },
   empty: {
@@ -101,7 +103,7 @@ const styles = StyleSheet.create({
     gap: space.md,
     paddingVertical: 14,
     borderBottomWidth: StyleSheet.hairlineWidth,
-    borderBottomColor: colors.line,
+    
     minHeight: 64,
   },
   body: { flex: 1, gap: 2 },

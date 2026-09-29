@@ -23,12 +23,23 @@ import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Ionicons } from "@expo/vector-icons";
 import { AppText } from "./AppText";
 import { DocumentModal } from "./DocumentModal";
-import { colors, radii, space, type } from "@/constants/theme";
+import { radii, space, type ThemeColors } from "@/constants/theme";
+import { useColors } from "@/lib/useTheme";
 import { findCueIndex, formatClock, toPersianDigits } from "@/lib/format";
 import {
   downloadSessionItem,
   type DownloadItem,
 } from "@/lib/sessionDownload";
+import {
+  deleteOfflinePack,
+  downloadOfflinePack,
+  estimateOfflineBytes,
+  formatBytesFa,
+  getOfflineManifest,
+  resolveOfflinePaths,
+  type OfflineLocalPaths,
+  type OfflinePackManifest,
+} from "@/lib/offlineSession";
 import type { Cue, SessionPayload } from "@/lib/types";
 
 const RATES = [0.75, 1, 1.25, 1.5, 2] as const;
@@ -40,10 +51,16 @@ type Props = {
   cues: Cue[];
   audioUrl: string;
   dataBase: string;
+  lecturerSlug: string;
+  courseSlug: string;
+  site: "website" | "portal";
   lecturerName?: string;
   courseTitle?: string;
   onToggleSave?: () => void;
   saved?: boolean;
+  /** Called after offline pack is added/removed so parent can refresh sources. */
+  onOfflineChange?: (paths: OfflineLocalPaths | null) => void;
+  initialOfflinePaths?: OfflineLocalPaths | null;
 };
 
 export function LecturePlayer({
@@ -51,12 +68,22 @@ export function LecturePlayer({
   cues,
   audioUrl,
   dataBase,
+  lecturerSlug,
+  courseSlug,
+  site,
   lecturerName,
   courseTitle,
   onToggleSave,
   saved,
+  onOfflineChange,
+  initialOfflinePaths = null,
 }: Props) {
-  const player = useAudioPlayer(audioUrl, { updateInterval: 100 });
+  const colors = useColors();
+  const styles = useMemo(() => makeStyles(colors), [colors]);
+  const [playbackUrl, setPlaybackUrl] = useState(
+    initialOfflinePaths?.audioUri || audioUrl,
+  );
+  const player = useAudioPlayer(playbackUrl, { updateInterval: 100 });
   const status = useAudioPlayerStatus(player);
   const insets = useSafeAreaInsets();
   const { width: windowWidth, height: windowHeight } = useWindowDimensions();
@@ -71,6 +98,33 @@ export function LecturePlayer({
   const [docKind, setDocKind] = useState<DocKind>(null);
   const [busyDownload, setBusyDownload] = useState(false);
   const [trackWidth, setTrackWidth] = useState(0);
+  const [offlineManifest, setOfflineManifest] =
+    useState<OfflinePackManifest | null>(null);
+  const [offlinePaths, setOfflinePaths] = useState<OfflineLocalPaths | null>(
+    initialOfflinePaths,
+  );
+  const [offlineBusy, setOfflineBusy] = useState(false);
+  const [offlineProgress, setOfflineProgress] = useState(0);
+  const [confirmDialog, setConfirmDialog] = useState<{
+    title: string;
+    body: string;
+    confirmLabel: string;
+    destructive?: boolean;
+    onConfirm: () => void;
+  } | null>(null);
+  const [noticeDialog, setNoticeDialog] = useState<{
+    title: string;
+    body: string;
+  } | null>(null);
+
+  const offlineKey = useMemo(
+    () => ({
+      lecturerSlug,
+      courseSlug,
+      sessionId: session.id,
+    }),
+    [lecturerSlug, courseSlug, session.id],
+  );
 
   const position = status.currentTime ?? 0;
   const duration =
@@ -97,6 +151,33 @@ export function LecturePlayer({
     }).catch(() => {});
   }, []);
 
+  useEffect(() => {
+    let cancelled = false;
+    (async () => {
+      const [manifest, paths] = await Promise.all([
+        getOfflineManifest(offlineKey),
+        resolveOfflinePaths(offlineKey),
+      ]);
+      if (cancelled) return;
+      setOfflineManifest(manifest);
+      if (paths) {
+        setOfflinePaths(paths);
+        if (paths.audioUri && paths.audioUri !== playbackUrl) {
+          setPlaybackUrl(paths.audioUri);
+          try {
+            player.replace(paths.audioUri);
+          } catch {
+            /* ignore */
+          }
+        }
+      }
+    })();
+    return () => {
+      cancelled = true;
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps -- refresh when session identity changes
+  }, [offlineKey.lecturerSlug, offlineKey.courseSlug, offlineKey.sessionId]);
+
   // Leaving the player (back / another session) must stop audio so streams don't overlap.
   useFocusEffect(
     useCallback(() => {
@@ -111,15 +192,6 @@ export function LecturePlayer({
   );
 
   useEffect(() => {
-    if (!ready) return;
-    try {
-      player.setPlaybackRate(rate);
-    } catch {
-      /* ignore */
-    }
-  }, [rate, ready, player]);
-
-  useEffect(() => {
     return () => {
       try {
         player.pause();
@@ -128,6 +200,15 @@ export function LecturePlayer({
       }
     };
   }, [player]);
+
+  useEffect(() => {
+    if (!ready) return;
+    try {
+      player.setPlaybackRate(rate);
+    } catch {
+      /* ignore */
+    }
+  }, [rate, ready, player]);
 
   function toggle() {
     if (!ready) return;
@@ -158,16 +239,19 @@ export function LecturePlayer({
   const hasBook = Boolean(session.hasBook);
   const hasSummary = Boolean(session.hasSummary ?? session.summary);
 
+  const fullRemoteUrl = preferRaw
+    ? `${dataRoot}.raw.txt`
+    : `${dataRoot}.corrected.md`;
+  const bookRemoteUrl = `${dataRoot}.book.md`;
+  const summaryRemoteUrl = `${dataRoot}.summary.md`;
+
   const downloadItems = useMemo(() => {
     const items: DownloadItem[] = [];
-    const fullUrl = preferRaw
-      ? `${dataRoot}.raw.txt`
-      : `${dataRoot}.corrected.md`;
     if (hasFullText) {
       items.push({
         key: "full-txt",
         label: preferRaw ? "متن خام ASR (TXT)" : "متن کامل (TXT)",
-        url: fullUrl,
+        url: fullRemoteUrl,
         filename: preferRaw
           ? `${session.id}-متن-خام-asr.txt`
           : `${session.id}-متن-کامل.txt`,
@@ -176,41 +260,39 @@ export function LecturePlayer({
       items.push({
         key: "full-pdf",
         label: "متن کامل (PDF)",
-        url: fullUrl,
+        url: fullRemoteUrl,
         filename: `${session.id}-متن-کامل.pdf`,
         format: "pdf",
       });
     }
     if (hasBook) {
-      const bookUrl = `${dataRoot}.book.md`;
       items.push({
         key: "book-txt",
         label: "نسخه کتابی (TXT)",
-        url: bookUrl,
+        url: bookRemoteUrl,
         filename: `${session.id}-نسخه-کتابی.txt`,
         format: "txt",
       });
       items.push({
         key: "book-pdf",
         label: "نسخه کتابی (PDF)",
-        url: bookUrl,
+        url: bookRemoteUrl,
         filename: `${session.id}-نسخه-کتابی.pdf`,
         format: "pdf",
       });
     }
     if (hasSummary) {
-      const summaryUrl = `${dataRoot}.summary.md`;
       items.push({
         key: "summary-txt",
         label: "خلاصه (TXT)",
-        url: summaryUrl,
+        url: summaryRemoteUrl,
         filename: `${session.id}-خلاصه.txt`,
         format: "txt",
       });
       items.push({
         key: "summary-pdf",
         label: "خلاصه (PDF)",
-        url: summaryUrl,
+        url: summaryRemoteUrl,
         filename: `${session.id}-خلاصه.pdf`,
         format: "pdf",
       });
@@ -227,13 +309,15 @@ export function LecturePlayer({
     return items;
   }, [
     audioUrl,
-    dataRoot,
+    bookRemoteUrl,
+    fullRemoteUrl,
     hasBook,
     hasFullText,
     hasSummary,
     preferRaw,
     session.audio?.filename,
     session.id,
+    summaryRemoteUrl,
   ]);
 
   async function shareSession() {
@@ -276,8 +360,7 @@ export function LecturePlayer({
   function seekFromTrack(event: GestureResponderEvent) {
     if (!ready || !duration || trackWidth <= 0) return;
     const x = event.nativeEvent.locationX;
-    // RTL bar: fill grows from the right (same as website), so left = end.
-    const ratio = Math.max(0, Math.min(1, 1 - x / trackWidth));
+    const ratio = Math.max(0, Math.min(1, x / trackWidth));
     seekTo(ratio * duration);
   }
 
@@ -292,7 +375,7 @@ export function LecturePlayer({
         {
           options: [...downloadItems.map((i) => i.label), "انصراف"],
           cancelButtonIndex: downloadItems.length,
-          title: "دانلود",
+          title: "خروجی فایل",
         },
         (index) => {
           if (index >= downloadItems.length) return;
@@ -304,15 +387,99 @@ export function LecturePlayer({
     setDownloadOpen(true);
   }
 
+  async function runOfflineDownload() {
+    setOfflineBusy(true);
+    setOfflineProgress(0);
+    try {
+      const manifest = await downloadOfflinePack({
+        ...offlineKey,
+        site,
+        title: session.title,
+        courseTitle,
+        lecturerName,
+        session,
+        cues,
+        audioUrl,
+        fullUrl: hasFullText ? fullRemoteUrl : null,
+        bookUrl: hasBook ? bookRemoteUrl : null,
+        summaryUrl: hasSummary ? summaryRemoteUrl : null,
+        onProgress: setOfflineProgress,
+      });
+      const paths = await resolveOfflinePaths(offlineKey);
+      setOfflineManifest(manifest);
+      setOfflinePaths(paths);
+      onOfflineChange?.(paths);
+      if (paths?.audioUri) {
+        setPlaybackUrl(paths.audioUri);
+        try {
+          player.replace(paths.audioUri);
+        } catch {
+          /* ignore */
+        }
+      }
+      setNoticeDialog({
+        title: "ذخیره شد",
+        body: "این جلسه روی گوشی ذخیره شد و بدون اینترنت در برنامه قابل استفاده است.",
+      });
+    } catch {
+      setNoticeDialog({
+        title: "خطا",
+        body: "ذخیره آفلاین انجام نشد. اتصال را بررسی کنید.",
+      });
+    } finally {
+      setOfflineBusy(false);
+      setOfflineProgress(0);
+    }
+  }
+
+  function confirmOfflineDownload() {
+    if (!audioUrl || offlineBusy) return;
+    const sizeLabel = formatBytesFa(estimateOfflineBytes(session));
+    setConfirmDialog({
+      title: "ذخیره برای آفلاین",
+      body: `این جلسه برای استفاده آفلاین روی گوشی ذخیره می‌شود (حدود ${sizeLabel}). در صورت نیاز بعداً می‌توانید آن را از داخل برنامه حذف کنید.`,
+      confirmLabel: "ذخیره",
+      onConfirm: () => void runOfflineDownload(),
+    });
+  }
+
+  function confirmDeleteOffline() {
+    setConfirmDialog({
+      title: "حذف نسخه آفلاین",
+      body: "فایل‌های ذخیره‌شده این جلسه از حافظه گوشی پاک می‌شوند.",
+      confirmLabel: "حذف",
+      destructive: true,
+      onConfirm: () => void runDeleteOffline(),
+    });
+  }
+
+  async function runDeleteOffline() {
+    setOfflineBusy(true);
+    try {
+      await deleteOfflinePack(offlineKey);
+      setOfflineManifest(null);
+      setOfflinePaths(null);
+      onOfflineChange?.(null);
+      setPlaybackUrl(audioUrl);
+      try {
+        player.replace(audioUrl);
+      } catch {
+        /* ignore */
+      }
+    } catch {
+      Alert.alert("خطا", "حذف دانلود انجام نشد.");
+    } finally {
+      setOfflineBusy(false);
+    }
+  }
+
   const docUrl =
     docKind === "full"
-      ? preferRaw
-        ? `${dataRoot}.raw.txt`
-        : `${dataRoot}.corrected.md`
+      ? offlinePaths?.fullUri || fullRemoteUrl
       : docKind === "book"
-        ? `${dataRoot}.book.md`
+        ? offlinePaths?.bookUri || bookRemoteUrl
         : docKind === "summary"
-          ? `${dataRoot}.summary.md`
+          ? offlinePaths?.summaryUri || summaryRemoteUrl
           : null;
 
   const docTitle =
@@ -323,6 +490,14 @@ export function LecturePlayer({
         : docKind === "summary"
           ? "خلاصه"
           : "";
+
+  const offlineLabel = offlineBusy
+    ? offlineProgress > 0
+      ? `${toPersianDigits(Math.round(offlineProgress * 100))}٪`
+      : "…"
+    : offlineManifest
+      ? "آفلاین"
+      : "آفلاین";
 
   return (
     <View style={styles.root}>
@@ -378,103 +553,97 @@ export function LecturePlayer({
       <View
         style={[
           styles.panel,
-          { paddingBottom: actionsBottomPad, maxWidth: panelMax },
+          { maxWidth: panelMax, paddingBottom: actionsBottomPad },
         ]}
       >
+        {/* Transport */}
+        <View style={styles.transport}>
+          <Pressable
+            onPress={() => seekBy(-15)}
+            style={styles.seekBtn}
+            accessibilityLabel="۱۵ ثانیه عقب"
+            hitSlop={8}
+          >
+            <Ionicons name="play-back" size={22} color={colors.inkSoft} />
+            <AppText variant="meta" tone="mist">
+              {toPersianDigits(15)}
+            </AppText>
+          </Pressable>
+
+          <Pressable
+            onPress={toggle}
+            style={styles.playBtn}
+            accessibilityLabel={playing ? "توقف" : "پخش"}
+          >
+            {!ready ? (
+              <ActivityIndicator color={colors.parchment} />
+            ) : (
+              <Ionicons
+                name={playing ? "pause" : "play"}
+                size={28}
+                color={colors.parchment}
+                style={!playing ? { marginLeft: 3 } : undefined}
+              />
+            )}
+          </Pressable>
+
+          <Pressable
+            onPress={() => seekBy(15)}
+            style={styles.seekBtn}
+            accessibilityLabel="۱۵ ثانیه جلو"
+            hitSlop={8}
+          >
+            <Ionicons name="play-forward" size={22} color={colors.inkSoft} />
+            <AppText variant="meta" tone="mist">
+              {toPersianDigits(15)}
+            </AppText>
+          </Pressable>
+        </View>
+
+        {/* Scrubber */}
         <Pressable
           onLayout={onTrackLayout}
           onPress={seekFromTrack}
           style={styles.trackHit}
-          accessibilityLabel="جابجایی"
+          accessibilityLabel="نوار پیشرفت"
         >
           <View style={styles.track}>
             <View
               style={[
-                styles.fill,
+                styles.trackFill,
                 {
-                  width: `${duration > 0 ? Math.min(100, (position / duration) * 100) : 0}%`,
+                  width:
+                    duration > 0
+                      ? `${Math.min(100, (position / duration) * 100)}%`
+                      : "0%",
                 },
               ]}
             />
           </View>
         </Pressable>
+
         <View style={styles.times}>
-          <AppText variant="caption" tone="mist">
-            {formatClock(duration)}
-          </AppText>
-          <AppText variant="caption" tone="mist">
+          <AppText variant="meta" tone="mist">
             {formatClock(position)}
+          </AppText>
+          <AppText variant="meta" tone="mist">
+            {formatClock(duration)}
           </AppText>
         </View>
 
-        {/* Classic transport — not a grid cell */}
-        <View style={styles.transportRow}>
+        {/* Meta row */}
+        <View style={styles.metaRow}>
           <Pressable
-            onPress={() =>
-              session.hasTranscript && setSubtitlesOn((v) => !v)
-            }
-            disabled={!session.hasTranscript}
-            style={[
-              styles.metaChip,
-              subtitlesOn && session.hasTranscript && styles.metaChipOn,
-              !session.hasTranscript && { opacity: 0.35 },
-            ]}
+            onPress={() => setSubtitlesOn((v) => !v)}
+            style={[styles.metaChip, subtitlesOn && styles.metaChipOn]}
             accessibilityLabel="زیرنویس"
           >
-            <AppText
-              variant="meta"
-              tone={subtitlesOn ? "ink" : "mist"}
-              style={{ fontFamily: type.medium }}
-            >
-              CC
-            </AppText>
+            <Ionicons
+              name={subtitlesOn ? "text" : "text-outline"}
+              size={16}
+              color={subtitlesOn ? colors.ink : colors.mist}
+            />
           </Pressable>
-
-          <View style={styles.transport}>
-            {/* RTL timeline: left = toward end, right = toward start (same as website). */}
-            <Pressable
-              onPress={() => seekBy(15)}
-              style={styles.sideBtn}
-              accessibilityLabel="پانزده ثانیه جلو"
-            >
-              <Ionicons name="play-back-outline" size={26} color={colors.ink} />
-            </Pressable>
-            <Pressable
-              onPress={toggle}
-              disabled={!ready}
-              style={({ pressed }) => [
-                styles.play,
-                compact && styles.playCompact,
-                pressed && { opacity: 0.85 },
-                !ready && { opacity: 0.5 },
-              ]}
-              accessibilityRole="button"
-              accessibilityLabel={playing ? "توقف" : "پخش"}
-            >
-              {!ready ? (
-                <ActivityIndicator color={colors.parchment} />
-              ) : (
-                <Ionicons
-                  name={playing ? "pause" : "play"}
-                  size={compact ? 24 : 28}
-                  color={colors.parchment}
-                  style={!playing ? { marginLeft: 3 } : undefined}
-                />
-              )}
-            </Pressable>
-            <Pressable
-              onPress={() => seekBy(-15)}
-              style={styles.sideBtn}
-              accessibilityLabel="پانزده ثانیه عقب"
-            >
-              <Ionicons
-                name="play-forward-outline"
-                size={26}
-                color={colors.ink}
-              />
-            </Pressable>
-          </View>
-
           <Pressable
             onPress={() => setSpeedOpen(true)}
             style={[styles.metaChip, rate !== 1 && styles.metaChipOn]}
@@ -500,8 +669,27 @@ export function LecturePlayer({
             onPress={() => void shareSession()}
           />
           <ActionChip
-            icon="download-outline"
-            label={busyDownload ? "…" : "دانلود"}
+            icon={offlineManifest ? "phone-portrait-outline" : "cloud-offline-outline"}
+            label={
+              offlineBusy
+                ? offlineLabel
+                : offlineManifest
+                  ? "حذف"
+                  : "آفلاین"
+            }
+            active={Boolean(offlineManifest)}
+            onPress={
+              offlineBusy
+                ? undefined
+                : offlineManifest
+                  ? confirmDeleteOffline
+                  : confirmOfflineDownload
+            }
+            disabled={!audioUrl || offlineBusy}
+          />
+          <ActionChip
+            icon="folder-outline"
+            label={busyDownload ? "…" : "خروجی"}
             onPress={openDownloadMenu}
             disabled={!downloadItems.length || busyDownload}
           />
@@ -527,6 +715,18 @@ export function LecturePlayer({
             />
           ) : null}
         </View>
+        {offlineManifest ? (
+          <Pressable
+            onPress={confirmDeleteOffline}
+            disabled={offlineBusy}
+            hitSlop={8}
+            style={styles.offlineHint}
+          >
+            <AppText variant="meta" tone="mist" style={styles.offlineHintText}>
+              {`ذخیره آفلاین (${formatBytesFa(offlineManifest.bytes)}) · حذف دانلود`}
+            </AppText>
+          </Pressable>
+        ) : null}
       </View>
 
       <Modal
@@ -568,7 +768,7 @@ export function LecturePlayer({
         >
           <View style={styles.sheet}>
             <AppText variant="meta" tone="mist" style={styles.sheetTitle}>
-              دانلود
+              خروجی فایل
             </AppText>
             {downloadItems.map((item) => (
               <Pressable
@@ -576,10 +776,101 @@ export function LecturePlayer({
                 style={styles.sheetRow}
                 onPress={() => void downloadFile(item)}
               >
-                <AppText variant="body">{item.label}</AppText>
+                <AppText variant="body" style={styles.sheetRowText}>
+                  {item.label}
+                </AppText>
               </Pressable>
             ))}
           </View>
+        </Pressable>
+      </Modal>
+
+      <Modal
+        visible={confirmDialog !== null}
+        transparent
+        animationType="fade"
+        onRequestClose={() => setConfirmDialog(null)}
+      >
+        <Pressable
+          style={styles.dialogBackdrop}
+          onPress={() => setConfirmDialog(null)}
+        >
+          <Pressable style={styles.dialogCard} onPress={(e) => e.stopPropagation()}>
+            <AppText variant="title" style={styles.dialogTitle}>
+              {confirmDialog?.title}
+            </AppText>
+            <AppText variant="body" tone="soft" style={styles.dialogBody}>
+              {confirmDialog?.body}
+            </AppText>
+            <View style={styles.dialogActions}>
+              <Pressable
+                style={styles.dialogBtn}
+                onPress={() => setConfirmDialog(null)}
+                hitSlop={8}
+              >
+                <AppText variant="body" tone="mist">
+                  انصراف
+                </AppText>
+              </Pressable>
+              <Pressable
+                style={[
+                  styles.dialogBtn,
+                  styles.dialogBtnPrimary,
+                  confirmDialog?.destructive && styles.dialogBtnDanger,
+                ]}
+                onPress={() => {
+                  const action = confirmDialog?.onConfirm;
+                  setConfirmDialog(null);
+                  action?.();
+                }}
+                hitSlop={8}
+              >
+                <AppText
+                  variant="body"
+                  tone={confirmDialog?.destructive ? undefined : "ink"}
+                  style={
+                    confirmDialog?.destructive
+                      ? styles.dialogDangerText
+                      : undefined
+                  }
+                >
+                  {confirmDialog?.confirmLabel}
+                </AppText>
+              </Pressable>
+            </View>
+          </Pressable>
+        </Pressable>
+      </Modal>
+
+      <Modal
+        visible={noticeDialog !== null}
+        transparent
+        animationType="fade"
+        onRequestClose={() => setNoticeDialog(null)}
+      >
+        <Pressable
+          style={styles.dialogBackdrop}
+          onPress={() => setNoticeDialog(null)}
+        >
+          <Pressable style={styles.dialogCard} onPress={(e) => e.stopPropagation()}>
+            <AppText variant="title" style={styles.dialogTitle}>
+              {noticeDialog?.title}
+            </AppText>
+            <AppText variant="body" tone="soft" style={styles.dialogBody}>
+              {noticeDialog?.body}
+            </AppText>
+            <View style={styles.dialogActions}>
+              <Pressable
+                style={[styles.dialogBtn, styles.dialogBtnPrimary]}
+                onPress={() => setNoticeDialog(null)}
+                hitSlop={8}
+              >
+                <AppText variant="body" tone="ink">
+                  باشه
+                </AppText>
+              </Pressable>
+            </View>
+          </Pressable>
         </Pressable>
       </Modal>
 
@@ -607,6 +898,8 @@ function ActionChip({
   active?: boolean;
   disabled?: boolean;
 }) {
+  const colors = useColors();
+  const styles = useMemo(() => makeStyles(colors), [colors]);
   return (
     <Pressable
       onPress={onPress}
@@ -634,7 +927,8 @@ function ActionChip({
   );
 }
 
-const styles = StyleSheet.create({
+function makeStyles(colors: ThemeColors) {
+  return StyleSheet.create({
   root: { flex: 1 },
   stageWrap: {
     flex: 1,
@@ -678,112 +972,164 @@ const styles = StyleSheet.create({
     width: "100%",
     alignSelf: "center",
     paddingHorizontal: space.md,
-    paddingTop: space.md,
-    gap: space.md,
-  },
-  trackHit: {
-    width: "100%",
-    height: 28,
-    justifyContent: "center",
-  },
-  track: {
-    height: 3,
-    backgroundColor: colors.parchmentDeep,
-    borderRadius: radii.pill,
-    overflow: "hidden",
-    flexDirection: "row-reverse",
-  },
-  fill: {
-    height: "100%",
-    backgroundColor: colors.ink,
-    borderRadius: radii.pill,
-    alignSelf: "stretch",
-  },
-  times: {
-    flexDirection: "row",
-    justifyContent: "space-between",
-    marginTop: -10,
-  },
-  transportRow: {
-    flexDirection: "row",
-    alignItems: "center",
-    justifyContent: "space-between",
-    paddingHorizontal: space.xs,
+    paddingTop: space.sm,
+    gap: space.sm,
   },
   transport: {
     flexDirection: "row",
     alignItems: "center",
-    gap: space.lg,
-  },
-  metaChip: {
-    minWidth: 52,
-    minHeight: 40,
-    paddingHorizontal: 12,
-    borderRadius: radii.pill,
-    backgroundColor: colors.parchmentDeep,
-    alignItems: "center",
     justifyContent: "center",
+    gap: space.xl,
   },
-  metaChipOn: {
-    backgroundColor: "rgba(26, 36, 32, 0.1)",
-  },
-  sideBtn: {
-    width: 48,
-    height: 48,
-    alignItems: "center",
-    justifyContent: "center",
-  },
-  play: {
+  seekBtn: { alignItems: "center", gap: 2, minWidth: 44 },
+  playBtn: {
     width: 64,
     height: 64,
-    borderRadius: radii.pill,
+    borderRadius: 32,
     backgroundColor: colors.ink,
     alignItems: "center",
     justifyContent: "center",
   },
-  playCompact: {
-    width: 56,
-    height: 56,
+  trackHit: { paddingVertical: 8 },
+  track: {
+    height: 4,
+    borderRadius: 2,
+    backgroundColor: colors.line,
+    overflow: "hidden",
+  },
+  trackFill: {
+    height: "100%",
+    backgroundColor: colors.copper,
+    borderRadius: 2,
+  },
+  times: {
+    flexDirection: "row",
+    justifyContent: "space-between",
+    marginTop: -4,
+  },
+  metaRow: {
+    flexDirection: "row",
+    justifyContent: "center",
+    gap: space.sm,
+  },
+  metaChip: {
+    minHeight: 36,
+    minWidth: 44,
+    paddingHorizontal: 12,
+    borderRadius: radii.pill,
+    borderWidth: StyleSheet.hairlineWidth,
+    borderColor: colors.line,
+    alignItems: "center",
+    justifyContent: "center",
+  },
+  metaChipOn: {
+    backgroundColor: colors.copperWash,
+    borderColor: colors.copperSoft,
   },
   actions: {
     flexDirection: "row",
     flexWrap: "wrap",
     justifyContent: "center",
     gap: 8,
-    paddingTop: space.xs,
   },
   chip: {
     flexDirection: "row",
     alignItems: "center",
     gap: 6,
-    paddingHorizontal: 14,
-    paddingVertical: 10,
+    paddingHorizontal: 12,
+    paddingVertical: 8,
     borderRadius: radii.pill,
+    borderWidth: StyleSheet.hairlineWidth,
+    borderColor: colors.line,
     backgroundColor: colors.parchmentDeep,
-    minHeight: 40,
   },
   chipOn: {
-    backgroundColor: "rgba(26, 36, 32, 0.1)",
+    backgroundColor: colors.copperWash,
+    borderColor: colors.copperSoft,
+  },
+  offlineHint: {
+    alignItems: "center",
+    paddingTop: 2,
+  },
+  offlineHintText: {
+    textAlign: "center",
+    writingDirection: "rtl",
   },
   sheetBackdrop: {
     flex: 1,
-    backgroundColor: "rgba(26,36,32,0.35)",
+    backgroundColor: "rgba(0,0,0,0.35)",
     justifyContent: "flex-end",
   },
   sheet: {
-    backgroundColor: colors.card,
+    backgroundColor: colors.parchment,
     borderTopLeftRadius: radii.lg,
     borderTopRightRadius: radii.lg,
-    padding: space.md,
-    paddingBottom: space.xl,
+    padding: space.lg,
+    paddingBottom: space.xxl,
+    gap: 4,
   },
-  sheetTitle: { textAlign: "center", marginBottom: space.sm },
+  sheetTitle: {
+    textAlign: "center",
+    marginBottom: space.sm,
+    writingDirection: "rtl",
+  },
   sheetRow: {
     paddingVertical: 14,
     paddingHorizontal: space.md,
-    borderRadius: radii.sm,
+    borderRadius: radii.md,
+  },
+  sheetRowText: {
+    textAlign: "right",
+    writingDirection: "rtl",
   },
   sheetRowOn: {
-    backgroundColor: "rgba(26, 36, 32, 0.08)",
+    backgroundColor: colors.copperWash,
   },
-});
+  dialogBackdrop: {
+    flex: 1,
+    backgroundColor: "rgba(0,0,0,0.4)",
+    justifyContent: "center",
+    paddingHorizontal: space.lg,
+  },
+  dialogCard: {
+    backgroundColor: colors.parchment,
+    borderRadius: radii.lg,
+    padding: space.lg,
+    gap: space.md,
+  },
+  dialogTitle: {
+    textAlign: "right",
+    writingDirection: "rtl",
+  },
+  dialogBody: {
+    textAlign: "right",
+    writingDirection: "rtl",
+    lineHeight: 26,
+  },
+  dialogActions: {
+    flexDirection: "row-reverse",
+    justifyContent: "flex-start",
+    gap: space.sm,
+    marginTop: space.xs,
+  },
+  dialogBtn: {
+    minHeight: 44,
+    minWidth: 72,
+    paddingHorizontal: space.md,
+    alignItems: "center",
+    justifyContent: "center",
+    borderRadius: radii.md,
+  },
+  dialogBtnPrimary: {
+    backgroundColor: colors.copperWash,
+  },
+  dialogBtnDanger: {
+    backgroundColor: "rgba(139, 58, 58, 0.12)",
+  },
+  dialogDangerText: {
+    color: colors.danger,
+    textAlign: "right",
+    writingDirection: "rtl",
+  },
+  });
+}

@@ -4,11 +4,13 @@ import { useLocalSearchParams, useNavigation, useRouter } from "expo-router";
 import { Screen } from "@/components/Screen";
 import { AppText } from "@/components/AppText";
 import { CourseRow } from "@/components/Rows";
-import { colors, radii, space } from "@/constants/theme";
+import { radii, space } from "@/constants/theme";
+import { useColors } from "@/lib/useTheme";
 import { useLibraryStore } from "@/lib/store";
 import { resolveAssetUrl } from "@/lib/format";
 
 export default function LecturerScreen() {
+  const colors = useColors();
   const { slug } = useLocalSearchParams<{ slug: string }>();
   const lecturer = useLibraryStore((s) => s.findLecturer(slug));
   const navigation = useNavigation();
@@ -45,7 +47,13 @@ export default function LecturerScreen() {
             {avatar ? (
               <Image source={{ uri: avatar }} style={styles.avatar} />
             ) : isBayat ? (
-              <View style={[styles.avatar, styles.avatarFallback]}>
+              <View
+                style={[
+                  styles.avatar,
+                  styles.avatarFallback,
+                  { backgroundColor: colors.parchmentDeep },
+                ]}
+              >
                 <AppText variant="title" tone="mist">
                   بیات
                 </AppText>
@@ -84,7 +92,7 @@ export default function LecturerScreen() {
 
 const styles = StyleSheet.create({
   content: {
-    paddingHorizontal: space.md,
+    paddingHorizontal: space.xxl,
     paddingBottom: space.xxl,
   },
   missing: { padding: space.lg },
@@ -100,7 +108,7 @@ const styles = StyleSheet.create({
     marginBottom: space.md,
   },
   avatarFallback: {
-    backgroundColor: colors.parchmentDeep,
+    
     alignItems: "center",
     justifyContent: "center",
   },

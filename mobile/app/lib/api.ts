@@ -17,8 +17,8 @@ function mapLecturers(index: SiteIndex, site: SiteKey): Lecturer[] {
   const cfg = SITES[site];
   return (index.lecturers || []).map((l) => ({
     ...l,
-    // Match Shojaee’s specialty line for Bayat in the mobile library.
-    title: l.slug === "bayat" ? "استاد اخلاق و عرفان" : l.title,
+    // Bayat: honorific on the name line; keep specialty without «استاد».
+    title: l.slug === "bayat" ? "اخلاق و عرفان" : l.title,
     site,
     dataBase: cfg.dataBase,
     mediaBase: cfg.mediaBase,

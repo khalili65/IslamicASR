@@ -1,5 +1,6 @@
 import { Text as RNText, type TextProps, StyleSheet } from "react-native";
-import { colors, type } from "@/constants/theme";
+import { type } from "@/constants/theme";
+import { useColors } from "@/lib/useTheme";
 
 type Props = TextProps & {
   variant?: "display" | "title" | "body" | "meta" | "caption";
@@ -12,10 +13,24 @@ export function AppText({
   style,
   ...rest
 }: Props) {
+  const colors = useColors();
+  const toneColor =
+    tone === "soft"
+      ? colors.inkSoft
+      : tone === "mist"
+        ? colors.mist
+        : tone === "copper"
+          ? colors.copper
+          : tone === "stage"
+            ? colors.stageFg
+            : tone === "stageMuted"
+              ? colors.stageMuted
+              : colors.ink;
+
   return (
     <RNText
       {...rest}
-      style={[styles.base, styles[variant], tones[tone], style]}
+      style={[styles.base, styles[variant], { color: toneColor }, style]}
     />
   );
 }
@@ -51,13 +66,4 @@ const styles = StyleSheet.create({
     fontSize: 12,
     lineHeight: 18,
   },
-});
-
-const tones = StyleSheet.create({
-  ink: { color: colors.ink },
-  soft: { color: colors.inkSoft },
-  mist: { color: colors.mist },
-  copper: { color: colors.copper },
-  stage: { color: colors.stageFg },
-  stageMuted: { color: colors.stageMuted },
 });

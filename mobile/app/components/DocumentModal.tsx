@@ -11,7 +11,8 @@ import {
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import RenderHTML from "react-native-render-html";
 import { AppText } from "./AppText";
-import { colors, space, type } from "@/constants/theme";
+import { space, type, type ThemeColors } from "@/constants/theme";
+import { useColors } from "@/lib/useTheme";
 import { markdownToHtml } from "@/lib/markdownToHtml";
 
 type Props = {
@@ -29,6 +30,8 @@ export function DocumentModal({
   inlineText,
   onClose,
 }: Props) {
+  const colors = useColors();
+  const styles = useMemo(() => makeStyles(colors), [colors]);
   const insets = useSafeAreaInsets();
   const { width } = useWindowDimensions();
   const [raw, setRaw] = useState("");
@@ -272,7 +275,8 @@ export function DocumentModal({
   );
 }
 
-const styles = StyleSheet.create({
+function makeStyles(colors: ThemeColors) {
+  return StyleSheet.create({
   root: { flex: 1, backgroundColor: colors.parchment },
   header: {
     flexDirection: "row",
@@ -291,3 +295,4 @@ const styles = StyleSheet.create({
     paddingBottom: space.xxl,
   },
 });
+}

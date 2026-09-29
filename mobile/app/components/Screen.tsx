@@ -1,9 +1,13 @@
 import { View, StyleSheet, type ViewProps } from "react-native";
-import { colors } from "@/constants/theme";
+import { useColors } from "@/lib/useTheme";
 
 export function Screen({ style, children, ...rest }: ViewProps) {
+  const colors = useColors();
   return (
-    <View style={[styles.root, style]} {...rest}>
+    <View
+      style={[styles.root, { backgroundColor: colors.parchment }, style]}
+      {...rest}
+    >
       {children}
     </View>
   );
@@ -12,6 +16,5 @@ export function Screen({ style, children, ...rest }: ViewProps) {
 const styles = StyleSheet.create({
   root: {
     flex: 1,
-    backgroundColor: colors.parchment,
   },
 });
